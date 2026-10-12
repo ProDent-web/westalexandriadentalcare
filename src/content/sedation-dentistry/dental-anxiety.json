@@ -1,0 +1,153 @@
+{
+  "slug": "/sedation-dentistry/dental-anxiety/",
+  "type": "service",
+  "title": "Nervous About the Dentist?",
+  "meta_title": "Nervous About the Dentist? Comfort-First Care | WA Dental Care",
+  "meta_description": "For people who have avoided the dentist for years: tell us when you book, a first visit can be just a conversation, what we change.",
+  "eyebrow": "Comfort and sedation",
+  "h1": "Nervous about the dentist? Start here.",
+  "intro": "If you have been putting off the dentist for a year, or ten, you are in good company and you are not being judged. Most dental fear started with a real experience, usually in a different chair a long time ago. The way to undo it is predictable visits where you stay in control, and that is something we can plan with you before you ever lie back.",
+  "icon": "heart",
+  "facts": [
+    {
+      "label": "First visit",
+      "value": "Can be just a conversation"
+    },
+    {
+      "label": "You control",
+      "value": "Pace and stop signal"
+    },
+    {
+      "label": "Available",
+      "value": "Nitrous oxide, sedation after review"
+    },
+    {
+      "label": "Lectures",
+      "value": "None"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Where the fear usually comes from",
+      "body": [
+        "A painful appointment as a child. A dentist who did not stop when asked. An injection that hurt because it was given fast. Being told off about the state of your teeth. A gag reflex that made impressions a misery. Fear of needles, of the sounds, of not being able to see what is happening, of losing control. Sometimes it is simply embarrassment about how long it has been.",
+        "All of these are reasonable responses to real events. None of them means you cannot have comfortable dental care now."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How we do it differently",
+      "items": [
+        {
+          "title": "Say so when you book",
+          "body": "Tell the office that visits are hard for you. We schedule a longer, quieter slot and the whole team knows before you arrive. You can also mention it again when you sit down; nobody minds hearing it twice."
+        },
+        {
+          "title": "A first visit that is only a conversation",
+          "body": "Meet the dentist, sit in the chair without it tipping back, talk about what worries you and what would help. Looking at the room and the people is a legitimate first appointment. The exam can wait for the second."
+        },
+        {
+          "title": "Explanation before each step",
+          "body": "You hear what is about to happen before it happens. Some people want every detail; some want the headline only. You choose."
+        },
+        {
+          "title": "A stop signal",
+          "body": "Raise your left hand and everything pauses, no questions asked. Knowing you can stop is often what makes it possible not to."
+        },
+        {
+          "title": "Numbing done slowly",
+          "body": "Numbing gel first, then the anesthetic given gradually. Speed is what makes injections hurt. We also check you are fully numb before starting, and stop to add more if you feel anything."
+        },
+        {
+          "title": "Breaks, music, a blanket",
+          "body": "Headphones with your own music, a blanket, a break every ten minutes if you want one. Small things that add up."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "When the simple things are not enough",
+      "items": [
+        {
+          "title": "Nitrous oxide",
+          "body": "Breathed through a small nasal mask, takes the edge off within minutes, and wears off before you leave. The first thing most anxious patients try, and often all they need.",
+          "href": "/sedation-dentistry/nitrous-oxide/"
+        },
+        {
+          "title": "Other sedation options",
+          "body": "Deeper relaxation may be available after a review of your health, medications and the treatment planned, with an escort to take you home.",
+          "href": "/sedation-dentistry/sedation-options/"
+        },
+        {
+          "title": "Shorter visits, more of them",
+          "body": "Treatment split into shorter appointments so nothing feels endless, booked at quiet times of day."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens to the fear over time",
+      "body": [
+        "Fear fades when the thing you feared keeps not happening. A first visit that is only a conversation, then a cleaning that stops when you ask, then a filling where the numbing did not hurt. Most of our anxious patients are noticeably calmer by the third visit, not because they have been told to relax but because nothing has given them a reason not to. Keeping check-ups regular afterward matters too, because long gaps let the fear regrow and the problems accumulate."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "About the lecture you are expecting",
+      "body": "There is not one. We have seen every state of mouth there is, and the state of yours tells us where to start, not what to think of you. A written plan sets out what needs doing now, what can wait, and what it costs, and you decide the pace.",
+      "cta": {
+        "label": "What a first visit involves",
+        "href": "/new-patients/first-visit/"
+      }
+    },
+    {
+      "type": "list",
+      "heading": "Before your first visit",
+      "style": "check",
+      "items": [
+        "Write down what specifically worries you, and what has helped or failed before.",
+        "Bring a list of medications, including anything for anxiety or sleep, so sedation can be planned safely.",
+        "Choose a quiet time: early morning, or a weekend morning, tends to be calmer.",
+        "Bring someone if that helps; a companion is welcome in the room.",
+        "Eat something light beforehand unless sedation instructions say otherwise.",
+        "Do not take alcohol or extra medication to get through it; tell us instead and we plan properly."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will you be annoyed that it has been so long?",
+      "a": "No. Long gaps are common and they usually have a reason. We start from where things are, write down a plan, and go at your pace."
+    },
+    {
+      "q": "Can I really just come in and talk?",
+      "a": "Yes. Book a consultation and say that is what you want. You meet the dentist, see the room, ask questions and leave. Nothing happens in the chair unless you ask for it."
+    },
+    {
+      "q": "What if I panic during treatment?",
+      "a": "Raise your hand and we stop. We can take a break, change the approach, add nitrous oxide, or finish another day. Nothing continues against your wishes."
+    },
+    {
+      "q": "I have a strong gag reflex. Is there anything you can do?",
+      "a": "Yes. Smaller X-ray sensors or a panoramic image instead, numbing spray for the palate, a slightly upright position, distraction, nitrous oxide, and simply going slowly all help. Tell us and we plan around it."
+    },
+    {
+      "q": "Do you see children who are afraid?",
+      "a": "Yes. The same approach works at any age: short visits, a parent in the room, nothing forced, and nitrous oxide where it helps."
+    }
+  ],
+  "related": [
+    "/sedation-dentistry/",
+    "/sedation-dentistry/nitrous-oxide/",
+    "/sedation-dentistry/sedation-options/",
+    "/new-patients/first-visit/",
+    "/new-patients/switching-dentists/",
+    "/general-dentistry/cleanings-and-exams/"
+  ],
+  "cta": {
+    "heading": "The first step is a conversation, not a procedure.",
+    "body": "Book a consultation, tell us what makes visits hard, and we plan the comfort measures together before anything else is scheduled."
+  }
+}

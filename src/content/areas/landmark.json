@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/landmark/",
+  "type": "area",
+  "title": "Landmark & Van Dorn",
+  "meta_title": "Dentist near Landmark & Van Dorn, Alexandria | WA Dental Care",
+  "meta_description": "About ten minutes from the Landmark and Van Dorn area of Alexandria's West End via Duke Street or I-395 to West Alexandria Dental Care.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Landmark and Van Dorn",
+  "intro": "The West End around Landmark and Van Dorn Street is dense with apartments and condos, Metro commuters and families who need a dentist that takes their insurance, speaks their language and is open when they are off work. We are about ten minutes away via Duke Street or I-395, in the Bradlee Office Building, with free parking and hours from 7 AM to 8 PM on weekdays plus weekend mornings.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "About ten minutes"
+    },
+    {
+      "label": "Route",
+      "value": "Duke Street or I-395"
+    },
+    {
+      "label": "Medicaid",
+      "value": "Accepted"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Arabic, Spanish, Portuguese"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from the West End",
+      "body": [
+        "Families in the apartment communities along Duke Street and Van Dorn Street, many with Virginia Medicaid for the children and a PPO plan or no insurance for the adults. Commuters who use the Van Dorn Metro station and want an evening appointment on the way home. Spanish-speaking and Arabic-speaking households who would rather discuss a treatment plan in their own language, which they can here. And a good number of people who have not had a dentist since moving to the area.",
+        "See [Virginia Medicaid](/new-patients/medicaid/), [languages we speak](/new-patients/languages/) and [no insurance?](/new-patients/no-insurance/) for the practical details."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via Duke Street",
+          "body": "East on Duke Street, then north on Quaker Lane to W. Braddock Road. The Bradlee Office Building is beside Bradlee Shopping Center."
+        },
+        {
+          "title": "Via I-395",
+          "body": "North on I-395 to the King Street exit, toward Alexandria, then W. Braddock Road."
+        },
+        {
+          "title": "Via Seminary Road",
+          "body": "From the northern part of the West End, east on Seminary Road to Quaker Lane and W. Braddock Road."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building. No garage."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What West End patients most often come in for",
+      "items": [
+        {
+          "title": "Children's dentistry with Medicaid",
+          "body": "First visits, sealants, fluoride and fillings for children covered by Virginia Medicaid.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Care without insurance",
+          "body": "Written estimates before anything starts, priorities explained, and treatment staged to fit.",
+          "href": "/new-patients/no-insurance/"
+        },
+        {
+          "title": "Emergency care",
+          "body": "Toothache, swelling or a broken tooth seen the same day, including weekend mornings.",
+          "href": "/emergency-dentistry/"
+        },
+        {
+          "title": "Dentures and tooth replacement",
+          "body": "Partials, full dentures, relines and implant options, with the choice explained in your language.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted.",
+        "Care in English, Arabic, Spanish and Portuguese. Mention your language when booking.",
+        "Paperwork completed online, on a phone, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Medicaid patients are patients",
+      "body": "Same dentists, same hours, same rooms, same written plan. There is no separate schedule or waiting list for Virginia Medicaid. Bring your card and we confirm coverage before the visit.",
+      "cta": {
+        "label": "About Virginia Medicaid",
+        "href": "/new-patients/medicaid/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you take Virginia Medicaid for adults as well as children?",
+      "a": "We accept Virginia Medicaid. Adult and child benefits differ, and coverage details change, so we check your specific coverage before the visit and tell you what applies."
+    },
+    {
+      "q": "Can I speak Spanish or Arabic at my appointment?",
+      "a": "Yes. Tell us your preferred language when you book so the right team member is scheduled. Dr. Fadi Alhrashi speaks Arabic."
+    },
+    {
+      "q": "How do I get there from the Van Dorn Metro?",
+      "a": "By car it is about ten minutes via Duke Street and Quaker Lane. Bus routes along Duke Street and Quaker Lane also pass near Bradlee Shopping Center; check the current schedule."
+    },
+    {
+      "q": "I have no insurance. What will a visit cost?",
+      "a": "We tell you before you book. An exam and X-rays have a set fee, and any treatment is quoted in writing before it starts. Ask about payment options when you call."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/lincolnia/",
+    "/new-patients/medicaid/",
+    "/new-patients/languages/",
+    "/new-patients/no-insurance/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "Ten minutes from the West End, in your language.",
+    "body": "Book online at any hour or call, and tell us which language you would like."
+  }
+}

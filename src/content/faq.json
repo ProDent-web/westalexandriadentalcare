@@ -1,0 +1,237 @@
+{
+  "slug": "/faq/",
+  "type": "faq",
+  "title": "Questions & Answers",
+  "meta_title": "Patient Questions & Answers | West Alexandria Dental Care",
+  "meta_description": "Plain answers to what new patients ask about hours, insurance and Medicaid, first visits, comfort options, children, emergencies and parking in Alexandria.",
+  "eyebrow": "Patient questions",
+  "h1": "Questions new patients ask us",
+  "intro": "Choosing a new dental office raises a lot of small questions before anyone gets to your teeth. These are the ones we hear most at West Alexandria Dental Care, answered the way we would answer them on the phone. They are grouped so you can jump to the part you care about, from hours and insurance to what to do when something hurts.",
+  "icon": "chat",
+  "groups": [
+    {
+      "heading": "Appointments and hours",
+      "items": [
+        {
+          "q": "What are your hours?",
+          "a": "We see patients Monday through Friday from 7:00 AM to 8:00 PM, and Saturday and Sunday from 8:00 AM to 1:00 PM, seven days a week. Early mornings, evenings and weekend mornings are regular appointment times here, not favors, and the same two dentists work them. The full table is on [evening and weekend appointments](/new-patients/evening-and-weekend-appointments/)."
+        },
+        {
+          "q": "Are you accepting new patients?",
+          "a": "Yes. We are a new office, opening in October 2026, and we are scheduling new patients now for check-ups, cleanings, specific problems and second opinions. You can {{book}} at any hour, or call {{phone}} during our hours and we will find a time with you."
+        },
+        {
+          "q": "Can I book online, or do I have to call?",
+          "a": "Either works. You can {{book}} 24 hours a day, seven days a week, so you can pick a time at midnight if that is when you finally sit down. Calling {{phone}} is the better route when you have a specific problem, several family members to schedule, or a question about insurance you want answered first."
+        },
+        {
+          "q": "Can I come in before work or after work?",
+          "a": "Yes, that is why the hours are what they are. Weekday appointments start at 7:00 AM and the last ones end at 8:00 PM, so you can be seen before you get on I-395 or after dinner without taking time off. Weekend mornings, 8:00 AM to 1:00 PM, are ordinary appointment times too, for cleanings and fillings as much as for emergencies."
+        },
+        {
+          "q": "What if I need to cancel or reschedule?",
+          "a": "Call {{phone}} as soon as you know and we will find you another time. The earlier we hear, the more likely that slot can go to someone waiting, sometimes someone in pain. A rescheduled visit is always better than a skipped one, so please do not disappear for a year because you missed a Tuesday."
+        },
+        {
+          "q": "Can I be seen in Arabic, Spanish or Portuguese?",
+          "a": "Yes. Care here is available in English, Arabic, Spanish and Portuguese, and Dr. Fadi Alhrashi speaks Arabic himself. Tell us your preferred language when you book so the right team member is scheduled, because describing pain and agreeing to a plan should happen in the language you think in. More on [languages we speak](/new-patients/languages/)."
+        }
+      ]
+    },
+    {
+      "heading": "Insurance and cost",
+      "items": [
+        {
+          "q": "Which dental insurance plans do you accept?",
+          "a": "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Participation and benefits vary by employer and by the specific plan, so two people with the same insurer can have quite different coverage. We check your plan before your visit and tell you what we find. Details on [insurance we accept](/new-patients/insurance/)."
+        },
+        {
+          "q": "My plan is not on your list. Can I still come?",
+          "a": "Yes. Call {{phone}} with the name of your plan and the team will check how it works with our office before you book. Some plans pay a share of care at offices outside their network, and we will explain plainly what that would mean for you rather than leaving you to discover it on a statement."
+        },
+        {
+          "q": "Do you take Virginia Medicaid?",
+          "a": "Yes, for children and adults. Virginia's Medicaid program includes dental benefits, and what is covered depends on your eligibility category, so we confirm your coverage before the visit instead of guessing; bring your Medicaid ID. Medicaid patients see the same dentists, during the same hours, in the same waiting room as everyone else. More on [Virginia Medicaid dental](/new-patients/medicaid/)."
+        },
+        {
+          "q": "I do not have insurance. What should I expect?",
+          "a": "A written estimate before anything starts, and an honest sorting of what needs attention now, what can wait and what can simply be watched, so you can stage treatment if you need to. If something hurts, a problem-focused exam of that one tooth is a sensible first step. Ask about payment options when you call. More on [visiting without insurance](/new-patients/no-insurance/)."
+        },
+        {
+          "q": "Will I know what I owe before treatment begins?",
+          "a": "Yes, in writing. After the exam we go through the plan with you, check your benefits, and give you an estimate of your share before you commit to anything. If the picture changes during treatment, for example a cavity that turns out deeper than the X-ray suggested, we stop and talk with you before going further. No surprise bills is a rule here, not a slogan."
+        },
+        {
+          "q": "Why would I owe anything if my plan covers the procedure?",
+          "a": "Because covered usually means the plan pays a percentage, not the whole fee. Many plans pay most of the cost of preventive care, a smaller share of fillings, and less again for crowns and other major work, and they stop paying once you reach your annual maximum. Deductibles, waiting periods and frequency limits apply too. We walk through all of it in [understanding dental insurance](/new-patients/understanding-dental-insurance/), and we file your claims for you."
+        }
+      ]
+    },
+    {
+      "heading": "Your first visit",
+      "items": [
+        {
+          "q": "What happens at a first visit, and how long does it take?",
+          "a": "It begins with a conversation about what brought you in and your health history. Then a full exam: every tooth, gum measurements, your bite, any existing dental work and an oral cancer screening, with X-rays only when there is a reason for them. You leave with a written plan and a clear sense of what is urgent and what is not. Allow about an hour to ninety minutes, longer if a cleaning happens the same day, and see [your first visit](/new-patients/first-visit/) for the step-by-step version."
+        },
+        {
+          "q": "What should I bring, and can I do the paperwork ahead of time?",
+          "a": "Bring a photo ID, your insurance or Medicaid card, a list of the medications you take, and any recent X-rays from a previous dentist. The paperwork can be done before you arrive through Denticon, our secure online registration system; the {{forms}} works on a phone and lets you upload a photo of your insurance card. Paper forms are at the office if you prefer. More on [patient forms](/new-patients/patient-forms/)."
+        },
+        {
+          "q": "Will I get a cleaning at my first visit?",
+          "a": "Often, yes. When the gums are healthy, a cleaning can usually be done right after the exam, so mention that you would like one when you book and we will set aside the time. If the exam finds gum disease, a routine cleaning would not reach the problem, and we will plan a [deep cleaning](/restorative-dentistry/deep-cleaning/) instead and explain what that involves."
+        },
+        {
+          "q": "It has been years since I saw a dentist. Will I get a lecture?",
+          "a": "No. You are here now, and that is the part that matters. We look at where things stand today, tell you honestly what we find, and sort it into what needs doing soon and what can wait. People put off dental care for all kinds of reasons, and none of them change how you are treated here, whether you are new to the area or coming from another office; see [switching dentists](/new-patients/switching-dentists/)."
+        },
+        {
+          "q": "Can you get my records and X-rays from my previous dentist?",
+          "a": "Yes. Your records belong to you, and any dental office should release copies when you ask. Tell us the name of your previous practice and we will help you request them, or bring them along. Recent X-rays can sometimes spare you from having new ones taken."
+        },
+        {
+          "q": "Which dentist will I see?",
+          "a": "One of our two general dentists, [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) or [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/). You are welcome to ask for either by name when you book, and we try to keep you with the same dentist from visit to visit so you are not starting over each time. Both see patients of every age for the full range of care here."
+        }
+      ]
+    },
+    {
+      "heading": "Comfort and anxiety",
+      "items": [
+        {
+          "q": "I am nervous about the dentist. What can you do about it?",
+          "a": "Tell us when you book and we plan the visit differently. That can mean a longer appointment, an explanation before each step, an agreed stop signal such as a raised hand, breaks whenever you want them, and nitrous oxide if you would like it. The first visit can be just a conversation and a look, with nothing else done that day, and there is no judgment about how long it has been or why. More on [dental anxiety](/sedation-dentistry/dental-anxiety/)."
+        },
+        {
+          "q": "Do you offer sedation?",
+          "a": "Yes. Nitrous oxide is available for adults and children, and deeper sedation options may be available after an individual review of your health, your medications, your anxiety level and the treatment planned. We do not promise a particular kind of sedation before that review, because the safe choice depends on you, and some situations are better handled in a different setting. See [sedation options](/sedation-dentistry/sedation-options/)."
+        },
+        {
+          "q": "What does nitrous oxide feel like, and can I drive afterward?",
+          "a": "You breathe it through a small mask over your nose, mixed with oxygen. Within a few minutes most people feel relaxed, a little floaty and much less bothered by what is happening, while staying awake and able to talk with us. It wears off within minutes once the mask comes off, so you can drive yourself home. Details on [nitrous oxide](/sedation-dentistry/nitrous-oxide/)."
+        },
+        {
+          "q": "Will the numbing shot hurt?",
+          "a": "Usually far less than people expect. We numb the gum surface first, go slowly, and tell you before anything happens, and most people feel pressure more than pain. If you have had trouble getting numb before, or a bad experience with injections, say so when you book, because it changes how we plan the visit."
+        },
+        {
+          "q": "I have a strong gag reflex. Will that be a problem?",
+          "a": "It is common, and we work around it. Telling us ahead lets us pace the visit, adjust how you are positioned, and keep instruments out of the back of your mouth where we can. Nitrous oxide often helps as well, since it quiets the reflex for many people."
+        }
+      ]
+    },
+    {
+      "heading": "Children and families",
+      "items": [
+        {
+          "q": "At what age should my child first see a dentist?",
+          "a": "By the first birthday, or within six months of the first tooth coming in, whichever is sooner. That is the standard guidance from pediatric dental groups, and the visit is less about fixing anything than about getting your child comfortable in the chair and catching habits early. See [children's dentistry](/general-dentistry/childrens-dentistry/)."
+        },
+        {
+          "q": "What is a child's visit like here?",
+          "a": "Short, calm and paced to the child. For a toddler it may be a ride in the chair, counting teeth, a look at the gums and a talk with you about brushing, fluoride, snacks and thumb or pacifier habits. Nothing is forced. A visit that ends early on good terms is a success, because the next one will go better."
+        },
+        {
+          "q": "Do you offer sealants and fluoride?",
+          "a": "Yes, both. [Sealants](/general-dentistry/dental-sealants/) coat the grooves of the back teeth where childhood cavities most often start, and [fluoride varnish](/general-dentistry/fluoride-treatment/) hardens enamel. We recommend them based on your child's cavity risk rather than on a fixed schedule, and we explain why either way."
+        },
+        {
+          "q": "Can my whole family be seen on the same day?",
+          "a": "Yes. Call {{phone}} and we will arrange back-to-back appointments so one trip covers everyone, on a weekend morning or an evening if that is what fits school and work. One dental home for toddlers, teens, parents and grandparents also means one set of records and one team that knows your family. More on [family dentistry](/general-dentistry/family-dentistry/)."
+        },
+        {
+          "q": "Do you care for older adults and people with dentures?",
+          "a": "Yes. We see seniors for everything from routine cleanings to [dentures](/restorative-dentistry/dentures/), relines, implants and the dry mouth that comes with many medications. Our hours and the free parking around the building make visits simpler for older patients and for the family members who drive them. More on [dental care for seniors](/general-dentistry/dental-care-for-seniors/)."
+        }
+      ]
+    },
+    {
+      "heading": "Treatment questions",
+      "items": [
+        {
+          "q": "How often do I really need a cleaning?",
+          "a": "Every six months is a starting point, not a rule. Some people with healthy gums and a low cavity risk do fine at longer intervals, and people with gum disease often need to come every three or four months to keep it in check. We set your interval with you based on what the exam shows, and we change it if things change. More on [cleanings and exams](/general-dentistry/cleanings-and-exams/)."
+        },
+        {
+          "q": "Do I need X-rays every visit?",
+          "a": "No. We take [digital X-rays](/general-dentistry/digital-x-rays/) when there is a reason, such as a new patient exam, a tooth that hurts or a check for decay between teeth, not on a fixed calendar. Digital X-rays use far less radiation than old film, and the images come up on a screen where you can see them too. If you have recent X-rays from another office, bring them and we may not need new ones."
+        },
+        {
+          "q": "Do you place dental implants here?",
+          "a": "Yes, from planning through the final crown. [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/) completed a Dental Implant Fellowship at Tufts University School of Dental Medicine and is a Diplomate of the American Board of Oral Implantology/Implant Dentistry, and we plan implants with 3D imaging so we know the bone before anything is placed. If a case would be safer in another setting, we tell you so and refer you. Start with [dental implants](/dental-implants/)."
+        },
+        {
+          "q": "Do you offer Invisalign?",
+          "a": "Yes, clear aligners including Invisalign, for adults and teens, along with the retainers you will need afterward. Aligners handle crowding, spacing and many bite problems well; more complex cases may do better with braces or an orthodontist, and we will tell you which group you are in rather than fitting you into ours. See [how clear aligners work](/clear-aligners/how-it-works/)."
+        },
+        {
+          "q": "Do you do root canals and extractions, or refer them out?",
+          "a": "Most are done here, including [root canal therapy](/restorative-dentistry/root-canal-therapy/) and [wisdom teeth removal](/restorative-dentistry/wisdom-teeth-removal/). When a tooth has unusual anatomy, a wisdom tooth sits close to a nerve, or your health history calls for a hospital setting, we refer you to an endodontist or oral surgeon and explain why. The decision is about what is safest for you, not about keeping the work in the building."
+        },
+        {
+          "q": "Will you push treatment I do not need?",
+          "a": "No. We prevent what can be prevented and preserve what can be preserved, which usually means the simpler option when it will work. You hear what needs attention now, what can be watched, and where doing nothing for now is reasonable, and then you decide. Second opinions on a plan from another office are welcome, so bring the plan and any X-rays, and read more on [our approach](/about/our-approach/)."
+        }
+      ]
+    },
+    {
+      "heading": "Emergencies",
+      "items": [
+        {
+          "q": "I have a dental emergency. What should I do?",
+          "a": "Call {{phone}} first. During our hours, 7:00 AM to 8:00 PM on weekdays and 8:00 AM to 1:00 PM on weekends, we see urgent problems the same day, and calling ahead lets us be ready for you. Tell us what happened and whether there is swelling, bleeding or a tooth out of its socket, and we will tell you what to do on the way in. Start with [emergency dental care](/emergency-dentistry/)."
+        },
+        {
+          "q": "Do you see emergency patients who have never been here before?",
+          "a": "Yes. You do not need to be an existing patient to be seen for a toothache, a broken tooth, a lost crown or swelling. If you can, complete the {{forms}} on your phone before you arrive so we can get straight to the problem; if you cannot, we sort the paperwork out at the desk."
+        },
+        {
+          "q": "What counts as a dental emergency?",
+          "a": "Pain that keeps you from sleeping or eating, a knocked-out or badly loosened tooth, a broken tooth with a sharp edge or exposed nerve, swelling in the gum or face, bleeding that will not stop, or a lost filling or crown with a sensitive tooth underneath. A chipped tooth that does not hurt can usually wait a day or two, but call anyway and we will tell you. More in [what counts as a dental emergency](/blog/what-counts-as-a-dental-emergency/)."
+        },
+        {
+          "q": "What if it happens when you are closed?",
+          "a": "Our hours already cover early mornings, evenings until 8:00 PM and weekend mornings, so the gap is overnight. Request the first available time online, which you can do at any hour, and call {{phone}} as soon as we open. In the meantime, an over-the-counter pain reliever that is safe for you, a cold compress for swelling, and keeping a lost crown somewhere safe will carry most people through to morning. Details on [dental emergencies after hours](/emergency-dentistry/after-hours/)."
+        },
+        {
+          "q": "When should I go to the emergency room instead of calling you?",
+          "a": " If you have had an injury to the face, get medical care first and call us for the dental follow-up. Those are medical emergencies first and dental problems second. Once you are stable, call us and we will take care of the tooth."
+        }
+      ]
+    },
+    {
+      "heading": "Location and parking",
+      "items": [
+        {
+          "q": "Where is the office?",
+          "a": "In the Bradlee Office Building at 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302. We are steps from Bradlee Shopping Center and just off I-395 at the King Street exit. A map and directions are on the [contact page](/contact/)."
+        },
+        {
+          "q": "Is there parking?",
+          "a": "Yes. There is free surface parking around the building, so parking is not something you need to plan around or pay for. Pull in, park, and walk in. If you are dropping off an older relative or a child, there is no garage to navigate."
+        },
+        {
+          "q": "How do I get there from I-395?",
+          "a": "Take the King Street exit toward Bradlee Shopping Center. The office is just off that exit on W. Braddock Road, beside the shopping center, which makes it a short drive from Seminary Hill, Fairlington, Shirlington and Parkfairfax, usually a matter of minutes depending on traffic. If you get turned around, call {{phone}} and we will talk you in."
+        },
+        {
+          "q": "Which neighborhoods do you serve?",
+          "a": "Anyone who can get to us is welcome. The office is within easy reach of West Alexandria, Seminary Hill, Fairlington, Shirlington, Parkfairfax, Del Ray, Landmark and Van Dorn, Lincolnia, Bailey's Crossroads and South Arlington. Guides to getting here from each neighborhood are under [areas we serve](/areas/)."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/new-patients/",
+    "/new-patients/first-visit/",
+    "/new-patients/insurance/",
+    "/emergency-dentistry/",
+    "/contact/",
+    "/dental-dictionary/"
+  ],
+  "cta": {
+    "heading": "Did we miss your question?",
+    "body": "Call {{phone}} during our hours, seven days a week, or {{book}} and bring the question to your first visit. Either way you will get a straight answer and no pressure."
+  }
+}

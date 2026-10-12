@@ -1,0 +1,169 @@
+{
+  "slug": "/new-patients/insurance/",
+  "type": "info",
+  "title": "Insurance We Accept",
+  "meta_title": "Insurance We Accept in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "West Alexandria Dental Care accepts Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid.",
+  "eyebrow": "New patients",
+  "h1": "Dental insurance we accept in West Alexandria",
+  "intro": "Dental insurance is simpler than medical insurance in one way and harder in another: the plans are smaller, but the fine print varies more from one employer to the next. Here is which plans we accept, how we verify yours, and what you will have in writing before anything is scheduled.",
+  "icon": "card",
+  "facts": [
+    {
+      "label": "Plans accepted",
+      "value": "Seven, including Medicaid"
+    },
+    {
+      "label": "Benefits checked",
+      "value": "Before your visit"
+    },
+    {
+      "label": "Claims",
+      "value": "Filed for you"
+    },
+    {
+      "label": "Estimates",
+      "value": "In writing, before treatment"
+    }
+  ],
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "The seven plans we accept",
+      "items": [
+        {
+          "title": "Aetna",
+          "body": "Coverage through many employers and some individual plans. The Aetna network named on your card is what we confirm."
+        },
+        {
+          "title": "Ameritas",
+          "body": "Group dental coverage through employers and associations. Send the card and we confirm your remaining benefits directly."
+        },
+        {
+          "title": "Delta Dental",
+          "body": "More than one Delta network exists. The one named on your card, not the logo, decides how your benefits apply here."
+        },
+        {
+          "title": "Humana",
+          "body": "Sold alone and alongside Humana medical and Medicare plans. If yours comes with one of those, bring that card too."
+        },
+        {
+          "title": "Cigna",
+          "body": "Employer plans with more than one network option. We confirm which one yours uses and your share in each category."
+        },
+        {
+          "title": "MetLife",
+          "body": "Coverage through many employers. The plan year and the unused part of your annual maximum are what we ask about first."
+        },
+        {
+          "title": "Virginia Medicaid",
+          "body": "Dental benefits for children and adults, depending on eligibility category, and rarer than it should be at family practices in Northern Virginia. We confirm your coverage ahead of time.",
+          "href": "/new-patients/medicaid/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why the name on your card is only half the answer",
+      "body": [
+        "Two neighbors can both carry Delta Dental cards and have very different coverage. The insurer sells dozens of plan designs and the employer picks one, so the network, deductible, annual maximum and share paid for each kind of care follow that choice, not the logo.",
+        "That is why participation and benefits vary by employer and specific plan. Accepting a carrier means we work with that company. Whether your plan treats this office as in network, and what it leaves you to pay, we confirm plan by plan, in writing, before treatment.",
+        "If deductible and coinsurance are new words, [understanding dental insurance](/new-patients/understanding-dental-insurance/) explains each one in plain English."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How verification works, from your card to the chair",
+      "items": [
+        {
+          "title": "Send us the card",
+          "body": "Upload the front and back through our secure {{forms}}, which works from a phone, or bring the card and we copy it at the desk. Please do not email it; [patient forms](/new-patients/patient-forms/) explains why."
+        },
+        {
+          "title": "We confirm the details with your plan",
+          "body": "Before your appointment where we can, we check that coverage is active, how your plan treats this office, your deductible and remaining annual maximum, and any waiting periods or frequency limits that affect you."
+        },
+        {
+          "title": "You hear what we found before anything starts",
+          "body": "At the visit we tell you plainly what the plan covers, what it limits and anything we could not confirm, before treatment rather than on a statement afterward."
+        },
+        {
+          "title": "The estimate goes in writing",
+          "body": "After the exam you get a written plan showing, for each step, our fee, what we expect your plan to pay and what is likely yours. Nothing is booked until you have read it and agreed."
+        },
+        {
+          "title": "We file the claim",
+          "body": "We submit the claim with the X-rays or notes your plan asks for and follow up if it stalls. Watch for the plan's explanation of benefits and call us with any question."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Questions worth asking your plan before your first visit",
+      "intro": "The member services number on your card answers most of these in ten minutes.",
+      "style": "bullet",
+      "items": [
+        "Is West Alexandria Dental Care in network under my specific plan, not just the carrier?",
+        "What is my annual maximum, and how much of it is left this year?",
+        "Is there a deductible, and does it apply to cleanings and exams or only to other work?",
+        "What share does the plan pay for preventive, basic and major care, and are there waiting periods?",
+        "How many cleanings, exams and X-rays are covered a year, on a calendar year or a plan year?",
+        "Does the plan exclude replacing a tooth that was missing before coverage began, or limit how often a crown can be replaced?",
+        "Does the plan want a pre-treatment estimate for crowns, implants or aligners, and does it cover orthodontics for adults?"
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Your plan is not on the list",
+      "body": "Call {{phone}} with the plan name and member ID, or upload the card through the {{forms}} and note that it is not listed. We will check how it works here and tell you what we find. If your benefits would go further at another office, we say so rather than let a bill deliver the news.",
+      "cta": {
+        "label": "Call 703-560-7200",
+        "href": "tel"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "When the plan pays differently than the estimate",
+      "body": [
+        "An insurance figure on an estimate is a forecast. Plans decide at claim time, and they can apply a frequency limit, pay toward a cheaper material than the one placed, or count a deductible we could not see.",
+        "When that happens you see their explanation of benefits beside our estimate, and we talk it through before any balance is billed. If the plan erred, we help you ask for a review. If our estimate was off, we show you where.",
+        "For larger work such as [crowns](/restorative-dentistry/dental-crowns/), [implants](/dental-implants/cost/) or [clear aligners](/clear-aligners/cost/), we can request a pre-treatment estimate first. It often takes a few weeks and is the closest thing to a firm number dental insurance offers."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Virginia Medicaid, or no plan at all",
+      "body": [
+        "Virginia Medicaid covers dental care for children and adults, and what it covers depends on your eligibility category, so we confirm yours before the visit. [Virginia Medicaid dental](/new-patients/medicaid/) has the details and what to bring.",
+        "No insurance is not a reason to wait. You get the same written estimate before anything starts and a clear order of priorities so care can be staged. Ask about payment options when you call, and see [visiting without insurance](/new-patients/no-insurance/)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my plan cover the whole first visit?",
+      "a": "Many plans pay most or all of an exam, a routine cleaning and the X-rays we actually need, unless you have used this year's allowance elsewhere. A deductible or frequency limit can change that, and a deeper cleaning for gum disease falls in a different category. See [your first visit](/new-patients/first-visit/)."
+    },
+    {
+      "q": "What if I am covered by two dental plans?",
+      "a": "Bring both cards. We file with the primary plan first, then the secondary; together they often cover more than either alone, though never more than the fee. Primary is usually the plan through your own employer, and we sort that out with you."
+    },
+    {
+      "q": "My benefits reset soon. Should I squeeze treatment in before then?",
+      "a": "If treatment is already recommended and you have unused maximum, finishing before the reset can save real money, and we will look for the time, evenings and weekends included. We will not invent treatment to use up a balance. Many plans reset on January 1; some use a different plan year, so check your documents or ask us."
+    }
+  ],
+  "related": [
+    "/new-patients/understanding-dental-insurance/",
+    "/new-patients/medicaid/",
+    "/new-patients/no-insurance/",
+    "/new-patients/patient-forms/",
+    "/new-patients/first-visit/",
+    "/about/our-approach/"
+  ],
+  "cta": {
+    "heading": "Want your benefits checked before you book?",
+    "body": "Upload your card through the registration page or call 703-560-7200 with the plan name any day we are open, 7 AM to 8 PM on weekdays and 8 AM to 1 PM on weekends. We will tell you what your plan does at our Alexandria office before you commit to a time."
+  }
+}

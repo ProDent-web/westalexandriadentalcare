@@ -1,0 +1,143 @@
+{
+  "slug": "/dental-implants/single-tooth-implants/",
+  "type": "service",
+  "title": "Single Tooth Implants",
+  "meta_title": "Single Tooth Dental Implants | West Alexandria Dental Care",
+  "meta_description": "Replacing one tooth without touching the neighbors: the parts of an implant, the timeline, 3D planning, what surgery day is like.",
+  "eyebrow": "Dental implants",
+  "h1": "Single tooth implants in West Alexandria",
+  "intro": "One missing tooth, replaced by one implant and one crown, with the teeth either side left exactly as they are. For a single gap with healthy neighbors and adequate bone, this is usually the best long-term answer, because it keeps the bone, spares the neighbors, and is cleaned and used like the tooth it replaced.",
+  "icon": "implant",
+  "facts": [
+    {
+      "label": "Parts",
+      "value": "Post, abutment, crown"
+    },
+    {
+      "label": "Timeline",
+      "value": "Four to six months"
+    },
+    {
+      "label": "Surgery",
+      "value": "Under local anesthetic"
+    },
+    {
+      "label": "Neighbors",
+      "value": "Untouched"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The three parts",
+      "body": [
+        "The implant is a titanium post, shaped like a small screw, placed in the bone where the root was. Bone grows onto its surface over a few months and locks it in place. The abutment is a connector that screws into the implant and rises just above the gum. The crown is the visible tooth, made in ceramic to match its neighbors and fixed to the abutment.",
+        "Because the implant stands on its own, the teeth either side are not shaped, drilled or crowned, which is the main advantage over a [bridge](/restorative-dentistry/dental-bridges/)."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The timeline",
+      "items": [
+        {
+          "title": "Consultation and 3D scan",
+          "body": "A cone-beam CT shows the bone in three dimensions along with the nerve and sinus. We confirm there is enough bone, plan the exact position, and discuss grafting if it would be needed. You leave with the plan and the cost in writing."
+        },
+        {
+          "title": "Placement",
+          "body": "Under local anesthetic, with nitrous oxide or other sedation options if you want them. A small opening in the gum, a precisely prepared channel in the bone, the implant placed, and the gum closed. Usually under an hour."
+        },
+        {
+          "title": "Healing",
+          "body": "Three to four months in the lower jaw, often a little longer in the upper, while bone fuses to the implant. For a visible gap, a temporary tooth fills the space during this time."
+        },
+        {
+          "title": "Uncovering and impression",
+          "body": "A small healing cap shapes the gum, and an impression or scan records the implant position for the laboratory."
+        },
+        {
+          "title": "The crown",
+          "body": "The abutment and crown are fitted, the bite and contacts checked, and the crown secured. From then on it works like your own tooth."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What placement day is actually like",
+      "body": [
+        "Most people are surprised by how uneventful it is. The area is fully numb; you feel pressure and vibration but not pain. Afterward, expect mild swelling and soreness for a few days, managed with over-the-counter pain relief, a soft diet and cold packs. Most people are back at work the next day. Stitches, if used, dissolve on their own.",
+        "If the tooth is still present and cannot be saved, it can sometimes be removed and the implant placed at the same visit. Where the socket needs to heal first, a bone graft at the time of extraction preserves the ridge for an implant a few months later."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Front tooth or back tooth",
+      "items": [
+        {
+          "title": "A front tooth",
+          "body": "Appearance is everything. The gum shape is managed carefully during healing, a temporary tooth keeps the smile intact, and the crown is layered to match translucency as well as color."
+        },
+        {
+          "title": "A back tooth",
+          "body": "Function is everything. The implant is sized for chewing load, the crown is shaped to meet the opposing tooth evenly, and a night guard is recommended if you grind."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Keeping it for life",
+      "style": "check",
+      "items": [
+        "Brush the crown and floss around it daily, as you would a natural tooth.",
+        "Keep up regular cleanings; the gum around an implant can get infected if plaque is left.",
+        "Wear a night guard if you grind, to protect the crown and the implant.",
+        "Do not smoke. It raises the failure rate during healing and the risk of gum problems afterward.",
+        "Tell us if the crown ever feels loose or the gum around it bleeds."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Who places implants here",
+      "body": "Dr. Fadi Alhrashi completed a Dental Implant Fellowship at Tufts University School of Dental Medicine and is a Diplomate of the American Board of Oral Implantology/Implant Dentistry. Planning, placement and the final crown are done in this office.",
+      "cta": {
+        "label": "Meet Dr. Fadi",
+        "href": "/dentists/dr-fadi-alhrashi/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I be without a tooth?",
+      "a": "For a visible gap, no. A temporary tooth, usually a removable flipper or a bonded temporary, fills the space while the implant heals. For a back tooth, most people simply leave the space for a few months."
+    },
+    {
+      "q": "How long does a single implant last?",
+      "a": "The implant itself can last for decades with good care. The crown on top may need replacing after fifteen years or so from wear, which is a straightforward procedure."
+    },
+    {
+      "q": "Does insurance cover a single implant?",
+      "a": "Some plans cover part of the crown, some part of the implant, and some neither. We check your benefits and give you a written estimate for the whole sequence before anything starts."
+    },
+    {
+      "q": "What if there is not enough bone?",
+      "a": "A graft at the time of extraction, or before placement, can rebuild the ridge. The 3D scan shows whether that is needed before you commit, and the alternatives are discussed honestly."
+    },
+    {
+      "q": "How soon after losing a tooth should I decide?",
+      "a": "Sooner is easier, because bone shrinks once the root is gone. Ideally the plan is made before the extraction. If the tooth has been gone for years, an implant is still often possible; the scan tells us."
+    }
+  ],
+  "related": [
+    "/dental-implants/",
+    "/dental-implants/candidates/",
+    "/dental-implants/cost/",
+    "/dental-implants/aftercare/",
+    "/restorative-dentistry/dental-bridges/",
+    "/restorative-dentistry/replacing-missing-teeth/"
+  ],
+  "cta": {
+    "heading": "One tooth back, and the neighbors left alone.",
+    "body": "A consultation and a 3D scan answer whether an implant is right for your gap. Book one and see the plan before deciding."
+  }
+}

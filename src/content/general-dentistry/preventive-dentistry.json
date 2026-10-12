@@ -1,0 +1,155 @@
+{
+  "slug": "/general-dentistry/preventive-dentistry/",
+  "type": "service",
+  "title": "Preventive Dentistry",
+  "meta_title": "Preventive Dentistry in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Prevention is the cheapest, least invasive dentistry there is. Exams, cleanings, sealants, fluoride, night guards and risk-based intervals at West Alexandria.",
+  "eyebrow": "General dentistry",
+  "h1": "Preventive dentistry in West Alexandria",
+  "intro": "Every crown was once a small cavity, and every small cavity was once a clean tooth with plaque left on it for too long. Prevention is the part of dentistry that interrupts that sequence early, when the fix is cheap or free. It is also the part that depends most on you, which is why we spend time on it.",
+  "icon": "shield",
+  "facts": [
+    {
+      "label": "Core of it",
+      "value": "Exam, cleaning, home care"
+    },
+    {
+      "label": "Adds for kids",
+      "value": "Sealants and fluoride"
+    },
+    {
+      "label": "Adds for grinders",
+      "value": "A night guard"
+    },
+    {
+      "label": "Interval",
+      "value": "Set by your risk"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The economics of prevention",
+      "body": [
+        "A cleaning and exam is the least expensive appointment in dentistry and most insurance plans, including Virginia Medicaid, cover it fully or nearly so. The filling that catches a cavity early is small and lasts for years. Wait, and the same tooth needs a crown; wait longer and it needs a root canal and a crown; wait longer still and it needs an implant. Each step costs several times the one before it and takes more of the tooth.",
+        "Prevention is simply choosing to spend at the cheap end of that scale. It is also the least invasive dentistry there is, because the best treatment is the one you never need."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What preventive care includes",
+      "items": [
+        {
+          "title": "Cleanings and exams",
+          "body": "Tartar removed, gums measured, every tooth and the soft tissues checked, with an oral cancer screening each time.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "X-rays when they earn their place",
+          "body": "Decay between teeth and under old fillings is invisible to the eye. Digital images find it early, on a schedule set by your risk.",
+          "href": "/general-dentistry/digital-x-rays/"
+        },
+        {
+          "title": "Sealants",
+          "body": "A coating that closes the deep grooves of back teeth, where most cavities in children and teenagers start.",
+          "href": "/general-dentistry/dental-sealants/"
+        },
+        {
+          "title": "Fluoride",
+          "body": "Varnish at check-ups for anyone at raised cavity risk, and prescription-strength toothpaste for dry mouth or recession.",
+          "href": "/general-dentistry/fluoride-treatment/"
+        },
+        {
+          "title": "Night guards",
+          "body": "Grinding wears enamel and cracks teeth over years. A custom guard stops the damage while you sleep.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Home care that works",
+          "body": "Technique matters more than products. We show you on your own teeth what to change.",
+          "href": "/general-dentistry/oral-hygiene/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How your interval is decided",
+      "intro": "Six months is a starting point. Your actual interval depends on risk.",
+      "items": [
+        {
+          "title": "Gum health",
+          "body": "Shallow, non-bleeding pockets mean six months is fine. Treated gum disease means periodontal maintenance every three to four months, because the bacteria rebound on roughly that timeline."
+        },
+        {
+          "title": "Cavity history",
+          "body": "New cavities in the last two or three years, dry mouth, frequent snacking or acidic drinks all argue for closer visits and fluoride."
+        },
+        {
+          "title": "Life stage and habits",
+          "body": "Braces or aligners, pregnancy, new medications, smoking or vaping, and a diet heavy in sugar each shift the risk. The interval shifts with it, in both directions."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What 'let's watch it' actually means",
+      "body": [
+        "You will sometimes hear us say a spot can be watched. That is not avoidance. Early decay confined to the enamel can re-harden with fluoride and better cleaning, and a hairline crack with no symptoms may never progress. Watching means we note it, photograph or image it, and compare at the next visit. If it has grown, it is treated while still small. If it has not, nothing was drilled that did not need to be.",
+        "The line between watching and treating is decay that has reached the dentin, a crack that has started to hurt, or a filling that has lost its seal. At that point waiting costs tooth structure, and we say so plainly."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The habits that prevent most problems",
+      "style": "check",
+      "items": [
+        "Two minutes, twice a day, with fluoride toothpaste, and spit rather than rinse so the fluoride stays.",
+        "Clean between the teeth once a day. Floss, interdental brushes or a water flosser; the one you will actually use is the right one.",
+        "Keep sugar and acid to mealtimes. Frequency does more damage than amount.",
+        "Water as the default drink, especially with dry mouth.",
+        "A mouthguard for contact sports and a night guard if you grind.",
+        "No tobacco or vaping, for the gums as much as for everything else."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Prevention on a schedule you can keep",
+      "body": "A preventive plan only works if the appointments happen. Early mornings from 7 AM, evenings to 8 PM and weekend mornings exist so that check-ups fit around work, school and commuting rather than competing with them.",
+      "cta": {
+        "label": "Evening and weekend appointments",
+        "href": "/new-patients/evening-and-weekend-appointments/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is prevention really covered by insurance?",
+      "a": "Most plans cover two cleanings and exams a year at or close to 100 percent, along with check-up X-rays on a set interval and, for children, sealants and fluoride. We verify your specific benefits before the visit."
+    },
+    {
+      "q": "I brush well. Do I still need cleanings?",
+      "a": "Yes. Even careful brushing leaves plaque in places a brush cannot reach, and once it hardens into tartar only instruments remove it. The exam is also the only way to find decay between teeth and early gum changes."
+    },
+    {
+      "q": "Can a cavity heal on its own?",
+      "a": "The earliest stage, a chalky white spot in the enamel, can re-harden with fluoride and better cleaning. Once decay has broken through into the dentin it cannot reverse and needs a filling. The difference is visible on an exam and X-ray."
+    },
+    {
+      "q": "Are electric toothbrushes worth it?",
+      "a": "For many people, yes. They make good technique easier and most have a timer. A manual brush used well is also fine. We will tell you which would help you based on what we see at the cleaning."
+    }
+  ],
+  "related": [
+    "/general-dentistry/cleanings-and-exams/",
+    "/general-dentistry/oral-hygiene/",
+    "/general-dentistry/dental-sealants/",
+    "/general-dentistry/fluoride-treatment/",
+    "/general-dentistry/night-guards/",
+    "/general-dentistry/periodontal-maintenance/"
+  ],
+  "cta": {
+    "heading": "Spend at the cheap end of the scale.",
+    "body": "Book a cleaning and exam, and leave with a prevention plan built around your actual risk rather than a generic calendar."
+  }
+}

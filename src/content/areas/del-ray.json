@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/del-ray/",
+  "type": "area",
+  "title": "Del Ray",
+  "meta_title": "Dentist Near Del Ray, Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Roughly ten to fifteen minutes from Del Ray via Braddock Road to West Alexandria Dental Care: children's dentistry, family blocks, weekend mornings.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Del Ray",
+  "intro": "Del Ray runs along Mount Vernon Avenue north of Old Town, a neighborhood of young families, strollers and small businesses. Our office is a straightforward drive west along Braddock Road, roughly ten to fifteen minutes depending on traffic, with free parking at the door and the weekend-morning and after-school hours that families with young children actually use.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "About ten to fifteen minutes"
+    },
+    {
+      "label": "Route",
+      "value": "Braddock Road west"
+    },
+    {
+      "label": "Families",
+      "value": "Back-to-back appointments"
+    },
+    {
+      "label": "Weekends",
+      "value": "8 AM–1 PM"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Del Ray",
+      "body": [
+        "Parents with toddlers due a first visit, school-age children who need sealants, and the parents themselves, who have not had a check-up since the second child arrived. Del Ray families tend to book everyone at once on a Saturday morning, which is exactly what the schedule is built for. We also see Del Ray's small-business owners and the people who work from home there, who like a 7 AM or 7 PM slot that does not interrupt the day.",
+        "See [children's dentistry](/general-dentistry/childrens-dentistry/) and [family dentistry](/general-dentistry/family-dentistry/) for how visits for different ages work."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via Braddock Road",
+          "body": "West on Braddock Road from Del Ray, continuing as W. Braddock Road past Quaker Lane to the Bradlee Office Building beside Bradlee Shopping Center."
+        },
+        {
+          "title": "Via King Street",
+          "body": "An alternative: King Street west to W. Braddock Road."
+        },
+        {
+          "title": "Timing",
+          "body": "Roughly ten to fifteen minutes outside rush hour. Weekend mornings are the quickest drive."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building, with room for a stroller to be unloaded at the door."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What Del Ray families most often come in for",
+      "items": [
+        {
+          "title": "A child's first visit",
+          "body": "Short, calm and on the child's terms, by the first birthday or first tooth.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Sealants and fluoride",
+          "body": "The two preventive steps that stop most childhood cavities, done at routine check-ups.",
+          "href": "/general-dentistry/dental-sealants/"
+        },
+        {
+          "title": "Parents' overdue check-ups",
+          "body": "A cleaning and exam at the same visit as the children's, or a weekday evening.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Sports mouthguards and knocked-out teeth",
+          "body": "Custom guards for the soccer and lacrosse seasons, and same-day care when a guard was not worn.",
+          "href": "/general-dentistry/night-guards/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted, including Medicaid dental coverage for children.",
+        "Care in English, Arabic, Spanish and Portuguese.",
+        "Paperwork for the whole family completed online before you arrive, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Booking the whole family",
+      "body": "Call or note it in your online booking and the office arranges consecutive slots so one Saturday morning covers everyone. Parents are welcome in the room for children's visits.",
+      "cta": {
+        "label": "Family dentistry",
+        "href": "/general-dentistry/family-dentistry/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is the drive from Del Ray?",
+      "a": "Roughly ten to fifteen minutes west along Braddock Road, depending on traffic. Weekend mornings are quickest."
+    },
+    {
+      "q": "Can my children and I be seen on the same morning?",
+      "a": "Yes. Back-to-back family appointments on Saturday and Sunday mornings are among our most common bookings. Tell us how many are coming."
+    },
+    {
+      "q": "Do you accept Medicaid for children?",
+      "a": "Yes. We accept Virginia Medicaid, which covers children's dental care. Bring the child's card or upload it through the online registration."
+    },
+    {
+      "q": "Is there somewhere to park with a stroller?",
+      "a": "Free surface parking surrounds the building, so you can park near the door and bring the stroller straight in."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/general-dentistry/childrens-dentistry/",
+    "/general-dentistry/family-dentistry/",
+    "/new-patients/medicaid/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "One Saturday morning. The whole family seen.",
+    "body": "Book online at any hour or call, and ask for family appointments together."
+  }
+}

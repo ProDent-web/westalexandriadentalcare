@@ -1,0 +1,135 @@
+{
+  "slug": "/restorative-dentistry/tmj-treatment/",
+  "type": "service",
+  "title": "TMJ Treatment",
+  "meta_title": "TMJ & Jaw Pain Treatment in Alexandria | West Alexandria Dental Care",
+  "meta_description": "Jaw joint and muscle pain: clicking, locking, pain chewing, headaches, ear pain. Causes, conservative first-line treatment at West Alexandria Dental Care.",
+  "eyebrow": "Restore your smile",
+  "h1": "TMJ treatment in West Alexandria",
+  "intro": "The temporomandibular joints connect the jaw to the skull just in front of each ear, and with the muscles around them they do more work than almost any joint in the body. When they hurt, click, lock or tire, the cause is usually muscle overuse from clenching and grinding, and the treatment is conservative: a custom splint, habit changes and time. Surgery is rarely needed and never the first step.",
+  "icon": "wave",
+  "facts": [
+    {
+      "label": "Usual cause",
+      "value": "Clenching and grinding"
+    },
+    {
+      "label": "First-line treatment",
+      "value": "A custom splint"
+    },
+    {
+      "label": "Visits",
+      "value": "Evaluation, then two for a"
+    },
+    {
+      "label": "Surgery",
+      "value": "Rarely, and never first"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Symptoms of a TMJ problem",
+      "style": "bullet",
+      "items": [
+        "Pain or tenderness in the jaw, in front of the ear, or in the temples and cheeks.",
+        "Clicking, popping or grating when you open or chew.",
+        "A jaw that locks open or closed, or will not open fully.",
+        "Pain when chewing, yawning or talking for long periods.",
+        "Headaches, especially on waking, and earache without an ear infection.",
+        "A bite that feels as though it has changed, or teeth that do not meet the way they used to."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What is usually behind it",
+      "body": [
+        "Most TMJ pain is muscular. Clenching during the day and [grinding at night](/symptoms/teeth-grinding/) keep the chewing muscles contracted for hours, and like any overworked muscle they become sore and tight. Stress, poor sleep, chewing gum, nail biting and resting the chin on a hand all feed it. Less often, the small disc inside the joint is displaced, which causes the clicking and sometimes locking. Injury, arthritis and a bite that forces the jaw into an awkward position play a part in some cases.",
+        "Pain in this area is not always the joint. Wisdom teeth, an abscess, sinus infections and ear problems can all mimic it, which is why the evaluation starts by ruling those out. See the [jaw pain guide](/symptoms/jaw-pain/) for what to notice."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What an evaluation covers",
+      "items": [
+        {
+          "title": "History",
+          "body": "When it hurts, what makes it worse, whether you clench, how you sleep, any injury, and what you have tried."
+        },
+        {
+          "title": "Examination",
+          "body": "The joints are felt as you open and close, the muscles are pressed for tenderness, the range of opening is measured, and the teeth are checked for the wear patterns that clenching and grinding leave."
+        },
+        {
+          "title": "Imaging where useful",
+          "body": "A panoramic X-ray or, occasionally, 3D imaging to look at the bony parts of the joint and rule out other causes."
+        },
+        {
+          "title": "A plan, starting conservative",
+          "body": "Almost always habit changes and a splint first, with a review in a few weeks to see what has changed."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Conservative treatment",
+      "items": [
+        {
+          "title": "A custom splint",
+          "body": "A thin, hard acrylic guard worn at night, and sometimes during the day, that keeps the teeth apart and lets the muscles relax. Made from an impression and adjusted to your bite.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Habit changes",
+          "body": "Lips together, teeth apart, is the resting position. Notice daytime clenching and release it. No gum, no nail biting, no chin on hand, no wide yawns."
+        },
+        {
+          "title": "Heat, rest and a soft diet",
+          "body": "Moist heat on the muscles, smaller bites, softer food for a week or two, and gentle stretching once the acute pain eases."
+        },
+        {
+          "title": "Short-term medication",
+          "body": "Over-the-counter anti-inflammatories as labeled can calm a flare. We will suggest what is sensible for you and talk to your physician if more is needed."
+        },
+        {
+          "title": "Bite adjustment",
+          "body": "Occasionally a high filling or crown is the trigger, and smoothing it solves the problem. Reshaping teeth more broadly is rarely indicated."
+        },
+        {
+          "title": "Referral",
+          "body": "Persistent locking, suspected arthritis, or pain that does not respond to conservative care may be referred to an oral surgeon, physical therapist or physician."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will the clicking go away?",
+      "a": "Painless clicking often continues for years and needs no treatment. Clicking with pain or locking usually improves with a splint and habit changes, though the click itself may remain. The goal is comfort and function, not silence."
+    },
+    {
+      "q": "How long does a splint take to work?",
+      "a": "Many people notice less morning soreness within the first week or two. Muscle pain that has built up over months can take several weeks to settle fully. We review at about four weeks and adjust."
+    },
+    {
+      "q": "Is TMJ treatment covered by insurance?",
+      "a": "It varies. Some dental plans cover a splint for bruxism; some medical plans cover TMJ treatment; some cover neither. We check your dental benefits and give you the cost before making anything."
+    },
+    {
+      "q": "Do I need surgery?",
+      "a": "Almost certainly not. Surgery is reserved for a small number of joint problems that fail every conservative measure. The large majority of TMJ pain is muscular and resolves without it."
+    }
+  ],
+  "related": [
+    "/symptoms/jaw-pain/",
+    "/symptoms/teeth-grinding/",
+    "/general-dentistry/night-guards/",
+    "/restorative-dentistry/sleep-apnea/",
+    "/symptoms/wisdom-tooth-pain/",
+    "/restorative-dentistry/"
+  ],
+  "cta": {
+    "heading": "Sore jaw, morning headaches, clicking?",
+    "body": "An evaluation takes one visit and usually ends with a simple, conservative plan. Book it at a time that suits you; we are open seven days."
+  }
+}

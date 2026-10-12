@@ -1,0 +1,128 @@
+{
+  "slug": "/general-dentistry/oral-cancer-screening/",
+  "type": "service",
+  "title": "Oral Cancer Screening",
+  "meta_title": "Oral Cancer Screening in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Every exam at West Alexandria Dental Care includes an oral cancer screening of the lips, tongue, cheeks, palate and throat.",
+  "eyebrow": "General dentistry",
+  "h1": "Oral cancer screening in West Alexandria",
+  "intro": "It takes about two minutes, it happens at every exam whether you ask for it or not, and it is one of the more important things a dentist does. Oral cancer found early is very treatable. Found late, it is not. The difference is usually whether someone looked.",
+  "icon": "shield-check",
+  "facts": [
+    {
+      "label": "When",
+      "value": "Every exam"
+    },
+    {
+      "label": "Takes",
+      "value": "About two minutes"
+    },
+    {
+      "label": "Cost",
+      "value": "Part of the exam"
+    },
+    {
+      "label": "Feels like",
+      "value": "A careful look and a"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "What is actually checked",
+      "items": [
+        {
+          "title": "Lips and the inside of the cheeks",
+          "body": "Looked at and felt for lumps, patches, thickening or a sore that does not match the surrounding tissue."
+        },
+        {
+          "title": "Tongue, all sides",
+          "body": "You are asked to stick it out and move it; the dentist holds the tip with gauze to see the sides and underneath, where many oral cancers start."
+        },
+        {
+          "title": "Floor of the mouth and palate",
+          "body": "The soft tissue under the tongue and the roof of the mouth, checked by sight and by touch."
+        },
+        {
+          "title": "Throat and tonsils",
+          "body": "A look at the back of the mouth, where cancers linked to HPV tend to appear."
+        },
+        {
+          "title": "Neck and jaw",
+          "body": "A quick feel along the jawline and neck for enlarged lymph nodes or lumps."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What the dentist is looking for",
+      "style": "bullet",
+      "items": [
+        "A white or red patch that does not wipe away.",
+        "A sore or ulcer that has not healed in two weeks.",
+        "A lump, thickening or rough area in the cheek, tongue or floor of the mouth.",
+        "Numbness, pain or tenderness without an obvious cause.",
+        "Difficulty swallowing, a persistent sore throat or a change in the voice.",
+        "A tooth that has become loose for no dental reason."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Who is at higher risk",
+      "body": [
+        "Tobacco in any form and heavy alcohol use are the biggest factors, and together they multiply each other. HPV infection is now a leading cause of cancers at the back of the throat, including in people who never smoked. Sun exposure raises the risk of lip cancer. Age matters, with most cases over forty, and men are affected more often than women. A previous oral cancer raises the chance of another.",
+        "Having none of these does not make you exempt, which is why the screening is done for everyone. Having several makes the two-minute check at every visit more valuable, not less."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "If something is found",
+      "body": [
+        "Most unusual spots are not cancer. A bitten cheek, a burn from hot food, a canker sore, a friction patch from a denture or a sharp tooth all look worrying and heal on their own. The usual first step is to note it, photograph it, remove any obvious cause such as a rough edge, and look again in two weeks.",
+        "A spot that has not healed in two weeks, or that looks suspicious from the start, is referred promptly to an oral surgeon or specialist for a biopsy. A biopsy is a small sample taken under local anesthetic; it is the only way to know for certain. We make the referral, send the images, and follow up with you."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Lowering your risk",
+      "style": "check",
+      "items": [
+        "Stop tobacco, including smokeless tobacco and vaping. The risk falls steadily after quitting.",
+        "Keep alcohol moderate.",
+        "Use a lip balm with sun protection if you work or spend time outdoors.",
+        "Ask your physician about the HPV vaccine for yourself or your children; it prevents the infections behind most throat cancers.",
+        "Keep up with exams, so someone is looking twice a year."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the screening extra?",
+      "a": "No. It is part of every exam here, for every patient, at no additional charge."
+    },
+    {
+      "q": "Does it hurt?",
+      "a": "No. It is a visual check and a gentle feel of the tissues. The only mildly awkward part is having your tongue held with gauze for a few seconds."
+    },
+    {
+      "q": "I have a sore that keeps coming back in the same place. Should I worry?",
+      "a": "A sore that heals and returns is usually a canker sore or irritation from a sharp tooth or appliance. A sore that never fully heals is the one to have looked at. Either way, mention it and we will check."
+    },
+    {
+      "q": "Can a dentist diagnose oral cancer?",
+      "a": "A dentist can find a suspicious area and refer it; only a biopsy makes the diagnosis. The dentist's job is to look carefully, recognize what should not be there, and get it to the right specialist quickly."
+    }
+  ],
+  "related": [
+    "/general-dentistry/cleanings-and-exams/",
+    "/general-dentistry/dental-care-for-seniors/",
+    "/symptoms/swollen-gums/",
+    "/symptoms/dry-mouth/",
+    "/general-dentistry/preventive-dentistry/",
+    "/symptoms/loose-tooth/"
+  ],
+  "cta": {
+    "heading": "Two minutes, twice a year.",
+    "body": "The screening comes with every check-up. If it has been a while, or you have noticed something, book a visit and we will take a careful look."
+  }
+}

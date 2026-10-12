@@ -1,0 +1,158 @@
+{
+  "slug": "/about/our-approach/",
+  "type": "info",
+  "title": "Our Approach",
+  "meta_title": "Our Approach to Your Care | West Alexandria Dental Care",
+  "meta_description": "Our approach at West Alexandria Dental Care: we explain before we treat, show you your X-rays, put costs in writing, and leave the decision to you.",
+  "eyebrow": "About the practice",
+  "h1": "Our approach, as commitments you can hold us to",
+  "intro": "Any dental office can list what it treats. What tells you more is how it works: what happens before a drill is picked up, who decides, and what you are told along the way. This is how we work at West Alexandria Dental Care, written down so you can hold us to it.",
+  "icon": "hand",
+  "facts": [
+    {
+      "label": "Before any treatment",
+      "value": "Costs in writing"
+    },
+    {
+      "label": "Your X-rays",
+      "value": "Shown on the screen"
+    },
+    {
+      "label": "The decision",
+      "value": "Yours, without pressure"
+    },
+    {
+      "label": "If you are nervous",
+      "value": "A comfort plan first"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "What happens before anything touches a tooth",
+      "items": [
+        {
+          "title": "We listen first",
+          "body": "You tell us what brought you in, what you have noticed, and what you want from your teeth. If a past visit went badly, say so. It changes how we plan."
+        },
+        {
+          "title": "We look, and you look with us",
+          "body": "Your [digital X-rays](/general-dentistry/digital-x-rays/) come up on the screen beside the chair, and we point to what we see. You are not asked to take our word for it."
+        },
+        {
+          "title": "We explain in plain words",
+          "body": "What the problem is, what caused it, and what is likely to happen if nothing is done. If there is more than one reasonable way to treat it, you hear all of them, starting with the simplest."
+        },
+        {
+          "title": "The plan and the cost go on paper",
+          "body": "Before anything is scheduled, you have the plan in writing with the fee for each step and the share we expect your insurance to pay. Take it home. Nothing is booked until you say so."
+        },
+        {
+          "title": "You decide",
+          "body": "Some people decide in the chair. Others want a week, a second opinion, or a talk at the kitchen table first. All of those are fine, and we will not call to push you along."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Now, soon, or watch: how we sort what we find",
+      "body": [
+        "Not everything we find needs treatment, and not everything that needs treatment needs it this month. Findings go into three groups: handle now, do soon but on your schedule, and watch.",
+        "Watching is a plan, not a shrug. Early decay that fluoride may still reverse, a worn edge, or a hairline crack that does not hurt gets noted in your record and checked again at your next visit. If it changes, you hear why the plan changes.",
+        "Underneath it is prevention, which Dr. Sam puts as prevent what can be prevented and preserve what can be preserved. In practice that means a [filling](/restorative-dentistry/tooth-colored-fillings/) rather than a crown when the tooth can hold one, a crown rather than an extraction when the root is healthy, and [regular cleanings](/general-dentistry/cleanings-and-exams/) so most of it never comes up."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What we will not do",
+      "style": "bullet",
+      "items": [
+        "Send a surprise bill. If something unexpected turns up mid-treatment, we stop, explain, and agree on the change before going on.",
+        "Lecture you about flossing, sugar, or how long it has been since your last visit. You are here now. That is what matters.",
+        "Recommend the more expensive option when a simpler one does the job. If a filling will hold, we say filling.",
+        "Rush a decision. A written plan is for taking home, not for settling in the next ten minutes.",
+        "Pretend we are the right office for everything. When an orthodontist, periodontist, endodontist or oral surgeon would serve you better, we say so and help arrange it."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Comfort planning if dentistry makes you nervous",
+      "body": [
+        "Being anxious about the dentist is common and nothing to hide. Tell us when you book, or in the chair, and the visit is planned around it. More on [dental anxiety](/sedation-dentistry/dental-anxiety/) and what helps.",
+        "The plan starts without medication. You get a stop signal, usually a raised hand, and when you use it we stop. We say what each step is before we do it, work at your pace, and build in breaks. For many people that is enough.",
+        "If it is not, [nitrous oxide](/sedation-dentistry/nitrous-oxide/) is available for most visits and wears off within minutes of the mask coming off. Other [sedation options](/sedation-dentistry/sedation-options/) are discussed only after a review of your health history and the planned treatment, because what is safe depends on both."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "One dental home, from a first tooth onward",
+      "items": [
+        {
+          "title": "Children",
+          "body": "A first visit that is mostly looking and getting comfortable, then sealants, fluoride and habits that keep later visits short.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Teens",
+          "body": "Wisdom teeth watched on X-rays before they cause trouble, sports mouthguards, and clear aligners when the bite calls for them.",
+          "href": "/clear-aligners/for-teens/"
+        },
+        {
+          "title": "Adults",
+          "body": "Fillings, crowns and gum care from someone who knows your history, and cosmetic work planned around sound teeth.",
+          "href": "/restorative-dentistry/"
+        },
+        {
+          "title": "Seniors",
+          "body": "Dry mouth from medications, worn teeth, dentures that no longer fit, and gums that need closer watching, with your medication list in hand.",
+          "href": "/general-dentistry/dental-care-for-seniors/"
+        },
+        {
+          "title": "The whole family",
+          "body": "Ask when you call about seeing several family members in one trip. Visits can be in English, Arabic, Spanish or Portuguese.",
+          "href": "/general-dentistry/family-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Bringing a treatment plan from another office",
+      "body": "If another office has told you that you need a lot of work, bring the plan and any X-rays. We go through it with you on the screen and say where we agree, where we would wait, and where we see it differently. You are under no obligation to stay.",
+      "cta": {
+        "label": "Switching dentists",
+        "href": "/new-patients/switching-dentists/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to decide on treatment at the visit?",
+      "a": "No. You leave with the written plan and take the time you need. If a tooth is likely to get worse quickly, we say so plainly so you can weigh it, but the timing is yours. When you are ready, {{book}} or call {{phone}}."
+    },
+    {
+      "q": "What does costs in writing actually include?",
+      "a": "The fee for each procedure, what we expect your insurance to pay, and your estimated share. Insurance figures stay estimates until the claim is processed, so if your plan pays differently we walk you through the explanation rather than mailing a bill. More in [understanding dental insurance](/new-patients/understanding-dental-insurance/)."
+    },
+    {
+      "q": "I am in pain. Do I have to sit through a full exam first?",
+      "a": "No. If you are hurting, we deal with the pain first and the full exam waits for a calmer day. We will mention anything else that looks urgent, but an [emergency visit](/emergency-dentistry/) is not tied to a longer plan you did not ask for."
+    },
+    {
+      "q": "Will I see the same dentist each time?",
+      "a": "Yes, if you want to. You may see [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) or [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/), both general dentists working from one record and holding to everything on this page. Say when you book if you have a preference. Complex surgical and implant cases are often planned by both."
+    }
+  ],
+  "related": [
+    "/about/",
+    "/about/technology/",
+    "/dentists/",
+    "/new-patients/first-visit/",
+    "/sedation-dentistry/dental-anxiety/",
+    "/new-patients/understanding-dental-insurance/"
+  ],
+  "cta": {
+    "heading": "Come and hold us to it",
+    "body": "Book a first visit any day of the week, 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM on Saturday and Sunday, at the Bradlee Office Building in Alexandria. Or call 703-560-7200 and ask whatever you want answered first."
+  }
+}

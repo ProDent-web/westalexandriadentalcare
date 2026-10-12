@@ -1,0 +1,144 @@
+{
+  "slug": "/general-dentistry/family-dentistry/",
+  "type": "service",
+  "title": "Family Dentistry",
+  "meta_title": "Family Dentist in Alexandria, VA, Open 7 Days | WA Dental Care",
+  "meta_description": "One dental home for toddlers, teens, parents and grandparents in West Alexandria. Back-to-back family appointments, evening and weekend hours.",
+  "eyebrow": "General dentistry",
+  "h1": "Family dentistry in West Alexandria",
+  "intro": "One office for everyone in the household, from a two-year-old's first look in the mirror to a grandparent's implant-retained denture. Same two dentists, one set of records, and appointments that can be booked back to back so a single trip covers the whole family.",
+  "icon": "family",
+  "facts": [
+    {
+      "label": "Ages",
+      "value": "First tooth onward"
+    },
+    {
+      "label": "Scheduling",
+      "value": "Back-to-back family slots"
+    },
+    {
+      "label": "Hours",
+      "value": "7 days, evenings too"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Arabic, Spanish, Portuguese"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why one dental home matters",
+      "body": [
+        "Dental problems run in families, partly through genes and partly through habits. A dentist who sees the parents knows what to watch for in the children. A dentist who has seen a teenager's bite develop knows whether the wisdom teeth will have room. Records in one place mean nothing gets lost between a children's office, an adult office and a specialist, and a question about any family member can be answered by someone who knows the others.",
+        "It also makes the practical side simpler: one phone number, one set of forms through the {{forms}}, one insurance verification, and a Saturday morning that covers four people instead of four Saturdays."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Care that changes with age",
+      "items": [
+        {
+          "title": "Babies and toddlers",
+          "body": "A first visit by the first birthday or first tooth: a count of the teeth, a ride in the chair, advice on bottles, pacifiers and brushing. Short, friendly and low-key.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "School-age children",
+          "body": "Sealants when the first adult molars arrive around six, fluoride varnish, cavity-risk checks, and an eye on how the bite is developing.",
+          "href": "/general-dentistry/dental-sealants/"
+        },
+        {
+          "title": "Teens",
+          "body": "Wisdom teeth watched on X-ray, clear aligners once the permanent teeth are in, sports mouthguards, and straight talk about energy drinks and vaping.",
+          "href": "/clear-aligners/for-teens/"
+        },
+        {
+          "title": "Adults",
+          "body": "Cleanings and exams, repairs when needed, cosmetic work when wanted, and the evening hours that make all of it possible around a job.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Seniors",
+          "body": "Dry mouth from medications, root decay, worn teeth, denture fit, and coordinating with physicians about medications that affect treatment.",
+          "href": "/general-dentistry/dental-care-for-seniors/"
+        },
+        {
+          "title": "Anyone who is anxious",
+          "body": "Comfort planning at every age: pacing, a stop signal, nitrous oxide, and other sedation options after an individual review.",
+          "href": "/sedation-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Booking the whole family",
+      "items": [
+        {
+          "title": "Tell us who is coming",
+          "body": "Call {{phone}} or book online and note that you want appointments together. The office arranges consecutive slots, or overlapping ones with the hygienist and dentist, depending on what each person needs."
+        },
+        {
+          "title": "Paperwork once, online",
+          "body": "Each family member completes a registration through the secure Denticon page, with insurance uploaded once. It takes a few minutes on a phone."
+        },
+        {
+          "title": "Pick the time that actually works",
+          "body": "Before school at 7 AM, after work at 6:30 PM, or Saturday at 9. Seven-day hours are there precisely so that families are not choosing between dentistry and everything else."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What stays the same for everyone",
+      "style": "check",
+      "items": [
+        "An explanation before anything is done, in language the person in the chair understands, whether they are seven or seventy.",
+        "Costs in writing, with benefits checked first. We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid.",
+        "No pressure to decide on the day. What can reasonably wait is said to be able to wait.",
+        "Care in English, Arabic, Spanish or Portuguese. Mention the language when you book so the right team member is scheduled."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "New to Alexandria?",
+      "body": "Families who have just moved to Seminary Hill, Fairlington, Del Ray or the West End often arrive with records scattered across two or three previous offices. We can request them for you. Read how on the switching dentists page.",
+      "cta": {
+        "label": "Switching dentists",
+        "href": "/new-patients/switching-dentists/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can my child sit with me during my appointment?",
+      "a": "Usually, yes, and the reverse too: a parent is welcome in the room for a child's visit. Tell us when you book so the room and timing suit everyone."
+    },
+    {
+      "q": "Do you see very young children?",
+      "a": "Yes. The first visit is recommended by the first birthday or within six months of the first tooth. It is short and mostly about getting comfortable, counting teeth and talking through home care."
+    },
+    {
+      "q": "Do both dentists see children?",
+      "a": "Yes. Both Dr. Atrash and Dr. Alhrashi see patients of all ages. If a child needs care beyond what is sensible in a general office, we say so and refer to a pediatric specialist."
+    },
+    {
+      "q": "Can everyone use the same insurance verification?",
+      "a": "Each family member is verified individually, but it happens in one step when you register everyone through the online forms. The office tells you what each person's plan covers before the visit."
+    }
+  ],
+  "related": [
+    "/general-dentistry/childrens-dentistry/",
+    "/general-dentistry/dental-care-for-seniors/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/new-patients/languages/",
+    "/new-patients/insurance/",
+    "/new-patients/first-visit/"
+  ],
+  "cta": {
+    "heading": "One trip. Everyone seen.",
+    "body": "Call or book online and ask for family appointments together. Early mornings, evenings and weekend mornings are all available."
+  }
+}

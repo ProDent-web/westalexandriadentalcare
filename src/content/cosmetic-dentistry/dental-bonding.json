@@ -1,0 +1,169 @@
+{
+  "slug": "/cosmetic-dentistry/dental-bonding/",
+  "type": "service",
+  "title": "Dental Bonding",
+  "meta_title": "Dental Bonding in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Dental bonding at West Alexandria Dental Care fixes chips, small gaps, worn edges and discoloration in one visit, often without numbing.",
+  "eyebrow": "Cosmetic dentistry",
+  "h1": "Dental bonding in West Alexandria",
+  "intro": "Bonding is tooth-colored composite shaped directly onto a tooth to repair a chip, close a small gap, rebuild a worn edge or cover a discolored patch. It is done in one visit, usually without numbing, and it removes little or no enamel. For many cosmetic problems it is the most sensible first step, because it can be adjusted, repaired or replaced later.",
+  "icon": "sparkle",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "One"
+    },
+    {
+      "label": "Numbing",
+      "value": "Often not needed"
+    },
+    {
+      "label": "Enamel removed",
+      "value": "Little or none"
+    },
+    {
+      "label": "Lasts",
+      "value": "Five to ten years"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What bonding fixes well",
+      "style": "check",
+      "items": [
+        "A chipped corner on a front tooth.",
+        "A small gap between the front teeth.",
+        "Edges worn short or uneven from grinding.",
+        "A tooth that is slightly shorter or narrower than its neighbor.",
+        "A white or brown spot that whitening does not shift.",
+        "A notch at the gum line from recession, which also stops the sensitivity.",
+        "Protecting an exposed root surface."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How it is done",
+      "items": [
+        {
+          "title": "Shade and shape planned",
+          "body": "The composite shade is matched to the tooth in natural light, and we agree what the finished shape should be. A photograph helps."
+        },
+        {
+          "title": "The surface prepared",
+          "body": "The enamel is cleaned and lightly conditioned with a gel so the composite grips. If a rough edge needs smoothing, that is done now. Numbing is only needed if the repair goes near the nerve or below the gum."
+        },
+        {
+          "title": "Composite built up in layers",
+          "body": "Putty-like composite is placed and sculpted, then hardened with a blue light. Several thin layers give the depth and translucency of natural enamel."
+        },
+        {
+          "title": "Shaped and polished",
+          "body": "The repair is trimmed to the final shape, the bite checked, and the surface polished until it matches the gloss of the tooth beside it. Most repairs take thirty to sixty minutes."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Bonding, veneer or crown?",
+      "columns": [
+        "Bonding",
+        "Porcelain veneer",
+        "Crown"
+      ],
+      "rows": [
+        [
+          "Enamel removed",
+          "Little or none",
+          "A thin layer from the front",
+          "The outer layer all round"
+        ],
+        [
+          "Visits",
+          "One",
+          "Two",
+          "Two"
+        ],
+        [
+          "Appearance",
+          "Very good; can stain over time",
+          "Excellent; stain-resistant",
+          "Excellent"
+        ],
+        [
+          "Lifespan",
+          "Five to ten years",
+          "Ten to fifteen years or more",
+          "Ten to fifteen years or more"
+        ],
+        [
+          "Reversible",
+          "Largely",
+          "No",
+          "No"
+        ],
+        [
+          "Best for",
+          "Small chips, gaps, spots, worn edges",
+          "Several teeth; shape, color and alignment together",
+          "A broken or heavily filled tooth"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How it holds up",
+      "body": [
+        "Composite is a little softer than porcelain or enamel, so bonded edges can chip if you bite fingernails, open packets with your teeth or grind at night. It can also pick up stain from coffee, tea, wine and smoking faster than natural enamel, and it does not respond to whitening. The upside is that it is easy to repair: a chip is patched in a few minutes, and a stained surface can be polished or replaced.",
+        "Five to ten years is typical for a front-tooth repair. A [night guard](/general-dentistry/night-guards/) protects bonding from grinding the same way it protects the natural teeth."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Bonding as a first step",
+      "body": [
+        "Because it removes almost nothing, bonding is often the right way to try a change before committing to veneers. A gap can be closed, edges lengthened and the result lived with for a few years. If you later want something more durable, the bonding is removed and a veneer or crown takes its place. The [smile makeover](/cosmetic-dentistry/smile-makeover/) page explains how the options are sequenced."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Whitening first, bonding second",
+      "body": "Composite does not change color with whitening. If you are planning to whiten, do it first, wait two weeks for the shade to settle, and then have bonding matched to the new color.",
+      "cta": {
+        "label": "About teeth whitening",
+        "href": "/cosmetic-dentistry/teeth-whitening/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does bonding hurt?",
+      "a": "Usually not at all. Most cosmetic bonding is on the enamel, which has no feeling, so no numbing is needed. Repairs near the gum line or a deeper chip may be numbed for comfort."
+    },
+    {
+      "q": "Will it look natural?",
+      "a": "Yes, when done carefully. Composite comes in many shades and translucencies, and layering lets the repair mimic the way enamel transmits light. On a single front tooth, a well-matched repair is very hard to spot."
+    },
+    {
+      "q": "Can I eat normally afterward?",
+      "a": "Yes, as soon as you leave. The composite is fully hardened by the light. Avoid using the repaired edge to bite very hard things, as you would with a natural tooth."
+    },
+    {
+      "q": "Is bonding covered by insurance?",
+      "a": "Often, when it repairs a chipped or broken tooth. Purely cosmetic bonding, such as closing a gap, usually is not. We check your plan and tell you the cost before starting."
+    }
+  ],
+  "related": [
+    "/cosmetic-dentistry/porcelain-veneers/",
+    "/cosmetic-dentistry/teeth-whitening/",
+    "/cosmetic-dentistry/smile-makeover/",
+    "/emergency-dentistry/broken-tooth/",
+    "/symptoms/gum-recession/",
+    "/general-dentistry/night-guards/"
+  ],
+  "cta": {
+    "heading": "A chip, a gap, a worn edge: often fixed in an hour.",
+    "body": "Book a visit, show us the tooth, and we will tell you whether bonding is the right repair and do it the same day where possible."
+  }
+}

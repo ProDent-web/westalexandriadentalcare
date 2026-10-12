@@ -1,0 +1,165 @@
+{
+  "slug": "/dental-implants/cost/",
+  "type": "service",
+  "title": "Dental Implant Cost",
+  "meta_title": "Dental Implant Cost: What Goes Into It | West Alexandria Dental Care",
+  "meta_description": "What determines the cost of a dental implant: planning and imaging, the implant, abutment and crown, grafting, number of implants.",
+  "eyebrow": "Dental implants",
+  "h1": "What goes into the cost of a dental implant",
+  "intro": "People ask what an implant costs and get a range so wide it is useless. The reason is that 'an implant' is several things: a scan and a plan, a surgical placement, sometimes a graft, a connector and a crown. Each is priced, each varies with the case, and a quote that leaves some out looks cheaper than one that includes everything. Here is how to read the number you are given.",
+  "icon": "wallet",
+  "facts": [
+    {
+      "label": "Parts priced",
+      "value": "Scan, implant, abutment, crown"
+    },
+    {
+      "label": "May add",
+      "value": "Grafting, extraction"
+    },
+    {
+      "label": "Estimate",
+      "value": "In writing, before anything"
+    },
+    {
+      "label": "Insurance",
+      "value": "Varies widely; checked first"
+    }
+  ],
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "The components",
+      "items": [
+        {
+          "title": "Consultation and 3D scan",
+          "body": "The exam, the cone-beam CT and the planning. This is where the number of implants, the need for grafting and the timeline are set."
+        },
+        {
+          "title": "The implant placement",
+          "body": "The surgical visit: the titanium post placed in the bone under local anesthetic, with any sedation chosen."
+        },
+        {
+          "title": "Abutment and crown",
+          "body": "The connector and the laboratory-made ceramic tooth. Often quoted separately from the implant, which is where confusion starts."
+        },
+        {
+          "title": "Bone grafting, if needed",
+          "body": "Socket preservation at an extraction, a ridge graft or a sinus lift, each priced on its own and only when the scan shows it is needed."
+        },
+        {
+          "title": "Extraction, if the tooth is still there",
+          "body": "Removing a failed tooth before or at the time of placement."
+        },
+        {
+          "title": "Temporary tooth",
+          "body": "A flipper or bonded temporary to fill a visible gap during healing."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Why quotes differ",
+      "style": "bullet",
+      "items": [
+        "Some quotes include only the implant post; others include the abutment and crown. Ask which.",
+        "Grafting may or may not be needed, and may or may not be included.",
+        "Imaging, planning and follow-up visits are sometimes bundled and sometimes billed separately.",
+        "Implant systems and crown materials vary in cost.",
+        "An implant bridge or an implant-retained denture uses fewer implants per tooth than one implant each, which changes the total considerably.",
+        "Who places the implant and who makes the crown: here both happen in one office, which simplifies the planning and the billing."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How insurance usually treats implants",
+      "body": [
+        "It varies more than for any other dental treatment. Some plans exclude implants entirely. Some cover the crown as a major restoration but not the implant. Some cover a percentage of the implant up to the annual maximum, which an implant can use up on its own. Many will pay toward the alternative they would have covered, such as a bridge, and apply that toward the implant. We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid, and we check exactly what your plan does before you commit, so the written estimate reflects your real out-of-pocket cost. The [understanding dental insurance](/new-patients/understanding-dental-insurance/) page explains annual maximums and pre-treatment estimates."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Lifetime value, compared plainly",
+      "columns": [
+        "Implant",
+        "Bridge",
+        "Partial denture"
+      ],
+      "rows": [
+        [
+          "Upfront cost",
+          "Highest",
+          "Middle",
+          "Lowest"
+        ],
+        [
+          "Typical lifespan",
+          "Decades",
+          "Ten to fifteen years",
+          "Five to ten years"
+        ],
+        [
+          "Likely replacements over thirty years",
+          "Perhaps one crown",
+          "One or two bridges",
+          "Several partials, relines"
+        ],
+        [
+          "Effect on other teeth",
+          "None",
+          "Neighbors crowned; may need root canals later",
+          "Clasped teeth under strain"
+        ],
+        [
+          "Bone",
+          "Preserved",
+          "Shrinks under the gap",
+          "Shrinks under the gap"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Staging and paying over time",
+      "body": [
+        "Implant treatment happens in stages over months, and so does the cost; placement and the crown are months apart. Where several teeth are missing, treatment can be phased, with the most important implants first and the rest later, or a partial denture used now with implants planned for a later date. Ask about payment options when you call; the office will tell you what is available. We do not publish fees online because the number depends on the case, but you will have it in writing before anything is scheduled."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "The cheapest implant is the one done right the first time",
+      "body": "An implant placed without a 3D scan, in too little bone, or into untreated gum disease is the expensive one, because it fails. Planning, grafting where needed and maintenance afterward are what make the cost a one-time cost."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why will you not list a price online?",
+      "a": "Because the honest number depends on the scan: bone, grafting, number of implants, the crown material and your insurance. A single figure would be wrong for most people. The consultation gives you a written estimate specific to you, with no obligation."
+    },
+    {
+      "q": "Is a bridge cheaper?",
+      "a": "Upfront, usually yes. Over twenty or thirty years, often not, once replacements and the effect on the neighboring teeth are counted. The comparison table above sets it out, and we go through your own numbers at the consultation."
+    },
+    {
+      "q": "Does Virginia Medicaid cover implants?",
+      "a": "Adult Medicaid dental benefits in Virginia generally do not cover implants, and coverage details change. We check your specific coverage and explain the alternatives it does cover."
+    },
+    {
+      "q": "What if I cannot afford the whole plan now?",
+      "a": "Tell us. Phasing treatment, starting with a partial denture, or sequencing implants over time are all reasonable, and the plan is written to make that possible. Ask about payment options when you book."
+    }
+  ],
+  "related": [
+    "/dental-implants/",
+    "/dental-implants/implants-vs-dentures/",
+    "/dental-implants/candidates/",
+    "/new-patients/understanding-dental-insurance/",
+    "/new-patients/no-insurance/",
+    "/restorative-dentistry/replacing-missing-teeth/"
+  ],
+  "cta": {
+    "heading": "A real number, for your mouth, in writing.",
+    "body": "Book an implant consultation. The scan and exam produce an estimate that includes everything, with your insurance already checked."
+  }
+}

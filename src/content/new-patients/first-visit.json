@@ -1,0 +1,179 @@
+{
+  "slug": "/new-patients/first-visit/",
+  "type": "info",
+  "title": "Your First Visit",
+  "meta_title": "Your First Visit, Step by Step | West Alexandria Dental Care",
+  "meta_description": "What a first visit at West Alexandria Dental Care involves: forms from your phone, a conversation first, X-rays only when needed, and a written plan.",
+  "eyebrow": "New patients",
+  "h1": "Your first visit to West Alexandria Dental Care",
+  "intro": "A first visit here is more looking and talking than treatment. We ask what brought you in, check every tooth, measure your gums and screen for oral cancer before anyone suggests anything. Allow 60 to 90 minutes, at whichever hour suits you, early, late or on a weekend.",
+  "icon": "calendar",
+  "facts": [
+    {
+      "label": "Allow",
+      "value": "60 to 90 minutes"
+    },
+    {
+      "label": "Paperwork",
+      "value": "Online, before you arrive"
+    },
+    {
+      "label": "Cleaning",
+      "value": "Often the same day"
+    },
+    {
+      "label": "First visits",
+      "value": "Any hour we are open"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "Before the day",
+      "items": [
+        {
+          "title": "Book the hour you actually want",
+          "body": "You can {{book}} at any time of day or night, or call {{phone}} while we are open, 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM Saturday and Sunday. Mention when you book if you prefer Arabic, Spanish or Portuguese, if dentistry makes you anxious, or if a tooth already hurts."
+        },
+        {
+          "title": "Finish registration from your phone",
+          "body": "Our secure {{forms}} runs through Denticon: contact details, medical history, medications and insurance, with a place to upload photos of your insurance card. Done ahead, your benefits are checked before you walk in. Paper forms are at the desk if you prefer."
+        },
+        {
+          "title": "Ask your previous office for your X-rays",
+          "body": "Your records belong to you, and any office will send them on request. Recent images save you from repeating them and let us compare then with now."
+        },
+        {
+          "title": "Know where you are going",
+          "body": "Suite E1 of the Bradlee Office Building, 3543 W. Braddock Road in Alexandria, just off I-395 at the King Street exit. Parking around the building is free."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What to bring",
+      "style": "check",
+      "items": [
+        "A photo ID.",
+        "Your insurance card or Virginia Medicaid ID, even if you uploaded a picture. If your plan is not one we list, bring it anyway and we will check.",
+        "Every medication and supplement you take, with doses. Blood thinners, diabetes medication and bone-density drugs matter most to a dentist.",
+        "Your physician's name if you have a heart condition, a recent joint replacement or similar.",
+        "Any night guard, retainer, denture or partial you wear, so we can check the fit.",
+        "Your questions, written down."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The conversation comes before the exam",
+      "body": [
+        "You sit up, not back, while [Dr. Sameer Atrash or Dr. Fadi Alhrashi](/dentists/) asks what brought you in and what you want from a dentist. For some people that is a tooth that has bothered them for months. For others nothing hurts and they want to keep it that way.",
+        "Your medical history gets real attention, because it changes dental care. Diabetes affects how gums heal, blood thinners affect extractions, pregnancy changes what we schedule and when, and dry mouth from medication raises cavity risk fast. If the chair itself is hard for you, say so, and this visit can be mostly conversation. See [nervous about the dentist](/sedation-dentistry/dental-anxiety/)."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The exam, in the order it happens",
+      "items": [
+        {
+          "title": "Every tooth, one at a time",
+          "body": "Each tooth is checked for decay, cracks, wear and the edges of old fillings and crowns, then charted. A map of where things stand, not a decision."
+        },
+        {
+          "title": "Your gums, measured",
+          "body": "A small blunt probe slips gently between tooth and gum to measure the pocket around each tooth. One to three millimeters with no bleeding is generally healthy. Four and up, or bleeding when touched, means inflammation that needs attention."
+        },
+        {
+          "title": "Your bite, jaw and muscles",
+          "body": "How your teeth meet, where they are wearing, whether the joint clicks or the muscles are tender. A flattened edge and a sore morning jaw often mean [grinding at night](/symptoms/teeth-grinding/), easier to manage before it cracks a tooth."
+        },
+        {
+          "title": "An oral cancer screening",
+          "body": "A look and a gentle feel of your lips, tongue, the floor of your mouth, cheeks, palate, throat and the lymph nodes in your neck. About two minutes, part of every exam here. [What we look for](/general-dentistry/oral-cancer-screening/)."
+        },
+        {
+          "title": "X-rays, only when there is a reason",
+          "body": "An exam sees surfaces. X-rays see between teeth, under old fillings and the bone around each root. [Digital X-rays](/general-dentistry/digital-x-rays/) use far less radiation than film and come up on the screen beside you. How many depends on your history, not a calendar."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Same-day cleaning or a deep cleaning planned separately",
+      "columns": [
+        "Healthy gums or mild gingivitis",
+        "Gum disease (periodontitis)"
+      ],
+      "rows": [
+        [
+          "Measurements",
+          "One to three millimeters, little bleeding",
+          "Pockets of four millimeters or more, bleeding, bone loss on X-rays"
+        ],
+        [
+          "At this visit",
+          "A routine cleaning and polish, usually the same day",
+          "The exam and a written plan; the cleaning is booked separately"
+        ],
+        [
+          "The cleaning itself",
+          "Above the gum line, usually no numbing",
+          "Scaling and root planing, numbed, often one side per visit"
+        ],
+        [
+          "Afterward",
+          "Check-ups at an interval that fits your risk",
+          "Re-check at four to six weeks, then maintenance every three to four months"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "A written plan, and what we will not do",
+      "body": [
+        "At the end we go through what we found on the screen, sorted into what needs attention soon, what can wait a few months, and what we would rather watch. Plenty of first visits end with nothing in the first group.",
+        "Anything beyond today's exam and cleaning is written down with its cost and what your insurance is expected to cover before it is booked. Where there is more than one reasonable fix, you hear all of them, including leaving it alone for now.",
+        "We will not start treatment you have not agreed to, book anything you did not ask for, or lecture you about how long it has been. Taking the plan home, or to another dentist, is normal. [Our approach](/about/our-approach/) has the rest of what you can hold us to."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Coming in because something already hurts",
+      "body": "A new patient in pain gets a problem-focused visit first: the tooth that hurts, the X-ray we need, and what will settle it, with treatment the same day when time allows. The full exam and cleaning follow at a second visit. Call {{phone}} first so we can plan the time.",
+      "cta": {
+        "label": "Same-day emergency care",
+        "href": "/emergency-dentistry/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long should I allow for a first visit?",
+      "a": "Plan on 60 to 90 minutes. The conversation, a full exam, any X-rays and a cleaning take longer than a routine check-up, and we would rather not rush the first time we meet."
+    },
+    {
+      "q": "Can my first visit be in the evening or on a weekend?",
+      "a": "Yes. We see patients 7:00 AM to 8:00 PM on weekdays and 8:00 AM to 1:00 PM on Saturday and Sunday. The visit is the same at any hour. See [evening and weekend appointments](/new-patients/evening-and-weekend-appointments/)."
+    },
+    {
+      "q": "Will I get a cleaning at my first visit?",
+      "a": "Usually. If your gum measurements are healthy or show mild inflammation, the cleaning happens the same day. If they show gum disease, a polish would leave the real problem in place, so we plan a [deep cleaning](/restorative-dentistry/deep-cleaning/) instead, usually over two numbed visits. See [gum disease treatment](/restorative-dentistry/gum-disease-treatment/)."
+    },
+    {
+      "q": "Can I book my children at the same time?",
+      "a": "Yes, back-to-back family appointments are a normal request. Children can have a first visit by their first birthday or within six months of the first tooth, and theirs is shorter: a ride in the chair, counting teeth, a look at how they are coming in. See [children's dentistry](/general-dentistry/childrens-dentistry/)."
+    }
+  ],
+  "related": [
+    "/new-patients/patient-forms/",
+    "/new-patients/insurance/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/new-patients/switching-dentists/",
+    "/general-dentistry/cleanings-and-exams/",
+    "/about/our-approach/"
+  ],
+  "cta": {
+    "heading": "Ready to meet us",
+    "body": "Pick an early morning, an evening or a weekend, finish registration from your phone, and we will have the rest ready when you arrive at the Bradlee Office Building in Alexandria. If you would rather ask a question first, call 703-560-7200 during our hours."
+  }
+}

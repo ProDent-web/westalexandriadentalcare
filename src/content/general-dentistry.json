@@ -1,0 +1,104 @@
+{
+  "slug": "/general-dentistry/",
+  "type": "hub",
+  "title": "General Dentistry",
+  "meta_title": "General Dentistry in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Checkups, cleanings, X-rays, sealants, fluoride and night guards for every age at West Alexandria Dental Care.",
+  "eyebrow": "Everyday care",
+  "h1": "General dentistry in West Alexandria",
+  "intro": "General dentistry is the everyday work: the [checkup and cleaning](/general-dentistry/cleanings-and-exams/), the X-ray that shows what a mirror cannot, the sealant on a child's new molar. Done regularly, it keeps most of this site from ever applying to you. Two general dentists see every age here, seven days a week.",
+  "icon": "shield",
+  "facts": [
+    {
+      "label": "Ages seen",
+      "value": "Every age"
+    },
+    {
+      "label": "Routine visit",
+      "value": "About an hour"
+    },
+    {
+      "label": "How often",
+      "value": "Set for your mouth"
+    },
+    {
+      "label": "Open",
+      "value": "Seven days a week"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why we would rather find it small",
+      "body": [
+        "A cavity begins as a chalky spot in the enamel. At that stage fluoride, better brushing and a shorter recall can often harden it again. Once decay reaches the dentin, the tooth needs a filling. At the nerve, the choice is a root canal and crown, or losing the tooth. Gums follow the same arc: bleeding when you floss usually reverses with a cleaning and better hygiene, but bone lost around the roots does not grow back.",
+        "Each step down that path costs more time, more tooth and more money than the one before. That is the whole case for [preventive dentistry](/general-dentistry/preventive-dentistry/), and why Dr. Atrash's rule is to prevent what can be prevented and preserve what can be preserved."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What a checkup here involves",
+      "items": [
+        {
+          "title": "The exam",
+          "body": "First, what has changed: medications, a twinge, grinding, dry mouth. Then every tooth and filling edge, the gums measured for pockets, your bite, and an [oral cancer screening](/general-dentistry/oral-cancer-screening/) of the tongue, cheeks, palate and neck."
+        },
+        {
+          "title": "X-rays only when needed",
+          "body": "[Digital X-rays](/general-dentistry/digital-x-rays/) show decay between teeth and bone under the gum. How often you need them depends on your history, not the calendar."
+        },
+        {
+          "title": "The cleaning",
+          "body": "Plaque and tartar come off above and just below the gum line, then a polish and [brushing and flossing](/general-dentistry/oral-hygiene/) coaching on your own mouth. If the measurements show gum disease, we plan a [deep cleaning](/restorative-dentistry/deep-cleaning/) instead and explain why."
+        },
+        {
+          "title": "The plan, on the screen",
+          "body": "What we find comes up on the monitor beside you: what needs doing now, what can be watched, and what each option costs, in writing. Doing nothing for now is a real option when it is the right one."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How often you should come back",
+      "body": [
+        "Twice a year is a habit, not a rule. The right interval depends on how fast you build tartar, how your gums measured, recent cavities, and the rest: dry mouth from medication, diabetes, smoking, aligners.",
+        "Healthy gums and no decay in years can mean twelve months. After gum disease, [periodontal maintenance](/general-dentistry/periodontal-maintenance/) every three or four months, because the pockets refill with bacteria faster than that. We set the interval at each visit and change it as your mouth changes. More in [how often you really need a cleaning](/blog/how-often-dental-cleanings/)."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Every age, one office, hours that fit around school and work",
+      "style": "check",
+      "items": [
+        "A first visit by the first birthday, [sealants](/general-dentistry/dental-sealants/) on new permanent molars around six and twelve, and [fluoride varnish](/general-dentistry/fluoride-treatment/) when cavity risk calls for it. See [children's dentistry](/general-dentistry/childrens-dentistry/).",
+        "Teens in aligners, parents with a lifetime of fillings, grandparents with dry mouth and a partial denture. See [family dentistry](/general-dentistry/family-dentistry/) and [dental care for seniors](/general-dentistry/dental-care-for-seniors/).",
+        "A custom [night guard](/general-dentistry/night-guards/) if you wake with a sore jaw or your teeth are wearing flat, and a mouthguard for contact sports.",
+        "Family appointments back to back, at 7 AM before school, until 8 PM after work, or on a weekend morning, in English, Arabic, Spanish or Portuguese, with free parking off I-395 in Alexandria."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "If something already hurts",
+      "body": "If a tooth aches, a filling fell out or your face is swelling, skip the checkup and call {{phone}} for a same-day visit, 7 AM to 8 PM weekdays and 8 AM to 1 PM weekends.",
+      "cta": {
+        "label": "Emergency dental care",
+        "href": "/emergency-dentistry/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which dentist will I see for a checkup?",
+      "a": "Either. [Dr. Sameer Atrash and Dr. Fadi Alhrashi](/dentists/) are both general dentists, and you can ask for one by name. When a periodontist, endodontist or orthodontist is the better choice, we refer you and say why."
+    },
+    {
+      "q": "Does a cleaning hurt?",
+      "a": "On healthy gums, mostly pressure, scraping sounds and cold water. Bleeding gums or exposed roots can be tender, so we can numb a spot, slow down, or use nitrous oxide if you ask. Tenderness fades in a day or two."
+    }
+  ],
+  "cta": {
+    "heading": "Due, overdue, or not sure?",
+    "body": "Book a checkup at an hour that suits you, early, late or on the weekend, and we will tell you plainly where things stand and how often you actually need to come back."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/baileys-crossroads/",
+  "type": "area",
+  "title": "Bailey's Crossroads",
+  "meta_title": "Dentist Near Bailey's Crossroads, VA | West Alexandria Dental Care",
+  "meta_description": "About ten to fifteen minutes from Bailey's Crossroads and Skyline via Seminary Road or Route 7 to West Alexandria Dental Care.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Bailey's Crossroads",
+  "intro": "Bailey's Crossroads, where Leesburg Pike meets Columbia Pike, and the Skyline towers beside it, are home to one of the largest multilingual communities in the region. Our office is about ten to fifteen minutes south via Seminary Road or Route 7, and it speaks the languages many of those households speak at home: Spanish, Arabic and Portuguese, as well as English. Virginia Medicaid and the major PPO plans are accepted, and we are open seven days.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "About ten to fifteen minutes"
+    },
+    {
+      "label": "Route",
+      "value": "Seminary Road or Route 7"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Arabic, Spanish, Portuguese"
+    },
+    {
+      "label": "Weekends",
+      "value": "8 AM–1 PM"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Bailey's Crossroads",
+      "body": [
+        "Families from the apartment communities around Skyline and along Columbia Pike, often with children on Virginia Medicaid. People who work in restaurants, construction and retail and whose only free time is a weekend morning or a weekday evening. Portuguese-speaking and Spanish-speaking households who want to understand a treatment plan fully before agreeing to it. Arabic-speaking families who appreciate that [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/) can explain things directly.",
+        "What we hear most often is relief at being understood. A medical history, a description of pain and a conversation about cost all go better in your own language. See [languages we speak](/new-patients/languages/)."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via Seminary Road",
+          "body": "South on Seminary Road from Bailey's Crossroads, across I-395, to Quaker Lane, then south to W. Braddock Road. The Bradlee Office Building is beside Bradlee Shopping Center."
+        },
+        {
+          "title": "Via Route 7 and King Street",
+          "body": "Leesburg Pike toward Alexandria becomes King Street; continue to W. Braddock Road."
+        },
+        {
+          "title": "Timing",
+          "body": "Roughly ten to fifteen minutes outside rush hour. Weekend mornings are the easiest drive."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What Bailey's Crossroads patients most often come in for",
+      "items": [
+        {
+          "title": "Children's dentistry with Medicaid",
+          "body": "First visits, sealants, fluoride and fillings, with Virginia Medicaid accepted.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Emergency care on a weekend",
+          "body": "A toothache or swelling seen Saturday or Sunday morning rather than endured until Monday.",
+          "href": "/emergency-dentistry/"
+        },
+        {
+          "title": "Care without insurance",
+          "body": "A written estimate before anything starts, and priorities explained so treatment can be staged.",
+          "href": "/new-patients/no-insurance/"
+        },
+        {
+          "title": "Dentures, partials and implants",
+          "body": "Replacing missing teeth, with every option explained in your language and the cost in writing.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted.",
+        "Care in English, Arabic, Spanish and Portuguese. Mention your language when booking.",
+        "Paperwork completed online, on a phone, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Weekend mornings exist for working families",
+      "body": "Saturday and Sunday from 8 AM to 1 PM, same dentists, same care. Many Bailey's Crossroads families book the whole household for one weekend morning.",
+      "cta": {
+        "label": "Evening and weekend appointments",
+        "href": "/new-patients/evening-and-weekend-appointments/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you speak Portuguese?",
+      "a": "Yes. Our team can support patients in Portuguese, Spanish, Arabic and English. Tell us your preferred language when you book so the right team member is scheduled."
+    },
+    {
+      "q": "How far is it from Skyline?",
+      "a": "About ten to fifteen minutes by car via Seminary Road or Route 7, depending on traffic. Free parking at the building."
+    },
+    {
+      "q": "Do you accept Virginia Medicaid?",
+      "a": "Yes, for children and for adults within what the program covers. We check your specific coverage before the visit and explain what applies."
+    },
+    {
+      "q": "Can I come on a Sunday?",
+      "a": "Yes. We are open Sunday from 8 AM to 1 PM for check-ups, treatment and urgent problems."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/lincolnia/",
+    "/areas/landmark/",
+    "/new-patients/languages/",
+    "/new-patients/medicaid/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "Open on the weekend, in your language.",
+    "body": "Book online at any hour or call, and tell us which language you would like to use."
+  }
+}

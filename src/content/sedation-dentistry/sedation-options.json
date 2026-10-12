@@ -1,0 +1,129 @@
+{
+  "slug": "/sedation-dentistry/sedation-options/",
+  "type": "service",
+  "title": "Sedation Options",
+  "meta_title": "Dental Sedation Options in Alexandria | West Alexandria Dental Care",
+  "meta_description": "Beyond nitrous oxide: deeper sedation may be available at West Alexandria Dental Care after an individual review.",
+  "eyebrow": "Comfort and sedation",
+  "h1": "Sedation options at the dentist",
+  "intro": "For some people nitrous oxide is not enough: the anxiety is too strong, the procedure is too long, or a past experience makes the chair itself hard to tolerate. Deeper sedation may be an option. It is decided for you individually, after a review of your health, your medications and the treatment planned, rather than chosen from a menu, because what is safe and sensible varies from person to person.",
+  "icon": "moon",
+  "facts": [
+    {
+      "label": "Decided by",
+      "value": "An individual review"
+    },
+    {
+      "label": "Still needed",
+      "value": "Local anesthetic"
+    },
+    {
+      "label": "Usually required",
+      "value": "An adult to take you"
+    },
+    {
+      "label": "Not suitable for",
+      "value": "Everyone; we say so"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What sedation does, and does not do",
+      "body": [
+        "Sedation reduces anxiety and awareness. Depending on the level, you may feel deeply relaxed and drowsy, drift in and out, or remember little of the appointment afterward. It is different from general anesthesia, where you are fully unconscious, which is not done in a general dental office.",
+        "Sedation does not stop you feeling the tooth. Local anesthetic does that, and it is still given, usually once you are relaxed enough not to mind. The two work together: the sedation makes the numbing and the time in the chair tolerable, and the numbing makes the treatment painless."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What the review covers",
+      "items": [
+        {
+          "title": "Your health",
+          "body": "Heart, lungs, liver and kidney conditions, sleep apnea, diabetes, and anything else that affects how the body handles sedative medication."
+        },
+        {
+          "title": "Your medications",
+          "body": "Everything, including supplements, recreational substances and anything taken for anxiety or sleep. Interactions matter and nothing is judged."
+        },
+        {
+          "title": "Previous experiences",
+          "body": "Reactions to anesthesia or sedation, difficulty getting numb, and what has helped or failed before."
+        },
+        {
+          "title": "The treatment planned",
+          "body": "A short filling and a two-hour surgical visit call for different approaches."
+        },
+        {
+          "title": "The level that fits",
+          "body": "From nitrous oxide alone to deeper options, chosen for you, with the instructions that go with it. In some cases the safest answer is treatment in a hospital or specialist setting, and we say so."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The usual rules for deeper sedation",
+      "style": "check",
+      "items": [
+        "Follow the fasting instructions you are given exactly; they are a safety measure, not a formality.",
+        "Bring a responsible adult to take you home and stay with you for the rest of the day.",
+        "No driving, working, operating machinery, signing documents or making important decisions until the next day.",
+        "Take your regular medications only as instructed at the review.",
+        "Do not take alcohol, cannabis or any extra sedative before the appointment; combining substances is unsafe and will mean postponing treatment.",
+        "Wear comfortable clothing and arrive on time; sedated appointments are scheduled with care."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why we never copy a friend's prescription",
+      "body": [
+        "A medication that worked for someone else, or for you at a different time, may be wrong now because of a new medication, a change in health or a different procedure. Sedation decisions require the review, informed consent, and a plan for monitoring during the visit and recovery afterward. We will not prescribe sedation over the phone or on request without that process, and an office that does is not looking after you."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Start simpler, if simpler works",
+      "body": "Many people who come in asking about sedation find that a slower appointment, a stop signal, careful numbing and nitrous oxide are enough. We suggest the least medication that achieves a calm visit, and step up only if needed.",
+      "cta": {
+        "label": "About nitrous oxide",
+        "href": "/sedation-dentistry/nitrous-oxide/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I just ask for sedation?",
+      "a": "You can ask, and we take the request seriously. Whether it is appropriate, and which level, is decided after the review of your health, medications and the treatment planned. That review is what makes it safe."
+    },
+    {
+      "q": "Will I be unconscious?",
+      "a": "No. Dental sedation ranges from relaxed and awake to drowsy and only partly aware. General anesthesia, where you are fully unconscious, is not done in a general dental office."
+    },
+    {
+      "q": "Will I remember the appointment?",
+      "a": "With deeper sedation, often very little. With nitrous oxide, you remember it but it feels distant. Many anxious patients find the limited memory helps the next visit feel easier."
+    },
+    {
+      "q": "Is sedation covered by insurance?",
+      "a": "Sometimes, for certain procedures or for children, and often not. We tell you the cost when the plan is made so there are no surprises."
+    },
+    {
+      "q": "Can children have deeper sedation here?",
+      "a": "Nitrous oxide is commonly used for children. Deeper sedation for children is assessed case by case, and where it is needed we usually refer to a pediatric specialist with the right facilities."
+    }
+  ],
+  "related": [
+    "/sedation-dentistry/",
+    "/sedation-dentistry/nitrous-oxide/",
+    "/sedation-dentistry/dental-anxiety/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/dental-implants/",
+    "/restorative-dentistry/wisdom-teeth-removal/"
+  ],
+  "cta": {
+    "heading": "Tell us what makes visits hard. We will plan from there.",
+    "body": "Book a consultation to talk through comfort and sedation options before any treatment is scheduled."
+  }
+}

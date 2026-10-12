@@ -1,0 +1,120 @@
+{
+  "slug": "/dental-implants/aftercare/",
+  "type": "service",
+  "title": "Caring for Implants",
+  "meta_title": "Dental Implant Aftercare & Long-Term Care | WA Dental Care",
+  "meta_description": "After implant surgery: the first days, the healing months, and life after the crown. Daily cleaning, professional maintenance.",
+  "eyebrow": "Dental implants",
+  "h1": "Caring for dental implants",
+  "intro": "An implant cannot decay, which leads some people to think it needs no care. It needs a different kind of care. The bone and gum around it respond to plaque exactly as they do around a natural tooth, and an implant lost to gum infection is lost for good. The routine is simple and it is what turns an implant into a decades-long result.",
+  "icon": "shield-check",
+  "facts": [
+    {
+      "label": "First days",
+      "value": "Soft food, no smoking"
+    },
+    {
+      "label": "Healing",
+      "value": "Three to six months"
+    },
+    {
+      "label": "Daily",
+      "value": "Brush and clean around it"
+    },
+    {
+      "label": "Professional",
+      "value": "Cleanings every six months"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "The first week after placement",
+      "items": [
+        {
+          "title": "Day of surgery",
+          "body": "Bite on gauze as directed, rest with your head raised, cold packs on the cheek twenty minutes on and off. Take pain relief on schedule before the numbness fades. Soft, cool food. No straws, spitting, rinsing or smoking."
+        },
+        {
+          "title": "Days two to three",
+          "body": "Swelling and some bruising peak and then ease. Start gentle warm salt-water rinses after meals. Brush the other teeth normally and the surgical area very gently with a soft brush."
+        },
+        {
+          "title": "Days four to seven",
+          "body": "Discomfort fades. Diet builds up but stay off the implant site. Stitches dissolve or are removed at a follow-up."
+        },
+        {
+          "title": "Call if",
+          "body": "Bleeding will not stop with pressure, swelling or pain gets worse after day three, you have fever, or anything about the site feels wrong. Our hours run seven days."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The healing months",
+      "body": [
+        "While bone fuses to the implant, the site should be left alone: no chewing on it, no probing it with your tongue, and no removable temporary pressing on it unless we have adjusted it to clear the area. Keep the gum around it clean with gentle brushing. If a healing cap is visible, brush it like a tooth. Smoking during this period is the single most damaging thing you can do to the outcome, and we would rather say that bluntly than lose the implant."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Daily care once the crown is on",
+      "style": "check",
+      "items": [
+        "Brush the crown twice a day, with attention to where it meets the gum.",
+        "Clean around the implant once a day with floss, an interdental brush or a water flosser. For a bridge or denture on implants, clean under and around every part.",
+        "Use a soft brush and a non-abrasive toothpaste; harsh pastes scratch the crown and abutment.",
+        "Rinse with water after meals if food collects around it.",
+        "Wear your night guard if you grind. Implants have no shock-absorbing ligament, so grinding loads them harder than natural teeth."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Professional maintenance",
+      "body": [
+        "Cleanings and exams every six months, or every three to four months if you have a history of gum disease. At each visit the gum around the implant is checked for bleeding and pocket depth, the crown and attachments for looseness, and the bone level on an X-ray at intervals. The hygienist uses instruments that do not scratch titanium. Catching inflammation early is the whole point; it is easily reversed at the start and hard to reverse later."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How long implants last",
+      "body": [
+        "With the routine above, the implant itself commonly lasts for decades and often for life. The crown is a wearing part and may need replacing after fifteen years or so, which is straightforward. The attachments on an implant-retained denture are replaced every year or two as a routine. What shortens an implant's life is plaque left around it, smoking, untreated grinding and missed check-ups, all of which are within your control."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I floss around an implant normally?",
+      "a": "Yes, gently, with the floss curved around the crown and taken just under the gum edge. Interdental brushes and water flossers work well too, and are often easier for implant bridges."
+    },
+    {
+      "q": "Do implants need special toothpaste?",
+      "a": "No. An ordinary fluoride toothpaste is fine for the natural teeth around it and does no harm to the crown. Avoid abrasive or charcoal pastes, which scratch."
+    },
+    {
+      "q": "Can an implant get a cavity?",
+      "a": "No. Titanium and ceramic do not decay. The gum and bone around the implant can become infected, which is why cleaning and check-ups still matter."
+    },
+    {
+      "q": "How soon after surgery can I exercise?",
+      "a": "Light activity the next day is fine. Avoid strenuous exercise for about a week, as raised blood pressure can restart bleeding and increase swelling."
+    },
+    {
+      "q": "What if my crown comes loose?",
+      "a": "Call. A loose crown or abutment screw is usually tightened or re-cemented quickly. Do not keep chewing on it, as a loose connection can damage the implant."
+    }
+  ],
+  "related": [
+    "/dental-implants/",
+    "/dental-implants/single-tooth-implants/",
+    "/general-dentistry/oral-hygiene/",
+    "/general-dentistry/periodontal-maintenance/",
+    "/general-dentistry/night-guards/",
+    "/restorative-dentistry/gum-disease-treatment/"
+  ],
+  "cta": {
+    "heading": "Implants placed here are looked after here.",
+    "body": "Maintenance visits are part of the plan from the start, at times that fit your week. Book a check or call with any concern about an implant, wherever it was placed."
+  }
+}

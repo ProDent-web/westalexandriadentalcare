@@ -1,0 +1,193 @@
+{
+  "slug": "/new-patients/evening-and-weekend-appointments/",
+  "type": "info",
+  "title": "Evening & Weekend Appointments",
+  "meta_title": "Evening & Weekend Dental Appointments | West Alexandria Dental Care",
+  "meta_description": "Before work, after work or on a weekend morning: West Alexandria Dental Care sees patients 7 AM to 8 PM on weekdays and 8 AM to 1 PM on Saturday and Sunday.",
+  "eyebrow": "Open seven days",
+  "h1": "Evening and weekend dental appointments in West Alexandria",
+  "intro": "We see patients from 7:00 AM to 8:00 PM Monday through Friday and from 8:00 AM to 1:00 PM on Saturday and Sunday. That is the ordinary schedule, not a once-a-month late night, so a cleaning, a filling or a first visit can happen before work, after dinner or on a Sunday morning without taking time off.",
+  "icon": "clock",
+  "facts": [
+    {
+      "label": "Weekdays",
+      "value": "7 AM to 8 PM"
+    },
+    {
+      "label": "Weekends",
+      "value": "8 AM to 1 PM"
+    },
+    {
+      "label": "Booking",
+      "value": "Online, any hour"
+    },
+    {
+      "label": "Dentists",
+      "value": "The same two, every hour"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The problem these hours solve",
+      "body": [
+        "Most dental offices keep roughly the same hours as the people they treat, so a check-up costs an afternoon of leave and a family of four costs four of them. Care that is easy to postpone tends to get postponed, and a small cavity that would have been a filling often becomes a crown a year later.",
+        "We built the schedule the other way around: open before the first meeting, open past dinner, open on weekend mornings. The appointment sits at the edges of your week, and the second visit for a crown or a follow-up for your gums actually happens."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Who uses the early, late and weekend slots",
+      "items": [
+        {
+          "title": "Commuters on I-395 and Metro",
+          "body": "A 7:00 AM appointment is done before the traffic builds. Coming home, the Bradlee Office Building in West Alexandria is just off the King Street exit with free surface parking around it, so an evening visit adds no parking hunt.",
+          "href": "/contact/"
+        },
+        {
+          "title": "Parents",
+          "body": "School pickup, practice and bedtime leave almost no daylight for a dental visit. Weekend mornings and the hour after dinner do, and a child and a parent can be booked back to back.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Shift workers",
+          "body": "Nurses, restaurant and retail staff, anyone on a rotating roster: midweek afternoons are no use when your week starts at 3:00 PM. Early and late slots exist every weekday, and weekend mornings are regular appointment times, not overflow."
+        },
+        {
+          "title": "Students",
+          "body": "Classes, a part-time job and a shared car. A Saturday cleaning booked from your phone at midnight is more likely to happen than one arranged by phone between lectures.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "People who put it off because nothing fit",
+          "body": "If no office was open when you were free, the last visit may be years behind you. That was a scheduling problem, and the schedule is now fixed: you get an exam, a plan and no lecture about the gap.",
+          "href": "/new-patients/switching-dentists/"
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Hours, day by day",
+      "columns": [
+        "Opens",
+        "Closes"
+      ],
+      "rows": [
+        [
+          "Monday",
+          "7:00 AM",
+          "8:00 PM"
+        ],
+        [
+          "Tuesday",
+          "7:00 AM",
+          "8:00 PM"
+        ],
+        [
+          "Wednesday",
+          "7:00 AM",
+          "8:00 PM"
+        ],
+        [
+          "Thursday",
+          "7:00 AM",
+          "8:00 PM"
+        ],
+        [
+          "Friday",
+          "7:00 AM",
+          "8:00 PM"
+        ],
+        [
+          "Saturday",
+          "8:00 AM",
+          "1:00 PM"
+        ],
+        [
+          "Sunday",
+          "8:00 AM",
+          "1:00 PM"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to find an early, late or weekend time",
+      "items": [
+        {
+          "title": "Book online, at any hour",
+          "body": "You can {{book}} 24 hours a day. Pick the day and look at the earliest, latest or weekend times that are open. First visits, cleanings and specific problems can all be booked this way."
+        },
+        {
+          "title": "Or call during our hours",
+          "body": "Call {{phone}} any time we are open, weekend mornings included, when you want several family members in a row, a particular dentist, a time for something that hurts, or an insurance question answered first."
+        },
+        {
+          "title": "Say what would make the visit work",
+          "body": "Your preferred language (English, Arabic, Spanish or Portuguese), that you are nervous, that you would like a cleaning the same day, or that you must be out by a set time. Each changes how much time we set aside."
+        },
+        {
+          "title": "Finish the paperwork the night before",
+          "body": "Registration runs through our secure {{forms}} in a few minutes on a phone, including a photo of your insurance card. Doing it ahead keeps a 7:00 AM appointment at 7:00 AM instead of 7:20."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What stays the same at 7 AM, 7 PM and Sunday morning",
+      "body": [
+        "The same two general dentists, [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) and [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/), see the early, late and weekend appointments. There is no separate evening roster. If you want a particular dentist, ask when you book and we will find a time that matches his schedule.",
+        "The visit is the same visit, at the same length. An evening exam still covers every tooth, your gums, your bite and an oral cancer screening, and you still leave with the plan and its cost in writing before anything further is booked.",
+        "Same-day care for an emergency holds at every hour too. A toothache on a Thursday evening or a broken tooth on a Sunday morning is seen that day if you call first, and new patients from across Alexandria are welcome for [emergency dental care](/emergency-dentistry/)."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Appointments that fit well into the edges of a day",
+      "style": "check",
+      "items": [
+        "A cleaning and exam before work. Allow about an hour, or 60 to 90 minutes for a first visit.",
+        "A [filling](/restorative-dentistry/tooth-colored-fillings/) after work, so the numbness wears off over dinner instead of in a meeting.",
+        "The fitting visit for a [crown](/restorative-dentistry/dental-crowns/), which is usually short: temporary off, crown on, bite checked.",
+        "A weekend morning for the whole family, back to back, so toddlers, teens and grandparents are done by lunch. See [family dentistry](/general-dentistry/family-dentistry/).",
+        "The limit: longer procedures need more time than the last hour of the day leaves, and sedation beyond nitrous oxide usually means an adult to drive you home, so those are booked where the time genuinely exists. We say so when that applies."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "If something hurts and we are closed",
+      "body": "Because we are open seven days, closed time is mostly overnight. Reserve the first available slot online, which works at any hour, and call {{phone}} when we open.",
+      "cta": {
+        "label": "Dental emergencies after hours",
+        "href": "/emergency-dentistry/after-hours/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are evening and weekend appointments only for emergencies?",
+      "a": "No. They are ordinary times for cleanings, fillings, crowns, consultations and first visits. Emergencies are fitted in the same day during any of our hours, but the schedule is not held empty for them, so book a Saturday cleaning like any other appointment."
+    },
+    {
+      "q": "How late can an appointment start?",
+      "a": "Weekday appointments end at 8:00 PM and weekend ones at 1:00 PM, so the latest start depends on the visit. A cleaning can start later than a crown preparation, and a first visit needs 60 to 90 minutes, so on a weekend it wants a morning start. Calling {{phone}} lets us match the time to the treatment."
+    },
+    {
+      "q": "Will I keep the same dentist if I always come in the evening?",
+      "a": "That is the aim. Tell us which dentist you would like and we book you with him when his hours and yours line up. If a time you need only works with the other dentist, we say so when you book rather than switching you without asking, and both work from the same records and plan."
+    }
+  ],
+  "related": [
+    "/new-patients/first-visit/",
+    "/new-patients/patient-forms/",
+    "/general-dentistry/family-dentistry/",
+    "/emergency-dentistry/after-hours/",
+    "/new-patients/switching-dentists/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "Find the hour that does not cost you a day off",
+    "body": "Open the booking calendar whenever you think of it, midnight included, and choose the early, late or weekend time that fits. If you would rather sort it out with a person, call 703-560-7200 any time we are open, seven days a week."
+  }
+}

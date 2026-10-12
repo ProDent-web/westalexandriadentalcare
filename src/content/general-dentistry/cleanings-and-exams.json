@@ -1,0 +1,160 @@
+{
+  "slug": "/general-dentistry/cleanings-and-exams/",
+  "type": "service",
+  "title": "Cleanings & Exams",
+  "meta_title": "Dental Cleanings & Exams in Alexandria | West Alexandria Dental Care",
+  "meta_description": "What happens at a cleaning and exam at West Alexandria Dental Care: gums measured, every tooth checked, oral cancer screening, X-rays only when needed.",
+  "eyebrow": "General dentistry",
+  "h1": "Cleanings and exams in West Alexandria",
+  "intro": "The check-up is the appointment that keeps small problems small. A cleaning removes what brushing cannot, and the exam catches a cavity while it is still a tiny filling rather than a crown. Here is exactly what happens, how long it takes, and why six months is a starting point rather than a rule.",
+  "icon": "tooth",
+  "facts": [
+    {
+      "label": "Allow",
+      "value": "About an hour"
+    },
+    {
+      "label": "How often",
+      "value": "Usually every six months"
+    },
+    {
+      "label": "Numbing",
+      "value": "Not normally needed"
+    },
+    {
+      "label": "Includes",
+      "value": "Oral cancer screening"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "What happens, in order",
+      "items": [
+        {
+          "title": "A conversation first",
+          "body": "What has changed since last time, anything that has bothered you, new medications, anything you want looked at. If you are nervous, this is where you say so."
+        },
+        {
+          "title": "Gums measured",
+          "body": "A small probe checks the depth of the space between gum and tooth at several points around each tooth. Healthy gums measure shallow and do not bleed. Deeper, bleeding pockets are the earliest sign of gum disease, long before anything feels wrong."
+        },
+        {
+          "title": "The cleaning",
+          "body": "Hardened plaque, called tartar, is removed from above and just below the gum line with fine instruments and an ultrasonic scaler, then the teeth are polished. Some people feel cold sensitivity on exposed roots; tell the hygienist and the approach changes."
+        },
+        {
+          "title": "The exam",
+          "body": "The dentist checks every tooth, every existing filling and crown, your bite, your jaw joints and the soft tissues of the mouth. Every exam includes an [oral cancer screening](/general-dentistry/oral-cancer-screening/)."
+        },
+        {
+          "title": "X-rays if there is a reason",
+          "body": "[Digital X-rays](/general-dentistry/digital-x-rays/) find decay between teeth and under fillings that no mirror can see. They are taken on a schedule set by your risk, not at every visit by habit."
+        },
+        {
+          "title": "What we found, in plain words",
+          "body": "Anything that needs doing now, anything that can be watched, and anything that is simply fine. If treatment is suggested, you get the cost in writing and no pressure to decide on the spot."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "A routine cleaning is not a deep cleaning",
+      "body": [
+        "A routine cleaning works above the gum line and a little below it, on gums that are healthy or mildly inflamed. If the exam finds deep pockets, bleeding and tartar on the roots, what you need is a [deep cleaning](/restorative-dentistry/deep-cleaning/) under local anesthetic, planned as its own appointment. A routine cleaning cannot reach where gum disease does its damage, and pretending otherwise just delays the right treatment.",
+        "Patients who have been treated for gum disease then move to [periodontal maintenance](/general-dentistry/periodontal-maintenance/), usually every three to four months, which is a different appointment from a standard cleaning."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "How often should you come?",
+      "columns": [
+        "Every six months",
+        "Every three to four months",
+        "Once a year"
+      ],
+      "rows": [
+        [
+          "Who it suits",
+          "Healthy gums, average cavity risk",
+          "Treated gum disease, dry mouth, frequent cavities, braces or aligners",
+          "Rarely recommended; sometimes for very low-risk adults"
+        ],
+        [
+          "What it catches",
+          "Early decay and early gum changes",
+          "Gum disease before it rebounds; decay in high-risk mouths",
+          "Problems that have had a year to grow"
+        ],
+        [
+          "Our usual advice",
+          "A sensible default for most adults and children",
+          "What we recommend when risk is higher",
+          "Only when the previous years have been consistently clear"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Bring these to your first check-up",
+      "style": "check",
+      "items": [
+        "Your insurance card or a photo of it, or upload it through the {{forms}} beforehand.",
+        "A list of medications, including ones that seem unrelated to teeth. Blood thinners, bone medications and some blood pressure drugs change how we plan.",
+        "Recent X-rays from a previous office if you have them. Ask that office to send them and we may not need new ones.",
+        "Any questions you have been meaning to ask. There is time built in for them."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Been a while?",
+      "body": "A long gap is common and it is not a problem. Say so when you book and we allow more time, go slowly, and start with where things stand rather than where they should have been. No lecture.",
+      "cta": {
+        "label": "Nervous about the dentist?",
+        "href": "/sedation-dentistry/dental-anxiety/"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Check-ups that fit a real schedule",
+      "body": [
+        "Cleanings and exams are available from 7 AM on weekdays, into the evening until 8 PM, and on Saturday and Sunday mornings. Families often book back to back so one trip covers everyone. Booking is online around the clock, or call {{phone}} and someone at the office will find a time."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a cleaning hurt?",
+      "a": "For most people it does not. Gums that are inflamed can be tender, and exposed roots can feel cold. Tell the hygienist and the technique changes; a numbing gel is available for sensitive spots. Nitrous oxide is an option if the visit itself makes you anxious."
+    },
+    {
+      "q": "Will I get a cleaning at my first visit?",
+      "a": "Usually, if your gums are healthy. If the exam finds gum disease, the right treatment is a deep cleaning, which is planned as a separate appointment so it can be done properly under local anesthetic."
+    },
+    {
+      "q": "Why do you measure my gums every time?",
+      "a": "Because gum disease is painless until it is advanced. Pocket depths are the earliest reliable sign, and comparing them visit to visit tells us whether things are stable, improving or slipping."
+    },
+    {
+      "q": "Do I need X-rays at every visit?",
+      "a": "No. Check-up X-rays are taken on an interval set by your cavity history and gum health, often every one to two years for low-risk adults and more often for higher risk. If something looks wrong, a single targeted image answers the question."
+    },
+    {
+      "q": "Is a cleaning covered by insurance?",
+      "a": "Most plans cover two cleanings and exams a year at or near 100 percent, and we file the claim for you. Virginia Medicaid is accepted. If you have no insurance, the cost is given before you book."
+    }
+  ],
+  "related": [
+    "/general-dentistry/preventive-dentistry/",
+    "/general-dentistry/digital-x-rays/",
+    "/general-dentistry/oral-cancer-screening/",
+    "/restorative-dentistry/deep-cleaning/",
+    "/new-patients/first-visit/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Due for a check-up?",
+    "body": "Book a cleaning and exam online, early morning, evening or weekend, and leave knowing exactly where your teeth and gums stand."
+  }
+}

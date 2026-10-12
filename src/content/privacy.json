@@ -1,0 +1,139 @@
+{
+  "slug": "/privacy/",
+  "type": "info",
+  "title": "Privacy Policy",
+  "meta_title": "Privacy Policy | West Alexandria Dental Care",
+  "meta_description": "What West Alexandria Dental Care's website collects, how cookies work, how AppointNow and Denticon handle booking and forms.",
+  "eyebrow": "Privacy policy",
+  "h1": "How this website handles your information",
+  "intro": "This page explains what the West Alexandria Dental Care website collects when you read it, book an appointment or complete paperwork, and what we do with it. It is effective October 2026 and published by Virginia Family Dental Group PLLC. Your dental records are protected separately, under HIPAA and the Notice of Privacy Practices available at our office.",
+  "icon": "shield",
+  "facts": [
+    {
+      "label": "Effective",
+      "value": "October 2026"
+    },
+    {
+      "label": "Applies to",
+      "value": "This website"
+    },
+    {
+      "label": "Dental records",
+      "value": "Separate HIPAA notice"
+    },
+    {
+      "label": "Questions",
+      "value": "Call 703-560-7200"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What this policy covers, and what it does not",
+      "body": [
+        "It covers this website: the pages you read, any form on it, and the technical information your browser sends while you are here.",
+        "It does not cover your health information, which is handled under HIPAA and our Notice of Privacy Practices. Nor does it cover other websites. Once you follow a link away from here, including the Google map on our [contact page](/contact/), that site's own policy applies. If this policy changes, the new version is posted here with a new effective date."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What this website collects, and why",
+      "items": [
+        {
+          "title": "Details you send us",
+          "body": "If you use a contact form here, we receive what you type: usually a name, a phone number or email, and your message. We use it to reply and for nothing else. Keep health details out of it; a web form is not the place for them."
+        },
+        {
+          "title": "What your browser sends on its own",
+          "body": "Our server logs basic technical details when a page loads: IP address, browser and device type, pages viewed, time, and the site that sent you here. The logs keep the site running and help us spot abuse. They are not matched to your patient record."
+        },
+        {
+          "title": "Visit counts we may measure",
+          "body": "This site may use a web analytics service to count visits and see which pages are read. If it does, we look only at aggregated figures: visitors, pages, device type. Analytics is not used to identify you by name or build a profile of you."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What happens when you book or complete paperwork online",
+      "items": [
+        {
+          "title": "You leave this site",
+          "body": "The Book online button takes you to AppointNow, a scheduling platform. The Complete patient paperwork link takes you to Denticon, the secure system that holds our patient records. Each runs under its own privacy policy and terms."
+        },
+        {
+          "title": "You enter what the visit needs",
+          "body": "Booking asks for the basics that hold a time, usually name, phone number and email. Registration asks for more: personal details, medical history, medications and insurance, with the option to upload images of your insurance card."
+        },
+        {
+          "title": "It reaches our office and becomes part of your record",
+          "body": "What you submit comes to our team so we can verify your [insurance](/new-patients/insurance/), review your history and prepare for your visit. From that point it is protected health information under HIPAA and our Notice of Privacy Practices. It is never used for marketing lists or sold."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Your dental records are covered by a separate notice",
+      "body": "Everything in your patient record, from X-rays to insurance claims, is protected health information under HIPAA. How we use and share it for treatment and payment, and your rights to see, copy and correct it, are set out in our Notice of Privacy Practices. A copy is available at the office; ask at the desk or call during our hours.",
+      "cta": {
+        "label": "Call 703-560-7200",
+        "href": "tel"
+      }
+    },
+    {
+      "type": "list",
+      "heading": "What we will not do with your information",
+      "intro": "We will not:",
+      "style": "bullet",
+      "items": [
+        "Sell personal information collected through this website, or share it with advertisers.",
+        "Share it with anyone except the companies that host this site and run our booking and registration, and only for that work, unless the law requires otherwise.",
+        "Knowingly collect information from children under 13 through this site. A parent or guardian books and registers for a child.",
+        "Ask for passwords, card numbers or health details through a web form, email or text. If a message claiming to be from us asks for them, call us before you reply."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Cookies, and how to limit them",
+      "body": [
+        "A cookie is a small text file a site stores in your browser so it recognizes you on the next page or visit. This site may use a few: ones that help pages work correctly and, if analytics is in use, one that distinguishes a return visit from a new one. None contains your name or anything from your patient record.",
+        "You can view, block or delete cookies in your browser's privacy settings, and every page here should still read normally with them off. The booking and registration platforms set their own cookies to keep your session open while you type."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Security, how long we keep it, and how to reach us",
+      "body": [
+        "This site is served over an encrypted connection, so what passes between your browser and the site cannot be read along the way. Patient records live in the secure registration system, not on the website. Nothing sent over the internet is entirely free of risk, so health details belong on the phone or the registration page.",
+        "Messages sent through the site are kept as long as we need them to respond, and no longer. Server logs are kept briefly for security and troubleshooting. Your patient record is kept for as long as Virginia law requires.",
+        "You can ask what we hold about you from this website and ask us to correct or delete it. Your rights over your dental records are in the Notice of Privacy Practices. For either, call 703-560-7200, 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM Saturday and Sunday, or write to Bradlee Office Building, 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does what I type into the online booking page go to your office or to someone else?",
+      "a": "Both. AppointNow stores it under its own privacy policy and passes it to our team so we can hold your appointment. From then on it is part of your patient record, protected under HIPAA. The Denticon registration page works the same way."
+    },
+    {
+      "q": "Can I email you my medical history or a photo of my insurance card?",
+      "a": "Please do not. Email is not a secure way to send health or insurance details. Use the {{forms}}, which takes your history and card images over an encrypted connection, or bring the card to [your first visit](/new-patients/first-visit/) and we will copy it at the desk."
+    },
+    {
+      "q": "Where can I read your HIPAA Notice of Privacy Practices?",
+      "a": "At the office. Ask at the front desk at any visit, or call 703-560-7200 and we will arrange a copy. It covers how your dental records are used and shared and your rights over them, a different subject from this page."
+    }
+  ],
+  "related": [
+    "/new-patients/patient-forms/",
+    "/book-online/",
+    "/contact/",
+    "/accessibility/",
+    "/new-patients/first-visit/"
+  ],
+  "cta": {
+    "heading": "A question this page did not answer?",
+    "body": "Call 703-560-7200 during our hours, seven days a week, and a member of the team will answer it or find the person who can. We would rather you ask than wonder."
+  }
+}

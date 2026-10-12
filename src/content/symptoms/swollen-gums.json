@@ -1,0 +1,145 @@
+{
+  "slug": "/symptoms/swollen-gums/",
+  "type": "symptom",
+  "title": "Swollen Gums",
+  "meta_title": "Swollen Gums: One Spot or Everywhere? | West Alexandria Dental Care",
+  "meta_description": "Swollen gums in one place or all over: gingivitis, abscess, trapped food, an erupting wisdom tooth, medications, pregnancy or a rough crown edge.",
+  "eyebrow": "Symptom guide",
+  "h1": "Swollen gums",
+  "intro": "Where the swelling is tells most of the story. Gums puffy everywhere, especially between the teeth, is almost always gingivitis. One swollen spot that hurts is usually an abscess, trapped food or a wisdom tooth.",
+  "icon": "gum",
+  "facts": [
+    {
+      "label": "Everywhere",
+      "value": "Usually gingivitis"
+    },
+    {
+      "label": "One spot",
+      "value": "Abscess, food, wisdom tooth"
+    },
+    {
+      "label": "With pus or fever",
+      "value": "Same-day call"
+    },
+    {
+      "label": "Spreading to the face",
+      "value": "Emergency room"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Gingivitis.** Plaque along the gum line inflames the gums so they swell, redden and bleed. General, not localized.",
+        "**A gum abscess**, from infection in a deep pocket or something lodged under the gum. One tender, often shiny swelling.",
+        "**A tooth abscess** draining through the gum: a pimple-like bump near the root of a tooth that may come and go.",
+        "**Food impaction**: a popcorn husk, a seed or meat fiber wedged between teeth or under the gum.",
+        "**An erupting or infected wisdom tooth**, with swelling over the back of the jaw and sometimes difficulty opening.",
+        "**Medications**, including some blood pressure drugs, anti-seizure medications and immunosuppressants, which cause the gums to overgrow.",
+        "**Pregnancy**, where hormones make gums react more strongly, occasionally producing a harmless lump called a pregnancy granuloma.",
+        "**A rough edge** on a crown, filling or denture rubbing the gum.",
+        "**Rarely**, vitamin deficiencies, blood disorders or other conditions, especially if swelling is unusual or persistent."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Rinse with warm salt water",
+          "body": "Several times a day. It soothes and helps a small abscess drain."
+        },
+        {
+          "title": "Floss gently around the spot",
+          "body": "If something is trapped, flossing often dislodges it and the swelling settles within a day."
+        },
+        {
+          "title": "Keep brushing",
+          "body": "Softly, with a soft brush. Inflamed gums need plaque removed, not avoided."
+        },
+        {
+          "title": "Do not squeeze or pop it",
+          "body": "Pressing an abscess spreads the infection into the tissue."
+        },
+        {
+          "title": "Pain relief and cold",
+          "body": "An over-the-counter pain reliever as labeled if safe for you, and a cold compress on the cheek if the face is sore."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We look at where the swelling is, whether it is one spot or general, and whether it is soft, firm, tender or draining. The gums are measured, the teeth near the swelling are tested, and a [digital X-ray](/general-dentistry/digital-x-rays/) shows an abscess at a root or bone loss in a pocket. We ask about medications and pregnancy. Then the treatment matches the cause, and most of it can start the same day: cleaning out a pocket, draining an abscess, removing trapped food, smoothing a rough edge."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "A thorough cleaning",
+          "body": "For gingivitis: tartar removed and technique adjusted. Swelling subsides within a week or two.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Deep cleaning",
+          "body": "For periodontitis with deep pockets.",
+          "href": "/restorative-dentistry/deep-cleaning/"
+        },
+        {
+          "title": "Treating an abscess",
+          "body": "Drainage, then root canal or extraction for a tooth abscess; cleaning the pocket for a gum abscess.",
+          "href": "/emergency-dentistry/dental-abscess/"
+        },
+        {
+          "title": "Wisdom tooth care",
+          "body": "Cleaning under the gum flap, antibiotics if the infection has spread, and usually removal once settled.",
+          "href": "/symptoms/wisdom-tooth-pain/"
+        },
+        {
+          "title": "Adjusting a restoration",
+          "body": "Smoothing or replacing a rough crown edge or filling, or adjusting a denture.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "Medication-related overgrowth",
+          "body": "Meticulous cleaning, sometimes reshaping the gum, and a conversation with your physician about alternatives."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My gum is swollen around one tooth. What is it?",
+      "a": "Most often food trapped under the gum, a gum abscess, or a tooth abscess draining through the gum. Floss gently first; if the swelling does not settle within a day, or it hurts, book promptly."
+    },
+    {
+      "q": "Are swollen gums during pregnancy normal?",
+      "a": "Common, yes. Pregnancy hormones exaggerate the gum's reaction to plaque. A cleaning during pregnancy is safe and helps, and the gums usually settle after delivery."
+    },
+    {
+      "q": "Can antibiotics fix swollen gums?",
+      "a": "Only when there is spreading infection, and only alongside treatment of the cause. Antibiotics do not treat gingivitis or remove the source of an abscess."
+    },
+    {
+      "q": "Why do my gums swell when I am stressed or unwell?",
+      "a": "Illness, poor sleep and stress lower the body's ability to control the bacteria in plaque, and gums already slightly inflamed flare up. A cleaning and consistent home care make the flares stop."
+    }
+  ],
+  "related": [
+    "/symptoms/bleeding-gums/",
+    "/emergency-dentistry/dental-abscess/",
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/symptoms/wisdom-tooth-pain/",
+    "/general-dentistry/cleanings-and-exams/",
+    "/symptoms/bad-breath/"
+  ],
+  "cta": {
+    "heading": "One spot or everywhere, we can usually settle it the same day.",
+    "body": "Call today for a painful or draining swelling, or book within days for puffy, bleeding gums. We are open seven days."
+  }
+}

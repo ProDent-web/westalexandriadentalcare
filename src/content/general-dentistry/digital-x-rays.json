@@ -1,0 +1,137 @@
+{
+  "slug": "/general-dentistry/digital-x-rays/",
+  "type": "service",
+  "title": "Digital X-Rays",
+  "meta_title": "Digital Dental X-Rays in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Why dental X-rays find what the eye cannot, the types used at West Alexandria Dental Care including 3D imaging, how much less exposure digital sensors need.",
+  "eyebrow": "General dentistry",
+  "h1": "Digital dental X-rays in West Alexandria",
+  "intro": "A mirror shows the surfaces of the teeth. It cannot show decay between them, under an old filling, or at the root, and it cannot show bone. X-rays can. Here, they are digital, which means a fraction of the exposure film needed and an image on the screen beside you within seconds, so you see what we see while we explain it.",
+  "icon": "xray",
+  "facts": [
+    {
+      "label": "Exposure",
+      "value": "Far below film"
+    },
+    {
+      "label": "Image ready",
+      "value": "In seconds"
+    },
+    {
+      "label": "Taken",
+      "value": "When there is a reason"
+    },
+    {
+      "label": "3D imaging",
+      "value": "For implants and complex cases"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What an X-ray shows that an exam cannot",
+      "style": "check",
+      "items": [
+        "Decay between the back teeth, where they touch and no instrument or light reaches.",
+        "Decay under or around an existing filling or crown, where the seal has failed.",
+        "The level of the bone around each tooth, which is how gum disease is staged.",
+        "An abscess at the tip of a root, often before it has caused swelling.",
+        "Impacted wisdom teeth, their position and their relationship to the nerve.",
+        "Cysts, extra teeth, missing teeth and developing teeth in children.",
+        "Cracks, in some cases, and the extent of a fracture."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "The kinds of images we use",
+      "items": [
+        {
+          "title": "Bitewings",
+          "body": "Two or four small images of the back teeth, upper and lower together. The standard check-up image for finding decay between teeth and checking bone levels."
+        },
+        {
+          "title": "Periapical",
+          "body": "One tooth from crown to root tip. Taken when a specific tooth hurts, before a root canal or extraction, or to check an abscess."
+        },
+        {
+          "title": "Panoramic",
+          "body": "A single sweep of the whole mouth, both jaws and the sinuses. Used for wisdom teeth, dentures, overall planning and children's developing teeth."
+        },
+        {
+          "title": "3D imaging (cone-beam CT)",
+          "body": "A three-dimensional view of bone, nerves and sinuses. Used for implant planning, difficult wisdom teeth and complex cases where a flat image is not enough. Not a routine check-up image.",
+          "href": "/about/technology/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "About the radiation",
+      "body": [
+        "Digital sensors need far less exposure than the film many adults remember, and the beam is narrow and aimed only at the teeth. A set of check-up bitewings is comparable to a small fraction of the natural background radiation everyone receives over a few days of ordinary life. A lead apron with a thyroid collar is used as a matter of routine.",
+        "Low is not the same as zero, which is why we do not take X-rays by habit. They are taken when the information will change what we do, on an interval set by your cavity risk and gum health, often every one to two years for low-risk adults and more often for higher risk."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How it goes at the visit",
+      "items": [
+        {
+          "title": "The sensor is positioned",
+          "body": "A small flat sensor sits inside the mouth, held by a plastic holder you bite on. If gagging is a problem, say so; there are ways to make it easier, including a different holder or a panoramic image instead."
+        },
+        {
+          "title": "A second of exposure",
+          "body": "The dentist or assistant steps out, the machine clicks, and the image appears on the screen."
+        },
+        {
+          "title": "We look at it together",
+          "body": "The image is enlarged on the monitor beside the chair. You see the shadow of decay or the bone level yourself, which is the point. Decisions are easier when you can see the reason."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Pregnant or trying?",
+      "body": "Tell us. Routine check-up X-rays can usually wait until after the pregnancy. If a tooth hurts or there is an infection, a single targeted image with shielding is considered safe and is better than leaving an infection untreated. We decide together, and we are happy to speak with your obstetrician."
+    },
+    {
+      "type": "prose",
+      "heading": "Already have recent X-rays?",
+      "body": [
+        "If a previous office took bitewings or a panoramic image within the last year or two, ask them to send the files to us before your visit. Digital images transfer easily, they belong to you, and we may not need to take new ones. The [switching dentists](/new-patients/switching-dentists/) page explains how to request records."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need X-rays at every check-up?",
+      "a": "No. Check-up bitewings are taken on an interval set by your risk, commonly every one to two years for adults with healthy gums and few cavities, and more often if risk is higher. A single targeted image is taken when a specific tooth needs looking at."
+    },
+    {
+      "q": "Are dental X-rays safe for children?",
+      "a": "Yes, when taken for a reason. Children's images are sized and set for a child, the exposure is very low, and they are taken only when the back teeth touch and cannot be checked by eye or when something specific needs investigating."
+    },
+    {
+      "q": "Why do I need an X-ray if nothing hurts?",
+      "a": "Because decay between teeth and bone loss from gum disease do not hurt until they are advanced. The X-ray is how a problem is found while it is still a small filling or a deep cleaning rather than a crown or an extraction."
+    },
+    {
+      "q": "What is 3D imaging used for?",
+      "a": "Mainly implant planning, where the exact amount of bone and the position of the nerve and sinus matter, and for difficult wisdom teeth or unusual anatomy. It is not used for routine check-ups."
+    }
+  ],
+  "related": [
+    "/general-dentistry/cleanings-and-exams/",
+    "/about/technology/",
+    "/dental-implants/",
+    "/restorative-dentistry/wisdom-teeth-removal/",
+    "/new-patients/switching-dentists/",
+    "/general-dentistry/preventive-dentistry/"
+  ],
+  "cta": {
+    "heading": "See what we see.",
+    "body": "Every image comes up on the screen beside you, and nothing is taken without a reason. Book a check-up and we will show you exactly where things stand."
+  }
+}

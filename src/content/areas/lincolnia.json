@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/lincolnia/",
+  "type": "area",
+  "title": "Lincolnia",
+  "meta_title": "Dentist Near Lincolnia, VA | West Alexandria Dental Care",
+  "meta_description": "Roughly ten minutes from Lincolnia via Seminary Road or I-395 to West Alexandria Dental Care. A family practice for a diverse community: four languages.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Lincolnia",
+  "intro": "Lincolnia, along Little River Turnpike and Beauregard Street on the Fairfax County side of the line, is one of the most diverse corners of Northern Virginia. Our office is roughly ten minutes east via Seminary Road or I-395, and it was set up for exactly this kind of community: care in four languages, both PPO plans and Virginia Medicaid accepted, and hours that reach past the end of a working day.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "About ten minutes"
+    },
+    {
+      "label": "Route",
+      "value": "Seminary Road or I-395"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Arabic, Spanish, Portuguese"
+    },
+    {
+      "label": "Hours",
+      "value": "Seven days"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Lincolnia",
+      "body": [
+        "Multigenerational households where a grandparent, a parent and a child may all need to be seen, sometimes in different languages. Families with Virginia Medicaid for the children. Shift workers and small-business owners who cannot get to a dentist between nine and five. Seniors in the apartment communities along Beauregard Street who want somewhere with parking at the door.",
+        "The office is built for that mix: [family appointments](/general-dentistry/family-dentistry/) back to back, [care for seniors](/general-dentistry/dental-care-for-seniors/) that accounts for medications, and a team that can explain a treatment plan in Spanish, Arabic or Portuguese as readily as in English."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via Seminary Road",
+          "body": "East on Seminary Road across I-395 to Quaker Lane, then south to W. Braddock Road. The Bradlee Office Building is beside Bradlee Shopping Center."
+        },
+        {
+          "title": "Via I-395",
+          "body": "South to the King Street exit, toward Alexandria, then W. Braddock Road."
+        },
+        {
+          "title": "Via Little River Turnpike and Duke Street",
+          "body": "East to Quaker Lane, then north to W. Braddock Road."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What Lincolnia patients most often come in for",
+      "items": [
+        {
+          "title": "Whole-family check-ups",
+          "body": "Several generations seen in one visit, with records in one place.",
+          "href": "/general-dentistry/family-dentistry/"
+        },
+        {
+          "title": "Care for older adults",
+          "body": "Dry mouth, denture fit, implants for a loose lower denture, and coordination with physicians.",
+          "href": "/general-dentistry/dental-care-for-seniors/"
+        },
+        {
+          "title": "Children's dentistry",
+          "body": "First visits, sealants and fluoride, with Virginia Medicaid accepted.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Emergency care in the evening",
+          "body": "A tooth that breaks at dinner seen before 8 PM, or first thing Saturday.",
+          "href": "/emergency-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted.",
+        "Care in English, Arabic, Spanish and Portuguese. Mention your language when booking.",
+        "Paperwork completed online before you arrive, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Bringing a parent or grandparent?",
+      "body": "A family member is welcome in the room to help with history, language or simply company. Bring the medication list; it changes how we plan.",
+      "cta": {
+        "label": "Dental care for seniors",
+        "href": "/general-dentistry/dental-care-for-seniors/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you have staff who speak Spanish?",
+      "a": "Yes. Our team can support patients in English, Arabic, Spanish and Portuguese. Tell us your preferred language when you request an appointment so we schedule accordingly."
+    },
+    {
+      "q": "Can several family members be seen together?",
+      "a": "Yes. We arrange consecutive appointments so one trip covers everyone, including evenings and weekend mornings."
+    },
+    {
+      "q": "Which is the easier route, Seminary Road or I-395?",
+      "a": "Seminary Road to Quaker Lane is usually the steadier drive. I-395 to King Street is quick when traffic is light."
+    },
+    {
+      "q": "Do you take Medicaid for the children and a PPO plan for me?",
+      "a": "Yes, both. We accept Virginia Medicaid alongside Aetna, Ameritas, Delta Dental, Humana, Cigna and MetLife, and we verify each family member's coverage before the visit."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/landmark/",
+    "/areas/baileys-crossroads/",
+    "/new-patients/languages/",
+    "/general-dentistry/family-dentistry/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "Ten minutes east, for the whole family.",
+    "body": "Book online at any hour or call, and tell us who is coming and which language you would like."
+  }
+}

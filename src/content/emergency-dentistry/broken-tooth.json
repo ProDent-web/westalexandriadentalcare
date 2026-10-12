@@ -1,0 +1,150 @@
+{
+  "slug": "/emergency-dentistry/broken-tooth/",
+  "type": "symptom",
+  "title": "Broken or Chipped Tooth",
+  "meta_title": "Broken or Chipped Tooth: What to Do | West Alexandria Dental Care",
+  "meta_description": "Chip, crack or fracture: save the pieces, protect the sharp edge, know when it is urgent, and learn the repair options from bonding to crown to root canal.",
+  "eyebrow": "Emergency care",
+  "h1": "Broken or chipped tooth",
+  "intro": "Teeth break on olives, ice, popcorn kernels and sidewalks. A small chip is a cosmetic problem and an easy fix. A larger break can expose the nerve or split the tooth, and the sooner it is seen the more of the tooth can be saved. Here is how to tell the difference and what to do in the meantime.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Keep",
+      "value": "Any pieces, in milk or"
+    },
+    {
+      "label": "Protect",
+      "value": "Sharp edges, with wax"
+    },
+    {
+      "label": "Urgent if",
+      "value": "Pain, bleeding, exposed nerve"
+    },
+    {
+      "label": "Repairs",
+      "value": "Bonding, onlay, crown"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "Biting something hard: ice, a kernel, a pit, a bone.",
+        "A fall, a ball, an elbow, a steering wheel.",
+        "A large old filling that has weakened the walls of the tooth around it.",
+        "Grinding or clenching, which fatigues enamel over years until an edge gives way.",
+        "A tooth that has had a root canal and never got its crown.",
+        "Decay that has hollowed the tooth from the inside so the shell collapses."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Find the pieces",
+          "body": "A large fragment can sometimes be bonded back on. Keep it in milk or in a container with a little saliva, and bring it."
+        },
+        {
+          "title": "Rinse",
+          "body": "Warm salt water to clean the area. If the gum is bleeding, press gently with clean gauze for ten minutes."
+        },
+        {
+          "title": "Cover a sharp edge",
+          "body": "Orthodontic wax from a pharmacy, or sugar-free gum pressed over the edge, stops it shredding your tongue or cheek until the visit."
+        },
+        {
+          "title": "Do not chew on it",
+          "body": "A cracked tooth can split with one more bite. Eat soft food on the other side and avoid very hot or cold."
+        },
+        {
+          "title": "Pain relief if needed",
+          "body": "An over-the-counter pain reliever taken as labeled, if safe for you. A cold compress on the cheek for swelling after an injury."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We look at how much tooth is lost, whether the break is above or below the gum, and whether the nerve is involved. A [digital X-ray](/general-dentistry/digital-x-rays/) shows the root and any crack running down it. If the tooth is sensitive, it is numbed and the exposed dentin is covered the same day with a temporary or a bonded repair. Then we explain the lasting fix and the cost. A small chip on a front tooth is often finished in the same appointment."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Small chip: smoothing or bonding",
+          "body": "A tiny chip may just be polished smooth. A visible one is rebuilt with tooth-colored composite in one visit, usually without numbing.",
+          "href": "/cosmetic-dentistry/dental-bonding/"
+        },
+        {
+          "title": "Larger break with sound walls: onlay",
+          "body": "A laboratory-made ceramic piece bonded to the tooth, stronger than a filling and keeping more tooth than a crown.",
+          "href": "/restorative-dentistry/inlays-and-onlays/"
+        },
+        {
+          "title": "Big break or cracked tooth: crown",
+          "body": "A crown wraps the tooth and holds it together so it does not split further.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "Nerve exposed or inflamed: root canal",
+          "body": "If the break has reached the nerve, root canal therapy removes it, ends the pain and keeps the tooth, followed by a crown.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        },
+        {
+          "title": "Split below the gum: extraction",
+          "body": "A tooth cracked down the root cannot be held together. It is removed and the replacement planned at the same visit.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        },
+        {
+          "title": "Front tooth: cosmetic repair",
+          "body": "Bonding, a veneer or a crown matched carefully to the neighbors, so the repair disappears.",
+          "href": "/cosmetic-dentistry/porcelain-veneers/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Preventing the next one",
+      "body": [
+        "Most broken teeth were weak before they broke: a large old filling, a root-treated tooth without a crown, or years of grinding. A check-up finds those and a crown or onlay at the right time is far cheaper than the emergency. If you grind, a [night guard](/general-dentistry/night-guards/) takes the wear. If you play contact sports, a custom mouthguard is the cheapest insurance in dentistry."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can the piece be glued back on?",
+      "a": "Sometimes, if it is a clean fragment of enamel from a front tooth and you have kept it moist. It is bonded with the same materials used for fillings. More often the tooth is rebuilt with composite, which gives a more durable result."
+    },
+    {
+      "q": "It does not hurt. Do I still need to come in?",
+      "a": "Yes, soon rather than today. A chip that does not hurt can still have a crack beneath it, and a sharp edge wears the tongue. A chipped tooth is also more likely to break further if it is not reinforced."
+    },
+    {
+      "q": "My tooth broke and now a piece of it is sharp against my tongue. What can I do tonight?",
+      "a": "Press orthodontic wax or a small piece of sugar-free gum over the edge. Avoid chewing on that side. Book the first available slot online or call at 7 AM."
+    },
+    {
+      "q": "Will insurance cover a broken tooth?",
+      "a": "Repairs to a broken tooth are usually covered as basic or major treatment at a percentage, including bonding, crowns and root canals. We check your benefits and tell you the cost before the repair."
+    }
+  ],
+  "related": [
+    "/emergency-dentistry/",
+    "/emergency-dentistry/knocked-out-tooth/",
+    "/symptoms/cracked-tooth/",
+    "/cosmetic-dentistry/dental-bonding/",
+    "/restorative-dentistry/dental-crowns/",
+    "/general-dentistry/night-guards/"
+  ],
+  "cta": {
+    "heading": "Broken on a Saturday? We are open.",
+    "body": "Call during our seven-day hours and we will fit you in, cover any exposed tooth the same day and plan the repair."
+  }
+}

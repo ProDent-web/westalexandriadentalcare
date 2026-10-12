@@ -1,0 +1,222 @@
+{
+  "hero-office": {
+    "file": "hero-office.jpg",
+    "file_sm": "hero-office-sm.jpg",
+    "alt": "Sunlit treatment room with cream walls, light wood cabinetry and a blue dental chair by a window",
+    "position": "70% 55%",
+    "source": null,
+    "credit": "Office render supplied by the client",
+    "width": 1536,
+    "height": 960,
+    "width_sm": 900
+  },
+  "home-approach": {
+    "file": "home-approach.jpg",
+    "file_sm": "home-approach-sm.jpg",
+    "alt": "Dentist in glasses talking with a seated patient in a bright treatment room",
+    "position": "52% 30%",
+    "source": "photo-1606811842243-af7e16970c1f",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1200,
+    "width_sm": 900
+  },
+  "home-hours": {
+    "file": "home-hours.jpg",
+    "file_sm": "home-hours-sm.jpg",
+    "alt": "Sunlit glass office building facade with cream pillars and paved walkway to revolving door",
+    "position": "50% 45%",
+    "source": "photo-1789655979222-3461d7bdae89",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-general": {
+    "file": "cat-general.jpg",
+    "file_sm": "cat-general-sm.jpg",
+    "alt": "Dental professional in blue gloves examining a smiling bearded man's teeth",
+    "position": "50% 45%",
+    "source": "photo-1663755489920-5e09f66d011a",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-restorative": {
+    "file": "cat-restorative.jpg",
+    "file_sm": "cat-restorative-sm.jpg",
+    "alt": "Dentist pointing to a panoramic dental X-ray on a monitor beside a seated patient",
+    "position": "55% 40%",
+    "source": "photo-1606811841689-23dfddce3e95",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1200,
+    "width_sm": 900
+  },
+  "cat-cosmetic": {
+    "file": "cat-cosmetic.jpg",
+    "file_sm": "cat-cosmetic-sm.jpg",
+    "alt": "Close-up of a smiling woman in a cream headscarf against a dark teal wall",
+    "position": "60% 30%",
+    "source": "photo-1675526607070-f5cbd71dde92",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-implants": {
+    "file": "cat-implants.jpg",
+    "file_sm": "cat-implants-sm.jpg",
+    "alt": "Hands holding a dental implant model showing the post beside natural teeth",
+    "position": "50% 50%",
+    "source": "photo-1468493858157-0da44aaf1d13",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1066,
+    "width_sm": 900
+  },
+  "cat-aligners": {
+    "file": "cat-aligners.jpg",
+    "file_sm": "cat-aligners-sm.jpg",
+    "alt": "Woman using both hands to fit a clear aligner over her upper teeth",
+    "position": "50% 42%",
+    "source": "photo-1777793636393-a0fec488f3fb",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1200,
+    "width_sm": 900
+  },
+  "cat-emergency": {
+    "file": "cat-emergency.jpg",
+    "file_sm": "cat-emergency-sm.jpg",
+    "alt": "Sunlit dental treatment room with a blue chair and wood floor",
+    "position": "50% 55%",
+    "source": "photo-1663755781620-b9b8fdbdead5",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-sedation": {
+    "file": "cat-sedation.jpg",
+    "file_sm": "cat-sedation-sm.jpg",
+    "alt": "Dentist shows a dental model to a woman seated in a treatment chair",
+    "position": "50% 35%",
+    "source": "photo-1609207825181-52d3214556dd",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-symptoms": {
+    "file": "cat-symptoms.jpg",
+    "file_sm": "cat-symptoms-sm.jpg",
+    "alt": "Close-up of a natural smile with clean, bright teeth",
+    "position": "50% 50%",
+    "source": "photo-1677026010083-78ec7f1b84ed",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-new-patients": {
+    "file": "cat-new-patients.jpg",
+    "file_sm": "cat-new-patients-sm.jpg",
+    "alt": "Bright waiting area with a teal sectional sofa, wood-slat counter and plants",
+    "position": "40% 60%",
+    "source": "photo-1629909614456-6b1c5c94cecc",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1038,
+    "width_sm": 900
+  },
+  "cat-areas": {
+    "file": "cat-areas.jpg",
+    "file_sm": "cat-areas-sm.jpg",
+    "alt": "Sunlit red brick townhouses with white trim and dormers above green trees",
+    "position": "60% 55%",
+    "source": "photo-1678449266477-8b05476d329c",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-about": {
+    "file": "cat-about.jpg",
+    "file_sm": "cat-about-sm.jpg",
+    "alt": "Dentist in navy suit leaning over patient in bright treatment room with stone wall",
+    "position": "35% 60%",
+    "source": "photo-1704455306251-b4634215d98f",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-children": {
+    "file": "cat-children.jpg",
+    "file_sm": "cat-children-sm.jpg",
+    "alt": "Smiling young girl in a yellow shirt standing in a green field",
+    "position": "50% 40%",
+    "source": "photo-1630864972901-052dfdc7fba4",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900,
+    "width_sm": 900
+  },
+  "cat-seniors": {
+    "file": "cat-seniors.jpg",
+    "file_sm": "cat-seniors-sm.jpg",
+    "alt": "Older couple laughing together on a sofa in front of sheer white curtains",
+    "position": "45% 40%",
+    "source": "photo-1763573676689-bf2d7b474208",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1078,
+    "width_sm": 900
+  },
+  "cat-teens": {
+    "file": "cat-teens.jpg",
+    "file_sm": "cat-teens-sm.jpg",
+    "alt": "Young woman with a messy bun laughing with eyes closed among evergreen trees",
+    "position": "55% 55%",
+    "source": "photo-1544507888-56d73eb6046e",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1068,
+    "width_sm": 900
+  },
+  "cat-family": {
+    "file": "cat-family.jpg",
+    "file_sm": "cat-family-sm.jpg",
+    "alt": "Family of five walking together along a wooded path",
+    "position": "50% 40%",
+    "source": "photo-1707454301491-3ae3acea8aa7",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "cat-blog": {
+    "file": "cat-blog.jpg",
+    "file_sm": "cat-blog-sm.jpg",
+    "alt": "Hands holding a tablet displaying a 3D dental scan and jaw x-ray images",
+    "position": "50% 55%",
+    "source": "photo-1600170311833-c2cf5280ce49",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1067,
+    "width_sm": 900
+  },
+  "contact-exterior": {
+    "file": "contact-exterior.jpg",
+    "file_sm": "contact-exterior-sm.jpg",
+    "alt": "Sunlit glass building facade with white columns casting long shadows on brick paving",
+    "position": "45% 45%",
+    "source": "photo-1673551799223-7bfa638861cb",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 1200,
+    "width_sm": 900
+  }
+}

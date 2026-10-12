@@ -1,0 +1,130 @@
+{
+  "slug": "/accessibility/",
+  "type": "info",
+  "title": "Accessibility",
+  "meta_title": "Accessibility Statement | West Alexandria Dental Care",
+  "meta_description": "How this website meets WCAG 2.1 AA, how to report a barrier by phone, and how to plan an accessible visit to West Alexandria Dental Care in Alexandria, VA.",
+  "eyebrow": "Accessibility statement",
+  "h1": "Accessibility at West Alexandria Dental Care",
+  "intro": "You should be able to read this site, book a visit and get care here whatever device you use and however you move, see, hear or process information. This page explains how the site is built, what to do when it fails you, and how to plan a visit to the office.",
+  "icon": "hand",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The standard we hold this website to",
+      "body": [
+        "This website is built to meet the Web Content Accessibility Guidelines, WCAG 2.1, at Level AA. They come from the W3C, which sets web standards, and Level AA is the level most accessibility laws point to.",
+        "In plain terms, the site has to work without a mouse, color, sound or sight, and stay usable when you enlarge the text or turn off animation. Anything short of that is a bug. Pages added after we open in October 2026 meet the same standard."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What that looks like while you use the site",
+      "style": "check",
+      "items": [
+        "**Keyboard navigation.** Every link, button, menu and form field can be reached with the Tab key and used with Enter or Space, and whatever has focus is visibly outlined.",
+        "**Reduced motion respected.** If your device is set to reduce motion, the site switches off its animations and transitions. Nothing flashes.",
+        "**Color contrast.** Text meets at least the 4.5 to 1 ratio Level AA requires, so it stays readable in bright sun and with low vision or color blindness. No information is carried by color alone.",
+        "**Alt text.** Images that carry meaning have a written description a screen reader can read aloud. Decorative images are marked so it skips them.",
+        "**Resizable text.** Enlarge the text to at least 200 percent with your browser's zoom or by pinching on a phone, and the page reflows rather than scrolling sideways.",
+        "**Headings and links that make sense alone.** Headings run in order so you can jump between sections, and link text names the page it leads to."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Where booking and paperwork rely on other companies",
+      "body": [
+        "Two things here are not ours to fix. When you {{book}}, you move to a scheduling system run by another company, and the {{forms}} runs on Denticon, the secure system we use for registration. We cannot change their code.",
+        "If any step in either one is hard to use with your screen reader, keyboard or eyes, stop and call {{phone}}. We will book with you by phone and collect your registration details another way. No one is turned away because a form did not cooperate."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to tell us about a barrier",
+      "items": [
+        {
+          "title": "Call the office",
+          "body": "Dial {{phone}} between 7:00 AM and 8:00 PM Monday through Friday, or 8:00 AM and 1:00 PM on weekends, and say you are calling about accessibility. If you could not finish something, we handle that first."
+        },
+        {
+          "title": "Tell us what you were doing",
+          "body": "Which page, what you were trying to do, and what happened instead. The device, browser and any assistive technology you use, such as a screen reader, magnifier or switch, help us reproduce it."
+        },
+        {
+          "title": "We work on the fix",
+          "body": "The details go to the people who maintain the site. If the fix will take time, we get you the same information another way meanwhile. Anything you notice while you are in the office, tell the front desk."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Getting from the parking lot to the chair",
+      "body": [
+        "The office is Suite E1 in the Bradlee Office Building at 3543 W. Braddock Road, Alexandria, VA 22302, just off I-395 at the King Street exit. Free surface parking surrounds the building, so there is no garage or meter.",
+        "Rather than list every feature of the building and risk being wrong, we ask one thing: please call ahead so we can help you plan your visit. We will talk through the closest entrance, the route from your parking spot to our door and anything along the way that might be difficult, and say plainly if something will not work for you.",
+        "That goes for wheelchairs, walkers and scooters, for stairs and long walks, and for a drop-off close to the door."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Accommodations we can plan for before you arrive",
+      "items": [
+        {
+          "title": "Your language and how you communicate",
+          "body": "We speak English, Arabic, Spanish and Portuguese. Mention your preferred language when you book. If you use American Sign Language, read lips or wear hearing aids, call ahead and we will talk through what we can arrange.",
+          "href": "/new-patients/languages/"
+        },
+        {
+          "title": "Pacing, breaks and a stop signal",
+          "body": "We explain each step before it happens, you can agree on a hand signal that stops everything, and you can take a break at any point. Nitrous oxide is available, and other sedation options are possible after a review of your health and the treatment planned.",
+          "href": "/sedation-dentistry/dental-anxiety/"
+        },
+        {
+          "title": "Someone with you",
+          "body": "If you would like a family member, caregiver or interpreter in the room, tell us when you book so we can plan the space and time for it. Service animals are welcome."
+        },
+        {
+          "title": "Times that fit a ride or a caregiver",
+          "body": "We see patients from 7:00 AM to 8:00 PM on weekdays and on weekend mornings. If you depend on paratransit, a driver or a caregiver's schedule, or need a longer appointment to move, settle or communicate, say so and we will plan around it.",
+          "href": "/new-patients/evening-and-weekend-appointments/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "About this statement",
+      "body": "Written in October 2026, before the office opened, and reviewed as the site grows. If anything here does not match your experience, we want to know.",
+      "cta": {
+        "label": "Call 703-560-7200",
+        "href": "tel"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does this site work with a screen reader?",
+      "a": "It is built to. Headings are in order, links say where they lead, form fields have labels and images have descriptions, which is what screen readers such as VoiceOver, NVDA and JAWS rely on. If the booking or registration system trips you up, call {{phone}} and we will finish it by phone."
+    },
+    {
+      "q": "Can I book or fill out forms without the website?",
+      "a": "Yes. Call {{phone}} during our hours and we will book with you and take your registration details another way. Online booking is there for people who prefer it, but nothing about your care depends on it."
+    },
+    {
+      "q": "I cannot manage stairs. Will I be able to get into the office?",
+      "a": "Please call ahead so we can help you plan your visit. We will describe the route from the parking lot to our suite, point you to the easiest entrance and be honest about anything along the way, so there are no surprises when you arrive at our Alexandria office."
+    }
+  ],
+  "related": [
+    "/contact/",
+    "/new-patients/first-visit/",
+    "/new-patients/languages/",
+    "/sedation-dentistry/dental-anxiety/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/privacy/"
+  ],
+  "cta": {
+    "heading": "Tell us what got in your way",
+    "body": "Call {{phone}}, 7:00 AM to 8:00 PM on weekdays and 8:00 AM to 1:00 PM on weekends. We will get you what you came for, and then we will fix the page."
+  }
+}

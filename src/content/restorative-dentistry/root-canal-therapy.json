@@ -1,0 +1,166 @@
+{
+  "slug": "/restorative-dentistry/root-canal-therapy/",
+  "type": "service",
+  "title": "Root Canal Therapy",
+  "meta_title": "Root Canal Therapy in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "A root canal relieves the pain; the pain was the infection. Signs you may need one, what happens inside the tooth, the visit step by step, aftercare.",
+  "eyebrow": "Restore your smile",
+  "h1": "Root canal therapy in West Alexandria",
+  "intro": "The reputation is backwards. A root canal does not cause the pain people associate with it; it ends it. The pain was the inflamed or infected nerve inside the tooth. The treatment removes that nerve, cleans and seals the space, and keeps a tooth that would otherwise have to come out.",
+  "icon": "root",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "One or two"
+    },
+    {
+      "label": "Numbing",
+      "value": "Local anesthetic, fully"
+    },
+    {
+      "label": "Afterward",
+      "value": "A crown on back teeth"
+    },
+    {
+      "label": "Keeps",
+      "value": "Your own tooth"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What is happening inside the tooth",
+      "body": [
+        "Under the enamel and dentin is a soft core, the pulp, with the nerve and blood supply. Deep decay, a crack, a large filling or a knock can inflame it. Inflamed pulp in a rigid tooth has nowhere to swell, so the pressure builds and the nerve begins to die. Bacteria follow, and infection spreads out of the root tip into the bone, which is an [abscess](/emergency-dentistry/dental-abscess/).",
+        "Antibiotics can calm an abscess for a while but cannot reach inside the tooth, so the infection returns. The only two ways to end it for good are to clean out the inside of the tooth, which is a root canal, or to remove the tooth."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Signs you may need one",
+      "style": "warn",
+      "items": [
+        "Toothache that throbs on its own, especially at night, or wakes you up.",
+        "Pain from hot or cold that lingers for more than a few seconds after the trigger is gone.",
+        "Pain when you bite or press on the tooth.",
+        "Swelling of the gum near the tooth, a bad taste, or a pimple on the gum that drains.",
+        "A tooth that has darkened compared with its neighbors.",
+        "Sometimes nothing at all: a dead nerve can be found on a routine X-ray before it ever hurts."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The visit, step by step",
+      "items": [
+        {
+          "title": "Confirming the diagnosis",
+          "body": "An X-ray and a few simple tests, cold and tapping, tell us whether the nerve is the problem and which tooth. Similar pain can come from a crack or the gum, and we check before treating."
+        },
+        {
+          "title": "Numbing, properly",
+          "body": "An inflamed tooth can be harder to numb. We take the time, use extra anesthetic where needed, and do not start until you feel nothing. Nitrous oxide is available if you want it."
+        },
+        {
+          "title": "Opening and cleaning",
+          "body": "A small opening is made in the top of the tooth, the pulp is removed, and each root canal is cleaned, shaped and disinfected with fine instruments and rinses. A rubber sheet keeps the tooth dry and isolated."
+        },
+        {
+          "title": "Sealing",
+          "body": "The cleaned canals are filled with a rubber-like material and sealed. A temporary or permanent filling closes the opening. Infected teeth are sometimes left with medication inside for a week or two, which is why a second visit is occasionally needed."
+        },
+        {
+          "title": "The crown",
+          "body": "A back tooth that has had a root canal is brittle and almost always needs a [crown](/restorative-dentistry/dental-crowns/) to stop it splitting. Front teeth sometimes manage with a filling. The crown is scheduled once the tooth has settled."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Afterward",
+      "body": [
+        "The throbbing stops once the nerve is out. The tooth and the gum around it may be tender to bite on for a few days while the bone around the root tip heals; over-the-counter pain relief usually covers it. Chew on the other side until the crown is on, because a root-treated tooth without a crown can crack.",
+        "Call if the pain gets worse rather than better, if swelling increases, or if the temporary filling comes out."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Root canal or extraction?",
+      "columns": [
+        "Root canal and crown",
+        "Extraction and replacement"
+      ],
+      "rows": [
+        [
+          "Keeps the tooth",
+          "Yes",
+          "No"
+        ],
+        [
+          "Visits",
+          "Two to three including the crown",
+          "One, then months for an implant or weeks for a bridge"
+        ],
+        [
+          "Chewing afterward",
+          "Like your own tooth",
+          "Depends on the replacement"
+        ],
+        [
+          "Effect on neighbors and bone",
+          "None",
+          "Bone loss; neighbors may drift or be crowned"
+        ],
+        [
+          "Cost over time",
+          "Usually lower",
+          "Usually higher once the gap is filled"
+        ],
+        [
+          "Success",
+          "High, when restored promptly",
+          "The extraction always works; the gap is the issue"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "When we refer to an endodontist",
+      "body": "Most root canals are done here. A tooth with unusually curved or narrow canals, a previous root canal that has failed, or a case needing a surgical approach may be better served by an endodontist, a root canal specialist. If that is the right call we say so, make the referral, and place the crown afterward."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a root canal hurt?",
+      "a": "The treatment is done fully numb and most people say it feels like a long filling. The pain people fear is the toothache before treatment, which the root canal removes. If a tooth is hard to numb, we take more time and more anesthetic rather than pressing on."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "Sixty to ninety minutes for a single visit on most teeth. Molars with several canals take longer. If the tooth is infected, a second visit a week or two later finishes the sealing."
+    },
+    {
+      "q": "Can I just take antibiotics instead?",
+      "a": "Antibiotics may be prescribed to settle an abscess before treatment, but they cannot cure it, because they cannot reach bacteria inside the tooth. Antibiotics alone leave the infection to return, often worse."
+    },
+    {
+      "q": "How long does a root-treated tooth last?",
+      "a": "With a crown placed promptly and normal care, many last the rest of your life. The most common reason for failure is a delayed crown and a cracked tooth, which is why we schedule the crown soon after."
+    },
+    {
+      "q": "Is a root canal covered by insurance?",
+      "a": "Usually, as basic or major treatment depending on the plan, at a percentage after any deductible. The crown is typically covered separately as a major restoration. We check your benefits and give you the cost of both before starting."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/dental-crowns/",
+    "/emergency-dentistry/dental-abscess/",
+    "/emergency-dentistry/toothache/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/symptoms/tooth-pain-after-filling/",
+    "/sedation-dentistry/nitrous-oxide/"
+  ],
+  "cta": {
+    "heading": "Throbbing tooth? Do not wait it out.",
+    "body": "An infected nerve does not settle on its own. Call and we will see you during our seven-day hours, confirm the cause and end the pain."
+  }
+}

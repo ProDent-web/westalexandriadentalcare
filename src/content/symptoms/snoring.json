@@ -1,0 +1,151 @@
+{
+  "slug": "/symptoms/snoring/",
+  "type": "symptom",
+  "title": "Snoring",
+  "meta_title": "Snoring and Sleep Apnea: How a Dentist Can Help | Alexandria, VA",
+  "meta_description": "Snoring versus sleep apnea, the warning signs of apnea, why a physician's sleep study comes first, how a dentist can help with a custom oral appliance after.",
+  "eyebrow": "Symptom guide",
+  "h1": "Snoring",
+  "intro": "Snoring is the sound of air squeezing past relaxed tissue at the back of the throat. For many people it is a nuisance and nothing more. For some it is the audible part of obstructive sleep apnea, where the airway closes repeatedly through the night, and that is a medical condition with real consequences. A dentist cannot diagnose it, but a dentist can treat it once a physician has.",
+  "icon": "moon",
+  "facts": [
+    {
+      "label": "Snoring alone",
+      "value": "Often harmless"
+    },
+    {
+      "label": "With gasping or sleepiness",
+      "value": "Ask about sleep apnea"
+    },
+    {
+      "label": "Diagnosis",
+      "value": "Physician's sleep study"
+    },
+    {
+      "label": "Dental option",
+      "value": "A custom oral appliance"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "Relaxed throat muscles during deep sleep, more so after alcohol or sedatives.",
+        "Sleeping on your back, which lets the tongue fall backward.",
+        "A blocked nose from a cold, allergies or a deviated septum, which forces mouth breathing.",
+        "Extra weight around the neck narrowing the airway.",
+        "A naturally small jaw or a large tongue, tonsils or soft palate.",
+        "Obstructive sleep apnea, where the airway closes fully for seconds at a time and breathing stops.",
+        "Age, as muscle tone decreases."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Signs it may be sleep apnea rather than simple snoring",
+      "style": "warn",
+      "items": [
+        "A partner notices pauses in breathing, gasping or choking during sleep.",
+        "Waking unrefreshed however long you slept, and falling asleep during the day, at a desk or at the wheel.",
+        "Morning headaches and a dry mouth or sore throat on waking.",
+        "High blood pressure that is hard to control.",
+        "Waking often to urinate.",
+        "Irritability, poor concentration, low mood.",
+        "Heavy tooth grinding at night, which often accompanies disrupted breathing."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Try side sleeping",
+          "body": "A pillow behind the back, or a tennis ball sewn into the back of a sleep shirt, keeps many snorers off their back."
+        },
+        {
+          "title": "Skip alcohol and sedatives in the evening",
+          "body": "Both relax the throat and make snoring and apnea worse."
+        },
+        {
+          "title": "Clear the nose",
+          "body": "Saline rinses, treating allergies, or nasal strips for a blocked nose."
+        },
+        {
+          "title": "Ask your partner to watch",
+          "body": "Pauses, gasps and choking are the signs that matter. A recording on a phone can show your doctor."
+        },
+        {
+          "title": "Talk to your physician if any apnea signs apply",
+          "body": "A sleep study, at home or in a lab, is the only way to know. Do not buy an anti-snoring device online instead; it may mask a condition that needs treating."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the dental visit",
+      "body": [
+        "We cannot test for sleep apnea, but we see its footprints: heavy grinding wear, a scalloped tongue, a crowded throat when you say 'ah', a small or receding lower jaw, and dry mouth. If what we see suggests it, we tell you and recommend asking your physician for a sleep study. If you already have a diagnosis and your physician has recommended an oral appliance, we assess whether your teeth, gums and jaw joints can support one and take the records to make it."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "A sleep study, via your physician",
+          "body": "The diagnosis comes first and comes from medicine, not dentistry."
+        },
+        {
+          "title": "CPAP",
+          "body": "The standard treatment for sleep apnea, prescribed by a physician, most effective when used every night."
+        },
+        {
+          "title": "A custom oral appliance",
+          "body": "Made by us after diagnosis, it holds the lower jaw slightly forward during sleep to keep the airway open. For snoring and mild to moderate apnea, or when CPAP cannot be tolerated.",
+          "href": "/restorative-dentistry/sleep-apnea/"
+        },
+        {
+          "title": "A night guard for grinding",
+          "body": "Protects the teeth from grinding that often accompanies disrupted sleep, though it does nothing for breathing on its own.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Treating dry mouth",
+          "body": "Mouth breathing at night dries the mouth and raises decay risk; fluoride and simple measures protect the teeth.",
+          "href": "/symptoms/dry-mouth/"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a dentist treat snoring?",
+      "a": "A dentist can make a custom oral appliance that reduces snoring by holding the jaw forward. Because snoring can be a sign of sleep apnea, we recommend a physician rules that out first, and insurance generally requires a diagnosis before covering an appliance."
+    },
+    {
+      "q": "Are over-the-counter anti-snoring mouthpieces any good?",
+      "a": "They work for some people with simple snoring, but they fit poorly, can damage teeth and jaw joints with long use, and may mask apnea that needs proper treatment. A custom appliance after a diagnosis is safer and more effective."
+    },
+    {
+      "q": "Does grinding mean I have sleep apnea?",
+      "a": "Not necessarily, but the two often go together, because the jaw clenches as the body fights to reopen the airway. Heavy grinding plus snoring or daytime sleepiness is a reason to ask your physician about a sleep study."
+    },
+    {
+      "q": "Do children snore because of their teeth?",
+      "a": "Usually not the teeth; enlarged tonsils and adenoids, allergies and a narrow upper jaw are the common causes. Regular loud snoring in a child is worth raising with a pediatrician, and the shape of the jaw is something we watch at check-ups."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/sleep-apnea/",
+    "/symptoms/teeth-grinding/",
+    "/general-dentistry/night-guards/",
+    "/symptoms/dry-mouth/",
+    "/symptoms/jaw-pain/",
+    "/restorative-dentistry/tmj-treatment/"
+  ],
+  "cta": {
+    "heading": "Diagnosed, and CPAP is not working for you?",
+    "body": "Bring your sleep study and your physician's recommendation to a consultation, and we will see whether a custom oral appliance suits your mouth."
+  }
+}

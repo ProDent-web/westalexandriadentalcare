@@ -1,0 +1,145 @@
+{
+  "slug": "/about/technology/",
+  "type": "info",
+  "title": "Technology",
+  "meta_title": "Dental Technology in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "What 3D cone-beam imaging, magnification, low-dose digital X-rays, secure online registration and 24/7 booking do for you at West Alexandria Dental Care.",
+  "eyebrow": "About the practice",
+  "h1": "Technology that has to earn its place",
+  "intro": "Every tool in our West Alexandria office is here because it changes something for you: a clearer diagnosis, a smaller filling, less time at the desk, fewer surprises. Here is what we use and when we reach for it. The list is short on purpose.",
+  "icon": "gear",
+  "facts": [
+    {
+      "label": "3D scan",
+      "value": "Under a minute"
+    },
+    {
+      "label": "X-ray images",
+      "value": "On screen in seconds"
+    },
+    {
+      "label": "Registration",
+      "value": "Online, before you arrive"
+    },
+    {
+      "label": "Booking",
+      "value": "Online, any hour"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The test a tool has to pass before it comes through the door",
+      "body": [
+        "Dental equipment is easy to buy and easy to put in a brochure. Anything that comes into this office has to change one of four things: the diagnosis, the comfort of the visit, how much healthy tooth we keep, or how well the result lasts. Otherwise we do without it.",
+        "Each is described by what it does for you, not by what it is called."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "3D imaging: a scan that takes under a minute",
+      "body": [
+        "A standard dental X-ray is a flat picture of a three-dimensional jaw. For most cavities and check-ups that is enough. It cannot show how thick the bone is, exactly where a nerve runs or which way an impacted tooth is pointing.",
+        "Cone-beam CT fills that gap. You sit still while the scanner makes one pass around your head, well under a minute, and the software builds a model of your teeth, jaws, nerve canals and sinuses that we can turn and measure on the screen. No injection, no dye. It is more radiation than a small X-ray, so we scan only when the result would change the plan, and we tell you why first."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Where a 3D scan changes the plan",
+      "items": [
+        {
+          "title": "Dental implants",
+          "body": "It measures the bone where the implant will sit and shows the nerve and sinus to stay clear of, so size, angle and position are settled before the appointment and any need for bone grafting shows up at the planning stage.",
+          "href": "/dental-implants/"
+        },
+        {
+          "title": "Wisdom teeth",
+          "body": "When a lower wisdom tooth sits close to the nerve canal, or its roots are curved or hidden, the 3D view shows the exact relationship and helps us decide between removing it here and referring you to an oral surgeon.",
+          "href": "/restorative-dentistry/wisdom-teeth-removal/"
+        },
+        {
+          "title": "Root canals and unexplained pain",
+          "body": "When a tooth hurts and ordinary images do not say why, a 3D scan can reveal an extra canal, an abscess behind a root or, in some cases, a fracture that a flat X-ray hides.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Magnification: seeing the edge of the problem",
+      "body": [
+        "Much of dentistry happens at the scale of a millimeter: where a filling meets enamel, a hairline crack, the first soft spot of decay, the margin a crown has to seal. Our dentists work through magnifying lenses with their own light, so those details are seen rather than assumed.",
+        "Decay comes out while more healthy tooth stays, a crack is found before the tooth splits, and a filling edge is finished smooth so plaque has nowhere to catch. Nothing dramatic, just fewer small things missed."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Digital X-rays, from the sensor to the screen next to you",
+      "intro": "Taken when there is a reason, not on a calendar. More on the [digital X-rays](/general-dentistry/digital-x-rays/) page.",
+      "items": [
+        {
+          "title": "Less radiation, no waiting",
+          "body": "A thin digital sensor replaces the film packet and needs a fraction of the radiation film did. The image appears almost at once and can be enlarged, sharpened or set beside last year's, which is how early decay between teeth and slow bone changes get caught."
+        },
+        {
+          "title": "We look at it together",
+          "body": "The screen is next to the chair, not behind a desk. We point to what we see and sort it into what needs treatment now, what can be watched and what is simply normal for you."
+        },
+        {
+          "title": "It stays with you",
+          "body": "Every image is filed in your record with your notes and plan. If you want a second opinion or move away from Alexandria, we send the files wherever you choose. They are yours."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What the office does before you sit in the chair",
+      "intro": "The least visible technology here is the part that saves you time at the front desk.",
+      "style": "check",
+      "items": [
+        "You can {{book}} at any hour and see every open slot across our seven-day hours, early mornings, evenings and weekends included. Or call {{phone}} and we book it with you.",
+        "Registration happens before the visit on our secure {{forms}} through Denticon, on your phone if you like. It covers your medical history, medications and insurance, and you can upload a photo of your insurance card, so your [first visit](/new-patients/first-visit/) starts with a conversation rather than a clipboard.",
+        "[Dr. Atrash](/dentists/dr-sameer-atrash/) and [Dr. Alhrashi](/dentists/dr-fadi-alhrashi/) work from one record, so whichever of them you see, the X-rays, notes and plan are there. So is the record of every family member who comes here."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Technology is the tool, the relationship is the point",
+      "body": "A scan does not decide your treatment and a screen does not explain it. Our [dentists](/dentists/) do, sitting beside you, with the image as evidence. Everything here exists so that when one of them says a tooth can wait, or cannot, you can see why and make the call yourself.",
+      "cta": {
+        "label": "How we work with you",
+        "href": "/about/our-approach/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much radiation is in a dental X-ray or a 3D scan?",
+      "a": "A small digital X-ray is a very low dose, far below film and a small fraction of the background radiation you receive in a year. A cone-beam CT scan is more, and well below a medical CT, so we save it for cases where a flat image leaves a real question open. If you are or might be pregnant, tell us and we postpone what can wait."
+    },
+    {
+      "q": "Will I need X-rays at every visit?",
+      "a": "No. We take them when there is something to check: no recent images, a tooth that hurts, a filling edge we cannot see, or bone levels due for comparison. The interval depends on your cavity history and gum health, not on a schedule."
+    },
+    {
+      "q": "Can you use the X-rays from my previous dentist?",
+      "a": "Yes, and we would rather use them than repeat them. Your records belong to you, and any office can send them to us securely at your request. If they are recent and clear, we take only what is missing. More on [switching dentists](/new-patients/switching-dentists/)."
+    },
+    {
+      "q": "Do I have to register online before my visit?",
+      "a": "It is the quickest way and most people finish it on their phone, but it is not required. Paper forms are at the front desk if you arrive a little early. If anything online is unclear, call {{phone}} and we walk you through it."
+    }
+  ],
+  "related": [
+    "/about/our-approach/",
+    "/general-dentistry/digital-x-rays/",
+    "/new-patients/patient-forms/",
+    "/dental-implants/",
+    "/new-patients/first-visit/"
+  ],
+  "cta": {
+    "heading": "See your own X-ray before anything is decided",
+    "body": "You can {{book}} whenever it suits you, or call {{phone}} while we are open, 7:00 AM to 8:00 PM on weekdays and 8:00 AM to 1:00 PM on Saturday and Sunday. We will show you what we see and talk it through before any treatment is planned."
+  }
+}

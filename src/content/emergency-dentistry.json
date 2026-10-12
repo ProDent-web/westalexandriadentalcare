@@ -1,0 +1,74 @@
+{
+  "slug": "/emergency-dentistry/",
+  "type": "hub",
+  "title": "Emergency Dental Care",
+  "meta_title": "Emergency Dentist in Alexandria, VA, Open 7 Days | WA Dental Care",
+  "meta_description": "Toothache, broken tooth, knocked-out tooth, lost crown or abscess? West Alexandria Dental Care sees urgent problems during seven-day hours.",
+  "eyebrow": "Emergency care",
+  "h1": "Emergency dental care in West Alexandria",
+  "intro": "A tooth that breaks on a Friday evening or starts throbbing on a Sunday morning still needs a plan. Our hours run from 7 AM to 8 PM on weekdays and 8 AM to 1 PM on Saturday and Sunday, so most urgent problems can be seen the same day. Call first, tell whoever answers what has happened, and we will fit you in.",
+  "icon": "emergency",
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Call us today if",
+      "style": "warn",
+      "items": [
+        "A tooth hurts badly, keeps you awake, or throbs on its own.",
+        "A tooth is broken, cracked or has a sharp edge cutting your tongue or cheek.",
+        "A crown or filling has come off, especially if the tooth is sensitive.",
+        "There is swelling in the gum, a bad taste, or a bump that drains.",
+        "An adult tooth has been knocked out or pushed out of place. This one is minutes, not hours. Read [what to do for a knocked-out tooth](/emergency-dentistry/knocked-out-tooth/) now.",
+        "Bleeding after an extraction has not stopped after twenty minutes of firm pressure on gauze."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What happens at an emergency visit",
+      "items": [
+        {
+          "title": "You call, we plan",
+          "body": "Describe what happened and whether there is swelling or fever. That tells us how urgently to see you and what to have ready."
+        },
+        {
+          "title": "Find the cause",
+          "body": "A focused exam and a [digital X-ray](/general-dentistry/digital-x-rays/) of the tooth in question, shown on the screen beside you. Pain is a symptom; the image usually reveals the reason."
+        },
+        {
+          "title": "Get you comfortable",
+          "body": "The first goal is to stop the pain and remove the immediate risk: numbing, draining an abscess, smoothing a sharp edge, re-cementing a crown, placing a temporary filling."
+        },
+        {
+          "title": "Plan the definitive fix",
+          "body": "Sometimes that is done the same day. Often the lasting repair, a crown or a root canal for example, is scheduled once the tooth has settled. You leave knowing what comes next and what it costs."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What an emergency visit is not",
+      "body": [
+        "It is not an automatic extraction. A tooth that hurts can usually be saved, and we will tell you plainly when it can and when it cannot. It is also not treatment at any hour: booking is online around the clock, but patients are seen during our office hours. The [after-hours page](/emergency-dentistry/after-hours/) explains what to do overnight and when a hospital is the right call.",
+        "New patients are welcome for emergencies. You do not need to have been here before, and you can [complete your paperwork online](/new-patients/patient-forms/) on the way in."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I be seen today?",
+      "a": "Usually, if you call during our hours. We keep room in the schedule for urgent problems, and seven-day hours mean a Saturday morning or a weekday evening is often available. Call rather than booking online for anything that hurts, so we can plan the visit properly."
+    },
+    {
+      "q": "What should I do for the pain until my appointment?",
+      "a": "Rinse gently with warm salt water, floss carefully in case food is trapped, and take an over-the-counter pain reliever exactly as the label directs, if it is safe for you. Do not put aspirin on the gum. A cold compress on the outside of the face helps with swelling. Our [toothache guide](/emergency-dentistry/toothache/) has more."
+    },
+    {
+      "q": "Do you accept insurance for emergency visits?",
+      "a": "Yes, the same plans as for any visit: Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Bring your card or a photo of it. If you have no insurance, we give you the cost of the exam and any same-day treatment before we start."
+    }
+  ],
+  "cta": {
+    "heading": "Something hurts? Call, and we will plan the visit with you.",
+    "body": "Describe what happened and whoever answers will tell you how soon you can be seen and what to do in the meantime."
+  }
+}

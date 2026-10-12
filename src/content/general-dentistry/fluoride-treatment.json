@@ -1,0 +1,139 @@
+{
+  "slug": "/general-dentistry/fluoride-treatment/",
+  "type": "service",
+  "title": "Fluoride Treatment",
+  "meta_title": "Fluoride Treatment in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Professional fluoride varnish for children and for adults at higher cavity risk: dry mouth, recession, braces, aligners or a history of cavities.",
+  "eyebrow": "General dentistry",
+  "h1": "Fluoride treatment in West Alexandria",
+  "intro": "Fluoride is the reason most people today have fewer fillings than their grandparents. It hardens enamel, slows the acid attack from plaque, and can reverse the earliest stage of decay before a drill is ever needed. A professional varnish at a check-up delivers far more than toothpaste can, in under a minute.",
+  "icon": "drop",
+  "facts": [
+    {
+      "label": "Takes",
+      "value": "Under a minute"
+    },
+    {
+      "label": "Feels like",
+      "value": "A thin coat painted on"
+    },
+    {
+      "label": "Eat after",
+      "value": "Yes, soft foods"
+    },
+    {
+      "label": "Brush off",
+      "value": "After four to six hours"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What fluoride does to a tooth",
+      "body": [
+        "Every time you eat sugar, bacteria in plaque make acid that pulls minerals out of the enamel. Saliva slowly puts them back. Fluoride tips that balance: it is taken into the enamel as it re-hardens and forms a crystal that resists acid better than the original. It also makes the bacteria themselves less efficient at producing acid.",
+        "At the earliest stage of decay, a chalky white spot where minerals have been lost but the surface is still intact, fluoride can re-harden the spot completely. Once the surface has broken, it cannot, and a filling is needed. The window between those two is where fluoride earns its place."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Who benefits most",
+      "style": "check",
+      "items": [
+        "Children, from the first teeth through the teenage years, at every check-up.",
+        "Anyone with dry mouth from medications, age or a medical condition, where decay moves fast.",
+        "People with gum recession, because exposed roots are softer than enamel and decay easily.",
+        "Patients in braces or aligners, where cleaning is harder and white spots are common.",
+        "Adults who have had a new cavity in the last two or three years.",
+        "People with sensitive teeth, since varnish also seals the tubes in exposed dentin."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What happens at the visit",
+      "items": [
+        {
+          "title": "After the cleaning",
+          "body": "The teeth are dried lightly with gauze."
+        },
+        {
+          "title": "Varnish painted on",
+          "body": "A small brush coats the teeth with a sticky, slightly flavored varnish that sets on contact with saliva. It takes less than a minute and there is nothing to hold in the mouth."
+        },
+        {
+          "title": "Leave it alone for a few hours",
+          "body": "Eat soft foods, skip anything hot or crunchy, and do not brush until the evening so the fluoride keeps soaking in. The slightly waxy feel brushes off."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Fluoride at home",
+      "items": [
+        {
+          "title": "Ordinary fluoride toothpaste",
+          "body": "Twice a day, two minutes, and spit without rinsing so a thin film stays on the teeth. For children under three a smear the size of a grain of rice; from three to six a pea-sized amount."
+        },
+        {
+          "title": "Prescription-strength toothpaste",
+          "body": "Several times the fluoride of a standard paste. We prescribe it for dry mouth, recession, a run of cavities, or during orthodontic treatment."
+        },
+        {
+          "title": "Fluoride mouth rinse",
+          "body": "A useful extra for teenagers in braces or adults at raised risk, used at a different time of day from brushing."
+        },
+        {
+          "title": "Tap water",
+          "body": "Alexandria's water supply is fluoridated. Drinking it, rather than only bottled water, gives a steady low dose that helps children's developing teeth."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Is it safe?",
+      "body": [
+        "Professional varnish is used in the amounts and concentrations recommended by the American Dental Association and the American Academy of Pediatric Dentistry, and it has a long safety record in children from the first tooth onward. The amount that could be swallowed from a varnish application is small. The main caution is with young children and toothpaste: use the recommended smear or pea, and teach them to spit. Too much swallowed fluoride during the years teeth are forming can cause faint white marks on the enamel, which is a cosmetic issue, not a health one, and is easily avoided."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Sealants and fluoride work as a pair",
+      "body": "Fluoride protects the smooth surfaces and between the teeth. Sealants protect the grooves on top of the molars, where fluoride reaches least. For children, the two together cover most of the ways a tooth can decay.",
+      "cta": {
+        "label": "About sealants",
+        "href": "/general-dentistry/dental-sealants/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do adults need fluoride treatments?",
+      "a": "Many do. Dry mouth, gum recession, a recent cavity, braces or aligners all raise risk enough that a varnish at check-ups and a prescription toothpaste at home make a measurable difference. For a low-risk adult, ordinary fluoride toothpaste is usually enough."
+    },
+    {
+      "q": "How often should my child have fluoride varnish?",
+      "a": "Typically at every six-month check-up, and more often, every three months, if cavity risk is high. It is quick and has no downside for a child who is getting cavities."
+    },
+    {
+      "q": "Can fluoride fix a cavity?",
+      "a": "It can reverse the earliest stage, a white spot in the enamel, if home care improves alongside it. It cannot repair a cavity that has broken through the surface; that needs a filling."
+    },
+    {
+      "q": "Is varnish covered by insurance?",
+      "a": "For children, almost always. For adults it varies by plan. We check before the visit and tell you. Virginia Medicaid covers fluoride for children."
+    }
+  ],
+  "related": [
+    "/general-dentistry/dental-sealants/",
+    "/general-dentistry/childrens-dentistry/",
+    "/symptoms/dry-mouth/",
+    "/symptoms/tooth-sensitivity/",
+    "/general-dentistry/preventive-dentistry/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Harden the enamel before the drill is needed.",
+    "body": "Fluoride varnish is part of a routine check-up. Book one and ask whether you or your child would benefit from a prescription-strength paste at home."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "/symptoms/tooth-sensitivity/",
+  "type": "symptom",
+  "title": "Tooth Sensitivity",
+  "meta_title": "Sensitive Teeth: Causes & What to Do | West Alexandria Dental Care",
+  "meta_description": "A sharp zing from cold, sweet or air usually means exposed dentin, worn enamel or a cavity. Causes of sensitive teeth, what to do at home.",
+  "eyebrow": "Symptom guide",
+  "h1": "Sensitive teeth",
+  "intro": "A short, sharp zing when something cold, sweet or even a breath of air hits a tooth. It passes in a second or two, but it comes back every time. Sensitivity is one of the most common things people mention at a check-up, and most of the causes are easy to fix once we know which one it is.",
+  "icon": "pulse",
+  "facts": [
+    {
+      "label": "Feels like",
+      "value": "A quick sharp zing"
+    },
+    {
+      "label": "Usually from",
+      "value": "Exposed dentin"
+    },
+    {
+      "label": "See us",
+      "value": "Within a few weeks"
+    },
+    {
+      "label": "Sooner if",
+      "value": "Pain lingers or throbs"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What is happening inside the tooth",
+      "body": [
+        "Enamel has no feeling. Underneath it is dentin, a softer layer threaded with thousands of microscopic tubes that lead to the nerve. When enamel wears away, or the gum pulls back and exposes the root, which has no enamel at all, those tubes are open to the mouth. Cold, sugar or a blast of air moves the fluid in the tubes and the nerve reads that as a sharp pain.",
+        "That is why true sensitivity is quick and fades as soon as the trigger is gone. Pain that lingers for more than a few seconds, or that starts on its own, is a different signal and is covered further down."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "Gum recession exposing the root, often from brushing too hard or from gum disease.",
+        "Worn enamel from grinding, clenching or an acidic diet (sparkling water, citrus, reflux).",
+        "A small cavity, which can be sensitive to sweet things before it ever hurts.",
+        "A cracked tooth or a chipped filling, which usually hurts most on biting.",
+        "A recent filling, crown or deep cleaning, which can leave a tooth touchy for a few weeks while it settles.",
+        "Whitening, which commonly causes temporary sensitivity.",
+        "A leaking old filling or a crown edge that has opened up.",
+        "Gum pockets from periodontal disease, where cleaning the root exposes it."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Switch to a desensitizing toothpaste",
+          "body": "Use it twice a day for at least two weeks before judging it. The active ingredients work by plugging the open tubes, and that takes time. Smear a little on the sensitive spot after brushing and leave it there."
+        },
+        {
+          "title": "Brush softer, not harder",
+          "body": "A soft brush, held like a pen, with gentle circles at the gum line. Scrubbing a sensitive root makes it worse and wears away more of what is protecting it."
+        },
+        {
+          "title": "Watch the acids",
+          "body": "If you sip sparkling water, citrus or sports drinks through the day, your enamel never gets a chance to re-harden. Finish them, rinse with water, and wait half an hour before brushing."
+        },
+        {
+          "title": "Notice the pattern",
+          "body": "Which tooth, what sets it off, how long it lasts, and whether biting hurts. Those four answers tell us most of what we need to know before you are in the chair."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We start by asking exactly what you noticed, then look at the teeth you point to and the ones around them. A puff of air or a cold test on each tooth usually finds the culprit quickly. We check for recession, worn edges, cracks, leaking fillings and the state of your gums.",
+        "If there is any doubt about a cavity or a crack, a [digital X-ray](/general-dentistry/digital-x-rays/) comes up on the screen beside you and we go through it together. You leave knowing what the cause is, what will fix it, and what it costs, before anything is done."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Desensitizing or fluoride varnish",
+          "body": "Painted onto exposed roots or worn spots in the office, it seals the tubes and strengthens the enamel. Quick, painless and often enough on its own.",
+          "href": "/general-dentistry/fluoride-treatment/"
+        },
+        {
+          "title": "Bonding over the exposed root",
+          "body": "A thin layer of tooth-colored material covers a notch or worn area at the gum line so nothing reaches the dentin.",
+          "href": "/cosmetic-dentistry/dental-bonding/"
+        },
+        {
+          "title": "A filling or crown",
+          "body": "If a cavity, crack or failing filling is the cause, repairing the tooth removes the sensitivity along with the problem.",
+          "href": "/restorative-dentistry/tooth-colored-fillings/"
+        },
+        {
+          "title": "A night guard",
+          "body": "When grinding is wearing the enamel, a custom guard stops the damage so the sensitivity does not keep coming back.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Gum treatment",
+          "body": "Sensitivity with bleeding, recession or deep pockets points to gum disease, and treating the gums is what settles the roots.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Root canal therapy",
+          "body": "Only when the nerve itself is inflamed beyond recovery, which lingering or spontaneous pain suggests. It ends the pain rather than causing it.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sensitivity after dental work",
+      "body": [
+        "A tooth that has just had a filling, crown or deep cleaning is often sensitive to cold for a few days to a few weeks. The nerve was disturbed and is calming down. It should get a little better each week, not worse.",
+        "The exception is a bite that feels high after a filling or crown. That is not something to wait out. Call and we adjust it in a few minutes, which usually ends the sensitivity the same day. More on [tooth pain after a filling](/symptoms/tooth-pain-after-filling/)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is sensitivity a sign of a cavity?",
+      "a": "Sometimes. A cavity that has reached the dentin often reacts to sweet things first, then cold. But recession, worn enamel and grinding cause the same feeling without any decay. An exam, and sometimes an X-ray, is the only way to tell them apart."
+    },
+    {
+      "q": "Why is only one tooth sensitive?",
+      "a": "One tooth usually means something local: a notch at the gum line, a crack, a chipped filling or a cavity. Several teeth, especially along the gum line, usually means recession or acid wear. Both are worth looking at, but a single sharp tooth deserves the sooner appointment."
+    },
+    {
+      "q": "Can sensitivity go away on its own?",
+      "a": "Mild sensitivity from a new filling or from whitening often does. Sensitivity from exposed roots or worn enamel does not fix itself, because the dentin stays exposed. It can be managed well with desensitizing toothpaste, varnish or bonding, which is why it is worth getting the cause confirmed."
+    },
+    {
+      "q": "Does whitening cause permanent sensitivity?",
+      "a": "No. Whitening gel opens the dentin tubes temporarily, which is why teeth can zing for a day or two during treatment. It settles once the whitening stops. Using a desensitizing toothpaste for two weeks before you start makes a noticeable difference."
+    },
+    {
+      "q": "Should I stop brushing a sensitive tooth?",
+      "a": "No, but change how you brush. Plaque left on an exposed root makes it more sensitive, not less, and lets decay start. A soft brush, light pressure and a desensitizing paste let you keep it clean without the sting."
+    }
+  ],
+  "related": [
+    "/symptoms/gum-recession/",
+    "/symptoms/cracked-tooth/",
+    "/symptoms/tooth-pain-after-filling/",
+    "/emergency-dentistry/toothache/",
+    "/general-dentistry/fluoride-treatment/",
+    "/general-dentistry/night-guards/"
+  ],
+  "cta": {
+    "heading": "Tired of flinching at cold water?",
+    "body": "Most sensitivity has a simple fix once the cause is known. Book an exam, evenings and weekends included, and we will find which tooth is behind it and what will settle it."
+  }
+}

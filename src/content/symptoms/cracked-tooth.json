@@ -1,0 +1,150 @@
+{
+  "slug": "/symptoms/cracked-tooth/",
+  "type": "symptom",
+  "title": "Cracked Tooth",
+  "meta_title": "Cracked Tooth: Sharp Pain on Biting | West Alexandria Dental Care",
+  "meta_description": "Sharp pain when you bite and release, cold sensitivity, and a crack that does not show on an X-ray. Causes, what to do now, why early treatment matters.",
+  "eyebrow": "Symptom guide",
+  "h1": "Cracked tooth",
+  "intro": "A sharp, brief pain when you bite down on something and then let go, often from one tooth you cannot quite pinpoint. That is the classic sign of a cracked tooth. The crack is usually too fine to see on an X-ray, it does not heal, and it grows a little with every bite. Found early it is held together with a crown; found late it has split and is lost.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Classic sign",
+      "value": "Pain on release of biting"
+    },
+    {
+      "label": "On X-ray",
+      "value": "Often invisible"
+    },
+    {
+      "label": "Heals itself",
+      "value": "Never"
+    },
+    {
+      "label": "Usual fix",
+      "value": "A crown"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "Grinding and clenching, which fatigue the tooth over years.",
+        "A large filling that has left thin walls around it.",
+        "Biting something hard: ice, a kernel, a pit, a fork.",
+        "A root-treated tooth without a crown, which is brittle.",
+        "Sudden temperature changes, such as ice in hot coffee.",
+        "A blow to the mouth.",
+        "Age; teeth that have chewed for fifty years develop fine cracks the way old glaze does."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Stop chewing on that side",
+          "body": "Every bite flexes the crack open a little further. Soft food, other side, until it is seen."
+        },
+        {
+          "title": "Avoid very hot and cold",
+          "body": "Temperature changes make the crack flex and the tooth zing."
+        },
+        {
+          "title": "Note which tooth and what triggers it",
+          "body": "Biting on something small and hard, like a grain of rice, often finds the exact tooth and the exact cusp. That helps us."
+        },
+        {
+          "title": "Pain relief if needed",
+          "body": "An over-the-counter pain reliever as labeled, if safe for you. A cracked tooth usually hurts only on biting, so this is rarely needed."
+        },
+        {
+          "title": "Book within days",
+          "body": "Not an overnight emergency unless it has broken, but the sooner it is reinforced the more tooth is saved."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "Cracks hide. We look with magnification and a bright light, sometimes with a dye that settles into the crack, and ask you to bite on a small plastic tool cusp by cusp until the one that hurts is found. A [digital X-ray](/general-dentistry/digital-x-rays/) rules out other causes and shows whether the crack has reached the root, though most cracks do not show on it. Sometimes an old filling is removed to see how far the crack runs. Then we explain what the tooth needs, with the cost, and whether it can be done the same day."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Craze lines: nothing",
+          "body": "Fine surface lines in the enamel are common, painless and need no treatment beyond watching."
+        },
+        {
+          "title": "Chipped cusp: bonding or onlay",
+          "body": "A small piece broken from a corner is rebuilt with composite or a bonded ceramic onlay.",
+          "href": "/restorative-dentistry/inlays-and-onlays/"
+        },
+        {
+          "title": "Crack into the dentin: crown",
+          "body": "A crown wraps the tooth and holds the two sides together so the crack cannot spread. This is the usual treatment and works well when done before the crack reaches the nerve.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "Crack into the nerve: root canal and crown",
+          "body": "If the nerve is inflamed or infected, root canal therapy first, then a crown.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        },
+        {
+          "title": "Split tooth or cracked root: extraction",
+          "body": "A tooth split in two or cracked down the root cannot be held together. It is removed and replaced, usually with an implant.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        },
+        {
+          "title": "Prevention: night guard",
+          "body": "If grinding caused it, a custom guard protects the crown and the other teeth from the next one.",
+          "href": "/general-dentistry/night-guards/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why early matters more here than almost anywhere",
+      "body": [
+        "A crack is a race. Caught as a line in the dentin, a crown holds it and the tooth lasts for years. Caught once it has reached the nerve, add a root canal. Caught once it has reached the root, the tooth is gone. The difference between the first and the last is often a few months of chewing on it. Pain on biting that comes and goes is the tooth asking for help while help is still simple."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why can you not see the crack on the X-ray?",
+      "a": "An X-ray is a shadow picture, and a crack is a hairline running the wrong way to cast one. Cracks are diagnosed by symptoms, by bite testing and by looking with magnification, not by imaging."
+    },
+    {
+      "q": "Will the crack heal?",
+      "a": "No. Enamel and dentin do not knit back together. A crack stays and slowly lengthens under chewing force until it is held by a crown or the tooth splits."
+    },
+    {
+      "q": "Can I just have the tooth filled?",
+      "a": "A filling does not hold a cracked tooth together; it can wedge the crack open. An onlay or crown that wraps the tooth is what stops it spreading."
+    },
+    {
+      "q": "The pain comes and goes. Does that mean it is not serious?",
+      "a": "Intermittent pain on biting is the typical presentation of a crack, and it is the stage where treatment works best. Waiting for it to hurt constantly means waiting for the crack to reach the nerve."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/dental-crowns/",
+    "/restorative-dentistry/inlays-and-onlays/",
+    "/emergency-dentistry/broken-tooth/",
+    "/symptoms/tooth-sensitivity/",
+    "/general-dentistry/night-guards/",
+    "/symptoms/teeth-grinding/"
+  ],
+  "cta": {
+    "heading": "Pain on biting? Let us find the crack while a crown can still hold it.",
+    "body": "Book within the week, stay off that side, and we will test tooth by tooth to find it."
+  }
+}

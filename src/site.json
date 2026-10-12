@@ -1,0 +1,1200 @@
+{
+  "name": "West Alexandria Dental Care",
+  "legal": "Virginia Family Dental Group PLLC",
+  "tagline": "Complete care. One dental home.",
+  "domain": "https://westalexandriadentalcare.com",
+  "phone": "703-560-7200",
+  "phone_tel": "+17035607200",
+  "email": "info@merrifielddentist.com",
+  "address": {
+    "building": "Bradlee Office Building",
+    "street": "3543 W. Braddock Road, Suite E1",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22302",
+    "lat": 38.8296,
+    "lng": -77.0869,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3543+W+Braddock+Rd+Suite+E1,+Alexandria,+VA+22302",
+    "map_embed": "https://www.google.com/maps?q=3543+W+Braddock+Rd+Suite+E1,+Alexandria,+VA+22302&output=embed"
+  },
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "o": 7,
+      "c": 20
+    },
+    {
+      "day": "Tuesday",
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "o": 7,
+      "c": 20
+    },
+    {
+      "day": "Wednesday",
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "o": 7,
+      "c": 20
+    },
+    {
+      "day": "Thursday",
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "o": 7,
+      "c": 20
+    },
+    {
+      "day": "Friday",
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "o": 7,
+      "c": 20
+    },
+    {
+      "day": "Saturday",
+      "open": "8:00 AM",
+      "close": "1:00 PM",
+      "o": 8,
+      "c": 13
+    },
+    {
+      "day": "Sunday",
+      "open": "8:00 AM",
+      "close": "1:00 PM",
+      "o": 8,
+      "c": 13
+    }
+  ],
+  "announcement": "Opening October 2026 · Now accepting new patients",
+  "book_url": "https://www.appointnow.com/?P=5108&O=100&PT=0&campaignID=&culture=en-US",
+  "forms_url": "https://patientregistration.denticon.com/?P=5108&O=100&patientRegId=0",
+  "insurance": [
+    "Aetna",
+    "Ameritas",
+    "Delta Dental",
+    "Humana",
+    "Cigna",
+    "MetLife",
+    "Virginia Medicaid"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "Portuguese"
+  ],
+  "neighborhoods": [
+    "West Alexandria",
+    "Seminary Hill",
+    "Fairlington",
+    "Shirlington",
+    "Parkfairfax",
+    "Del Ray",
+    "Landmark",
+    "Lincolnia",
+    "Bailey's Crossroads"
+  ],
+  "nav": [
+    {
+      "label": "Services",
+      "mega": true,
+      "columns": [
+        {
+          "heading": "General Dentistry",
+          "href": "/general-dentistry/",
+          "children": "/general-dentistry/"
+        },
+        {
+          "heading": "Restore Your Smile",
+          "href": "/restorative-dentistry/",
+          "children": "/restorative-dentistry/"
+        },
+        {
+          "heading": "Cosmetic Dentistry",
+          "href": "/cosmetic-dentistry/",
+          "children": "/cosmetic-dentistry/",
+          "then": {
+            "heading": "Clear Aligners",
+            "href": "/clear-aligners/",
+            "children": "/clear-aligners/"
+          }
+        },
+        {
+          "heading": "Dental Implants",
+          "href": "/dental-implants/",
+          "children": "/dental-implants/",
+          "then": {
+            "heading": "Sedation Dentistry",
+            "href": "/sedation-dentistry/",
+            "children": "/sedation-dentistry/"
+          }
+        },
+        {
+          "heading": "Emergency Care",
+          "href": "/emergency-dentistry/",
+          "children": "/emergency-dentistry/",
+          "then": {
+            "heading": "Symptom Guides",
+            "href": "/symptoms/",
+            "links": [
+              [
+                "Toothache",
+                "/emergency-dentistry/toothache/"
+              ],
+              [
+                "Tooth sensitivity",
+                "/symptoms/tooth-sensitivity/"
+              ],
+              [
+                "Bleeding gums",
+                "/symptoms/bleeding-gums/"
+              ],
+              [
+                "Jaw pain",
+                "/symptoms/jaw-pain/"
+              ],
+              [
+                "All symptom guides →",
+                "/symptoms/"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": "Patients",
+      "dropdown": true,
+      "groups": [
+        {
+          "heading": "Getting started",
+          "links": [
+            [
+              "New patients",
+              "/new-patients/"
+            ],
+            [
+              "Your first visit",
+              "/new-patients/first-visit/"
+            ],
+            [
+              "Evening & weekend appointments",
+              "/new-patients/evening-and-weekend-appointments/"
+            ],
+            [
+              "Switching dentists",
+              "/new-patients/switching-dentists/"
+            ],
+            [
+              "Languages we speak",
+              "/new-patients/languages/"
+            ],
+            [
+              "Patient forms",
+              "/new-patients/patient-forms/"
+            ]
+          ]
+        },
+        {
+          "heading": "Paying for care",
+          "links": [
+            [
+              "Insurance we accept",
+              "/new-patients/insurance/"
+            ],
+            [
+              "Understanding dental insurance",
+              "/new-patients/understanding-dental-insurance/"
+            ],
+            [
+              "Virginia Medicaid",
+              "/new-patients/medicaid/"
+            ],
+            [
+              "No insurance?",
+              "/new-patients/no-insurance/"
+            ]
+          ]
+        },
+        {
+          "heading": "Resources",
+          "links": [
+            [
+              "Questions & answers",
+              "/faq/"
+            ],
+            [
+              "Symptom guides",
+              "/symptoms/"
+            ],
+            [
+              "Dental dictionary",
+              "/dental-dictionary/"
+            ],
+            [
+              "Dental blog",
+              "/blog/"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "About",
+      "dropdown": true,
+      "groups": [
+        {
+          "heading": "The practice",
+          "links": [
+            [
+              "About West Alexandria Dental Care",
+              "/about/"
+            ],
+            [
+              "Our approach",
+              "/about/our-approach/"
+            ],
+            [
+              "Technology",
+              "/about/technology/"
+            ],
+            [
+              "Areas we serve",
+              "/areas/"
+            ]
+          ]
+        },
+        {
+          "heading": "Your dentists",
+          "links": [
+            [
+              "Meet the dentists",
+              "/dentists/"
+            ],
+            [
+              "Dr. Sameer Atrash",
+              "/dentists/dr-sameer-atrash/"
+            ],
+            [
+              "Dr. Fadi Alhrashi",
+              "/dentists/dr-fadi-alhrashi/"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    }
+  ],
+  "footer": [
+    {
+      "heading": "Treatment",
+      "links": [
+        [
+          "All services",
+          "/services/"
+        ],
+        [
+          "General dentistry",
+          "/general-dentistry/"
+        ],
+        [
+          "Restore your smile",
+          "/restorative-dentistry/"
+        ],
+        [
+          "Cosmetic dentistry",
+          "/cosmetic-dentistry/"
+        ],
+        [
+          "Dental implants",
+          "/dental-implants/"
+        ],
+        [
+          "Clear aligners",
+          "/clear-aligners/"
+        ],
+        [
+          "Emergency care",
+          "/emergency-dentistry/"
+        ],
+        [
+          "Sedation dentistry",
+          "/sedation-dentistry/"
+        ]
+      ]
+    },
+    {
+      "heading": "Your visit",
+      "links": [
+        [
+          "New patients",
+          "/new-patients/"
+        ],
+        [
+          "Your first visit",
+          "/new-patients/first-visit/"
+        ],
+        [
+          "Evening & weekend hours",
+          "/new-patients/evening-and-weekend-appointments/"
+        ],
+        [
+          "Insurance",
+          "/new-patients/insurance/"
+        ],
+        [
+          "Virginia Medicaid",
+          "/new-patients/medicaid/"
+        ],
+        [
+          "No insurance?",
+          "/new-patients/no-insurance/"
+        ],
+        [
+          "Patient forms",
+          "/new-patients/patient-forms/"
+        ],
+        [
+          "Symptom guides",
+          "/symptoms/"
+        ],
+        [
+          "Questions & answers",
+          "/faq/"
+        ]
+      ]
+    },
+    {
+      "heading": "The practice",
+      "links": [
+        [
+          "Meet the dentists",
+          "/dentists/"
+        ],
+        [
+          "Dr. Sameer Atrash",
+          "/dentists/dr-sameer-atrash/"
+        ],
+        [
+          "Dr. Fadi Alhrashi",
+          "/dentists/dr-fadi-alhrashi/"
+        ],
+        [
+          "About the practice",
+          "/about/"
+        ],
+        [
+          "Technology",
+          "/about/technology/"
+        ],
+        [
+          "Areas we serve",
+          "/areas/"
+        ],
+        [
+          "Dental blog",
+          "/blog/"
+        ],
+        [
+          "Dental dictionary",
+          "/dental-dictionary/"
+        ],
+        [
+          "Contact & directions",
+          "/contact/"
+        ]
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "slug": "/",
+      "type": "custom",
+      "title": "Home"
+    },
+    {
+      "slug": "/services/",
+      "type": "custom",
+      "title": "All Services"
+    },
+    {
+      "slug": "/contact/",
+      "type": "custom",
+      "title": "Contact & Directions"
+    },
+    {
+      "slug": "/book-online/",
+      "type": "custom",
+      "title": "Book Online"
+    },
+    {
+      "slug": "/dentists/",
+      "type": "custom",
+      "title": "Meet the Dentists"
+    },
+    {
+      "slug": "/dentists/dr-sameer-atrash/",
+      "type": "dentist",
+      "title": "Dr. Sameer Atrash",
+      "parent": "/dentists/"
+    },
+    {
+      "slug": "/dentists/dr-fadi-alhrashi/",
+      "type": "dentist",
+      "title": "Dr. Fadi Alhrashi",
+      "parent": "/dentists/"
+    },
+    {
+      "slug": "/faq/",
+      "type": "faq",
+      "title": "Questions & Answers",
+      "hint": "30+ questions patients actually ask a new dental office, grouped: Appointments & hours, Insurance & cost, Your first visit, Comfort & anxiety, Children & families, Treatment questions, Emergencies, Location & parking. Answers 2–4 sentences, plain and specific to this office."
+    },
+    {
+      "slug": "/dental-dictionary/",
+      "type": "dictionary",
+      "title": "Dental Dictionary",
+      "hint": "70+ plain-English dental terms, A–Z, each 1–3 sentences, with a related internal link where one exists (e.g. Crown → /restorative-dentistry/dental-crowns/)."
+    },
+    {
+      "slug": "/privacy/",
+      "type": "info",
+      "title": "Privacy Policy",
+      "hint": "Website privacy policy for a dental practice: what the site collects (contact form, analytics if any), that online booking and patient registration are handled by third-party platforms (AppointNow, Denticon) under their own policies, HIPAA note (health information is handled under the practice's Notice of Privacy Practices, available at the office), cookies, how to contact. Plain language. Do not invent specific analytics vendors; say 'may use'. Include an effective date of October 2026."
+    },
+    {
+      "slug": "/accessibility/",
+      "type": "info",
+      "title": "Accessibility",
+      "hint": "Accessibility statement: commitment to WCAG 2.1 AA, features (keyboard navigation, reduced motion respected, color contrast, alt text, resizable text), how to report a barrier by phone, physical office accessibility described generally (ground-level suite in an office building with surface parking: say 'please call ahead so we can help you plan your visit' rather than asserting specifics)."
+    },
+    {
+      "slug": "/about/",
+      "type": "info",
+      "title": "About the Practice",
+      "hint": "The story of a new comprehensive family dental office in West Alexandria: founded by Dr. Sameer Atrash (Fairfax-raised, Tufts-trained) with Dr. Fadi Alhrashi; 'complete care, one dental home' philosophy; evening and weekend hours; four languages; insurance including Virginia Medicaid; comfort options; what 'no assembly-line dentistry' means in practice (time, explanation, written costs, no pressure). Sections: Why we opened here, How a visit works, What we treat, The office (Bradlee Office Building, free parking, off I-395), Who you will meet. Link to dentists, technology, our approach, areas."
+    },
+    {
+      "slug": "/about/our-approach/",
+      "type": "info",
+      "title": "Our Approach",
+      "parent": "/about/",
+      "hint": "How the practice works, as plain commitments: we explain before we touch anything, we show you the image on the screen, costs in writing before treatment, honest about what needs doing now vs what can be watched, you decide without pressure, comfort planning for nervous patients (stop signal, pacing, nitrous oxide, sedation after review), one dental home for the whole family across every stage. Include a 'what we will not do' list (no surprise bills, no lectures, no selling the more expensive option when a simpler one is right)."
+    },
+    {
+      "slug": "/about/technology/",
+      "type": "info",
+      "title": "Technology",
+      "parent": "/about/",
+      "hint": "Technology used when it meaningfully improves care: 3D imaging (cone-beam CT) for implant planning, wisdom teeth and complex cases; magnification for precision; digital X-rays with far less exposure than film and images shown on the screen beside you; digital records with secure online registration (Denticon) before your visit; online booking. Frame each as 'what it does for you'. Do NOT claim intraoral scanners, lasers, same-day crowns or any other specific equipment. End with 'technology is the tool, the relationship is the point'."
+    },
+    {
+      "slug": "/new-patients/",
+      "type": "hub",
+      "title": "New Patients",
+      "hint": "Landing page for new patients: welcome, how to book (online 24/7 or call), what to bring, hours that fit real schedules (7 AM–8 PM weekdays, weekend mornings), insurance including Virginia Medicaid, four languages, comfort options, paperwork online before you arrive, what the first visit looks like. Friendly and practical."
+    },
+    {
+      "slug": "/new-patients/first-visit/",
+      "type": "info",
+      "title": "Your First Visit",
+      "parent": "/new-patients/",
+      "hint": "Step by step: booking, forms online via Denticon before you arrive, what to bring (ID, insurance card, medication list, recent X-rays), the conversation first, the exam (gums measured, every tooth, bite, oral cancer screening), X-rays only when needed, whether a cleaning happens the same day (healthy gums yes; gum disease needs a deeper cleaning planned separately), a written plan with costs and no pressure, how long to allow (about 60–90 minutes), evening and weekend availability for the first visit."
+    },
+    {
+      "slug": "/new-patients/insurance/",
+      "type": "info",
+      "title": "Insurance We Accept",
+      "parent": "/new-patients/",
+      "hint": "List the seven accepted plans (Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife, Virginia Medicaid), explain that participation and benefits vary by employer and specific plan, how verification works (send card images through the Denticon registration page or bring the card; the team verifies benefits and explains the next step before treatment), what happens if your plan is not listed (contact us and we will check), claims filed for you, written estimates. Include a short 'questions to ask your plan' list."
+    },
+    {
+      "slug": "/new-patients/understanding-dental-insurance/",
+      "type": "info",
+      "title": "Understanding Dental Insurance",
+      "parent": "/new-patients/",
+      "hint": "Plain-English explainer: premium, deductible, annual maximum, coinsurance/copay, in-network vs out-of-network, the typical 100/80/50 structure (preventive, basic, major) and that plans vary, waiting periods, frequency limits (two cleanings a year, X-ray intervals), pre-treatment estimates, why 'covered' is not the same as 'free', end-of-year benefits. Include a mini-glossary table. Do not state any specific plan's numbers."
+    },
+    {
+      "slug": "/new-patients/medicaid/",
+      "type": "info",
+      "title": "Virginia Medicaid Dental",
+      "parent": "/new-patients/",
+      "hint": "This office accepts Virginia Medicaid, which is uncommon in Northern Virginia for a comprehensive family practice. Explain in general terms that Virginia's Medicaid program includes dental benefits for children and, since 2021, for adults (Cardinal Care / Smiles For Children is the dental program administered by DentaQuest); say benefits and covered services vary by eligibility category and that the office will check your coverage before your visit. Keep claims general and hedged ('coverage details change; we will confirm what your plan covers'). What to bring (Medicaid ID), same care and same hours as every patient, no separate waiting room or schedule. Link to insurance and first visit."
+    },
+    {
+      "slug": "/new-patients/no-insurance/",
+      "type": "info",
+      "title": "No Insurance? No Problem",
+      "parent": "/new-patients/",
+      "hint": "Paying without insurance: written estimate before anything starts, priorities explained so you can stage treatment, prevention is the cheapest dentistry, ask about payment options when you call (do NOT name any financing company or invent a membership plan or prices), a problem-focused exam is a sensible first step if something hurts, and Virginia Medicaid may be an option for those who qualify. Honest and reassuring."
+    },
+    {
+      "slug": "/new-patients/switching-dentists/",
+      "type": "info",
+      "title": "Switching Dentists",
+      "parent": "/new-patients/",
+      "hint": "For people moving to Alexandria, unhappy with a previous office, or returning after years away: how to have records and X-rays transferred (you can request them from any office; they belong to you), no lecture for a long gap, second opinions on quoted treatment welcome, what the first visit covers, continuity (same dentist where possible). Mention why people switch: hours that do not fit, feeling rushed, surprise bills, language."
+    },
+    {
+      "slug": "/new-patients/patient-forms/",
+      "type": "info",
+      "title": "Patient Forms",
+      "parent": "/new-patients/",
+      "hint": "Complete registration online before your visit through the secure Denticon registration page (link to forms_url as a prominent button). What the registration asks for (personal details, medical history, medications, insurance; you can upload images of your insurance card), why doing it ahead saves time at the desk, that you can also do it on a phone, and that paper forms are available at the office if you prefer. Note: do not include private health information in email."
+    },
+    {
+      "slug": "/new-patients/languages/",
+      "type": "info",
+      "title": "Languages We Speak",
+      "parent": "/new-patients/",
+      "hint": "Care in English, Arabic, Spanish and Portuguese. Why language matters in a dental visit (consent, medical history, describing pain, understanding costs). Ask for your preferred language when booking so the right team member is scheduled. Dr. Fadi speaks English and Arabic. Keep it warm; include short bilingual welcome lines in Arabic, Spanish and Portuguese (accurate, simple: e.g. 'Bienvenidos', 'Bem-vindos', 'أهلاً وسهلاً')."
+    },
+    {
+      "slug": "/new-patients/evening-and-weekend-appointments/",
+      "type": "info",
+      "title": "Evening & Weekend Appointments",
+      "parent": "/new-patients/",
+      "hint": "A major differentiator: open 7 AM to 8 PM Monday–Friday and 8 AM to 1 PM Saturday and Sunday, seven days a week. Who this is for (commuters on I-395 and the Metro, parents, shift workers, students, people who have put off care because nothing fit). Early-morning before work, evening after work, weekend mornings. Same dentists, same care at every hour. How to find the slots online (24/7 booking) or by phone. Include a clear hours table."
+    },
+    {
+      "slug": "/general-dentistry/",
+      "type": "hub",
+      "title": "General Dentistry",
+      "hint": "Hub for everyday care: cleanings and exams, family and children's dentistry, seniors, prevention, X-rays, oral cancer screening, sealants, fluoride, hygiene, periodontal maintenance, night guards. Why prevention keeps small problems small, what a checkup here involves, how often to come (individualized), the whole family in one place with hours that fit."
+    },
+    {
+      "slug": "/general-dentistry/cleanings-and-exams/",
+      "type": "service",
+      "title": "Cleanings & Exams",
+      "parent": "/general-dentistry/",
+      "hint": "What happens at a cleaning and exam, step by step; difference between a routine cleaning and a deep cleaning; how often (six months is a starting point, not a rule); what the exam checks (teeth, gums measured, bite, existing work, oral cancer screening); X-rays only when needed; what you leave with."
+    },
+    {
+      "slug": "/general-dentistry/family-dentistry/",
+      "type": "service",
+      "title": "Family Dentistry",
+      "parent": "/general-dentistry/",
+      "hint": "One office for everyone from toddlers to grandparents; back-to-back family appointments, evening and weekend slots, four languages, how care changes by age, why a single dental home makes records and continuity simpler."
+    },
+    {
+      "slug": "/general-dentistry/childrens-dentistry/",
+      "type": "service",
+      "title": "Children's Dentistry",
+      "parent": "/general-dentistry/",
+      "hint": "First visit by age one or first tooth; what a child's visit looks like (ride in the chair, count the teeth, no pressure); sealants and fluoride; cavity risk; thumb/pacifier; sports mouthguards; how parents can help; Virginia Medicaid (Smiles For Children) accepted; evening and weekend slots for school schedules."
+    },
+    {
+      "slug": "/general-dentistry/dental-care-for-seniors/",
+      "type": "service",
+      "title": "Dental Care for Seniors",
+      "parent": "/general-dentistry/",
+      "hint": "Dry mouth from medications, root decay, gum recession, worn teeth, denture fit and relines, implants for stability, oral cancer screening, keeping natural teeth, coordinating with physicians and medications (blood thinners, bisphosphonates), accessibility and ground-floor parking, bring a medication list."
+    },
+    {
+      "slug": "/general-dentistry/preventive-dentistry/",
+      "type": "service",
+      "title": "Preventive Dentistry",
+      "parent": "/general-dentistry/",
+      "hint": "Prevention as the cheapest and least invasive dentistry: exams, cleanings, sealants, fluoride, X-rays when needed, night guards, home care coaching, risk-based intervals; what 'watching' a small spot means and when it changes to treatment."
+    },
+    {
+      "slug": "/general-dentistry/digital-x-rays/",
+      "type": "service",
+      "title": "Digital X-Rays",
+      "parent": "/general-dentistry/",
+      "hint": "Why X-rays find what the eye cannot (between teeth, under fillings, bone levels, abscesses); types (bitewing, periapical, panoramic; 3D imaging for implants and complex cases); far less exposure than film; images on the screen beside you; taken when there is a reason, not on a fixed schedule; pregnancy; sending previous X-rays from another office."
+    },
+    {
+      "slug": "/general-dentistry/oral-cancer-screening/",
+      "type": "service",
+      "title": "Oral Cancer Screening",
+      "parent": "/general-dentistry/",
+      "hint": "Part of every exam: what is checked (lips, tongue, floor of mouth, cheeks, palate, throat, neck), what the dentist looks for, risk factors (tobacco, alcohol, HPV, sun on lips, age), what happens if something is found (monitoring, referral, biopsy), signs to report between visits (sore that does not heal in two weeks, lump, patch)."
+    },
+    {
+      "slug": "/general-dentistry/dental-sealants/",
+      "type": "service",
+      "title": "Dental Sealants",
+      "parent": "/general-dentistry/",
+      "hint": "A thin protective coating on the grooves of back teeth; for children when molars erupt (around 6 and 12) and for some adults; painless, no drilling, minutes per tooth; how long they last and checked at each visit; sealants and fluoride together."
+    },
+    {
+      "slug": "/general-dentistry/fluoride-treatment/",
+      "type": "service",
+      "title": "Fluoride Treatment",
+      "parent": "/general-dentistry/",
+      "hint": "Professional fluoride varnish for children and adults at higher cavity risk (dry mouth, recession, braces, aligners, frequent snacking, history of cavities); how it strengthens enamel and can reverse early decay; what the visit involves; safety; home fluoride options."
+    },
+    {
+      "slug": "/general-dentistry/oral-hygiene/",
+      "type": "service",
+      "title": "Brushing & Flossing",
+      "parent": "/general-dentistry/",
+      "hint": "Home care that actually works: technique, two minutes twice a day, soft brush, electric vs manual, flossing and alternatives (interdental brushes, water flossers), tongue, mouthwash, diet and timing, caring for crowns, implants, aligners and dentures, common mistakes."
+    },
+    {
+      "slug": "/general-dentistry/periodontal-maintenance/",
+      "type": "service",
+      "title": "Periodontal Maintenance",
+      "parent": "/general-dentistry/",
+      "hint": "For patients treated for gum disease: why it is different from a routine cleaning, typically every three to four months, what is done (pocket measurements, cleaning below the gum line, checking for recurrence), why the interval matters, insurance coding difference in plain terms, home care."
+    },
+    {
+      "slug": "/general-dentistry/night-guards/",
+      "type": "service",
+      "title": "Night Guards & Mouthguards",
+      "parent": "/general-dentistry/",
+      "hint": "Custom night guards for grinding and clenching (bruxism): signs (worn or chipped teeth, morning jaw ache, headaches, sensitivity), how a custom guard differs from a drugstore one, the fitting process, care; and custom sports mouthguards for children and adults."
+    },
+    {
+      "slug": "/restorative-dentistry/",
+      "type": "hub",
+      "title": "Restore Your Smile",
+      "hint": "Hub for repairing and replacing: fillings, crowns, inlays/onlays, bridges, dentures and partials, relines, root canals, extractions and wisdom teeth, gum disease treatment and deep cleaning, TMJ, sleep apnea appliances. Philosophy: preserve what can be preserved; options and costs explained before anything starts; most treatment done in-house by two dentists with advanced training."
+    },
+    {
+      "slug": "/restorative-dentistry/tooth-colored-fillings/",
+      "type": "service",
+      "title": "Tooth-Colored Fillings",
+      "parent": "/restorative-dentistry/",
+      "hint": "Composite fillings: what a cavity is, how the visit goes (numbing, removing decay, bonding in layers, shaping, bite check), one visit, how they compare to silver amalgam (sound old amalgam does not need replacing just for color), sensitivity after a filling, how long they last, when a filling is too big and a crown or onlay is better."
+    },
+    {
+      "slug": "/restorative-dentistry/dental-crowns/",
+      "type": "service",
+      "title": "Dental Crowns",
+      "parent": "/restorative-dentistry/",
+      "hint": "EXEMPLAR PAGE (already written)."
+    },
+    {
+      "slug": "/restorative-dentistry/inlays-and-onlays/",
+      "type": "service",
+      "title": "Inlays & Onlays",
+      "parent": "/restorative-dentistry/",
+      "hint": "The middle ground between a filling and a crown: lab-made pieces bonded into or onto a tooth; when they are chosen (too much decay for a filling, enough healthy tooth to avoid a crown); materials; two visits; durability; cost relative to the alternatives in general terms only."
+    },
+    {
+      "slug": "/restorative-dentistry/dental-bridges/",
+      "type": "service",
+      "title": "Dental Bridges",
+      "parent": "/restorative-dentistry/",
+      "hint": "Fixed replacement anchored to neighboring teeth: how it works, when a bridge is chosen over an implant (and vice versa), two visits, caring for a bridge (threading floss under it), lifespan, what happens to the anchor teeth, honest comparison with implants."
+    },
+    {
+      "slug": "/restorative-dentistry/dentures/",
+      "type": "service",
+      "title": "Dentures",
+      "parent": "/restorative-dentistry/",
+      "hint": "Full dentures: who they are for, the process over several visits, immediate vs conventional, adjusting to them (speech, eating), fit changes over time and relines, implant-retained options for a loose lower denture, cleaning and nightly removal, how long they last."
+    },
+    {
+      "slug": "/restorative-dentistry/partial-dentures/",
+      "type": "service",
+      "title": "Partial Dentures",
+      "parent": "/restorative-dentistry/",
+      "hint": "Removable partials: metal framework vs flexible, how clasps work, when a partial is the right choice vs bridge or implants, the fitting process, eating and speaking, care, converting to implant-supported later."
+    },
+    {
+      "slug": "/restorative-dentistry/denture-relines/",
+      "type": "service",
+      "title": "Denture Relines",
+      "parent": "/restorative-dentistry/",
+      "hint": "Why dentures loosen (bone changes), signs you need a reline (slipping, sore spots, food under the plate, adhesive dependence), soft vs hard relines, same-day vs lab reline, how often, when a new denture is better than another reline, do not DIY with kits."
+    },
+    {
+      "slug": "/restorative-dentistry/replacing-missing-teeth/",
+      "type": "service",
+      "title": "Replacing Missing Teeth",
+      "parent": "/restorative-dentistry/",
+      "hint": "Decision guide: why a gap matters (tipping, drifting, bone loss, chewing), all options side by side (implant, bridge, partial, full denture, implant-retained denture) with pros/cons, how the choice is made (bone, budget, neighbors, timing), what to do if a tooth was just lost, cost conversation in general terms."
+    },
+    {
+      "slug": "/restorative-dentistry/root-canal-therapy/",
+      "type": "service",
+      "title": "Root Canal Therapy",
+      "parent": "/restorative-dentistry/",
+      "hint": "Dispel the myth: a root canal relieves pain rather than causing it. Signs you may need one, what happens inside the tooth, the visit (numbing, cleaning and sealing the canals, temporary, crown afterward), one or two visits, aftercare, alternatives (extraction and replacement) and why saving the tooth is usually better, when a referral to an endodontist may be suggested."
+    },
+    {
+      "slug": "/restorative-dentistry/tooth-extractions/",
+      "type": "service",
+      "title": "Tooth Extractions",
+      "parent": "/restorative-dentistry/",
+      "hint": "When a tooth cannot be saved: reasons, simple vs surgical extraction, numbing and comfort options including nitrous oxide and sedation after review, what to expect the same day, aftercare (gauze, no straws, no smoking, dry socket), planning the replacement before the extraction, Dr. Fadi's surgical training."
+    },
+    {
+      "slug": "/restorative-dentistry/wisdom-teeth-removal/",
+      "type": "service",
+      "title": "Wisdom Teeth Removal",
+      "parent": "/restorative-dentistry/",
+      "hint": "Why wisdom teeth cause trouble (impaction, crowding, infection, cysts), when removal is recommended and when watching is fine, evaluation with panoramic or 3D imaging, the procedure and comfort options, recovery day by day, teens and young adults, referral to an oral surgeon when appropriate."
+    },
+    {
+      "slug": "/restorative-dentistry/gum-disease-treatment/",
+      "type": "service",
+      "title": "Gum Disease Treatment",
+      "parent": "/restorative-dentistry/",
+      "hint": "Gingivitis vs periodontitis, signs (bleeding, recession, bad breath, loose teeth), how it is measured (pocket depths, X-rays), treatment ladder (improved home care and cleaning; scaling and root planing; antibiotics placed in pockets where appropriate; periodontal maintenance; referral to a periodontist for advanced cases), the link to overall health, why it matters before implants."
+    },
+    {
+      "slug": "/restorative-dentistry/deep-cleaning/",
+      "type": "service",
+      "title": "Deep Cleaning (Scaling & Root Planing)",
+      "parent": "/restorative-dentistry/",
+      "hint": "What a deep cleaning is and why it is different from a regular cleaning, numbing, one side at a time over two visits typically, what it feels like afterward (tender, sensitive to cold for a while), re-evaluation at 4–6 weeks, then periodontal maintenance, home care that makes it work."
+    },
+    {
+      "slug": "/restorative-dentistry/tmj-treatment/",
+      "type": "service",
+      "title": "TMJ Treatment",
+      "parent": "/restorative-dentistry/",
+      "hint": "Jaw joint and muscle pain: symptoms (clicking, locking, pain chewing, headaches, ear pain), common causes (clenching, grinding, stress, bite, injury), conservative first-line care (custom splint/night guard, habit changes, heat, soft diet, bite adjustment where indicated), when to see a physician or specialist, what to expect at an evaluation."
+    },
+    {
+      "slug": "/restorative-dentistry/sleep-apnea/",
+      "type": "service",
+      "title": "Sleep Apnea Appliances",
+      "parent": "/restorative-dentistry/",
+      "hint": "Custom oral appliances for snoring and mild to moderate obstructive sleep apnea, for patients who cannot tolerate CPAP: how a mandibular advancement device works, diagnosis must come from a physician sleep study first, the fitting and adjustment process, side effects, follow-up, how to start (talk to us and your physician)."
+    },
+    {
+      "slug": "/cosmetic-dentistry/",
+      "type": "hub",
+      "title": "Cosmetic Dentistry",
+      "hint": "Hub: whitening, bonding, veneers, smile makeover; cosmetic planning shaped around a healthy, natural-looking result; starting with a conversation and photographs; health first (gums and decay before cosmetics); conservative options first (whitening and bonding before veneers); honest about what each option can and cannot do."
+    },
+    {
+      "slug": "/cosmetic-dentistry/teeth-whitening/",
+      "type": "service",
+      "title": "Teeth Whitening",
+      "parent": "/cosmetic-dentistry/",
+      "hint": "Professional whitening (custom take-home trays and/or in-office treatment described generally); what causes stains; what whitens and what does not (crowns, fillings, veneers do not change); sensitivity and how it is managed; how long results last; who should wait (pregnancy, untreated decay, gum disease); over-the-counter vs professional."
+    },
+    {
+      "slug": "/cosmetic-dentistry/dental-bonding/",
+      "type": "service",
+      "title": "Dental Bonding",
+      "parent": "/cosmetic-dentistry/",
+      "hint": "Tooth-colored composite shaped onto a tooth to fix chips, gaps, worn edges, discoloration; usually one visit, often no numbing; conservative and reversible compared with veneers; how long it lasts, staining, repairs; when a veneer or crown is the better choice."
+    },
+    {
+      "slug": "/cosmetic-dentistry/porcelain-veneers/",
+      "type": "service",
+      "title": "Porcelain Veneers",
+      "parent": "/cosmetic-dentistry/",
+      "hint": "Thin porcelain shells on front teeth: what they fix, the process (consultation and photos, planning, preparation, temporaries, lab, bonding), how much enamel is removed and why it is a commitment, care and lifespan, grinding and night guards, how they compare with bonding and whitening, candidacy."
+    },
+    {
+      "slug": "/cosmetic-dentistry/smile-makeover/",
+      "type": "service",
+      "title": "Smile Makeover",
+      "parent": "/cosmetic-dentistry/",
+      "hint": "A coordinated plan rather than a single procedure: what a consultation involves (photos, goals, bite, gum health), combining whitening, bonding, veneers, aligners, crowns or implants, sequencing (health first, alignment, then color and shape), staged over time to fit budgets, realistic expectations, maintaining the result."
+    },
+    {
+      "slug": "/dental-implants/",
+      "type": "hub",
+      "title": "Dental Implants",
+      "hint": "Hub: what an implant is (titanium post, bone fuses, crown on top), why a gap is worth filling, the steps (planning with 3D imaging, placement, healing, the tooth), single tooth, implant bridges, implant-retained dentures; Dr. Fadi Alhrashi's implant fellowship at Tufts, ABOI/ID Diplomate and AAID Fellow credentials; honest about when an implant is not the answer. Comprehensive tooth-replacement planning is part of complete general care here."
+    },
+    {
+      "slug": "/dental-implants/single-tooth-implants/",
+      "type": "service",
+      "title": "Single Tooth Implants",
+      "parent": "/dental-implants/",
+      "hint": "Replacing one tooth without touching the neighbors: the parts (post, abutment, crown), timeline, planning with 3D imaging, what the surgery day is like, temporary options for a visible gap, matching the crown, care, longevity."
+    },
+    {
+      "slug": "/dental-implants/implant-supported-bridges/",
+      "type": "service",
+      "title": "Implant-Supported Bridges",
+      "parent": "/dental-implants/",
+      "hint": "Replacing several teeth in a row on two or more implants: how it differs from a traditional bridge (no anchor teeth ground down, bone preserved), planning, timeline, cost logic (fewer implants than teeth), care."
+    },
+    {
+      "slug": "/dental-implants/implant-retained-dentures/",
+      "type": "service",
+      "title": "Implant-Retained Dentures",
+      "parent": "/dental-implants/",
+      "hint": "For a loose lower denture especially: snap-in overdentures on a small number of implants, removable vs fixed options, eating and confidence, the process, converting an existing denture, maintenance (replacing attachments), who is a candidate."
+    },
+    {
+      "slug": "/dental-implants/implants-vs-dentures/",
+      "type": "service",
+      "title": "Implants vs. Dentures",
+      "parent": "/dental-implants/",
+      "hint": "Balanced comparison: comfort, chewing, bone preservation, timeline, upfront vs lifetime cost in general terms, maintenance, candidacy, the hybrid middle ground (implant-retained denture); a comparison table; how the office helps decide."
+    },
+    {
+      "slug": "/dental-implants/candidates/",
+      "type": "service",
+      "title": "Are Implants Right for Me?",
+      "parent": "/dental-implants/",
+      "hint": "Candidacy: bone volume, gum health (treat gum disease first), smoking, diabetes control, medications (bisphosphonates), age (growth complete), overall health; bone grafting as a possibility to discuss; what the consultation and 3D scan evaluate; alternatives when implants are not advisable."
+    },
+    {
+      "slug": "/dental-implants/cost/",
+      "type": "service",
+      "title": "Dental Implant Cost",
+      "parent": "/dental-implants/",
+      "hint": "What goes into the cost (planning and imaging, the implant, abutment, crown, any grafting, number of implants), why quotes differ, insurance (often partial, varies by plan; written estimate and benefit check first), comparing lifetime value with bridges and dentures, staging treatment. Give NO dollar figures."
+    },
+    {
+      "slug": "/dental-implants/aftercare/",
+      "type": "service",
+      "title": "Caring for Implants",
+      "parent": "/dental-implants/",
+      "hint": "First days after placement (swelling, soft foods, no smoking, gentle cleaning), healing months, after the crown: daily cleaning (floss, interdental brushes, water flosser), professional maintenance, peri-implantitis signs, night guards for grinders, longevity."
+    },
+    {
+      "slug": "/clear-aligners/",
+      "type": "hub",
+      "title": "Clear Aligners",
+      "hint": "Hub: nearly invisible removable aligners for crowding, spacing, mild bite issues; adults and teens; how it works, candidacy, cost, aligners vs braces, retainers; Dr. Sameer Atrash's particular interest in clear aligner treatment and digital planning; you see the planned result before starting; discipline required (20–22 hours a day)."
+    },
+    {
+      "slug": "/clear-aligners/how-it-works/",
+      "type": "service",
+      "title": "How Clear Aligners Work",
+      "parent": "/clear-aligners/",
+      "hint": "Consultation and records, digital treatment plan showing the projected result, series of aligners each worn 1–2 weeks, attachments and interproximal reduction explained, check-ins, refinements, retainers at the end; typical timelines by case complexity (hedged)."
+    },
+    {
+      "slug": "/clear-aligners/for-adults/",
+      "type": "service",
+      "title": "Clear Aligners for Adults",
+      "parent": "/clear-aligners/",
+      "hint": "Adults straightening for the first time or after relapse; discreet at work; fitting treatment around a commute (evening and weekend check-ins); health benefits of alignment (cleaning, wear, gum health); combining with whitening or restorative work; what adults should know about compliance."
+    },
+    {
+      "slug": "/clear-aligners/for-teens/",
+      "type": "service",
+      "title": "Clear Aligners for Teens",
+      "parent": "/clear-aligners/",
+      "hint": "Candidacy once most permanent teeth are in, compliance indicators and parent involvement, sports and music, lost aligners, school schedules with evening/weekend appointments, cost and insurance generally, comparison with braces for teens."
+    },
+    {
+      "slug": "/clear-aligners/candidates/",
+      "type": "service",
+      "title": "Is Clear Aligner Treatment Right for Me?",
+      "parent": "/clear-aligners/",
+      "hint": "What aligners do well (crowding, spacing, relapse, mild to moderate bite issues) and where braces or specialist referral are better (severe bite problems, rotations, skeletal issues); gum health and decay must be stable; commitment of wear time; what the consultation checks."
+    },
+    {
+      "slug": "/clear-aligners/cost/",
+      "type": "service",
+      "title": "Clear Aligner Cost",
+      "parent": "/clear-aligners/",
+      "hint": "What affects cost (complexity, length, refinements, retainers), orthodontic insurance benefits and lifetime maximums explained generally, written estimate at consultation, payment options to ask about, comparison with braces in general terms. NO dollar figures."
+    },
+    {
+      "slug": "/clear-aligners/vs-braces/",
+      "type": "service",
+      "title": "Clear Aligners vs. Braces",
+      "parent": "/clear-aligners/",
+      "hint": "Balanced comparison table: appearance, comfort, eating, cleaning, appointments, compliance, suitability by case, treatment time, cost in general terms; who should choose which; referral to an orthodontist when braces are the right tool."
+    },
+    {
+      "slug": "/clear-aligners/retainers/",
+      "type": "service",
+      "title": "Retainers",
+      "parent": "/clear-aligners/",
+      "hint": "Why teeth move back, types (clear removable, fixed bonded wire), wear schedule (full-time then nights), care and replacement, lost or cracked retainer, retainers for people who had braces years ago, retainers after aligner treatment."
+    },
+    {
+      "slug": "/emergency-dentistry/",
+      "type": "hub",
+      "title": "Emergency Dental Care",
+      "hint": "Hub: same-day evaluation for urgent problems during seven-day hours (7 AM–8 PM weekdays, 8 AM–1 PM weekends), call first so we can plan; what counts as an emergency; what to do right now for the common ones (toothache, broken tooth, knocked-out tooth, lost filling/crown, abscess); when to go to the ER instead (breathing, swallowing, spreading swelling, uncontrolled bleeding, jaw fracture); what an emergency visit involves; new patients welcome for emergencies."
+    },
+    {
+      "slug": "/emergency-dentistry/toothache/",
+      "type": "symptom",
+      "title": "Toothache",
+      "parent": "/emergency-dentistry/",
+      "hint": "Causes by pattern (cold sensitivity vs lingering, pain on biting, spontaneous throbbing at night, swelling), what to do now (rinse, floss, OTC pain relief as labeled, cold compress, no aspirin on the gum), when it is urgent today, what the visit involves, likely treatments by cause (filling, crown, root canal, extraction, gum treatment)."
+    },
+    {
+      "slug": "/emergency-dentistry/broken-tooth/",
+      "type": "symptom",
+      "title": "Broken or Chipped Tooth",
+      "parent": "/emergency-dentistry/",
+      "hint": "Chip vs crack vs fracture, save the pieces, protect the sharp edge (wax or sugar-free gum), avoid biting on it, when it is urgent (pain, pulp exposed, bleeding), repair options (bonding, onlay, crown, root canal if nerve involved, extraction if split), front teeth and cosmetic repair."
+    },
+    {
+      "slug": "/emergency-dentistry/knocked-out-tooth/",
+      "type": "symptom",
+      "title": "Knocked-Out Tooth",
+      "parent": "/emergency-dentistry/",
+      "hint": "Time-critical steps for an adult tooth (hold by crown, rinse briefly, reinsert or keep in milk, come within the hour), baby teeth are NOT reimplanted, what we do (reposition, splint, follow-up, possible root canal), what to do if it happens outside our hours (ER with the tooth), prevention with mouthguards."
+    },
+    {
+      "slug": "/emergency-dentistry/lost-filling-or-crown/",
+      "type": "symptom",
+      "title": "Lost Filling or Crown",
+      "parent": "/emergency-dentistry/",
+      "hint": "Keep the crown, clean it, temporary dental cement from a pharmacy as a stopgap (never super glue), protect the tooth from cold and chewing, how soon to be seen (days, sooner if pain), re-cementing vs a new crown, why the tooth may be sensitive, what the visit involves."
+    },
+    {
+      "slug": "/emergency-dentistry/dental-abscess/",
+      "type": "symptom",
+      "title": "Dental Abscess",
+      "parent": "/emergency-dentistry/",
+      "hint": "What an abscess is, signs (throbbing pain, swelling, bad taste, fever, pimple on the gum), why it never resolves on its own even if it drains, why antibiotics alone are not the treatment, ER red flags (swelling toward the eye or neck, trouble swallowing or breathing, high fever), treatment (drainage, root canal or extraction), do not delay."
+    },
+    {
+      "slug": "/emergency-dentistry/emergency-extractions/",
+      "type": "symptom",
+      "title": "Emergency Extractions",
+      "parent": "/emergency-dentistry/",
+      "hint": "When a tooth must come out urgently (split tooth, severe infection, failed root canal with abscess, trauma), what happens at the visit (X-ray, numbing, comfort options), how it feels afterward, aftercare and dry socket prevention, planning the replacement, and why we still try to save teeth when it is reasonable."
+    },
+    {
+      "slug": "/emergency-dentistry/after-hours/",
+      "type": "symptom",
+      "title": "Dental Emergencies After Hours",
+      "parent": "/emergency-dentistry/",
+      "hint": "Our hours already cover early mornings, evenings until 8 PM and weekend mornings. Outside those: how to request the first available slot online 24/7, what to do overnight for pain or a lost crown, what needs the ER tonight (breathing/swallowing, spreading swelling, uncontrolled bleeding, jaw injury, knocked-out adult tooth you cannot reinsert), and how to reach us first thing. Hours table."
+    },
+    {
+      "slug": "/sedation-dentistry/",
+      "type": "hub",
+      "title": "Sedation Dentistry",
+      "hint": "Hub for comfort: nitrous oxide, additional sedation options after an individual health review, and the non-drug things that help (pacing, explanations, a stop signal, breaks, headphones, numbing done carefully). Who it is for (anxiety, gag reflex, long procedures, difficulty getting numb, children who need extra help). Safety and screening. No judgment."
+    },
+    {
+      "slug": "/sedation-dentistry/nitrous-oxide/",
+      "type": "service",
+      "title": "Nitrous Oxide",
+      "parent": "/sedation-dentistry/",
+      "hint": "Laughing gas: how it is given (small nasal mask with oxygen), what it feels like, you stay awake and able to talk, wears off within minutes so you can drive, who it suits and who it does not (nasal congestion, certain conditions, pregnancy discussed), used alongside local anesthetic, for children and adults."
+    },
+    {
+      "slug": "/sedation-dentistry/sedation-options/",
+      "type": "service",
+      "title": "Sedation Options",
+      "parent": "/sedation-dentistry/",
+      "hint": "Deeper levels of sedation that may be available after an individual review of health, medications, anxiety level and the planned treatment; what the review covers; what sedation does and does not do (you still need numbing); typical rules (fasting instructions, an adult escort, no driving, rest afterward); why we never copy a friend's prescription; when referral to a different setting is safer. Keep it general; do not name specific drugs or promise a specific type."
+    },
+    {
+      "slug": "/sedation-dentistry/dental-anxiety/",
+      "type": "service",
+      "title": "Nervous About the Dentist?",
+      "parent": "/sedation-dentistry/",
+      "hint": "For people who have avoided care for years: tell us when you book, a first visit can be just a conversation, what we change (longer slots, explain before each step, stop signal, music, breaks), nitrous oxide and sedation options, no lecture, how fear usually started (a past experience) and how it eases with predictable visits; evening/weekend quieter slots."
+    },
+    {
+      "slug": "/symptoms/",
+      "type": "hub",
+      "title": "Symptom Guides",
+      "hint": "Index of symptom guides: start with what you feel, not the dental term. Explain how to use the guides, when to call today vs book soon, and the ER red flags. Lists all symptom pages (auto-listed) plus the emergency pages."
+    },
+    {
+      "slug": "/symptoms/bad-breath/",
+      "type": "symptom",
+      "title": "Bad Breath",
+      "parent": "/symptoms/",
+      "hint": "Halitosis: common causes (gum disease, tongue coating, dry mouth, cavities, food trapped under a bridge or in wisdom teeth, diet, tonsils, reflux, medical causes), what fixes it (cleaning, gum treatment, tongue cleaning, treating dry mouth), when it signals gum disease, what the visit checks."
+    },
+    {
+      "slug": "/symptoms/bleeding-gums/",
+      "type": "symptom",
+      "title": "Bleeding Gums",
+      "parent": "/symptoms/",
+      "hint": "Bleeding is a sign, not a reason to brush less: gingivitis, periodontitis, aggressive brushing, medications (blood thinners), pregnancy, what to do at home (keep cleaning, soft brush, floss daily), when to come in, what the exam measures, treatment ladder."
+    },
+    {
+      "slug": "/symptoms/cracked-tooth/",
+      "type": "symptom",
+      "title": "Cracked Tooth",
+      "parent": "/symptoms/",
+      "hint": "Sharp pain on biting then release, cold sensitivity, cracks that are hard to see on X-ray, causes (grinding, large fillings, ice), why early treatment matters (crack grows), options (bonding, onlay, crown, root canal, extraction if split), prevention with a night guard."
+    },
+    {
+      "slug": "/symptoms/dry-mouth/",
+      "type": "symptom",
+      "title": "Dry Mouth",
+      "parent": "/symptoms/",
+      "hint": "Xerostomia: causes (hundreds of medications, age, diabetes, Sjogren's, radiation, mouth breathing, dehydration), why it raises cavity risk fast, what helps (water, sugar-free gum/xylitol, saliva substitutes, humidifier, fluoride, avoiding alcohol mouthwash), closer prevention schedule, talk to your physician about medications."
+    },
+    {
+      "slug": "/symptoms/gum-recession/",
+      "type": "symptom",
+      "title": "Gum Recession",
+      "parent": "/symptoms/",
+      "hint": "Teeth looking longer, notches at the gum line, sensitivity: causes (gum disease, hard brushing, grinding, thin tissue, orthodontics, piercings), does it grow back (no), what can be done (technique change, bonding exposed roots, desensitizing, night guard, gum grafting via periodontist referral when needed), monitoring."
+    },
+    {
+      "slug": "/symptoms/jaw-pain/",
+      "type": "symptom",
+      "title": "Jaw Pain",
+      "parent": "/symptoms/",
+      "hint": "Muscle vs joint vs tooth causes, clenching and grinding, clicking and locking, wisdom teeth, sinus, referred pain; red flags (jaw pain with chest pain or shortness of breath: call 911; after injury with inability to close: ER); home care (soft diet, heat, no gum, awareness of clenching), evaluation and splint therapy."
+    },
+    {
+      "slug": "/symptoms/loose-tooth/",
+      "type": "symptom",
+      "title": "Loose Tooth",
+      "parent": "/symptoms/",
+      "hint": "Adult teeth should not be loose: gum disease (most common), grinding, injury, abscess, pregnancy hormones mildly; what to do now (do not wiggle, soft diet, call), what the exam checks (pockets, bone on X-ray, bite), treatment (gum treatment, splinting, bite adjustment, night guard, extraction and replacement if hopeless). Children's loose baby teeth are normal."
+    },
+    {
+      "slug": "/symptoms/snoring/",
+      "type": "symptom",
+      "title": "Snoring",
+      "parent": "/symptoms/",
+      "hint": "Snoring vs sleep apnea, warning signs of apnea (gasping, daytime sleepiness, morning headaches, high blood pressure), why a sleep study from a physician comes first, how a dentist can help with a custom oral appliance after diagnosis, lifestyle factors, what grinding during sleep may indicate."
+    },
+    {
+      "slug": "/symptoms/swollen-gums/",
+      "type": "symptom",
+      "title": "Swollen Gums",
+      "parent": "/symptoms/",
+      "hint": "Localized vs generalized swelling: gingivitis, abscess (gum or tooth), food impaction, erupting wisdom tooth (pericoronitis), medications, pregnancy, ill-fitting crown edge; home care; when to be seen today (pain, pus, fever, swelling spreading to face); treatment by cause."
+    },
+    {
+      "slug": "/symptoms/teeth-grinding/",
+      "type": "symptom",
+      "title": "Teeth Grinding (Bruxism)",
+      "parent": "/symptoms/",
+      "hint": "Night and daytime grinding/clenching: signs (flattened or chipped teeth, morning jaw soreness, headaches, sensitivity, partner hears it), causes (stress, sleep disorders, bite, some medications), damage over time, custom night guard, habit awareness, stress and sleep evaluation, protecting crowns, veneers and implants."
+    },
+    {
+      "slug": "/symptoms/tooth-pain-after-filling/",
+      "type": "symptom",
+      "title": "Tooth Pain After a Filling",
+      "parent": "/symptoms/",
+      "hint": "What is normal (cold/pressure sensitivity for days to a few weeks), what is not (sharp pain on biting that persists, meaning a high bite needing a quick adjustment; lingering pain suggesting nerve inflammation), when to call, what we do (bite adjustment, desensitizing, monitoring, root canal if the nerve does not settle), deep fillings near the nerve."
+    },
+    {
+      "slug": "/symptoms/tooth-sensitivity/",
+      "type": "symptom",
+      "title": "Tooth Sensitivity",
+      "parent": "/symptoms/",
+      "hint": "EXEMPLAR PAGE (already written)."
+    },
+    {
+      "slug": "/symptoms/wisdom-tooth-pain/",
+      "type": "symptom",
+      "title": "Wisdom Tooth Pain",
+      "parent": "/symptoms/",
+      "hint": "Pain at the back of the jaw in late teens and twenties: eruption, impaction, pericoronitis (infected gum flap), decay in a hard-to-reach tooth, crowding pressure; home care (salt-water rinses, keep it clean, OTC pain relief); when it is urgent (swelling, trouble opening, fever); evaluation with panoramic imaging; removal vs monitoring."
+    },
+    {
+      "slug": "/areas/",
+      "type": "hub",
+      "title": "Areas We Serve",
+      "hint": "Index: a dental home for West Alexandria and the neighborhoods around the Bradlee Office Building, just off I-395 at the King Street exit, with free surface parking. Explain who comes here (commuters, families, Fairlington/Shirlington/Parkfairfax condo residents, Seminary Hill, Del Ray, Landmark, Lincolnia, Bailey's Crossroads, South Arlington) and why the location and seven-day hours work. Lists all area pages (auto-listed)."
+    },
+    {
+      "slug": "/areas/seminary-hill/",
+      "type": "area",
+      "title": "Seminary Hill",
+      "parent": "/areas/",
+      "hint": "Seminary Hill is the neighborhood immediately around the office (W. Braddock Rd near Bradlee Shopping Center, Seminary Rd, Quaker Ln). Walkable or a few minutes' drive; families and long-time residents; near Virginia Theological Seminary and Episcopal High School; T.C. Williams / Alexandria City High School nearby. Keep landmarks general and real."
+    },
+    {
+      "slug": "/areas/fairlington/",
+      "type": "area",
+      "title": "Fairlington",
+      "parent": "/areas/",
+      "hint": "Fairlington (Arlington/Alexandria border, historic brick condo community off I-395 and Quaker Lane/King St): a short drive down Quaker Lane or King Street to W. Braddock Rd; condo residents, young families, commuters; evening hours after the I-395 commute; weekend mornings."
+    },
+    {
+      "slug": "/areas/shirlington/",
+      "type": "area",
+      "title": "Shirlington",
+      "parent": "/areas/",
+      "hint": "Shirlington (South Arlington, Village at Shirlington, off I-395): about ten minutes via I-395 to the King Street exit or via Quaker Lane; renters and condo owners who want a dentist close to home with evening and weekend hours; free parking vs garage hunting."
+    },
+    {
+      "slug": "/areas/parkfairfax/",
+      "type": "area",
+      "title": "Parkfairfax",
+      "parent": "/areas/",
+      "hint": "Parkfairfax (historic garden condo community along Quaker Lane and Martha Custis Dr, Alexandria): minutes from the office via Quaker Lane; neighbors in Fairlington and Shirlington; first-time buyers and long-time residents; a new comprehensive practice nearby."
+    },
+    {
+      "slug": "/areas/del-ray/",
+      "type": "area",
+      "title": "Del Ray",
+      "parent": "/areas/",
+      "hint": "Del Ray (Mount Vernon Avenue, Alexandria, north of Old Town): roughly 10–15 minutes via W. Braddock Rd / Braddock Rd or King St; families with young children, dog walkers, small-business owners; children's dentistry, family blocks, weekend hours."
+    },
+    {
+      "slug": "/areas/landmark/",
+      "type": "area",
+      "title": "Landmark & Van Dorn",
+      "parent": "/areas/",
+      "hint": "Landmark / Van Dorn area (West End of Alexandria along Duke St, Van Dorn St, near the redeveloping Landmark Mall site and Van Dorn Metro): about 10 minutes via Duke St or I-395 to King St; apartment and condo residents, Metro commuters, Virginia Medicaid accepted, Spanish and Arabic spoken."
+    },
+    {
+      "slug": "/areas/lincolnia/",
+      "type": "area",
+      "title": "Lincolnia",
+      "parent": "/areas/",
+      "hint": "Lincolnia (Fairfax County, along Little River Turnpike/Route 236 and Beauregard St/Lincolnia Rd): roughly 10 minutes via Seminary Rd or I-395; diverse community; four languages; families and seniors; evening hours."
+    },
+    {
+      "slug": "/areas/baileys-crossroads/",
+      "type": "area",
+      "title": "Bailey's Crossroads",
+      "parent": "/areas/",
+      "hint": "Bailey's Crossroads (Fairfax County, Route 7/Leesburg Pike and Columbia Pike, Skyline area): about 10–15 minutes via Seminary Rd or Route 7 to Quaker Ln/King St; large multilingual community (Spanish, Arabic, Portuguese speakers), Virginia Medicaid, weekend mornings."
+    },
+    {
+      "slug": "/blog/",
+      "type": "custom",
+      "title": "Dental Blog"
+    },
+    {
+      "slug": "/blog/what-counts-as-a-dental-emergency/",
+      "type": "article",
+      "title": "What Counts as a Dental Emergency?",
+      "parent": "/blog/",
+      "hint": "REWRITE the client's existing article (source text supplied) into our style: same substance, tighter, with our seven-day hours; date August 21, 2026; category Urgent dental care; 7 min read."
+    },
+    {
+      "slug": "/blog/how-often-dental-cleanings/",
+      "type": "article",
+      "title": "How Often Do You Really Need a Dental Cleaning?",
+      "parent": "/blog/",
+      "hint": "REWRITE the client's existing article (source text supplied); date August 21, 2026; category Prevention for every age; 6 min read."
+    },
+    {
+      "slug": "/blog/dental-anxiety-comfort-options/",
+      "type": "article",
+      "title": "Nervous About the Dentist? You Have Options.",
+      "parent": "/blog/",
+      "hint": "REWRITE the client's existing article (source text supplied); date August 21, 2026; category Comfortable dental visits; 7 min read."
+    },
+    {
+      "slug": "/blog/evening-and-weekend-dentist-alexandria/",
+      "type": "article",
+      "title": "Why We Chose 7 AM to 8 PM, Seven Days a Week",
+      "parent": "/blog/",
+      "hint": "NEW article: the thinking behind seven-day hours for a Northern Virginia practice; who it helps; how to use early, late and weekend slots well; what stays the same at every hour; date October 5, 2026; category Your visit; 5 min read."
+    },
+    {
+      "slug": "/blog/dental-care-for-the-whole-family-one-office/",
+      "type": "article",
+      "title": "One Dental Home for the Whole Family: What That Actually Means",
+      "parent": "/blog/",
+      "hint": "NEW article: what 'complete care, one dental home' means in practice, from a toddler's first visit to implants for grandparents, shared records, back-to-back appointments, four languages, Medicaid and PPO plans; date September 28, 2026; category Family dentistry; 6 min read."
+    },
+    {
+      "slug": "/blog/what-to-expect-first-visit-new-dentist/",
+      "type": "article",
+      "title": "Your First Visit to a New Dentist: A Checklist",
+      "parent": "/blog/",
+      "hint": "NEW article: practical checklist for a first visit (records transfer, medication list, insurance verification, questions to ask, what a good exam includes, what to expect in a written plan, red flags of a rushed office); date September 14, 2026; category Your visit; 5 min read."
+    }
+  ]
+}

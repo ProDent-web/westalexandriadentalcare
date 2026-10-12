@@ -1,0 +1,140 @@
+{
+  "slug": "/dentists/dr-fadi-alhrashi/",
+  "type": "dentist",
+  "title": "Dr. Fadi Alhrashi",
+  "meta_title": "Dr. Fadi Alhrashi, DDS, General Dentist | West Alexandria Dental Care",
+  "meta_description": "Dr. Fadi Alhrashi, general dentist at West Alexandria Dental Care: Eastman residency, Tufts implant fellowship, ABOI/ID Diplomate.",
+  "eyebrow": "Meet your dentist",
+  "h1": "Dr. Fadi Alhrashi, DDS",
+  "intro": "Dr. Fadi Alhrashi is a general dentist at West Alexandria Dental Care with nearly two decades of advanced training and clinical experience, much of it at the surgical and restorative end of dentistry: implants, extractions, and the complex cases that need a careful plan. He is calm, and he explains before he treats.",
+  "icon": "implant",
+  "facts": [
+    {
+      "label": "Degree",
+      "value": "Doctor of Dental Surgery"
+    },
+    {
+      "label": "Residency",
+      "value": "Eastman Institute, Rochester"
+    },
+    {
+      "label": "Fellowship",
+      "value": "Dental implants, Tufts"
+    },
+    {
+      "label": "Credentials",
+      "value": "ABOI/ID Diplomate, AAID Fellow"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "About Dr. Fadi Alhrashi",
+      "body": [
+        "Dr. Fadi's training did not stop at dental school. He completed an Advanced General Dentistry residency at the Eastman Institute for Oral Health in Rochester, New York, a residency that concentrates on the demanding side of general dentistry: oral surgery, implants, complex restorative work, and medically complex patients. Eastman recognized him with its Handelman Award of Excellence, given for clinical skill, leadership, ethics and communication.",
+        "He also completed a Dental Implant Fellowship at Tufts University School of Dental Medicine and is a Diplomate of the American Board of Oral Implantology/Implant Dentistry (ABOI/ID) and a Fellow of the American Academy of Implant Dentistry (AAID). Both are earned by examination and review of treated cases.",
+        "He remains a general dentist. The implant training sits inside a wider interest in comprehensive, restorative and surgical care: several failing teeth, a denture that never fit, a tooth that must come out and a plan for what replaces it."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Education and training",
+      "intro": "Listed exactly as awarded.",
+      "style": "check",
+      "items": [
+        "Doctor of Dental Surgery (DDS)",
+        "Advanced General Dentistry residency, Eastman Institute for Oral Health, Rochester, New York",
+        "Handelman Award of Excellence, Eastman Institute for Oral Health",
+        "Dental Implant Fellowship, Tufts University School of Dental Medicine",
+        "Diplomate, American Board of Oral Implantology/Implant Dentistry (ABOI/ID)",
+        "Fellow, American Academy of Implant Dentistry (AAID)"
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How Dr. Fadi works",
+      "body": [
+        "A visit with Dr. Fadi starts with listening: what brought you in, what has been tried, what worries you, and what you want your mouth to be able to do.",
+        "Then he examines every tooth, the gums, the bite and how old work is holding up. Any X-ray or 3D scan appears on the monitor beside you as he explains it.",
+        "The plan comes in plain language and in writing, with costs before anything starts. Complex cases are sequenced so you are never left without teeth you can use. If a simpler option will do, he says so. If a case belongs with a specialist, he refers you and explains why.",
+        "Calm is part of the method: each step explained before it happens, a signal to pause, breaks in longer appointments. Nitrous oxide is available, and other [sedation options](/sedation-dentistry/sedation-options/) can be discussed after a review of your health and the planned treatment."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Dr. Fadi's clinical interests",
+      "items": [
+        {
+          "title": "Dental implants",
+          "body": "Single teeth, implant bridges and implant-retained dentures, planned with 3D imaging. The area his fellowship and board credentials cover.",
+          "href": "/dental-implants/"
+        },
+        {
+          "title": "Extractions and wisdom teeth",
+          "body": "Simple and surgical extractions, with the replacement planned before the tooth comes out.",
+          "href": "/restorative-dentistry/tooth-extractions/"
+        },
+        {
+          "title": "Rebuilding worn or broken teeth",
+          "body": "Crowns, bridges and onlays when several teeth need work at once and the order matters.",
+          "href": "/restorative-dentistry/"
+        },
+        {
+          "title": "Replacing missing teeth",
+          "body": "Implant, bridge, partial or denture, weighed for your mouth, your bone and your budget, including the option to wait.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        },
+        {
+          "title": "Patients with complex medical histories",
+          "body": "Blood thinners, diabetes, bone medications, long medication lists. Coordinating with your physician is part of the plan.",
+          "href": "/general-dentistry/dental-care-for-seniors/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Outside the office",
+      "body": [
+        "Away from the practice, Dr. Fadi swims, travels when he can, and spends his time with his family."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Seeing Dr. Fadi",
+      "body": [
+        "Dr. Fadi is accepting new patients at our Bradlee Office Building location on W. Braddock Road in Alexandria, just off I-395 at the King Street exit, with free parking.",
+        "To book with him, {{book}} and choose him as your dentist, or call {{phone}} and ask for Dr. Fadi. Our schedule runs 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM on Saturday and Sunday. Say which days and hours suit you and the team will tell you when he is in. Second opinions on a plan quoted elsewhere are welcome.",
+        "Dr. Fadi speaks English and Arabic; the office also works in Spanish and Portuguese, so mention your preferred language when you book. Registration can be completed through the {{forms}} before you arrive."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Dr. Fadi see children?",
+      "a": "Yes. This is a family practice and both dentists see patients of every age. Book a child's checkup with either; if a child needs an extraction or a more involved repair, the team will match the visit to the dentist best placed to help. More on [children's dentistry](/general-dentistry/childrens-dentistry/)."
+    },
+    {
+      "q": "Which dentist should I book with?",
+      "a": "Either, for checkups, cleanings, fillings and most everyday care. Where it helps to choose: Dr. Fadi for implants, extractions, dentures and complex restorative plans, [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) for clear aligners, cosmetic work and digitally planned treatment. Records are shared, so seeing Dr. Sam for one thing and Dr. Fadi for another is normal."
+    },
+    {
+      "q": "Does Dr. Fadi place implants here?",
+      "a": "Yes. Implant treatment is offered here, from the 3D planning scan through placement and the final tooth. Not every mouth is ready on day one: gum disease is treated first, there has to be enough bone, and he will tell you plainly if a graft is needed or a bridge or partial would serve you better. See [are implants right for me](/dental-implants/candidates/)."
+    },
+    {
+      "q": "Is Dr. Fadi a specialist?",
+      "a": "No. Both dentists here are general dentists. Dr. Fadi's implant credentials are post-graduate qualifications, listed above exactly as awarded. When a case calls for a periodontist, endodontist, orthodontist or oral surgeon, we refer you and explain why."
+    }
+  ],
+  "related": [
+    "/dentists/dr-sameer-atrash/",
+    "/dentists/",
+    "/about/our-approach/",
+    "/dental-implants/",
+    "/restorative-dentistry/tooth-extractions/"
+  ],
+  "cta": {
+    "heading": "Book a visit with Dr. Fadi",
+    "body": "New patients are welcome, evenings and weekends included. Book online and choose Dr. Fadi as your dentist, or call 703-560-7200 and ask for him by name. Bring your questions and any X-rays you already have."
+  }
+}

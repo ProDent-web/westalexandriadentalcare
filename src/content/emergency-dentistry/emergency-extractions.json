@@ -1,0 +1,148 @@
+{
+  "slug": "/emergency-dentistry/emergency-extractions/",
+  "type": "symptom",
+  "title": "Emergency Extractions",
+  "meta_title": "Emergency Tooth Extractions | West Alexandria Dental Care",
+  "meta_description": "When a tooth has to come out urgently, what happens at the visit, comfort options, how it feels afterward, aftercare and dry socket prevention.",
+  "eyebrow": "Emergency care",
+  "h1": "Emergency extractions",
+  "intro": "Sometimes the fastest and kindest way to end a dental emergency is to remove the tooth: a tooth split to the root, a severe infection on a tooth that cannot be saved, a wisdom tooth that has become dangerous. We still try to save teeth when it is reasonable, and we say honestly when it is not. When it is not, the extraction is done the same day where possible, numb and calm, with the replacement already in mind.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Same day",
+      "value": "Often, during our hours"
+    },
+    {
+      "label": "Numbing",
+      "value": "Local anesthetic"
+    },
+    {
+      "label": "Comfort",
+      "value": "Nitrous oxide available"
+    },
+    {
+      "label": "Recovery",
+      "value": "A few days"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "A tooth cracked vertically through the root, which no crown can hold together.",
+        "A severe abscess on a tooth with too little structure left for a root canal and crown.",
+        "A failed root canal with recurrent infection that cannot be retreated.",
+        "A tooth broken off below the gum line by an injury or decay.",
+        "A badly infected or impacted wisdom tooth. See [wisdom teeth removal](/restorative-dentistry/wisdom-teeth-removal/).",
+        "A tooth loosened beyond recovery by advanced gum disease.",
+        "A baby tooth that is blocking an adult tooth or has abscessed."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Call",
+          "body": "Describe the pain, any swelling and whether you have fever. We will tell you how soon you can be seen and whether to eat beforehand."
+        },
+        {
+          "title": "Manage the pain",
+          "body": "Warm salt-water rinses, an over-the-counter pain reliever as labeled if safe for you, and a cold compress on the cheek for swelling."
+        },
+        {
+          "title": "Bring your medication list",
+          "body": "Blood thinners, bone medications and some other drugs affect how we plan an extraction. Do not stop any medication without your physician's advice."
+        },
+        {
+          "title": "Arrange a driver if sedation is likely",
+          "body": "Local anesthetic alone does not affect driving. If you would like sedation beyond nitrous oxide, you will need someone to take you home."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "An exam and a [digital X-ray](/general-dentistry/digital-x-rays/) confirm that the tooth cannot be saved, and we show you why on the screen. If it can be saved, we say so and offer the alternative. If it cannot, the tooth is numbed thoroughly, which can take extra time and anesthetic when there is infection, and removed. Simple extractions take minutes; a broken or impacted tooth may need a small opening in the gum and division of the tooth into pieces, which is routine for [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/), whose training includes an Advanced General Dentistry residency and an implant fellowship. You bite on gauze, receive written aftercare, and leave with the replacement discussed."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated, and what comes next",
+      "items": [
+        {
+          "title": "The extraction itself",
+          "body": "Simple or surgical, under local anesthetic, with nitrous oxide or other sedation options after an individual review.",
+          "href": "/restorative-dentistry/tooth-extractions/"
+        },
+        {
+          "title": "Managing infection",
+          "body": "Draining an abscess and, where the infection has spread, a course of antibiotics alongside the extraction.",
+          "href": "/emergency-dentistry/dental-abscess/"
+        },
+        {
+          "title": "Socket preservation",
+          "body": "A small bone graft at the time of extraction when an implant is likely later, to keep the ridge.",
+          "href": "/dental-implants/"
+        },
+        {
+          "title": "A temporary tooth",
+          "body": "For a front tooth, a flipper or bonded temporary ready the same day where possible, so you are not without a tooth.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        },
+        {
+          "title": "Replacing the tooth",
+          "body": "Implant, bridge or partial, chosen with you once healing allows.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Aftercare for the first days",
+      "style": "check",
+      "items": [
+        "Bite on gauze for thirty minutes; change it only if soaked.",
+        "No straws, spitting, rinsing or smoking for seventy-two hours. Suction pulls the clot out and causes dry socket.",
+        "Soft, cool food the first day, chewing on the other side.",
+        "From day two, gentle warm salt-water rinses after meals.",
+        "Pain relief on schedule before the numbness wears off.",
+        "Call if bleeding restarts and will not stop, pain worsens after day three, or you have fever or spreading swelling."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can the tooth be pulled the same day?",
+      "a": "Often, during our hours, if the exam confirms it cannot be saved and your health allows. Occasionally a spreading infection is treated with antibiotics first and the extraction done a few days later when it is safer and easier to numb."
+    },
+    {
+      "q": "Does an emergency extraction hurt more?",
+      "a": "An infected tooth can be harder to numb, so we take more time and use more anesthetic. Once numb, the extraction feels like pressure. Soreness for a few days afterward is managed with ordinary pain relief."
+    },
+    {
+      "q": "Will you try to save it first?",
+      "a": "Yes, when that is reasonable. A tooth that can be kept with a root canal and crown usually should be. We show you the X-ray and explain the options honestly before anything is decided."
+    },
+    {
+      "q": "I am a new patient. Can I still come in for this?",
+      "a": "Yes. New patients are welcome for emergencies. Complete the registration on your phone on the way, bring your insurance card, and tell us about any medications."
+    }
+  ],
+  "related": [
+    "/emergency-dentistry/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/emergency-dentistry/dental-abscess/",
+    "/restorative-dentistry/replacing-missing-teeth/",
+    "/sedation-dentistry/",
+    "/restorative-dentistry/wisdom-teeth-removal/"
+  ],
+  "cta": {
+    "heading": "If it has to come out today, it should still be calm.",
+    "body": "Call during our seven-day hours. We confirm whether the tooth can be saved, and if not, remove it comfortably and plan what replaces it."
+  }
+}

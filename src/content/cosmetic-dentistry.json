@@ -1,0 +1,87 @@
+{
+  "slug": "/cosmetic-dentistry/",
+  "type": "hub",
+  "title": "Cosmetic Dentistry",
+  "meta_title": "Cosmetic Dentistry in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Teeth whitening, bonding, porcelain veneers and smile makeover planning at West Alexandria Dental Care. Health first, conservative options first.",
+  "eyebrow": "Cosmetic dentistry",
+  "h1": "Cosmetic dentistry in West Alexandria",
+  "intro": "Cosmetic dentistry here starts with a conversation and a set of photographs, not a price list. What bothers you when you smile? A gray tooth, a chip, a gap, a crooked front tooth, a smile that looks tired? Each has a conservative fix and a more involved one, and the right answer depends on your teeth, your gums and what you want to live with.",
+  "icon": "sparkle",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Health before beauty, every time",
+      "body": [
+        "A veneer bonded over a cavity, or whitening done over inflamed gums, looks worse within a year and costs more to put right. So the first step in any cosmetic plan is the same as a check-up: gums measured, decay found and treated, bite looked at. If grinding is wearing your teeth, a [night guard](/general-dentistry/night-guards/) comes before anything else, because it protects whatever we do next.",
+        "Once the foundation is sound, the cosmetic conversation is a lot more useful, and the result lasts."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Conservative options first",
+      "intro": "The least invasive option that reaches your goal is the one we suggest first.",
+      "style": "check",
+      "items": [
+        "[Whitening](/cosmetic-dentistry/teeth-whitening/) for teeth that are healthy but dull or yellowed. No tooth structure is touched.",
+        "[Bonding](/cosmetic-dentistry/dental-bonding/) for a chip, a small gap or a worn edge. Usually one visit, often no numbing, and reversible.",
+        "[Clear aligners](/clear-aligners/) for crowding or spacing, so teeth are straightened rather than covered.",
+        "[Porcelain veneers](/cosmetic-dentistry/porcelain-veneers/) when shape, color and alignment all need changing at once, accepting that a thin layer of enamel is removed to make room.",
+        "A crown where a front tooth is too damaged for a veneer to hold."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What a cosmetic consultation involves",
+      "items": [
+        {
+          "title": "You tell us what you see",
+          "body": "Bring a photo of a smile you like, or of your own from years ago. The specific thing you notice matters more than any textbook ideal."
+        },
+        {
+          "title": "We look, measure and photograph",
+          "body": "Tooth color and shape, gum line, how your lips frame the teeth, how the teeth meet. Photos let us plan and let you see the plan."
+        },
+        {
+          "title": "You get options, in writing",
+          "body": "Usually a simpler plan and a fuller one, with the cost of each, how many visits, and how the result holds up over time."
+        },
+        {
+          "title": "We sequence it sensibly",
+          "body": "Alignment first if teeth are moving, then whitening, then any bonding or veneers matched to the new shade. Staging over months is fine and often easier on the budget."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "What cosmetic work cannot do",
+      "body": "Whitening does not lighten crowns, fillings or veneers. Bonding stains faster than porcelain. Veneers do not fix a bite problem. We would rather say these things at the consultation than have you find them out afterward, so expect an honest answer about limits as well as possibilities."
+    },
+    {
+      "type": "prose",
+      "heading": "Planned by the same dentists who do the rest of your care",
+      "body": [
+        "Cosmetic work here is part of complete care, not a separate department. [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) lists cosmetic and digital dentistry among his clinical interests, and both dentists plan smile makeovers that combine whitening, bonding, veneers, aligners, crowns or implants as the case needs. Your records, your cleanings and your cosmetic plan stay in one place in Alexandria."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is cosmetic dentistry covered by insurance?",
+      "a": "Usually not when the purpose is purely appearance. Whitening and veneers are typically excluded. Bonding or a crown on a broken tooth is often covered because it is restoring the tooth. We check your plan and tell you what is and is not covered before you commit."
+    },
+    {
+      "q": "How long will the results last?",
+      "a": "Whitening fades gradually over one to three years depending on coffee, tea, wine and smoking, and can be topped up. Bonding typically lasts five to ten years. Porcelain veneers often last ten to fifteen years or longer with a night guard and regular check-ups."
+    },
+    {
+      "q": "Can I just do one tooth?",
+      "a": "Yes. A single discolored or chipped front tooth is one of the most common cosmetic requests, and bonding or a single veneer matched to its neighbors is often all that is needed."
+    }
+  ],
+  "cta": {
+    "heading": "Start with photographs and a conversation.",
+    "body": "A cosmetic consultation costs nothing in enamel. Book one, tell us what you would change, and leave with the options and the numbers in writing."
+  }
+}

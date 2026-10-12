@@ -1,0 +1,164 @@
+{
+  "slug": "/dental-implants/implant-retained-dentures/",
+  "type": "service",
+  "title": "Implant-Retained Dentures",
+  "meta_title": "Implant-Retained Dentures in Alexandria | West Alexandria Dental Care",
+  "meta_description": "Snap-in dentures on a small number of implants, especially for a loose lower denture: removable and fixed options, eating and confidence, the process.",
+  "eyebrow": "Dental implants",
+  "h1": "Implant-retained dentures in West Alexandria",
+  "intro": "A lower denture that lifts when you talk, floats when you eat and needs adhesive to get through lunch is one of the most common complaints in dentistry, and one of the most fixable. Two to four implants with snap attachments hold the denture firmly in place. It still comes out at night to clean, but during the day it stays where it belongs.",
+  "icon": "denture",
+  "facts": [
+    {
+      "label": "Implants",
+      "value": "Usually two to four"
+    },
+    {
+      "label": "Denture",
+      "value": "Snaps on and off"
+    },
+    {
+      "label": "Biggest change",
+      "value": "Eating with confidence"
+    },
+    {
+      "label": "Timeline",
+      "value": "Three to six months"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why lower dentures are the problem",
+      "body": [
+        "An upper denture covers the palate and gets suction from it. A lower denture has only a narrow horseshoe of ridge to sit on, with the tongue pushing from inside and the cheeks from outside. As the ridge shrinks over the years, there is less and less to hold it. Relines help for a while; adhesive helps for a while; eventually many people simply stop wearing it.",
+        "Implants change the physics. The denture no longer relies on the ridge for retention. It clips onto the implants, and the ridge just supports it."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Removable snap-in or fixed?",
+      "columns": [
+        "Implant-retained (snap-in)",
+        "Implant-supported fixed bridge"
+      ],
+      "rows": [
+        [
+          "Implants",
+          "Two to four",
+          "Four to six"
+        ],
+        [
+          "Removable",
+          "Yes, by you, nightly",
+          "No; removed only by the dentist"
+        ],
+        [
+          "Stability",
+          "Much better than a conventional denture",
+          "Like natural teeth"
+        ],
+        [
+          "Cleaning",
+          "Out at night, brushed like a denture",
+          "Cleaned in the mouth like a bridge"
+        ],
+        [
+          "Cost",
+          "Lower",
+          "Higher"
+        ],
+        [
+          "Best for",
+          "A loose lower denture; most budgets",
+          "Those who want a fixed solution"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The process",
+      "items": [
+        {
+          "title": "Evaluation and scan",
+          "body": "We examine your current denture and ridges and take a cone-beam CT scan to find the best positions for the implants, typically toward the front of the lower jaw where bone is densest."
+        },
+        {
+          "title": "Implant placement",
+          "body": "Under local anesthetic, with sedation options after review. Your existing denture is adjusted so you can keep wearing it over the healing implants."
+        },
+        {
+          "title": "Healing",
+          "body": "Three to four months in most cases while the bone fuses to the implants."
+        },
+        {
+          "title": "Attachments and denture",
+          "body": "Small attachments are fitted to the implants and matching housings are set into the underside of the denture. Your existing denture can often be converted; sometimes a new one is made for the best result."
+        },
+        {
+          "title": "Adjustment",
+          "body": "The snap tension is tuned, the bite checked, and you practise taking it in and out. Most people get the hang of it in a day."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What changes",
+      "style": "check",
+      "items": [
+        "Eating foods you had given up: apples, steak, corn on the cob.",
+        "Talking and laughing without a hand ready to catch the denture.",
+        "No more adhesive.",
+        "Less soreness, because the denture no longer rocks on the ridge.",
+        "Slower bone loss where the implants are, so the ridge holds its shape better."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Maintenance",
+      "body": [
+        "The denture comes out at night and is cleaned like any denture. The implants and attachments are brushed gently. The small nylon inserts in the denture that provide the snap wear over time and are replaced at a routine visit, usually every year or two. Regular check-ups keep the gum around the implants healthy and the fit of the denture on the ridge checked; a reline of the denture is still needed occasionally as the rest of the ridge changes."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Who is a candidate",
+      "body": "Most people who wear a lower denture, including people in their seventies, eighties and beyond. What matters is enough bone at the front of the lower jaw, which the scan confirms, and general health that allows minor surgery. Medications and smoking are discussed honestly. An upper denture can also be implant-retained, usually with four implants, when suction is poor.",
+      "cta": {
+        "label": "Are implants right for me?",
+        "href": "/dental-implants/candidates/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can my current denture be used?",
+      "a": "Often, if it is in good condition and fits reasonably. Housings for the attachments are set into its underside. If the denture is worn or ill-fitting, a new one made for the implants gives a better result, and we tell you which applies."
+    },
+    {
+      "q": "How many implants do I need?",
+      "a": "Two is the minimum for a lower denture and works well for many people. Four gives more stability and spreads the load. For an upper denture, four is usual. The scan and your preferences decide."
+    },
+    {
+      "q": "Is it painful?",
+      "a": "Placement is done under local anesthetic and most people are back to normal activity within a day or two, with mild soreness managed by ordinary pain relief. The denture is adjusted so it does not press on the healing sites."
+    },
+    {
+      "q": "Does insurance help?",
+      "a": "Coverage for implants varies widely; the denture itself is often covered as a major restoration. We check your benefits and give you a written estimate for the whole plan before anything starts."
+    }
+  ],
+  "related": [
+    "/dental-implants/",
+    "/restorative-dentistry/dentures/",
+    "/dental-implants/implants-vs-dentures/",
+    "/restorative-dentistry/denture-relines/",
+    "/dental-implants/candidates/",
+    "/general-dentistry/dental-care-for-seniors/"
+  ],
+  "cta": {
+    "heading": "Stop managing a loose denture.",
+    "body": "Bring your denture to a consultation. A scan shows whether two implants would hold it, and you leave with the plan and the cost in writing."
+  }
+}

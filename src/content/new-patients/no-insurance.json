@@ -1,0 +1,151 @@
+{
+  "slug": "/new-patients/no-insurance/",
+  "type": "info",
+  "title": "No Insurance? No Problem",
+  "meta_title": "No Insurance? Paying for Dental Care | West Alexandria Dental Care",
+  "meta_description": "Seeing a dentist in Alexandria without insurance: a written estimate before anything starts, a plan sorted by priority, and payment options to ask about.",
+  "eyebrow": "Paying for care",
+  "h1": "Seeing a dentist without insurance in West Alexandria",
+  "intro": "Having no dental insurance is common, and it is not a reason to put off a visit. You see the same two dentists as everyone else, and you know the cost of anything before it starts. Here is how paying directly works, how to keep the total sensible, and where to begin if something already hurts.",
+  "icon": "wallet",
+  "facts": [
+    {
+      "label": "Estimate",
+      "value": "In writing, before treatment"
+    },
+    {
+      "label": "Order of treatment",
+      "value": "Sorted by priority"
+    },
+    {
+      "label": "Payment options",
+      "value": "Ask when you call"
+    },
+    {
+      "label": "Virginia Medicaid",
+      "value": "Accepted"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What changes when you pay directly, and what does not",
+      "body": [
+        "Nothing about the care changes. Same exam, same appointment length, X-rays only when they would change the plan. There is no shorter slot or separate schedule for people paying on their own, and every hour we are open, 7:00 AM to 8:00 PM on weekdays and 8:00 AM to 1:00 PM on Saturday and Sunday, is open to you.",
+        "What changes is who decides. An insurance plan often sets the timing, from how many cleanings a year to what is left in the annual maximum. Paying directly, the only questions are what the tooth needs and what you want to spend. Our job is a clear list, sorted by urgency, with a cost beside each line.",
+        "There is nothing to explain. Leave the insurance section blank on the {{forms}}, and say so when you call."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How the cost conversation goes",
+      "items": [
+        {
+          "title": "When you call",
+          "body": "Ask what the first visit costs. You get a straight answer for the exam and any X-rays, and for payment options, before anything is booked."
+        },
+        {
+          "title": "The written plan",
+          "body": "After the [exam](/new-patients/first-visit/), every recommended item is listed with its cost and sorted into now, soon, and can wait. You take it home. Nothing is scheduled until you say so."
+        },
+        {
+          "title": "Choosing the order",
+          "body": "You and the dentist decide what happens first. If waiting carries a real risk, a crack that may split the tooth or an infection that will spread, we say so plainly. If it does not, doing nothing for now is a legitimate choice."
+        },
+        {
+          "title": "If the plan changes mid-treatment",
+          "body": "Sometimes a tooth is worse once opened and a filling needs to become a crown. We stop, show you, and agree on the new cost before continuing. You will not learn it from the bill."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Now, soon, or can wait: how a plan gets sorted",
+      "items": [
+        {
+          "title": "Needs doing now",
+          "body": "Pain, infection, a crack through the tooth, decay near the nerve. These get more expensive and more painful with every month of waiting, so they go first even when the budget is tight.",
+          "href": "/emergency-dentistry/"
+        },
+        {
+          "title": "Soon, within a few months",
+          "body": "A moderate cavity, a filling breaking down at the edges, early gum disease. Stable for a while, not forever, and the items most people stage one or two at a time.",
+          "href": "/restorative-dentistry/tooth-colored-fillings/"
+        },
+        {
+          "title": "Can be watched",
+          "body": "A tiny shadow on an X-ray, a worn edge, anything purely cosmetic. We note it, measure it where we can, and look again at the next check-up. Many never need treatment.",
+          "href": "/general-dentistry/preventive-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How a small cavity becomes an expensive tooth",
+      "intro": "The cheapest dentistry keeps a small problem small. This is the usual path when a cavity is left alone, and as a rule each step costs more than the one before.",
+      "items": [
+        {
+          "title": "A shadow on the X-ray",
+          "body": "Early decay still in the enamel. [Fluoride](/general-dentistry/fluoride-treatment/) and better home care can often harden it again, with no drilling."
+        },
+        {
+          "title": "A small filling",
+          "body": "The decay has reached the dentin. One visit, one [tooth-colored filling](/restorative-dentistry/tooth-colored-fillings/), the rest of the tooth untouched."
+        },
+        {
+          "title": "A crown, or a root canal and then a crown",
+          "body": "Once a filling can no longer hold the tooth together, the whole tooth is covered with a [crown](/restorative-dentistry/dental-crowns/). If the decay has reached the nerve, [root canal therapy](/restorative-dentistry/root-canal-therapy/) comes first. The bill is in a different league from the filling it could have been."
+        },
+        {
+          "title": "An extraction and a replacement",
+          "body": "Too little tooth left to save. Taking it out is the cheap part. The gap costs more over the years, and [replacing the tooth](/restorative-dentistry/replacing-missing-teeth/) is the most expensive step on this list."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "If something already hurts, start small",
+      "body": [
+        "A toothache, a broken tooth or a swelling does not mean committing to a full new-patient exam first. A problem-focused exam, sometimes called a limited exam, looks at the one tooth that is bothering you, usually with a single X-ray, and ends with a diagnosis and a cost for fixing it. It is the smallest sensible first step.",
+        "Urgent problems get a same-day evaluation at our Alexandria office during our hours. Call {{phone}} first so we can plan the time. If an infection is involved, antibiotics alone do not cure it; the tooth has to be treated. See [toothache](/emergency-dentistry/toothache/) or [abscess](/emergency-dentistry/dental-abscess/) for what to do meanwhile.",
+        "Once the urgent tooth is handled, you decide when to come back for the full exam, with no lecture about how long it has been. If it has been years, see [switching dentists](/new-patients/switching-dentists/)."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Virginia Medicaid may be an option",
+      "body": "If your household income is within Virginia's limits, you may qualify for Medicaid, and Virginia's program includes dental benefits for children and, in recent years, adults. Children are sometimes eligible even when the adults in the household are not. Enrollment is through the state, but once enrolled you get the same dentists and hours as every patient. Coverage details change, so we confirm what your plan covers before the visit.",
+      "cta": {
+        "label": "How Virginia Medicaid works here",
+        "href": "/new-patients/medicaid/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What if the plan is more than I can afford right now?",
+      "a": "Say so, and the plan is reordered, not abandoned: stop anything active first, then rebuild, then anything cosmetic, over whatever months make sense. A temporary filling can often hold a tooth until a crown is manageable. Nothing is scheduled until you ask for it, and a plan from another office is welcome for a second opinion. See [our approach](/about/our-approach/)."
+    },
+    {
+      "q": "Is it cheaper to wait until I have insurance?",
+      "a": "If something is already wrong, usually not. Dental problems move in one direction, and many standalone plans have waiting periods, often six to twelve months, before paying toward fillings or crowns. [Understanding dental insurance](/new-patients/understanding-dental-insurance/) explains how those plans work."
+    },
+    {
+      "q": "I am on Medicare. Does it cover dental?",
+      "a": "Original Medicare generally does not cover routine dental care such as cleanings, fillings, crowns or dentures, which is why so many retirees pay directly. Some Medicare Advantage plans include a dental benefit. If yours does, upload the card through the {{forms}} or bring it, and the team will check what it covers."
+    }
+  ],
+  "related": [
+    "/new-patients/understanding-dental-insurance/",
+    "/new-patients/insurance/",
+    "/new-patients/medicaid/",
+    "/new-patients/first-visit/",
+    "/general-dentistry/preventive-dentistry/",
+    "/emergency-dentistry/"
+  ],
+  "cta": {
+    "heading": "Start with the numbers, not a commitment",
+    "body": "Call {{phone}} and ask what a first visit costs and which payment options are available, or {{book}} and leave the insurance fields blank. Either way, you will have the cost in writing before any treatment begins."
+  }
+}

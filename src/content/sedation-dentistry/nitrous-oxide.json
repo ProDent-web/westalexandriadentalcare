@@ -1,0 +1,136 @@
+{
+  "slug": "/sedation-dentistry/nitrous-oxide/",
+  "type": "service",
+  "title": "Nitrous Oxide",
+  "meta_title": "Nitrous Oxide (Laughing Gas) at the Dentist | WA Dental Care",
+  "meta_description": "How nitrous oxide works at West Alexandria Dental Care: given through a small nasal mask, what it feels like, staying awake and able to talk.",
+  "eyebrow": "Comfort and sedation",
+  "h1": "Nitrous oxide in West Alexandria",
+  "intro": "Nitrous oxide, often called laughing gas, is the gentlest sedation in dentistry and the one most people start with. It is breathed through a small mask over the nose, takes effect in a few minutes, leaves you awake and able to talk, and wears off within minutes of the mask coming off, so you can drive yourself home.",
+  "icon": "moon",
+  "facts": [
+    {
+      "label": "Given by",
+      "value": "A small nasal mask"
+    },
+    {
+      "label": "Takes effect",
+      "value": "In a few minutes"
+    },
+    {
+      "label": "You stay",
+      "value": "Awake and talking"
+    },
+    {
+      "label": "Drive home",
+      "value": "Yes"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What it feels like",
+      "body": [
+        "Most people describe a warm, slightly floating feeling, a sense that the appointment is happening at a comfortable distance. Sounds seem further away. Time passes faster. Some people feel tingling in the hands and feet, some feel heavy, and a few get the giggles that gave the gas its nickname. You remain conscious, you can answer questions, and you can ask for a break at any point.",
+        "It does not replace numbing. Local anesthetic still stops you feeling the tooth; nitrous oxide makes the numbing, the sounds and the time in the chair far easier to accept."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How it is given",
+      "items": [
+        {
+          "title": "The mask",
+          "body": "A small soft mask sits over your nose. You breathe normally through the nose while the mouth stays free for treatment."
+        },
+        {
+          "title": "Oxygen first, then the mix",
+          "body": "You start on pure oxygen, then nitrous oxide is added gradually until you feel comfortable. The level is adjusted throughout, and you can ask for more or less."
+        },
+        {
+          "title": "Treatment",
+          "body": "The dentist works while you breathe the mix. If you need a pause, raise a hand."
+        },
+        {
+          "title": "Oxygen to finish",
+          "body": "A few minutes of pure oxygen clears the gas. Most people feel entirely normal before they stand up."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Who it suits",
+      "style": "check",
+      "items": [
+        "Adults who are anxious about dental visits, or about a particular procedure.",
+        "Children who need a little help staying calm and still.",
+        "People with a strong gag reflex.",
+        "Anyone facing a longer appointment, such as several fillings or an extraction.",
+        "People who want to drive themselves home afterward."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "When it is not the right choice",
+      "style": "warn",
+      "items": [
+        "A blocked nose from a cold or allergies, because you need to breathe through the nose.",
+        "Certain lung conditions, or recent eye or ear surgery; tell us about your health.",
+        "Pregnancy, particularly the first trimester, where it is usually avoided as a precaution.",
+        "A vitamin B12 deficiency or certain other conditions, which we ask about.",
+        "Anxiety severe enough that a mask itself is the problem, where other sedation options after a review may be better."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Safety",
+      "body": [
+        "Nitrous oxide has been used in dentistry for well over a century and has an excellent safety record when given with oxygen through modern equipment, as it is here. It is not addictive, it leaves no hangover, and because it is breathed rather than injected or swallowed, the dose is adjusted moment to moment and clears within minutes. Before using it we review your medical history, medications and any previous experience with sedation."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "For children",
+      "body": "Nitrous oxide is widely used for children who find treatment hard, from about age four, when they can breathe through the nose on request. It is explained as a special mask with sleepy air and most children accept it readily. A parent is welcome in the room.",
+      "cta": {
+        "label": "Children's dentistry",
+        "href": "/general-dentistry/childrens-dentistry/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I be asleep?",
+      "a": "No. Nitrous oxide is minimal sedation; you stay awake, aware and able to respond. You will feel relaxed and detached rather than unconscious. Deeper sedation is a different conversation, after an individual review."
+    },
+    {
+      "q": "Can I eat before?",
+      "a": "A light meal a couple of hours beforehand is fine. A very full stomach can make a few people feel queasy, so avoid a heavy meal just before."
+    },
+    {
+      "q": "Can I drive afterward?",
+      "a": "Yes. After a few minutes of oxygen the gas has cleared and you are fit to drive, work and carry on with your day."
+    },
+    {
+      "q": "Does it cost extra?",
+      "a": "Nitrous oxide is usually a separate charge, and insurance coverage varies, with some plans covering it for children. We tell you the cost when you book."
+    },
+    {
+      "q": "What if it is not enough?",
+      "a": "Tell us. The level can be increased within safe limits, and if nitrous oxide alone does not do it, other sedation options can be discussed after a review of your health."
+    }
+  ],
+  "related": [
+    "/sedation-dentistry/",
+    "/sedation-dentistry/sedation-options/",
+    "/sedation-dentistry/dental-anxiety/",
+    "/general-dentistry/childrens-dentistry/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/restorative-dentistry/root-canal-therapy/"
+  ],
+  "cta": {
+    "heading": "Ask for it when you book.",
+    "body": "Tell us you would like nitrous oxide and we plan the appointment with it. Evenings and weekends available."
+  }
+}

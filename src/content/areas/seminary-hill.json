@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/seminary-hill/",
+  "type": "area",
+  "title": "Seminary Hill",
+  "meta_title": "Dentist in Seminary Hill, Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "West Alexandria Dental Care is in Seminary Hill itself, in the Bradlee Office Building on W. Braddock Road.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist in Seminary Hill",
+  "intro": "Seminary Hill is not a neighborhood we serve from a distance. The office is in it, in the Bradlee Office Building on W. Braddock Road, beside Bradlee Shopping Center. For many neighbors it is a walk, and for the rest it is a few minutes along Seminary Road or Quaker Lane with free parking at the door.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "From here",
+      "value": "Walk or a few minutes'"
+    },
+    {
+      "label": "Parking",
+      "value": "Free, at the building"
+    },
+    {
+      "label": "Hours",
+      "value": "Seven days"
+    },
+    {
+      "label": "Plans",
+      "value": "PPO and Virginia Medicaid"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Seminary Hill",
+      "body": [
+        "Long-time residents on the quiet streets around the seminary, families near Episcopal High School and Alexandria City High School, and newer arrivals in the townhomes and apartments along Seminary Road. Many are fitting a dental visit between a Bradlee Shopping Center errand and the school run, which is why early mornings, evenings and weekend mornings are the busiest times here.",
+        "Because we are in the neighborhood, we tend to become the office for the whole household: a child's first visit, a parent's crown, a grandparent's denture reline, all with records in one place. See [family dentistry](/general-dentistry/family-dentistry/)."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "On foot",
+          "body": "Residents near Bradlee Shopping Center, Fort Ward Park and the seminary grounds are often within a fifteen-minute walk along W. Braddock Road."
+        },
+        {
+          "title": "By car from Seminary Road",
+          "body": "Turn onto Quaker Lane or Kenwood Avenue and then W. Braddock Road; the Bradlee Office Building is beside the shopping center."
+        },
+        {
+          "title": "From I-395",
+          "body": "King Street exit, toward Alexandria, then W. Braddock Road. A few minutes from the ramp."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building. No garage, no meters."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What neighbors most often come in for",
+      "items": [
+        {
+          "title": "Cleanings and exams",
+          "body": "The six-month check-up that keeps everything else small, at 7 AM before work or after dinner.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Children's dentistry",
+          "body": "First visits, sealants and fluoride for the schools' worth of children within a mile of the office.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Emergency care",
+          "body": "A broken tooth on a Saturday morning, seen the same day without crossing town.",
+          "href": "/emergency-dentistry/"
+        },
+        {
+          "title": "Implants and restorative work",
+          "body": "Crowns, bridges and implants done in the building rather than referred to Fairfax or Arlington.",
+          "href": "/dental-implants/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted.",
+        "Care in English, Arabic, Spanish and Portuguese.",
+        "Paperwork completed online before you arrive, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "New to the neighborhood?",
+      "body": "If you have just moved to Seminary Hill, we can request your records and X-rays from your previous office, wherever it was. A first visit starts with a conversation and ends with a written plan, no pressure.",
+      "cta": {
+        "label": "Switching dentists",
+        "href": "/new-patients/switching-dentists/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where exactly is the office?",
+      "a": "3543 W. Braddock Road, Suite E1, in the Bradlee Office Building, directly beside Bradlee Shopping Center. Free surface parking surrounds the building."
+    },
+    {
+      "q": "Can I walk in without an appointment?",
+      "a": "It is best to call or book online first so we can plan the visit, but if something hurts, call from the parking lot and we will do our best to see you the same day."
+    },
+    {
+      "q": "Do you see children from the local schools?",
+      "a": "Yes. After-school and weekend-morning slots are popular with families from the schools around Seminary Hill, and siblings can be booked back to back."
+    },
+    {
+      "q": "Are evening appointments really available?",
+      "a": "Yes, every weekday until 8 PM. A 6:30 PM cleaning after the commute home is one of our most requested times."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/fairlington/",
+    "/areas/parkfairfax/",
+    "/contact/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/general-dentistry/family-dentistry/"
+  ],
+  "cta": {
+    "heading": "The dentist down the road, open when you are free.",
+    "body": "Book online at any hour or call, and come in from around the corner."
+  }
+}

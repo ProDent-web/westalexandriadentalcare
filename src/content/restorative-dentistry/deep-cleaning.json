@@ -1,0 +1,151 @@
+{
+  "slug": "/restorative-dentistry/deep-cleaning/",
+  "type": "service",
+  "title": "Deep Cleaning (Scaling & Root Planing)",
+  "meta_title": "Deep Cleaning (Scaling & Root Planing) | West Alexandria Dental Care",
+  "meta_description": "What a deep cleaning is and how it differs from a regular cleaning, numbing, two visits one side at a time, how it feels afterward.",
+  "eyebrow": "Restore your smile",
+  "h1": "Deep cleaning (scaling and root planing) in West Alexandria",
+  "intro": "A deep cleaning is the main treatment for gum disease. Under local anesthetic, the hygienist or dentist cleans tartar and bacteria from the root surfaces below the gum line and smooths the roots so the gum can heal back against them. It reaches the places a routine cleaning cannot, which is exactly where the disease lives.",
+  "icon": "gum",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "Usually two"
+    },
+    {
+      "label": "Numbing",
+      "value": "Local anesthetic"
+    },
+    {
+      "label": "Each visit",
+      "value": "About an hour"
+    },
+    {
+      "label": "Re-check",
+      "value": "Four to six weeks later"
+    }
+  ],
+  "sections": [
+    {
+      "type": "compare",
+      "heading": "Deep cleaning versus a regular cleaning",
+      "columns": [
+        "Regular cleaning",
+        "Deep cleaning"
+      ],
+      "rows": [
+        [
+          "For",
+          "Healthy gums or gingivitis",
+          "Periodontitis with pockets of 4 mm or more"
+        ],
+        [
+          "Reaches",
+          "Above and just below the gum line",
+          "Down to the bottom of the pockets, along the roots"
+        ],
+        [
+          "Numbing",
+          "Not usually",
+          "Yes"
+        ],
+        [
+          "Visits",
+          "One",
+          "Two, one side of the mouth each"
+        ],
+        [
+          "Afterward",
+          "Routine recall every six months",
+          "Re-evaluation, then maintenance every three to four months"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why it has to be done this way",
+      "body": [
+        "In periodontitis, the gum has detached from the tooth and a pocket has formed. Tartar forms on the root inside that pocket, rough and covered in bacteria, and the gum cannot heal against a rough, contaminated surface. A regular cleaning skims the top of it. Scaling removes the deposits; root planing smooths the root so the gum can reattach. Doing that properly means working below the gum line where it would hurt without anesthetic, which is why it is numbed and why it takes time."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What the visits involve",
+      "items": [
+        {
+          "title": "First visit: one side",
+          "body": "The upper and lower teeth on one side are numbed. Ultrasonic and hand instruments clean each root surface inside the pockets. One side is done so you can still chew comfortably on the other."
+        },
+        {
+          "title": "Second visit: the other side",
+          "body": "Usually a week or two later, the same on the remaining side. In some cases an antibiotic is placed in the deepest pockets at the end."
+        },
+        {
+          "title": "Re-evaluation",
+          "body": "Four to six weeks later the pockets are measured again. Most have shrunk and stopped bleeding. Any that have not are treated again, or a referral to a periodontist is discussed."
+        },
+        {
+          "title": "Maintenance",
+          "body": "From then on, [periodontal maintenance](/general-dentistry/periodontal-maintenance/) every three to four months keeps the bacteria from re-establishing. This is not optional; it is what makes the deep cleaning last."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What it feels like afterward",
+      "body": [
+        "The numbness wears off over a few hours. The gums are tender for a day or two and may bleed slightly when you brush. As the swollen gum shrinks back toward healthy, it exposes a little more root, so cold sensitivity for a few weeks is common and usually settles; a desensitizing toothpaste helps. The teeth can look slightly longer for the same reason. Over-the-counter pain relief is rarely needed beyond the first day.",
+        "Eat soft foods on the day of each visit, avoid very hot or spicy food until the numbness is gone, and start gentle brushing and flossing the same evening. Keeping the area clean is what lets it heal."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Home care that makes it work",
+      "style": "check",
+      "items": [
+        "Brush twice a day with a soft brush angled into the gum line, gently, in small circles.",
+        "Clean between the teeth every day. Interdental brushes are often better than floss once pockets have opened gaps.",
+        "A water flosser at the gum line is a good addition if flossing is difficult.",
+        "Follow any rinse or toothpaste we recommend, and tell us if sensitivity is stopping you cleaning.",
+        "If you smoke, this is the moment to stop; it halves the chance of success."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Insurance and deep cleanings",
+      "body": "Most plans cover scaling and root planing as a periodontal service, by quadrant, at a percentage after any deductible, and many require an X-ray and pocket measurements on file, which we have. Maintenance afterward is covered differently from routine cleanings on some plans. We check yours and give you the cost of the whole sequence before the first visit."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a deep cleaning really necessary, or is it an upsell?",
+      "a": "It is necessary when pocket measurements and X-rays show periodontitis, and not when they do not. We show you the numbers and the bone levels on the screen so you can see the reason. A routine cleaning on a mouth with deep pockets leaves the disease untouched."
+    },
+    {
+      "q": "Can it be done in one visit?",
+      "a": "Sometimes, for milder cases, if you prefer to have both sides numbed at once. Two visits is more comfortable for most people and allows more time per tooth."
+    },
+    {
+      "q": "Will my gums grow back?",
+      "a": "Gum that has receded does not regrow on its own, but inflamed, swollen gum tightens and reattaches to clean roots, pockets shrink, and bleeding stops. Lost bone does not return, which is why acting early matters."
+    },
+    {
+      "q": "How soon will I notice a difference?",
+      "a": "Bleeding usually stops within two weeks and bad breath improves quickly. The re-evaluation at four to six weeks is where the pocket measurements confirm the improvement."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/general-dentistry/periodontal-maintenance/",
+    "/symptoms/bleeding-gums/",
+    "/symptoms/gum-recession/",
+    "/general-dentistry/oral-hygiene/",
+    "/symptoms/tooth-sensitivity/"
+  ],
+  "cta": {
+    "heading": "Clean where the disease actually lives.",
+    "body": "Book a periodontal evaluation. If a deep cleaning is needed, we schedule it at times that fit your week, including evenings and weekends."
+  }
+}

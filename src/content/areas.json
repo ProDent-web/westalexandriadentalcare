@@ -1,0 +1,96 @@
+{
+  "slug": "/areas/",
+  "type": "hub",
+  "title": "Areas We Serve",
+  "meta_title": "Dentist Near Seminary Hill, Fairlington & Shirlington | Alexandria, VA",
+  "meta_description": "West Alexandria Dental Care serves Seminary Hill, Fairlington, Shirlington, Parkfairfax, Del Ray, Landmark.",
+  "eyebrow": "Areas we serve",
+  "h1": "A dental home for West Alexandria and the neighborhoods around it",
+  "intro": "The office sits in the Bradlee Office Building on W. Braddock Road, steps from Bradlee Shopping Center and just off I-395 at the King Street exit, with free surface parking around the building. That puts it a few minutes from Seminary Hill, Fairlington, Shirlington and Parkfairfax, and an easy drive from Del Ray, Landmark, Lincolnia, Bailey's Crossroads and South Arlington.",
+  "icon": "map",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why the location works",
+      "body": [
+        "Most of the people who come here are fitting dentistry around something else: a commute on I-395 or the Metro, school drop-off, shift work, a condo in Fairlington or Parkfairfax that is closer to this office than to anything in Old Town. Being just off the King Street exit with parking at the door means a 7 AM appointment before work or a 7 PM one after it is realistic rather than theoretical.",
+        "Seven-day hours are the other half of it. Saturday and Sunday mornings exist for the families and commuters who cannot make a weekday work. Read more about [evening and weekend appointments](/new-patients/evening-and-weekend-appointments/)."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "The neighborhoods, briefly",
+      "items": [
+        {
+          "title": "Seminary Hill",
+          "body": "The neighborhood around the office itself, along W. Braddock Road, Seminary Road and Quaker Lane. Walkable for many residents.",
+          "href": "/areas/seminary-hill/"
+        },
+        {
+          "title": "Fairlington and Parkfairfax",
+          "body": "Historic brick condo communities off Quaker Lane and I-395, a few minutes' drive and a natural fit for evening appointments after the commute.",
+          "href": "/areas/fairlington/"
+        },
+        {
+          "title": "Shirlington",
+          "body": "South Arlington, about ten minutes via I-395 or Quaker Lane, with free parking at our door instead of a garage hunt.",
+          "href": "/areas/shirlington/"
+        },
+        {
+          "title": "Del Ray",
+          "body": "North along Mount Vernon Avenue, a short drive via Braddock Road, with weekend mornings that suit young families.",
+          "href": "/areas/del-ray/"
+        },
+        {
+          "title": "Landmark, Lincolnia and Bailey's Crossroads",
+          "body": "The West End and the Fairfax County side, reached via Duke Street, Seminary Road or Route 7, with four languages spoken and Virginia Medicaid accepted.",
+          "href": "/areas/landmark/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What people from these neighborhoods tend to need",
+      "style": "check",
+      "items": [
+        "One office for the whole household, from a toddler's first visit to implants for grandparents. See [family dentistry](/general-dentistry/family-dentistry/).",
+        "Insurance that actually works, including Virginia Medicaid alongside Aetna, Ameritas, Delta Dental, Humana, Cigna and MetLife. See [insurance we accept](/new-patients/insurance/).",
+        "Care in English, Arabic, Spanish or Portuguese. See [languages we speak](/new-patients/languages/).",
+        "Somewhere to go when a tooth breaks on a weekend. See [emergency dental care](/emergency-dentistry/).",
+        "A fresh start after moving to Alexandria or after years away from the dentist. See [switching dentists](/new-patients/switching-dentists/)."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting here",
+      "items": [
+        {
+          "title": "From I-395",
+          "body": "Take the King Street exit, head toward Alexandria, and turn onto W. Braddock Road. The Bradlee Office Building is beside Bradlee Shopping Center."
+        },
+        {
+          "title": "From Quaker Lane or Seminary Road",
+          "body": "Both cross W. Braddock Road within a few minutes of the office, which is the usual route from Fairlington, Parkfairfax and Seminary Hill."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building. No garage, no validation, no meter."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Not on the list?",
+      "body": "The neighborhood pages are starting points, not boundaries. Patients come from across Alexandria, Arlington and Fairfax County, and the welcome is the same wherever you live.",
+      "cta": {
+        "label": "Directions and contact",
+        "href": "/contact/"
+      }
+    }
+  ],
+  "cta": {
+    "heading": "Close to home, open when you are free.",
+    "body": "Book online at any hour, or call and someone at the office will find a time that fits your week."
+  }
+}

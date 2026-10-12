@@ -1,0 +1,139 @@
+{
+  "slug": "/general-dentistry/dental-care-for-seniors/",
+  "type": "service",
+  "title": "Dental Care for Seniors",
+  "meta_title": "Dental Care for Seniors in Alexandria | West Alexandria Dental Care",
+  "meta_description": "Dentistry for older adults in West Alexandria: dry mouth, root decay, worn teeth, denture fit, implants for stability.",
+  "eyebrow": "General dentistry",
+  "h1": "Dental care for seniors in West Alexandria",
+  "intro": "Teeth that have done sixty or seventy years of work have different needs from teeth that have done twenty. Medications dry the mouth, gums recede and expose roots that decay easily, old fillings wear out, and dentures that fitted a decade ago loosen as the jaw changes. None of that is inevitable decline. Most of it is manageable with the right attention.",
+  "icon": "senior",
+  "facts": [
+    {
+      "label": "Bring",
+      "value": "Your medication list"
+    },
+    {
+      "label": "Visits",
+      "value": "Every 3–6 months"
+    },
+    {
+      "label": "Parking",
+      "value": "Free, at the door"
+    },
+    {
+      "label": "Plans",
+      "value": "PPO plans and Virginia Medicaid"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What changes with age, and what we do about it",
+      "style": "bullet",
+      "items": [
+        "**Dry mouth.** Hundreds of common medications reduce saliva, and saliva is the mouth's main defense against decay. We look for it, suggest practical relief and often recommend prescription-strength fluoride. See the [dry mouth guide](/symptoms/dry-mouth/).",
+        "**Root decay.** Receded gums expose root surfaces that are softer than enamel and decay quickly, especially with dry mouth. Caught early it is a small filling; the check-up interval is set to catch it.",
+        "**Worn and cracked teeth.** Decades of chewing and grinding flatten edges and crack old fillings. An onlay or [crown](/restorative-dentistry/dental-crowns/) at the right moment prevents a split tooth later.",
+        "**Gum disease.** More common and more consequential with age, and linked to diabetes and heart health. Measured at every visit, treated when found.",
+        "**Denture fit.** Bone under a denture shrinks over years. A [reline](/restorative-dentistry/denture-relines/) restores fit; implants can anchor a denture that will not stay put.",
+        "**Oral cancer risk.** Rises with age. Every exam includes a [screening](/general-dentistry/oral-cancer-screening/) of the lips, tongue, cheeks, palate and throat."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How we plan care around your health",
+      "items": [
+        {
+          "title": "Medications first",
+          "body": "Bring the list, including supplements. Blood thinners affect extractions, bone-strengthening drugs such as bisphosphonates change how we approach surgery, and many drugs cause dry mouth. We plan around them rather than discover them."
+        },
+        {
+          "title": "Coordinating with your physician",
+          "body": "For procedures that need it, we check with your doctor about anticoagulants, recent heart events, joint replacements or diabetes control. It takes a phone call and avoids surprises."
+        },
+        {
+          "title": "Priorities, not everything at once",
+          "body": "An older mouth often has several things that could be done. We separate what needs doing now, what should be done this year and what can be left alone, with the cost of each in writing, so you can decide in stages."
+        },
+        {
+          "title": "Comfort and pacing",
+          "body": "Longer appointments if sitting back is hard, breaks when you want them, a blanket, and nitrous oxide or other sedation options after an individual review if visits are stressful."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Keeping teeth, or replacing them well",
+      "items": [
+        {
+          "title": "Keeping natural teeth",
+          "body": "Prevention, timely repairs and gum treatment keep most teeth working for life. We would rather save a tooth than replace it, and we say honestly when that is no longer sensible.",
+          "href": "/restorative-dentistry/"
+        },
+        {
+          "title": "Dentures and partials",
+          "body": "Well-made, well-fitting dentures remain a good option. Relines keep them comfortable as the jaw changes.",
+          "href": "/restorative-dentistry/dentures/"
+        },
+        {
+          "title": "Implant-retained dentures",
+          "body": "A small number of implants can anchor a lower denture so it stops moving. For many people this is the change that makes eating enjoyable again.",
+          "href": "/dental-implants/implant-retained-dentures/"
+        },
+        {
+          "title": "Implants at any age",
+          "body": "There is no upper age limit. Bone quality and health matter more than years. Planning uses 3D imaging so the answer is clear before anything is placed.",
+          "href": "/dental-implants/candidates/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Getting here and getting around",
+      "body": [
+        "The office is in the Bradlee Office Building on W. Braddock Road with free surface parking right at the door, so there is no garage to navigate. If stairs, walking distance or anything else about the visit is a concern, call ahead and we will help you plan it. Early-morning and weekday appointments are the quietest, and a family member is welcome to come in with you."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Medicare and dental",
+      "body": "Original Medicare does not cover routine dental care, but many Medicare Advantage plans include dental benefits that vary a great deal. Bring your plan card and we will check what it covers here before you book. We also accept Virginia Medicaid and the PPO plans listed on our insurance page.",
+      "cta": {
+        "label": "Insurance we accept",
+        "href": "/new-patients/insurance/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Am I too old for dental implants?",
+      "a": "No. Implants are placed successfully in people in their eighties and nineties. What matters is bone, gum health, healing capacity and medications, all of which are checked at a consultation with a 3D scan."
+    },
+    {
+      "q": "My mouth is always dry. What helps?",
+      "a": "Sipping water through the day, sugar-free gum or lozenges to stimulate saliva, a humidifier at night, avoiding alcohol-based mouthwash, and prescription-strength fluoride to protect against the decay dry mouth causes. We also look at whether a medication could be adjusted with your physician."
+    },
+    {
+      "q": "Do I need to stop my blood thinner before an extraction?",
+      "a": "Usually not, and you should never stop it on your own. For most routine extractions we manage bleeding locally and coordinate with your physician about anything beyond that."
+    },
+    {
+      "q": "How often should I come in?",
+      "a": "Every six months is the default, but with dry mouth, gum disease or a history of root decay, every three to four months catches problems while they are small. We set the interval with you based on what we find."
+    }
+  ],
+  "related": [
+    "/symptoms/dry-mouth/",
+    "/restorative-dentistry/denture-relines/",
+    "/dental-implants/implant-retained-dentures/",
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/general-dentistry/oral-cancer-screening/",
+    "/new-patients/insurance/"
+  ],
+  "cta": {
+    "heading": "Bring the medication list. We will handle the rest.",
+    "body": "Book a check-up at a quiet time of day and leave with a clear, staged plan for keeping your mouth comfortable and working."
+  }
+}

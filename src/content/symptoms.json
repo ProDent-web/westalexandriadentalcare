@@ -1,0 +1,71 @@
+{
+  "slug": "/symptoms/",
+  "type": "hub",
+  "title": "Symptom Guides",
+  "meta_title": "Dental Symptom Guides | West Alexandria Dental Care, Alexandria, VA",
+  "meta_description": "Start with what you feel, not the dental term. Plain-English guides to tooth sensitivity, bleeding gums, jaw pain, a loose tooth, bad breath and more.",
+  "eyebrow": "Symptom guides",
+  "h1": "Start with what you feel.",
+  "intro": "You do not need to know the dental term. These guides begin with the thing you noticed, a zing from cold water, gums that bleed when you floss, a jaw that clicks, and explain what is usually behind it, what you can do at home tonight, and how soon it should be looked at.",
+  "icon": "pulse",
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "How to use these guides",
+      "items": [
+        {
+          "title": "Find the symptom",
+          "body": "Each guide covers one thing you might notice. If two apply, read both; the causes often overlap."
+        },
+        {
+          "title": "Know how soon to act",
+          "body": "Each guide says how quickly the problem should be looked at: within a few weeks, within days, or today. That is the first thing to read."
+        },
+        {
+          "title": "Do the home steps",
+          "body": "Simple things that help until the visit: how to rinse, what to avoid, which pain relief is sensible, what to notice and tell us."
+        },
+        {
+          "title": "Book or call",
+          "body": "Most symptoms want an appointment within a week or two. Pain, swelling or an injury want a call today. Booking is online around the clock, and we are open seven days."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Symptoms that usually point to the gums",
+      "style": "bullet",
+      "items": [
+        "Bleeding when you brush or floss, which is inflammation rather than injury. See [bleeding gums](/symptoms/bleeding-gums/).",
+        "Gums that have pulled back and teeth that look longer. See [gum recession](/symptoms/gum-recession/).",
+        "Puffy, tender or swollen gums, in one spot or everywhere. See [swollen gums](/symptoms/swollen-gums/).",
+        "A tooth that moves when you press it. See [loose tooth](/symptoms/loose-tooth/).",
+        "Breath that does not improve with brushing. See [bad breath](/symptoms/bad-breath/)."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Symptoms that usually point to a tooth or the jaw",
+      "style": "bullet",
+      "items": [
+        "A sharp zing from cold, sweet or air. See [tooth sensitivity](/symptoms/tooth-sensitivity/).",
+        "Pain when you bite and let go. See [cracked tooth](/symptoms/cracked-tooth/).",
+        "A tooth that still hurts weeks after a filling. See [tooth pain after a filling](/symptoms/tooth-pain-after-filling/).",
+        "A sore, clicking or locking jaw, or morning headaches. See [jaw pain](/symptoms/jaw-pain/) and [teeth grinding](/symptoms/teeth-grinding/).",
+        "Pain at the very back of the mouth in your late teens or twenties. See [wisdom tooth pain](/symptoms/wisdom-tooth-pain/).",
+        "A dry, sticky mouth, or snoring and unrefreshing sleep. See [dry mouth](/symptoms/dry-mouth/) and [snoring](/symptoms/snoring/)."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "A note on reading symptoms online",
+      "body": [
+        "A symptom narrows the possibilities; it does not make the diagnosis. The same cold sensitivity can come from a worn spot, a cavity, a crack or a new filling settling, and the fix is different for each. These guides are written to help you decide how urgently to act and what to expect, not to replace an exam. When you are in the chair, the answer is usually quick: an air test, a look, sometimes an X-ray shown on the screen beside you."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Found your symptom? The next step is a look.",
+    "body": "Book online for anything that can wait a few days, or call for anything that hurts now. Either way, you will leave knowing the cause and the options."
+  }
+}

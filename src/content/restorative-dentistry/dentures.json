@@ -1,0 +1,159 @@
+{
+  "slug": "/restorative-dentistry/dentures/",
+  "type": "service",
+  "title": "Dentures",
+  "meta_title": "Dentures in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Full dentures at West Alexandria Dental Care: who they suit, the visits involved, immediate versus conventional dentures, adjusting to eating and speaking.",
+  "eyebrow": "Restore your smile",
+  "h1": "Dentures in West Alexandria",
+  "intro": "A full denture replaces every tooth in an arch with a removable acrylic plate. Made well, it restores a face that has lost support, lets you eat a reasonable diet and gives you a smile you are not embarrassed by. Made carelessly, it slips, rubs and sits in a drawer. The difference is in the planning and the number of adjustments we are willing to make.",
+  "icon": "denture",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "Usually four to six"
+    },
+    {
+      "label": "Time to make",
+      "value": "A few weeks"
+    },
+    {
+      "label": "Worn",
+      "value": "Out at night"
+    },
+    {
+      "label": "Relined",
+      "value": "Every few years"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who dentures are for",
+      "body": [
+        "Someone who has lost all the teeth in the upper or lower jaw, or whose remaining teeth are too few or too damaged to save. For many people an upper denture works very well, because the palate gives it suction and support. A lower denture is harder: there is less ridge to sit on, and the tongue and cheeks push against it. That is why we often raise the question of [implants to anchor a lower denture](/dental-implants/implant-retained-dentures/) early, before frustration sets in.",
+        "If you still have some teeth, a [partial denture](/restorative-dentistry/partial-dentures/) may be the better option, and keeping even a few roots can make a big difference to how a denture behaves."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How a denture is made",
+      "items": [
+        {
+          "title": "Examination and planning",
+          "body": "We look at the ridges, the bite, any remaining teeth and the shape of your face, and talk about what you want the teeth to look like. If teeth still need to come out, the timing is planned here."
+        },
+        {
+          "title": "Impressions",
+          "body": "A first impression, then a more precise one in a custom tray that captures the exact shape of the ridge and the way the cheeks and tongue move."
+        },
+        {
+          "title": "Bite and tooth selection",
+          "body": "Wax rims record how far apart the jaws should sit and where the teeth should go. Shade, shape and size of the teeth are chosen with you."
+        },
+        {
+          "title": "Try-in",
+          "body": "The teeth are set in wax so you can see the smile and check the bite before anything is finalized. Changes are easy at this stage."
+        },
+        {
+          "title": "Delivery and adjustments",
+          "body": "The finished denture is fitted and checked. Sore spots are normal in the first weeks and are adjusted at short follow-up visits. Expect two or three."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Immediate or conventional?",
+      "columns": [
+        "Immediate denture",
+        "Conventional denture"
+      ],
+      "rows": [
+        [
+          "When it is placed",
+          "The same day the teeth are removed",
+          "After the gums have healed, usually two to three months"
+        ],
+        [
+          "Time without teeth",
+          "None",
+          "Weeks to months"
+        ],
+        [
+          "Fit",
+          "Loosens as the gums heal; needs a reline or remake",
+          "Made to the healed ridge; fits better from the start"
+        ],
+        [
+          "Best for",
+          "Front teeth, people who cannot be without teeth",
+          "Anyone who can wait for a better first fit"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Getting used to them",
+      "body": [
+        "The first weeks are an adjustment. Speech can sound odd until the tongue learns the new shape; reading aloud speeds it up. Eating starts with soft foods cut small, chewed on both sides at once to keep the denture balanced. Saliva increases at first and settles. Sore spots are expected and are fixed with small adjustments, so do not put up with them.",
+        "Most people are eating a reasonable diet within a month. Very hard, sticky or tough foods remain difficult with a conventional lower denture, which is where implants change the picture."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Daily care",
+      "style": "check",
+      "items": [
+        "Take them out at night. The gums need the rest, and sleeping in dentures is linked to sore, infected tissue.",
+        "Brush them daily with a soft denture brush and mild soap or denture cleaner, over a towel or basin of water so a drop does not break them.",
+        "Soak overnight in water or a denture solution. Never hot water.",
+        "Brush your gums, tongue and palate with a soft brush each day.",
+        "Keep up check-ups. The gums under a denture still need an oral cancer screening, and the fit needs checking as the ridge changes."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "A loose denture is a fixable problem",
+      "body": "Dentures loosen because the bone beneath them shrinks over the years, not because you are doing something wrong. A reline refits the denture to the current ridge. For a lower denture that still will not stay put, two to four implants with snap attachments usually settle it for good.",
+      "cta": {
+        "label": "Denture relines",
+        "href": "/restorative-dentistry/denture-relines/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do dentures last?",
+      "a": "Five to ten years is typical before the teeth wear or the fit can no longer be restored with a reline. The ridge under them keeps changing, so a reline every few years keeps them comfortable in the meantime."
+    },
+    {
+      "q": "Will people be able to tell?",
+      "a": "A well-made denture with teeth chosen to suit your face and age is very hard to spot. Overly white, overly even teeth are what give dentures away, and we avoid them unless you ask."
+    },
+    {
+      "q": "Do I need adhesive?",
+      "a": "A well-fitting denture should not need it, though a small amount can add confidence. Needing a lot of adhesive is a sign the denture needs a reline."
+    },
+    {
+      "q": "Does insurance cover dentures?",
+      "a": "Most plans cover dentures as a major restoration at a percentage, often with a limit on how often they can be replaced. Virginia Medicaid coverage varies by eligibility. We check your benefits and give you the cost before starting."
+    },
+    {
+      "q": "Can I keep a few teeth and still have a denture?",
+      "a": "Often that is better. A partial denture clips onto remaining teeth and is far more stable than a full one, and roots kept under a denture preserve the bone. We will tell you honestly which teeth are worth keeping."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/partial-dentures/",
+    "/restorative-dentistry/denture-relines/",
+    "/dental-implants/implant-retained-dentures/",
+    "/dental-implants/implants-vs-dentures/",
+    "/restorative-dentistry/replacing-missing-teeth/",
+    "/general-dentistry/dental-care-for-seniors/"
+  ],
+  "cta": {
+    "heading": "Dentures that are worn, not kept in a drawer.",
+    "body": "Book a consultation and we will talk through full, partial and implant-retained options with the costs of each, and plan the one that will actually work for you."
+  }
+}

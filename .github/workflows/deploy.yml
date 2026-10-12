@@ -1,0 +1,43 @@
+name: Build and publish site
+
+# Every push to main rebuilds the site from src/ and publishes the finished
+# files to the "deploy" branch. Hostinger's Git tool pulls that branch into
+# public_html, so the live site updates on its own.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate content
+        run: python3 src/validate.py --all
+
+      - name: Build site
+        run: python3 src/build.py --check
+
+      - name: Publish site/ to the deploy branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: deploy
+          force_orphan: true
+          enable_jekyll: false
+          commit_message: "Publish site from ${{ github.sha }}"

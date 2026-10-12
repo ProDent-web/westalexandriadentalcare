@@ -1,0 +1,150 @@
+{
+  "slug": "/emergency-dentistry/lost-filling-or-crown/",
+  "type": "symptom",
+  "title": "Lost Filling or Crown",
+  "meta_title": "Lost Filling or Crown: What to Do | West Alexandria Dental Care",
+  "meta_description": "A crown or filling has come out: keep it, protect the tooth, use temporary dental cement as a stopgap and never super glue, know how soon to be seen.",
+  "eyebrow": "Emergency care",
+  "h1": "Lost filling or crown",
+  "intro": "A crown comes off with a caramel or a filling falls out while flossing, and suddenly there is a hole where a tooth used to be, sensitive to everything. It is rarely an emergency in the sense of danger, but the exposed tooth is soft, vulnerable and uncomfortable, and the sooner the restoration is back on, the better the tooth beneath it does.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Keep",
+      "value": "The crown, cleaned"
+    },
+    {
+      "label": "Stopgap",
+      "value": "Temporary dental cement"
+    },
+    {
+      "label": "Never",
+      "value": "Super glue"
+    },
+    {
+      "label": "Be seen",
+      "value": "Within days; sooner if painful"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "Decay under the edge of the crown or filling, which dissolves the tooth it was attached to.",
+        "Cement that has washed out over years, especially on an older crown.",
+        "A sticky food that lifted a crown that was already slightly loose.",
+        "A filling that was large relative to the tooth and finally gave way.",
+        "Grinding, which works restorations loose over time.",
+        "A tooth that has fractured under or beside the filling."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Keep the crown",
+          "body": "Rinse it, dry it and put it in a bag or container. A crown that came off whole can very often be re-cemented, which is far cheaper than a new one. A lost filling is not reusable."
+        },
+        {
+          "title": "Clean the tooth gently",
+          "body": "Rinse with warm salt water. Brush the exposed tooth very softly. Food left in the hole makes it more sensitive and lets decay start."
+        },
+        {
+          "title": "Protect it",
+          "body": "Temporary dental cement from a pharmacy can be pressed into a cavity or used to seat a crown as a stopgap for a few days. Follow the packet. Do not use super glue, which damages the tooth and the crown and makes proper re-cementing difficult."
+        },
+        {
+          "title": "Avoid cold, sweet and chewing",
+          "body": "Eat on the other side, skip very hot or cold drinks, and keep sugar away from the exposed tooth."
+        },
+        {
+          "title": "Pain relief if needed",
+          "body": "An over-the-counter pain reliever as labeled, if safe for you. The tooth is sensitive because the dentin is exposed, not usually because of infection."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We look at the tooth and the crown, and take a [digital X-ray](/general-dentistry/digital-x-rays/) to check for decay or a crack underneath. If the tooth is sound and the crown fits, it is cleaned and re-cemented in a few minutes, often without numbing. If decay has eaten the tooth under the crown, that is removed first, the tooth is rebuilt, and a new crown is made; a temporary protects it in the meantime. A lost filling is replaced with a new one the same day where time allows, or an onlay or crown if the tooth has lost too much to hold a filling."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Re-cementing the crown",
+          "body": "When the crown is intact and the tooth is sound. Quick and inexpensive.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "A new crown",
+          "body": "When decay or a fracture has changed the tooth so the old crown no longer fits, or the crown itself is damaged.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "A new filling",
+          "body": "For a lost filling on a tooth with enough structure to hold one.",
+          "href": "/restorative-dentistry/tooth-colored-fillings/"
+        },
+        {
+          "title": "An onlay",
+          "body": "When the cavity left behind is too big for a filling but the walls are sound.",
+          "href": "/restorative-dentistry/inlays-and-onlays/"
+        },
+        {
+          "title": "Root canal and crown",
+          "body": "If the tooth has become painful or the decay reached the nerve.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        },
+        {
+          "title": "Extraction and replacement",
+          "body": "If the tooth has broken below the gum and cannot be rebuilt.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why waiting costs more",
+      "body": [
+        "A tooth under a lost crown is shaped like a small peg of soft dentin. Left exposed for weeks it decays quickly, the neighboring teeth drift into the space, and the opposing tooth moves toward it, so the old crown no longer fits. A re-cement that would have taken ten minutes becomes a new crown, or worse. Days are fine. Months are not."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I just glue the crown back myself?",
+      "a": "Temporary dental cement from a pharmacy is fine for a few days. Super glue and other household adhesives are not: they are not safe in the mouth, they damage the fit, and they make proper re-cementing harder. If the crown will not seat easily, do not force it."
+    },
+    {
+      "q": "Why did my crown come off?",
+      "a": "Most often because decay under the edge dissolved the tooth it was cemented to, or because the cement washed out over many years. The X-ray at the visit tells us which, and whether the crown can go back."
+    },
+    {
+      "q": "Does it hurt to have a crown re-cemented?",
+      "a": "Usually not, and numbing is rarely needed. The tooth may be sensitive while it is exposed, and that settles once the crown is back on."
+    },
+    {
+      "q": "Is this covered by insurance?",
+      "a": "Re-cementing a crown is typically covered as a basic procedure. A new crown or filling is covered as major or basic treatment at a percentage, depending on the plan. We check your benefits and give you the cost before starting."
+    }
+  ],
+  "related": [
+    "/emergency-dentistry/",
+    "/restorative-dentistry/dental-crowns/",
+    "/restorative-dentistry/tooth-colored-fillings/",
+    "/symptoms/tooth-sensitivity/",
+    "/emergency-dentistry/toothache/",
+    "/restorative-dentistry/inlays-and-onlays/"
+  ],
+  "cta": {
+    "heading": "Bring the crown. We will probably put it back.",
+    "body": "Book within a few days, or call today if the tooth hurts. Evenings and weekend mornings are available."
+  }
+}

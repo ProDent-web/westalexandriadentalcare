@@ -1,0 +1,159 @@
+{
+  "slug": "/cosmetic-dentistry/teeth-whitening/",
+  "type": "service",
+  "title": "Teeth Whitening",
+  "meta_title": "Professional Teeth Whitening | West Alexandria Dental Care",
+  "meta_description": "Professional whitening at West Alexandria Dental Care: custom take-home trays and in-office options, what causes stains, what whitens and what does not.",
+  "eyebrow": "Cosmetic dentistry",
+  "h1": "Teeth whitening in West Alexandria",
+  "intro": "Whitening is the simplest cosmetic treatment there is: no drilling, nothing removed, and for healthy teeth that have yellowed with coffee, tea, wine and time, the change is real. It works on natural enamel and nothing else, which is the one thing to understand before you start.",
+  "icon": "sparkle",
+  "facts": [
+    {
+      "label": "Options",
+      "value": "Take-home trays or in-office"
+    },
+    {
+      "label": "Tooth removed",
+      "value": "None"
+    },
+    {
+      "label": "Main side effect",
+      "value": "Temporary sensitivity"
+    },
+    {
+      "label": "Results last",
+      "value": "One to three years"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What causes teeth to darken",
+      "body": [
+        "Enamel is slightly porous, and pigments from coffee, tea, red wine, curry and tobacco work their way in over years. Underneath, the dentin naturally yellows with age and shows through enamel that thins over time. Both respond to whitening, because the peroxide gel passes into the tooth and breaks up the pigment molecules rather than scrubbing the surface.",
+        "Some discoloration does not respond: gray or banded teeth from certain antibiotics taken in childhood, fluorosis marks, and a single dark tooth whose nerve has died. Those need a different approach, usually [bonding](/cosmetic-dentistry/dental-bonding/) or a [veneer](/cosmetic-dentistry/porcelain-veneers/), and we tell you which at the consultation."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Custom trays or in-office?",
+      "columns": [
+        "Custom take-home trays",
+        "In-office whitening"
+      ],
+      "rows": [
+        [
+          "How",
+          "Thin trays made from impressions of your teeth, worn with gel at home",
+          "Stronger gel applied in the chair over about an hour"
+        ],
+        [
+          "Time to result",
+          "Ten to fourteen days of daily wear",
+          "One visit, often with trays for touch-ups"
+        ],
+        [
+          "Control",
+          "You stop when you reach the shade you like",
+          "Fast; can be followed with trays"
+        ],
+        [
+          "Sensitivity",
+          "Usually milder",
+          "Can be sharper for a day or two"
+        ],
+        [
+          "Best for",
+          "Most people; gradual, predictable, repeatable",
+          "A deadline, or a head start before trays"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Before any whitening",
+      "items": [
+        {
+          "title": "An exam first",
+          "body": "Cavities, cracked fillings and inflamed gums have to be sorted out before gel goes near them. Whitening over decay hurts and whitening over gum disease inflames further."
+        },
+        {
+          "title": "A cleaning",
+          "body": "Surface stain and tartar block the gel. A cleaning before whitening gives a more even result."
+        },
+        {
+          "title": "A shade record",
+          "body": "A photo and shade match so you can see the change, and so expectations are realistic."
+        },
+        {
+          "title": "A plan for existing dental work",
+          "body": "Crowns, fillings and veneers do not change color. If a visible filling will no longer match after whitening, it can be replaced afterward, and we say so beforehand."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Managing sensitivity",
+      "style": "check",
+      "items": [
+        "Use a desensitizing toothpaste for two weeks before you start and throughout.",
+        "Wear the trays for shorter sessions, or every other day, if teeth zing.",
+        "Avoid very cold food and drink on whitening days.",
+        "Tell us; a desensitizing gel in the trays between sessions settles most cases.",
+        "Sensitivity stops when whitening stops. It does not cause lasting damage to healthy teeth."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Who should wait",
+      "style": "warn",
+      "items": [
+        "Anyone pregnant or breastfeeding, as a precaution.",
+        "Children and younger teenagers whose teeth are still developing.",
+        "Anyone with untreated cavities, cracked teeth or gum disease, until those are fixed.",
+        "People whose front teeth are mostly crowns, veneers or fillings, which will not change and may end up looking darker than the whitened neighbors."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Over-the-counter strips and pastes",
+      "body": "Strips work, slowly, and can be fine for mild yellowing. They do not fit the teeth precisely, so results can be patchy and the gum can get irritated. Whitening toothpastes remove surface stain only; charcoal pastes are abrasive and can wear enamel. Professional trays use a stronger gel in a tray that fits exactly, which is why the result is more even and more predictable."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How white will my teeth get?",
+      "a": "Most people lighten several shades. The starting color matters: yellow teeth whiten most; gray teeth whiten least. We show you a realistic target at the consultation rather than promise a shade."
+    },
+    {
+      "q": "Does whitening damage enamel?",
+      "a": "Professional whitening used as directed does not damage healthy enamel. The temporary sensitivity comes from the gel opening the pores in the tooth, which close again when treatment stops."
+    },
+    {
+      "q": "How long does it last?",
+      "a": "One to three years, depending on coffee, tea, wine and smoking. Keeping your custom trays means a touch-up of a few nights every six to twelve months maintains the result."
+    },
+    {
+      "q": "Will it whiten my crown or filling?",
+      "a": "No. Crowns, veneers and fillings keep their color. We plan around this, and visible fillings can be replaced to match once the shade has settled, about two weeks after whitening."
+    },
+    {
+      "q": "Is whitening covered by insurance?",
+      "a": "Almost never, because it is cosmetic. We give you the cost up front."
+    }
+  ],
+  "related": [
+    "/cosmetic-dentistry/dental-bonding/",
+    "/cosmetic-dentistry/porcelain-veneers/",
+    "/cosmetic-dentistry/smile-makeover/",
+    "/symptoms/tooth-sensitivity/",
+    "/general-dentistry/cleanings-and-exams/",
+    "/cosmetic-dentistry/"
+  ],
+  "cta": {
+    "heading": "Brighter, without touching the enamel.",
+    "body": "Book an exam and cleaning, and we will tell you what whitening can realistically do for your teeth and set you up with custom trays."
+  }
+}

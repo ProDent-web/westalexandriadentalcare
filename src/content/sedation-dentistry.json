@@ -1,0 +1,101 @@
+{
+  "slug": "/sedation-dentistry/",
+  "type": "hub",
+  "title": "Sedation Dentistry",
+  "meta_title": "Sedation Dentistry & Comfort Options | West Alexandria Dental Care",
+  "meta_description": "Nervous about the dentist? West Alexandria Dental Care offers nitrous oxide, other sedation options after an individual review.",
+  "eyebrow": "Comfort and sedation",
+  "h1": "Sedation and comfort at the dentist, in West Alexandria",
+  "intro": "It is okay to be nervous. A fair number of people who sit in our chairs have put off care for years because of something that happened in a different office. We plan for that. Some of what helps is medicine, and some of it is simply how the appointment is run.",
+  "icon": "moon",
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Who comfort planning is for",
+      "style": "check",
+      "items": [
+        "Anyone who feels anxious at the thought of a dental visit, whatever the reason.",
+        "People with a strong gag reflex, or who find impressions and X-rays hard.",
+        "Patients facing a long or involved appointment, such as several fillings or an implant.",
+        "People who have had trouble getting numb before.",
+        "Children who need a little extra help staying calm for treatment.",
+        "Anyone who would rather not remember much of the visit."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The things that help before any medicine",
+      "items": [
+        {
+          "title": "Tell us when you book",
+          "body": "Say that visits are hard for you. We allow more time, schedule a quieter slot, and the team knows before you arrive."
+        },
+        {
+          "title": "A first visit can be just a conversation",
+          "body": "Nothing has to happen in the chair the first time. Meeting the dentist, talking through what worries you and looking at the room is a legitimate appointment."
+        },
+        {
+          "title": "Explanation before each step",
+          "body": "You hear what is about to happen before it happens, not after. Some people want every detail; some want less. You set that."
+        },
+        {
+          "title": "A signal to stop",
+          "body": "Raise a hand and everything pauses. Knowing you can stop is often what makes it possible to continue."
+        },
+        {
+          "title": "Numbing done slowly",
+          "body": "Topical gel first, then local anesthetic delivered gradually. Most of the discomfort people remember from injections comes from speed."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Sedation options",
+      "items": [
+        {
+          "title": "Nitrous oxide",
+          "body": "Breathed through a small nasal mask with oxygen. Takes the edge off within minutes, you stay awake and able to talk, and it wears off quickly enough to drive home.",
+          "href": "/sedation-dentistry/nitrous-oxide/"
+        },
+        {
+          "title": "Other sedation options",
+          "body": "Deeper relaxation may be available after an individual review of your health, medications and the planned treatment. What is appropriate is decided for you, not from a menu.",
+          "href": "/sedation-dentistry/sedation-options/"
+        },
+        {
+          "title": "Nervous about the dentist?",
+          "body": "What usually causes the fear, why it eases with predictable visits, and how to take the first step after a long gap.",
+          "href": "/sedation-dentistry/dental-anxiety/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Sedation is screened, not sold",
+      "body": "Before any sedation we review your medical history, medications, allergies and previous experiences with anesthesia. Some conditions change the plan, and occasionally the safest answer is treatment in a different setting. That review is what makes sedation safe, so it is never skipped.",
+      "cta": {
+        "label": "What the review covers",
+        "href": "/sedation-dentistry/sedation-options/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will you judge me for how long it has been?",
+      "a": "No. Long gaps are common and they almost always have a reason. Say so when you book and we take it slowly. The point of the first visit is to find out where things stand, not to deliver a lecture."
+    },
+    {
+      "q": "Does sedation mean I will not need numbing?",
+      "a": "Not usually. Sedation reduces anxiety and awareness; local anesthetic is what stops you feeling the tooth. For most treatment you need both, and the sedation makes the numbing easier to accept."
+    },
+    {
+      "q": "Can my child have nitrous oxide?",
+      "a": "Often, yes. Nitrous oxide is widely used for children who need a little help staying calm, after a review of their health and the treatment planned. We talk it through with you first."
+    }
+  ],
+  "cta": {
+    "heading": "Start with a conversation, not a procedure.",
+    "body": "Book a first visit and tell us what makes dental care difficult for you. We will plan the comfort measures together before anything else is scheduled."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "/symptoms/gum-recession/",
+  "type": "symptom",
+  "title": "Gum Recession",
+  "meta_title": "Gum Recession: Teeth Looking Longer? | West Alexandria Dental Care",
+  "meta_description": "Teeth that look longer, notches at the gum line and sensitivity: the causes of gum recession, whether it grows back.",
+  "eyebrow": "Symptom guide",
+  "h1": "Gum recession",
+  "intro": "Teeth that look longer than they used to, a notch you can feel with a fingernail at the gum line, a zing from cold on the lower front teeth. Gum recession is the gum edge moving down the root and exposing it. The gum does not grow back on its own, but recession can be stopped, the exposed root protected, and in some cases the gum rebuilt.",
+  "icon": "gum",
+  "facts": [
+    {
+      "label": "Grows back alone",
+      "value": "No"
+    },
+    {
+      "label": "Can be stopped",
+      "value": "Yes"
+    },
+    {
+      "label": "Common causes",
+      "value": "Hard brushing, gum disease"
+    },
+    {
+      "label": "Exposed roots",
+      "value": "Decay and sensitivity risk"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Brushing too hard**, with a stiff brush or a scrubbing motion, which wears the gum away, typically on the canines and premolars on the side opposite your dominant hand.",
+        "**Gum disease**, where bone loss beneath the gum lets it fall back. Usually with bleeding and often more general.",
+        "**Grinding and clenching**, which flex the teeth and stress the gum at the neck.",
+        "**Thin gum tissue**, which some people are born with and which recedes more easily.",
+        "**Orthodontic movement** that pushes a tooth outside its bony housing.",
+        "**Lip and tongue piercings** rubbing the gum.",
+        "**Smoking**, which impairs gum blood supply.",
+        "**Age**, to a modest degree."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Change the brush and the grip",
+          "body": "Soft bristles only, held like a pen, in small circles at the gum line with light pressure. An electric brush with a pressure sensor stops most hard brushers."
+        },
+        {
+          "title": "Switch to a desensitizing toothpaste",
+          "body": "Used twice a day for two weeks and ongoing, it seals the exposed dentin and takes the edge off cold."
+        },
+        {
+          "title": "Keep the exposed root clean",
+          "body": "Root surface is softer than enamel and decays easily. Gentle but thorough brushing matters more, not less."
+        },
+        {
+          "title": "Note where and how fast",
+          "body": "A photo every few months helps you and us see whether it is stable or progressing."
+        },
+        {
+          "title": "Remove the obvious causes",
+          "body": "A piercing that rubs, a nail-biting habit, a hard brush. If you grind, mention it; a night guard is often part of the answer."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We measure how far the gum has moved on each tooth and record it so changes can be tracked. Pocket depths and [X-rays](/general-dentistry/digital-x-rays/) show whether gum disease or bone loss is behind it. We look for wear notches, decay on the roots, the thickness of the remaining gum, and signs of grinding. Then the plan matches the cause: a technique change for brushing damage, gum treatment for periodontitis, a night guard for grinding, and protection or repair for the exposed roots."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Technique coaching",
+          "body": "Most brushing-related recession stops once the brushing changes. We show you on your own teeth.",
+          "href": "/general-dentistry/oral-hygiene/"
+        },
+        {
+          "title": "Desensitizing and fluoride varnish",
+          "body": "Applied to the exposed roots to seal them against cold and protect against decay.",
+          "href": "/general-dentistry/fluoride-treatment/"
+        },
+        {
+          "title": "Bonding over the root",
+          "body": "A thin layer of tooth-colored composite covers a notch or an exposed root so it is protected, less sensitive and less visible.",
+          "href": "/cosmetic-dentistry/dental-bonding/"
+        },
+        {
+          "title": "Gum disease treatment",
+          "body": "When periodontitis is driving the recession, a deep cleaning and maintenance stop the bone loss.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "A night guard",
+          "body": "If grinding is flexing the teeth, a guard removes the force.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Gum grafting",
+          "body": "For significant recession, thin tissue, or roots at risk, a periodontist can rebuild the gum with a graft. We refer when that is the right step and coordinate the rest of your care."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Does the gum grow back?",
+      "body": [
+        "Not on its own. Once the gum edge has moved, it stays there, which is why stopping the cause early matters. What can be done is to halt further loss, protect the exposed root from decay and sensitivity, improve the appearance with bonding, and, for the right cases, surgically graft tissue to cover the root again. Most people with mild recession need only the first two."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is gum recession serious?",
+      "a": "Mild recession is common and mostly a sensitivity and appearance issue. It becomes serious when it is driven by gum disease, when it progresses quickly, or when exposed roots decay. The visit tells which kind you have."
+    },
+    {
+      "q": "Can I fix recession with a special toothpaste?",
+      "a": "Toothpaste can reduce the sensitivity and protect the root, which is worthwhile. It cannot regrow gum. Claims otherwise are marketing."
+    },
+    {
+      "q": "Will I need a gum graft?",
+      "a": "Most people do not. Grafting is for significant recession, very thin tissue, or roots that are at risk, and it is done by a periodontist. We tell you honestly whether your case warrants a referral."
+    },
+    {
+      "q": "Why is it only on one side?",
+      "a": "Recession from brushing is usually worst on the side opposite your dominant hand, where the brush lands hardest. That pattern is itself a clue to the cause."
+    }
+  ],
+  "related": [
+    "/symptoms/tooth-sensitivity/",
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/general-dentistry/oral-hygiene/",
+    "/cosmetic-dentistry/dental-bonding/",
+    "/general-dentistry/night-guards/",
+    "/symptoms/bleeding-gums/"
+  ],
+  "cta": {
+    "heading": "Stop it where it is.",
+    "body": "Book an exam, and we will measure the recession, find the cause and protect the roots before anything else is lost."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "/emergency-dentistry/after-hours/",
+  "type": "symptom",
+  "title": "Dental Emergencies After Hours",
+  "meta_title": "Dental Emergency After Hours | West Alexandria Dental Care",
+  "meta_description": "Our hours already cover early mornings, evenings until 8 PM and weekend mornings. Outside them: how to book the first slot online.",
+  "eyebrow": "Emergency care",
+  "h1": "A dental emergency after hours",
+  "intro": "Our hours cover more of the week than most dental offices: 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday. That still leaves nights and weekend afternoons. Here is what to do if a tooth breaks at 10 PM or starts throbbing on a Sunday afternoon, and when a hospital is the right place to go.",
+  "icon": "clock",
+  "facts": [
+    {
+      "label": "Weekdays",
+      "value": "7 AM–8 PM"
+    },
+    {
+      "label": "Weekends",
+      "value": "8 AM–1 PM"
+    },
+    {
+      "label": "Booking",
+      "value": "Online, any hour"
+    },
+    {
+      "label": "Life-threatening signs",
+      "value": "Emergency room or 911"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind an after-hours call",
+      "style": "bullet",
+      "items": [
+        "A toothache that has built through the evening and will not let you sleep.",
+        "A crown or filling that came out at dinner.",
+        "A tooth chipped or broken on something hard.",
+        "Swelling that appeared over a few hours.",
+        "A knocked-out tooth from an evening game or a fall.",
+        "Bleeding after an extraction earlier in the day."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Book the first available slot online",
+          "body": "Online scheduling runs around the clock and shows real availability. The earliest weekday slots start at 7 AM, so a 10 PM problem can usually be seen within hours of the office opening. Or call {{phone}} at opening time."
+        },
+        {
+          "title": "For pain",
+          "body": "Rinse with warm salt water, floss gently around the tooth, take an over-the-counter pain reliever exactly as labeled if it is safe for you, and sleep with your head raised. Do not put aspirin on the gum. See the [toothache guide](/emergency-dentistry/toothache/)."
+        },
+        {
+          "title": "For a lost crown or filling",
+          "body": "Keep the crown. Temporary dental cement from a pharmacy can seat it or fill the cavity until morning. Avoid cold, sweet and chewing on that side. See [lost filling or crown](/emergency-dentistry/lost-filling-or-crown/)."
+        },
+        {
+          "title": "For a broken tooth",
+          "body": "Keep the pieces in milk, cover a sharp edge with wax or sugar-free gum, and do not chew on it. See [broken or chipped tooth](/emergency-dentistry/broken-tooth/)."
+        },
+        {
+          "title": "For bleeding after an extraction",
+          "body": "Bite firmly on clean gauze or a damp tea bag for twenty minutes without checking. Sit upright. If it has not slowed after two rounds, that is an emergency room visit."
+        },
+        {
+          "title": "For a knocked-out adult tooth",
+          "body": "Hold it by the crown, rinse briefly, put it back in the socket or in milk, and go to the nearest emergency room now. Do not wait for us to open. See [knocked-out tooth](/emergency-dentistry/knocked-out-tooth/)."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens when we open",
+      "body": [
+        "Tell whoever answers, or note in your online booking, that it is urgent and what happened. We keep room for emergencies during our hours. You are seen, the cause is found with an exam and a [digital X-ray](/general-dentistry/digital-x-rays/), the pain is dealt with first, and the lasting fix is planned. If you went to a hospital overnight, bring any paperwork and let us know what was done; we pick up from there, including the root canal that a reimplanted tooth will need."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How the common overnight problems are treated",
+      "items": [
+        {
+          "title": "Toothache",
+          "body": "Filling, crown, root canal or extraction depending on the cause, after numbing and relief the same day.",
+          "href": "/emergency-dentistry/toothache/"
+        },
+        {
+          "title": "Abscess",
+          "body": "Drainage, then root canal or extraction. Antibiotics when the infection has spread.",
+          "href": "/emergency-dentistry/dental-abscess/"
+        },
+        {
+          "title": "Lost crown",
+          "body": "Cleaned and re-cemented if the tooth is sound; a new crown if not.",
+          "href": "/emergency-dentistry/lost-filling-or-crown/"
+        },
+        {
+          "title": "Broken tooth",
+          "body": "Bonding, onlay or crown; root canal if the nerve is exposed.",
+          "href": "/emergency-dentistry/broken-tooth/"
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Hours at a glance",
+      "columns": [
+        "Patients seen",
+        "Online booking"
+      ],
+      "rows": [
+        [
+          "Monday to Friday",
+          "7:00 AM to 8:00 PM",
+          "Any time"
+        ],
+        [
+          "Saturday and Sunday",
+          "8:00 AM to 1:00 PM",
+          "Any time"
+        ],
+        [
+          "Overnight",
+          "Closed; use the steps above or the ER",
+          "Any time"
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you treat emergencies at night?",
+      "a": "No. Treatment happens during our hours, which run until 8 PM on weekdays and include weekend mornings. Online booking never closes, so you can secure the first morning slot at any hour."
+    },
+    {
+      "q": "Will the emergency room fix my tooth?",
+      "a": "Usually not. A hospital treats infection, pain, bleeding and injuries, and can reimplant a knocked-out tooth, but definitive dental treatment is done by a dentist afterward. For a toothache or a lost crown, you will generally do better booking our first 7 AM slot than sitting in a hospital waiting room."
+    },
+    {
+      "q": "Can I book an emergency appointment online?",
+      "a": "Yes. Choose the earliest available slot and note what the problem is. If you can, also call when we open so we can confirm the plan."
+    },
+    {
+      "q": "I am not a patient yet. Can I still come in for an emergency?",
+      "a": "Yes. New patients are welcome. Register on your phone through the online forms on the way in and bring your insurance card if you have one."
+    }
+  ],
+  "related": [
+    "/emergency-dentistry/",
+    "/emergency-dentistry/toothache/",
+    "/emergency-dentistry/knocked-out-tooth/",
+    "/emergency-dentistry/lost-filling-or-crown/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/book-online/"
+  ],
+  "cta": {
+    "heading": "Book the first slot now. We open at 7.",
+    "body": "Online booking runs around the clock, and early-morning, evening and weekend appointments mean most urgent problems are seen within hours."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "/restorative-dentistry/tooth-extractions/",
+  "type": "service",
+  "title": "Tooth Extractions",
+  "meta_title": "Tooth Extractions in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "When a tooth cannot be saved: simple and surgical extractions at West Alexandria Dental Care, comfort options, what the day is like.",
+  "eyebrow": "Restore your smile",
+  "h1": "Tooth extractions in West Alexandria",
+  "intro": "We would rather save a tooth than remove one, and we say honestly when saving it is no longer sensible. When a tooth does need to come out, the goal is a calm, numb, uneventful appointment, a clear plan for the days afterward, and a decision already made about what replaces it.",
+  "icon": "root",
+  "facts": [
+    {
+      "label": "Numbing",
+      "value": "Local anesthetic"
+    },
+    {
+      "label": "Comfort",
+      "value": "Nitrous oxide available"
+    },
+    {
+      "label": "Takes",
+      "value": "Twenty to sixty minutes"
+    },
+    {
+      "label": "Back to work",
+      "value": "Usually next day"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "When a tooth cannot be saved",
+      "style": "bullet",
+      "items": [
+        "Decay or a fracture has gone below the bone level, leaving nothing solid to build on.",
+        "A crack runs down the root, which no filling or crown can hold together.",
+        "Gum disease has destroyed so much bone that the tooth is loose and cannot be stabilized.",
+        "A root canal has failed and cannot be redone or treated surgically.",
+        "A wisdom tooth is impacted, infected or damaging its neighbor. See [wisdom teeth removal](/restorative-dentistry/wisdom-teeth-removal/).",
+        "A tooth has to go to make room for orthodontic treatment, or a baby tooth is blocking an adult one."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Simple or surgical?",
+      "columns": [
+        "Simple extraction",
+        "Surgical extraction"
+      ],
+      "rows": [
+        [
+          "The tooth",
+          "Fully visible above the gum, roots straightforward",
+          "Broken at the gum, curved roots, or impacted"
+        ],
+        [
+          "How",
+          "Loosened and lifted with instruments",
+          "A small opening in the gum, sometimes a little bone removed, tooth may be divided"
+        ],
+        [
+          "Numbing",
+          "Local anesthetic",
+          "Local anesthetic; sedation options after review"
+        ],
+        [
+          "Stitches",
+          "Rarely",
+          "Often, dissolving"
+        ],
+        [
+          "Recovery",
+          "A day or two",
+          "Three to seven days"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What the day is like",
+      "items": [
+        {
+          "title": "Before",
+          "body": "We review your medications, especially blood thinners and bone medications, and your medical history. Eat a normal meal unless sedation instructions say otherwise. Bring someone to drive if sedation is planned."
+        },
+        {
+          "title": "Numbing",
+          "body": "Topical gel, then local anesthetic given slowly. You should feel pressure during the extraction but no pain; if you feel anything sharp, raise a hand and we add more before continuing."
+        },
+        {
+          "title": "The extraction",
+          "body": "The tooth is loosened gently and lifted out. The sensation is pushing and pressure. Most simple extractions take only a few minutes once numb; the preparation takes longer than the removal."
+        },
+        {
+          "title": "Stopping the bleeding",
+          "body": "You bite on gauze for twenty to thirty minutes while a clot forms. Written aftercare instructions go home with you."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Aftercare that prevents dry socket",
+      "intro": "The clot in the socket is what protects the bone. Losing it causes dry socket, which is painful. These steps keep it in place.",
+      "style": "check",
+      "items": [
+        "Bite on gauze for the first half hour and change it only if soaked.",
+        "No straws, spitting, rinsing or smoking for at least seventy-two hours; suction and smoke pull the clot out.",
+        "Soft, cool foods for the first day. Chew on the other side.",
+        "From the second day, rinse gently with warm salt water after meals.",
+        "Take pain relief as directed before the numbness wears off, not after the pain starts.",
+        "Sleep with your head raised the first night. Expect some swelling and bruising for a few days.",
+        "Call if bleeding restarts and will not stop with pressure, if pain gets worse after day three, or if you have fever or spreading swelling."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Decide the replacement before the extraction",
+      "body": [
+        "The best time to plan what fills the gap is before the tooth comes out. If an implant is the likely answer, the socket can be preserved with a bone graft at the time of extraction so there is enough bone later. If a bridge or partial is the plan, a temporary can be ready the same day so you are never without a front tooth. Read the [replacing missing teeth](/restorative-dentistry/replacing-missing-teeth/) guide before your visit and we will go through it together.",
+        "[Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/) completed an Advanced General Dentistry residency and a dental implant fellowship, so surgical extractions and socket preservation are done here rather than referred out in most cases."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Anxious about having a tooth out?",
+      "body": "Say so when you book. The appointment is planned with more time, nitrous oxide is available, and other sedation options can be discussed after a review of your health. A fair number of people are surprised afterward by how little there was to it.",
+      "cta": {
+        "label": "Comfort and sedation options",
+        "href": "/sedation-dentistry/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does having a tooth pulled hurt?",
+      "a": "Not during the extraction, which is done fully numb. You feel pressure and pushing. Afterward, soreness for a few days is normal and is managed with over-the-counter pain relief taken on schedule."
+    },
+    {
+      "q": "Should I stop my blood thinner?",
+      "a": "Usually no, and never without your physician's advice. Most routine extractions are done on patients taking anticoagulants, with local measures to control bleeding. We coordinate with your doctor when needed."
+    },
+    {
+      "q": "How long until I can eat normally?",
+      "a": "Soft foods the first day, then build up over a few days as comfort allows. Avoid chewing on the extraction site for about a week."
+    },
+    {
+      "q": "What is dry socket?",
+      "a": "Loss of the blood clot from the socket, exposing the bone, usually three to five days after an extraction. It causes a deep ache that pain relief does not touch. It is treated with a medicated dressing in the socket and settles within days. Following the aftercare steps makes it unlikely."
+    },
+    {
+      "q": "Will my insurance cover the extraction?",
+      "a": "Most plans cover extractions as basic or oral surgery benefits at a percentage. Virginia Medicaid is accepted. We confirm your coverage and give you the cost before the appointment."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/wisdom-teeth-removal/",
+    "/restorative-dentistry/replacing-missing-teeth/",
+    "/emergency-dentistry/emergency-extractions/",
+    "/dental-implants/single-tooth-implants/",
+    "/sedation-dentistry/nitrous-oxide/",
+    "/restorative-dentistry/root-canal-therapy/"
+  ],
+  "cta": {
+    "heading": "If it has to come out, it should be calm and planned.",
+    "body": "Book a consultation and we will confirm whether the tooth can be saved, and if not, plan the extraction and the replacement in one conversation."
+  }
+}

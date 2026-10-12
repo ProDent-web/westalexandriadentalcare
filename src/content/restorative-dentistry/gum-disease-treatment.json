@@ -1,0 +1,168 @@
+{
+  "slug": "/restorative-dentistry/gum-disease-treatment/",
+  "type": "service",
+  "title": "Gum Disease Treatment",
+  "meta_title": "Gum Disease Treatment in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Gingivitis versus periodontitis, the signs, how gum disease is measured, and the treatment ladder at West Alexandria Dental Care: cleaning.",
+  "eyebrow": "Restore your smile",
+  "h1": "Gum disease treatment in West Alexandria",
+  "intro": "Gum disease is the main reason adults lose teeth, and it is painless almost until the end. Gums that bleed when you brush are the early warning. Caught there, it is reversible. Left to progress, it quietly dissolves the bone that holds the teeth, and that bone does not grow back. Treatment is straightforward, and it works best early.",
+  "icon": "gum",
+  "facts": [
+    {
+      "label": "Early stage",
+      "value": "Gingivitis, reversible"
+    },
+    {
+      "label": "Later stage",
+      "value": "Periodontitis, controllable"
+    },
+    {
+      "label": "Measured by",
+      "value": "Pocket depths and X-rays"
+    },
+    {
+      "label": "Main treatment",
+      "value": "Deep cleaning"
+    }
+  ],
+  "sections": [
+    {
+      "type": "compare",
+      "heading": "Gingivitis or periodontitis?",
+      "columns": [
+        "Gingivitis",
+        "Periodontitis"
+      ],
+      "rows": [
+        [
+          "What is affected",
+          "Gum only",
+          "Gum and the bone beneath"
+        ],
+        [
+          "Signs",
+          "Red, puffy gums that bleed",
+          "Bleeding, recession, bad breath, loose teeth, gaps opening"
+        ],
+        [
+          "Pockets",
+          "Shallow, inflamed",
+          "Deeper than 4 mm, with bone loss on X-ray"
+        ],
+        [
+          "Reversible",
+          "Yes, fully",
+          "No, but it can be stopped and controlled"
+        ],
+        [
+          "Treatment",
+          "Cleaning plus better home care",
+          "Deep cleaning, then maintenance every three to four months"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Signs worth acting on",
+      "style": "warn",
+      "items": [
+        "Gums that bleed when you brush or floss, even a little.",
+        "Gums that look red or swollen, or have pulled back so teeth look longer.",
+        "Persistent bad breath or a bad taste that brushing does not fix.",
+        "Teeth that feel loose, or gaps appearing between front teeth.",
+        "A change in how your teeth meet, or a partial denture that fits differently.",
+        "Pus between the teeth and gums."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How it is measured",
+      "body": [
+        "A small probe measures the depth of the groove between gum and tooth at six points around each tooth. Up to three millimeters with no bleeding is healthy. Four and above, with bleeding, is a pocket where bacteria live beyond the reach of a brush. [Digital X-rays](/general-dentistry/digital-x-rays/) show how much bone has been lost. Together they stage the disease and set the treatment.",
+        "The measurements are repeated at every maintenance visit and compared, which is how we know whether treatment is holding."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The treatment ladder",
+      "items": [
+        {
+          "title": "Better home care and a thorough cleaning",
+          "body": "For gingivitis, this is usually enough. We show you where plaque is being missed, adjust technique, and remove the tartar that keeps the gums inflamed. Bleeding typically stops within two weeks."
+        },
+        {
+          "title": "Scaling and root planing",
+          "body": "For periodontitis, a [deep cleaning](/restorative-dentistry/deep-cleaning/) under local anesthetic removes tartar and bacteria from the root surfaces inside the pockets and smooths the roots so the gum can reattach. Usually done in two visits, one side at a time."
+        },
+        {
+          "title": "Antibiotics placed in pockets",
+          "body": "For pockets that remain deep after scaling, an antibiotic can be placed directly into the pocket to help it heal. This supplements the deep cleaning; it does not replace it."
+        },
+        {
+          "title": "Re-evaluation",
+          "body": "Four to six weeks after treatment the pockets are measured again. Most shrink. Any that have not are treated again or considered for referral."
+        },
+        {
+          "title": "Periodontal maintenance",
+          "body": "Every three to four months, for good, because the bacteria return on roughly that timeline. [Maintenance](/general-dentistry/periodontal-maintenance/) is what keeps the disease controlled."
+        },
+        {
+          "title": "Referral when needed",
+          "body": "Advanced bone loss, pockets that do not respond, or a need for grafting are referred to a periodontist, a gum specialist, with your records sent ahead."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why it matters beyond the mouth",
+      "body": [
+        "Periodontitis is a chronic bacterial infection, and it is linked with diabetes, heart disease and pregnancy complications. The links run both ways: poorly controlled diabetes makes gum disease worse, and treating gum disease can improve blood sugar control. If you are planning dental implants, gum disease has to be controlled first, because the same bacteria that loosen teeth will loosen an implant."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Been told you have gum disease and did nothing?",
+      "body": "That is common, because it does not hurt. The good news is that treatment at any stage stops further bone loss. Book an evaluation; we measure, show you the numbers, and set out the plan and the cost in writing. No lecture.",
+      "cta": {
+        "label": "Book online",
+        "href": "book"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can gum disease be cured?",
+      "a": "Gingivitis can be reversed completely. Periodontitis cannot be cured, because lost bone does not regrow, but it can be stopped and kept stable for life with treatment and regular maintenance."
+    },
+    {
+      "q": "Does a deep cleaning hurt?",
+      "a": "It is done under local anesthetic, so the cleaning itself is comfortable. The gums can be tender for a few days afterward and the teeth sensitive to cold for a while as the inflamed gum shrinks and exposes the root."
+    },
+    {
+      "q": "Is it covered by insurance?",
+      "a": "Scaling and root planing is covered by most plans as a periodontal service at a percentage, often by quadrant. Maintenance visits are usually covered but sometimes differently from routine cleanings. We verify your plan and tell you the cost before treatment."
+    },
+    {
+      "q": "Will my teeth get loose from the treatment?",
+      "a": "No. Teeth can feel slightly different for a while as swollen gums shrink back and expose more of the tooth, but the treatment stabilizes teeth rather than loosening them."
+    },
+    {
+      "q": "Does smoking really matter?",
+      "a": "Yes. Smoking roughly doubles the risk of gum disease, hides the bleeding that would warn you, and halves the success of treatment. Stopping is the single most useful thing a smoker can do for their gums."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/deep-cleaning/",
+    "/general-dentistry/periodontal-maintenance/",
+    "/symptoms/bleeding-gums/",
+    "/symptoms/gum-recession/",
+    "/symptoms/loose-tooth/",
+    "/symptoms/bad-breath/"
+  ],
+  "cta": {
+    "heading": "Bleeding gums are a reason to come in, not to brush less.",
+    "body": "Book a periodontal evaluation. We measure, explain what the numbers mean, and start treatment at the stage you are actually at."
+  }
+}

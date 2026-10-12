@@ -1,0 +1,203 @@
+{
+  "slug": "/general-dentistry/oral-hygiene/",
+  "type": "service",
+  "title": "Brushing & Flossing",
+  "meta_title": "Brushing & Flossing That Actually Works | West Alexandria Dental Care",
+  "meta_description": "Home care advice from West Alexandria Dental Care: technique, electric vs manual, floss and its alternatives, timing around acids, and how to clean crowns.",
+  "eyebrow": "General dentistry",
+  "h1": "Brushing and flossing that actually works",
+  "intro": "Most people brush twice a day and still get cavities and bleeding gums. The problem is rarely effort. It is technique, timing and the places that get missed. Here is what we tell patients in the chair, written down.",
+  "icon": "sparkle",
+  "facts": [
+    {
+      "label": "Brush",
+      "value": "Two minutes, twice a day"
+    },
+    {
+      "label": "Between teeth",
+      "value": "Once a day"
+    },
+    {
+      "label": "Brush type",
+      "value": "Soft, always"
+    },
+    {
+      "label": "After acids",
+      "value": "Wait thirty minutes"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "Brushing, done properly",
+      "items": [
+        {
+          "title": "Soft brush, light grip",
+          "body": "Hold it like a pen, not a fist. Hard brushes and hard scrubbing wear away gum and enamel at the neck of the tooth, which is where most sensitivity starts. If your bristles splay within a month, you are pressing too hard."
+        },
+        {
+          "title": "Angle at the gum line",
+          "body": "Tilt the bristles about forty-five degrees toward the gum so they slip just under the edge. That is where plaque collects and where gum disease begins. Small circles or short back-and-forth strokes, a few teeth at a time."
+        },
+        {
+          "title": "Every surface, in order",
+          "body": "Outside, inside and chewing surfaces, upper and lower. Most people miss the inside of the lower front teeth and the back of the last molars. Working in the same order every time stops that."
+        },
+        {
+          "title": "Two minutes, by the clock",
+          "body": "Most people guess at forty-five seconds. Use a timer or an electric brush with one built in."
+        },
+        {
+          "title": "Spit, do not rinse",
+          "body": "Rinsing with water washes the fluoride away. Spit out the excess and leave the film."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Electric or manual?",
+      "columns": [
+        "Electric",
+        "Manual"
+      ],
+      "rows": [
+        [
+          "Technique",
+          "Does the motion; you guide it slowly along the gum line",
+          "Depends entirely on you"
+        ],
+        [
+          "Pressure",
+          "Many have a sensor that warns you",
+          "Easy to overdo"
+        ],
+        [
+          "Timer",
+          "Usually built in",
+          "Use your phone"
+        ],
+        [
+          "Best for",
+          "Most adults, anyone with dexterity limits, teenagers who rush",
+          "People with good technique who prefer it"
+        ],
+        [
+          "Cost",
+          "More upfront, replacement heads",
+          "Cheap, replace every three months"
+        ]
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Cleaning between the teeth",
+      "intro": "A brush cleans three of the five surfaces of a tooth. The two that touch neighbors need something else, once a day.",
+      "items": [
+        {
+          "title": "Floss",
+          "body": "Wrap it around each tooth in a C shape and slide it gently below the gum line on both sides of the gap. Snapping it straight down and up does little."
+        },
+        {
+          "title": "Interdental brushes",
+          "body": "Tiny bristle brushes in several sizes. Better than floss for larger gaps, around bridges, braces and implants, and easier for many people to use well."
+        },
+        {
+          "title": "Water flossers",
+          "body": "A good option for people who will not floss, for braces, and around implants and bridges. Aim at the gum line, not straight at the gum."
+        },
+        {
+          "title": "Floss picks",
+          "body": "Convenient and better than nothing. The angle makes it harder to curve around the tooth, so use them carefully."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Timing and diet",
+      "style": "bullet",
+      "items": [
+        "Wait about thirty minutes after acidic food or drink before brushing. Enamel is softened by acid and brushing it then wears it away.",
+        "Sip water, not sparkling water, juice or sports drinks, through the day. Frequency of acid matters more than amount.",
+        "Brush last thing at night and do not eat afterward. Saliva drops during sleep and the teeth have no defense.",
+        "Sugar-free gum after meals stimulates saliva and helps neutralize acid.",
+        "Clean your tongue with the brush or a scraper. It holds most of the bacteria behind bad breath."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Special cases",
+      "items": [
+        {
+          "title": "Crowns and bridges",
+          "body": "The edge where crown meets tooth is where decay starts. Brush it deliberately and thread floss under a bridge with a floss threader or use an interdental brush.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "Implants",
+          "body": "Implants do not decay but the gum around them can get infected. Floss or interdental brushes daily and keep up maintenance visits.",
+          "href": "/dental-implants/aftercare/"
+        },
+        {
+          "title": "Aligners",
+          "body": "Brush and floss after every meal before the trays go back in, and clean the trays with a soft brush and cool water, never hot.",
+          "href": "/clear-aligners/"
+        },
+        {
+          "title": "Dentures",
+          "body": "Out at night, brushed with a denture brush and soaked. Brush the gums, tongue and palate with a soft brush too.",
+          "href": "/restorative-dentistry/dentures/"
+        },
+        {
+          "title": "Children",
+          "body": "A parent brushes or checks until about age seven or eight. A rice-grain smear of fluoride toothpaste under three, a pea from three to six.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        },
+        {
+          "title": "Sensitive teeth",
+          "body": "A desensitizing toothpaste used consistently for several weeks, a soft brush and light pressure. Scrubbing sensitive roots makes them worse.",
+          "href": "/symptoms/tooth-sensitivity/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Bleeding when you floss?",
+      "body": "Bleeding is a sign of inflamed gums, not a reason to stop. Keep flossing gently every day and it usually settles within two weeks. If it does not, or if gums bleed when you brush, that is worth an appointment.",
+      "cta": {
+        "label": "Bleeding gums guide",
+        "href": "/symptoms/bleeding-gums/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is mouthwash necessary?",
+      "a": "No. It does not replace brushing or cleaning between the teeth. A fluoride rinse used at a separate time can help people at higher cavity risk. Alcohol-based rinses dry the mouth and are best avoided if dry mouth is already a problem."
+    },
+    {
+      "q": "Should I brush before or after breakfast?",
+      "a": "Either, as long as you wait thirty minutes after anything acidic like juice or coffee before brushing. Many people find brushing before breakfast simpler."
+    },
+    {
+      "q": "How often should I replace my toothbrush?",
+      "a": "Every three months, or sooner if the bristles splay. A worn brush cleans poorly, and splayed bristles usually mean too much pressure."
+    },
+    {
+      "q": "Is charcoal or whitening toothpaste a good idea?",
+      "a": "Charcoal pastes are abrasive and can wear enamel without whitening it. Whitening pastes remove surface stain only. For real whitening, see our teeth whitening page. For daily use, an ordinary fluoride paste is the right choice."
+    }
+  ],
+  "related": [
+    "/general-dentistry/preventive-dentistry/",
+    "/symptoms/bleeding-gums/",
+    "/symptoms/tooth-sensitivity/",
+    "/symptoms/bad-breath/",
+    "/general-dentistry/fluoride-treatment/",
+    "/general-dentistry/cleanings-and-exams/"
+  ],
+  "cta": {
+    "heading": "We will show you on your own teeth.",
+    "body": "At a cleaning we point out exactly where plaque is being missed and what to change. Book one and bring your questions."
+  }
+}

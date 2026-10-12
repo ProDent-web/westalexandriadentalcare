@@ -1,0 +1,6 @@
+.DS_Store
+.claude/
+__pycache__/
+src/assets/img/_*
+# built output: GitHub Actions rebuilds it from src/ on every push
+site/

@@ -1,0 +1,139 @@
+{
+  "slug": "/blog/evening-and-weekend-dentist-alexandria/",
+  "type": "article",
+  "title": "Why We Chose 7 AM to 8 PM, Seven Days a Week",
+  "meta_title": "Why We Chose 7 AM to 8 PM, Seven Days a Week | WA Dental Care",
+  "meta_description": "The thinking behind seven-day hours at a Northern Virginia dental office: who it helps, how to use early, late and weekend slots well.",
+  "eyebrow": "Your visit",
+  "h1": "Why we chose 7 AM to 8 PM, seven days a week",
+  "intro": "Most dental offices keep roughly the hours of a bank. We decided ours should keep the hours of the people we serve.",
+  "date": "2026-10-05",
+  "category": "Your visit",
+  "read_time": "4 min read",
+  "summary": "The thinking behind seven-day hours for a Northern Virginia practice, who it helps, how to use early, late and weekend slots well, and what stays the same at every hour.",
+  "icon": "clock",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "The problem with nine to five",
+      "body": [
+        "Ask people why it has been three years since their last cleaning and the answer is rarely fear or cost. It is the calendar. A dental appointment in the middle of a working day means leave, a lost morning, a scramble for childcare, or a commute from the District to Alexandria and back. For anyone on shifts, in a classroom, in a restaurant kitchen or behind a counter, a weekday daytime appointment can be close to impossible.",
+        "So people wait. Small problems become bigger ones. A cavity that would have been a filling becomes a crown, and the visit that finally happens is the emergency one, on a Saturday, with nowhere open."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What we decided",
+      "body": [
+        "West Alexandria Dental Care is open from 7 AM to 8 PM Monday to Friday, and from 8 AM to 1 PM on Saturday and Sunday. Seven days. The early hour exists for the commuter who can be in the chair at seven and at a desk by half past eight. The late hour exists for the parent who can only come after the children are fed. The weekend mornings exist for everyone else, and for the tooth that breaks on a Friday night.",
+        "Online booking runs around the clock, because the moment people remember to book a dentist is rarely during business hours."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Who it turns out to help most",
+      "items": [
+        {
+          "title": "I-395 and Metro commuters",
+          "body": "Fairlington, Shirlington, Parkfairfax and the West End. A 7 AM cleaning before the drive in, or a 7 PM one after it, with free parking at the door."
+        },
+        {
+          "title": "Parents",
+          "body": "Saturday and Sunday mornings for back-to-back family appointments, after-school slots for sealants and check-ups, and no school missed."
+        },
+        {
+          "title": "Shift and hourly workers",
+          "body": "Restaurant, retail, healthcare and construction schedules rarely fit a weekday afternoon. Weekend mornings and early starts do."
+        },
+        {
+          "title": "Students",
+          "body": "Wisdom teeth on a Friday evening or Saturday morning, with the weekend to recover and no classes lost."
+        },
+        {
+          "title": "People who put it off",
+          "body": "Removing the scheduling excuse is often what finally gets someone in the chair after years away."
+        },
+        {
+          "title": "Emergencies",
+          "body": "A broken tooth at 6 PM on a weekday or 9 AM on a Sunday is seen the same day, not endured until Monday."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to use the hours well",
+      "items": [
+        {
+          "title": "Book the odd hours for routine care",
+          "body": "The 7 AM, 7 PM and weekend slots fill first. If you know you want a cleaning before work, book it a few weeks ahead."
+        },
+        {
+          "title": "Use online booking for anything that can wait",
+          "body": "It shows real availability for both dentists at every hour."
+        },
+        {
+          "title": "Call for anything that hurts",
+          "body": "We keep room for urgent problems during our hours, and a call lets us plan the visit rather than slot it in blind."
+        },
+        {
+          "title": "Stack the family",
+          "body": "Ask for consecutive appointments so one weekend morning covers everyone."
+        },
+        {
+          "title": "Do the paperwork beforehand",
+          "body": "Online registration takes a few minutes on a phone and means a 7 AM appointment starts at 7 AM."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What stays the same at every hour",
+      "body": [
+        "The same two dentists. The same hygienists. The same rooms and the same equipment. A 7 PM root canal is planned, numbed and finished with the same care as a 10 AM one. Costs are the same, insurance is handled the same, the written plan is the same. There is no evening rate and no weekend shortcut.",
+        "The only thing that changes is that you did not have to take the morning off."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "What seven-day hours are not",
+      "body": "They are not twenty-four-hour treatment. Overnight, the office is closed. Online booking never closes, though, so the first morning slot can be secured at 2 AM. Our after-hours page explains what to do overnight.",
+      "cta": {
+        "label": "Dental emergencies after hours",
+        "href": "/emergency-dentistry/after-hours/"
+      }
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "A note about online dental information",
+      "body": "This article is educational and cannot diagnose a condition or replace an examination. Recommendations depend on your symptoms, health history and clinical findings."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are both dentists available in the evenings and on weekends?",
+      "a": "The schedule is shared between Dr. Atrash and Dr. Alhrashi across all seven days. If you would like a particular dentist, mention it when you book and we will tell you when they are available."
+    },
+    {
+      "q": "Is everything available on weekends, or only cleanings?",
+      "a": "Everything. Exams, cleanings, fillings, crowns, extractions, implants and emergency care are all done during weekend hours."
+    },
+    {
+      "q": "Do evening or weekend appointments cost more?",
+      "a": "No. Fees and insurance handling are the same at every hour."
+    }
+  ],
+  "related": [
+    "/new-patients/evening-and-weekend-appointments/",
+    "/book-online/",
+    "/emergency-dentistry/after-hours/",
+    "/general-dentistry/family-dentistry/",
+    "/areas/",
+    "/blog/"
+  ],
+  "cta": {
+    "heading": "Pick the hour that fits your life.",
+    "body": "Book online at any time, or call and we will find an early, late or weekend slot with you."
+  }
+}

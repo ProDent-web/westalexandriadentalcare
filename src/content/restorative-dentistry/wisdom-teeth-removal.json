@@ -1,0 +1,138 @@
+{
+  "slug": "/restorative-dentistry/wisdom-teeth-removal/",
+  "type": "service",
+  "title": "Wisdom Teeth Removal",
+  "meta_title": "Wisdom Teeth Removal in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Why wisdom teeth cause trouble, when removal is recommended and when watching is fine, evaluation with panoramic or 3D imaging.",
+  "eyebrow": "Restore your smile",
+  "h1": "Wisdom teeth removal in West Alexandria",
+  "intro": "Wisdom teeth arrive last, usually between seventeen and twenty-five, into a jaw that often has no room left for them. Some come through fine and are kept. Many come through partly, sideways or not at all, and cause pain, infection or damage to the tooth in front. Whether yours should come out is a question for an X-ray, not a rule.",
+  "icon": "root",
+  "facts": [
+    {
+      "label": "Usual age",
+      "value": "Late teens to mid-twenties"
+    },
+    {
+      "label": "Imaging",
+      "value": "Panoramic or 3D"
+    },
+    {
+      "label": "Comfort",
+      "value": "Numbing plus sedation options"
+    },
+    {
+      "label": "Recovery",
+      "value": "Three to seven days"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Why wisdom teeth cause trouble",
+      "style": "bullet",
+      "items": [
+        "**Impaction.** The tooth is stuck against the tooth in front or in the bone and cannot come through.",
+        "**Pericoronitis.** A partly erupted tooth leaves a flap of gum that traps food and gets infected, causing pain, swelling and difficulty opening. See [wisdom tooth pain](/symptoms/wisdom-tooth-pain/).",
+        "**Decay.** A wisdom tooth at the back is hard to clean and often decays, sometimes taking the second molar in front with it.",
+        "**Cysts.** An unerupted tooth can develop a fluid-filled sac that slowly hollows out bone.",
+        "**Crowding pressure.** Often blamed for shifting front teeth, though the evidence is weak; retainers do more for that than removing wisdom teeth."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Remove or watch?",
+      "body": [
+        "A wisdom tooth that has come fully through, meets the tooth above it, and can be cleaned is a tooth like any other and is kept. A tooth that is impacted, infected, decaying, damaging its neighbor or sitting on a cyst is removed. In between are teeth that are partly through and not yet causing trouble; those are often watched with periodic X-rays, with the understanding that removal is easier in the twenties than the forties, when roots are fully formed and bone is denser.",
+        "The evaluation uses a panoramic X-ray, and a 3D scan when a lower tooth sits close to the nerve that runs through the jaw. That scan shows exactly where the nerve is and lets us plan the removal, or the referral, accordingly."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The procedure",
+      "items": [
+        {
+          "title": "Planning and comfort",
+          "body": "The imaging is reviewed with you. Local anesthetic is standard; nitrous oxide is available, and other sedation options can be arranged after a review of your health. If sedation is used, you will need a driver and fasting instructions."
+        },
+        {
+          "title": "Removal",
+          "body": "For an erupted tooth, a simple extraction. For an impacted one, a small opening in the gum, sometimes a little bone removed, and the tooth divided into sections so each lifts out easily. You feel pressure, not pain."
+        },
+        {
+          "title": "Closing",
+          "body": "Dissolving stitches where needed, gauze to bite on, and written instructions. Most appointments for one or two teeth take under an hour."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Recovery, day by day",
+      "items": [
+        {
+          "title": "Day one",
+          "body": "Bite on gauze, rest with your head up, cold packs on the cheek twenty minutes on and off. Soft, cool foods. Pain relief on schedule before the numbness fades. No straws, spitting, rinsing or smoking."
+        },
+        {
+          "title": "Days two and three",
+          "body": "Swelling peaks. Start gentle warm salt-water rinses after meals. Keep the diet soft. Bruising on the cheek is normal."
+        },
+        {
+          "title": "Days four to seven",
+          "body": "Swelling and stiffness ease. Diet builds up. Pain that gets worse rather than better around day three to five may be dry socket; call and it is treated with a dressing."
+        },
+        {
+          "title": "After a week",
+          "body": "Most people are back to normal eating. Stitches dissolve on their own. The socket fills in over the following weeks."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "When we refer to an oral surgeon",
+      "body": "Many wisdom teeth are removed here. Deeply impacted teeth, teeth wrapped around the nerve, patients who need deeper sedation than is appropriate in a general office, and certain medical conditions are better handled by an oral surgeon, and we refer when that is the safer choice. Your follow-up and the rest of your care stay here.",
+      "cta": {
+        "label": "Meet Dr. Fadi Alhrashi",
+        "href": "/dentists/dr-fadi-alhrashi/"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Timing around school and work",
+      "body": [
+        "Students often schedule removal during a school break so recovery does not collide with classes. Our Saturday and Sunday mornings and early weekday slots exist for exactly this kind of planning; a Friday evening or Saturday morning appointment gives the weekend to recover. Parents are welcome in the office during a teenager's appointment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do all wisdom teeth need to come out?",
+      "a": "No. Teeth that have come through properly and can be cleaned are kept. Removal is recommended when a tooth is impacted, infected, decaying, damaging the tooth in front or associated with a cyst, or when it is partly through and very likely to cause those problems."
+    },
+    {
+      "q": "Can all four be removed at once?",
+      "a": "Often, and it means one recovery rather than several. It depends on how difficult each tooth is and on the comfort options chosen. We talk it through at the evaluation."
+    },
+    {
+      "q": "Will I be put to sleep?",
+      "a": "Local anesthetic is the standard here, with nitrous oxide if you want it. Other sedation options may be available after an individual review. Deeper sedation for very difficult cases is usually arranged through an oral surgeon."
+    },
+    {
+      "q": "How do I know if a wisdom tooth is infected?",
+      "a": "Pain and swelling at the back of the jaw, a bad taste, difficulty opening wide, and sometimes fever. Rinse with warm salt water, keep the area as clean as you can, and call; an infected flap settles quickly with cleaning and sometimes antibiotics, and the tooth is usually then removed."
+    }
+  ],
+  "related": [
+    "/symptoms/wisdom-tooth-pain/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/general-dentistry/digital-x-rays/",
+    "/sedation-dentistry/",
+    "/clear-aligners/for-teens/",
+    "/emergency-dentistry/emergency-extractions/"
+  ],
+  "cta": {
+    "heading": "Find out what your wisdom teeth are doing.",
+    "body": "A panoramic X-ray answers the question in one visit. Book an evaluation and we will show you whether yours should be watched or removed."
+  }
+}

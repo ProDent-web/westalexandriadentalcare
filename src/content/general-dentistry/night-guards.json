@@ -1,0 +1,135 @@
+{
+  "slug": "/general-dentistry/night-guards/",
+  "type": "service",
+  "title": "Night Guards & Mouthguards",
+  "meta_title": "Custom Night Guards & Sports Mouthguards | West Alexandria Dental Care",
+  "meta_description": "Custom night guards for grinding and clenching, and custom sports mouthguards for children and adults, made at West Alexandria Dental Care.",
+  "eyebrow": "General dentistry",
+  "h1": "Night guards and sports mouthguards in West Alexandria",
+  "intro": "Grinding and clenching at night put forces on the teeth that chewing never does, for hours, with nothing between them. Over years that flattens edges, cracks fillings and wears enamel down to the dentin. A custom night guard is a thin, hard acrylic shield that takes the wear instead of your teeth. A sports mouthguard does the same job for a sudden impact.",
+  "icon": "shield",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "Two, a week apart"
+    },
+    {
+      "label": "Made from",
+      "value": "A precise impression of your"
+    },
+    {
+      "label": "Worn",
+      "value": "Every night, or every game"
+    },
+    {
+      "label": "Lasts",
+      "value": "Several years"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Signs you grind or clench",
+      "style": "bullet",
+      "items": [
+        "Teeth that look flat, short or chipped at the edges, or front teeth that have lost their rounded corners.",
+        "A sore or tired jaw in the morning, or temple headaches on waking.",
+        "Sensitivity to cold along the gum line, where enamel has worn or flaked.",
+        "Fillings or crowns that keep chipping or breaking.",
+        "A partner who hears it at night.",
+        "Scalloped edges on the tongue or a ridge along the inside of the cheek.",
+        "Clenching you notice during the day, at a desk or in traffic."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why a drugstore guard is not the same thing",
+      "body": [
+        "Boil-and-bite guards are soft, bulky and fit loosely. Many people chew on them during sleep, which can make clenching worse, and the soft material wears through in months. Because they are thick, some change the bite and strain the jaw joint.",
+        "A custom guard is made from an exact impression of your teeth, so it is thin, fits precisely and stays in place without being held. The hard acrylic surface lets the teeth slide rather than lock, which relaxes the jaw muscles, and the bite is adjusted so the pressure is even across all the teeth. It is also the guard that protects crowns, veneers and implants, which is why we recommend one after any significant cosmetic or restorative work."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting a custom night guard",
+      "items": [
+        {
+          "title": "Evaluation",
+          "body": "We look at the wear on your teeth, check the jaw muscles and joints, and ask about headaches, sleep and stress. Sometimes grinding is a sign of a sleep problem worth raising with your physician; see our [snoring guide](/symptoms/snoring/)."
+        },
+        {
+          "title": "Impression",
+          "body": "A record of the teeth and how they meet. If impressions set off your gag reflex, say so and we take it slowly."
+        },
+        {
+          "title": "Made by the laboratory",
+          "body": "The guard is fabricated to the model of your teeth, usually for the upper arch, in a hard or dual-layer acrylic depending on how heavily you grind."
+        },
+        {
+          "title": "Fitting",
+          "body": "A week or two later it is tried in, the fit checked and the bite adjusted so every tooth touches it evenly. Most people are used to it within a few nights."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sports mouthguards",
+      "body": [
+        "A knocked-out or broken front tooth is one of the most common sports injuries we see, and most happen in sports people do not think of as dangerous: basketball, soccer, lacrosse, hockey, skateboarding. A custom sports guard is made the same way as a night guard but from a thicker, softer material that absorbs impact. It fits well enough that children actually wear it, which is the whole point.",
+        "Guards are remade as a child's mouth grows, and for anyone in braces, a guard is fitted over the brackets. Read [what to do for a knocked-out tooth](/emergency-dentistry/knocked-out-tooth/) and keep it handy for the sideline."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Caring for a guard",
+      "style": "check",
+      "items": [
+        "Rinse with cool water after use and brush it gently with a soft brush and mild soap, not toothpaste, which scratches it.",
+        "Let it dry in its case with the lid open. Keep it away from dogs, who find them irresistible.",
+        "Never use hot water; it warps the acrylic.",
+        "Bring it to check-ups so we can check the fit and look at the wear pattern, which tells us how hard you are grinding.",
+        "Expect a night guard to last several years. A sports guard is replaced when it loses shape or the mouth grows."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Jaw pain as well as grinding?",
+      "body": "Clenching often goes with sore jaw muscles, clicking and headaches. A night guard is usually the first step in treating that too, alongside a few habit changes.",
+      "cta": {
+        "label": "TMJ treatment",
+        "href": "/restorative-dentistry/tmj-treatment/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will a night guard stop me grinding?",
+      "a": "Not usually. It stops the grinding from damaging your teeth and often reduces the muscle soreness, because the smooth surface lets the jaw slide rather than lock. Stress, sleep quality and some medications drive the grinding itself."
+    },
+    {
+      "q": "Upper or lower guard?",
+      "a": "Usually the upper, because it is more stable and covers the front teeth that take the most wear. A lower guard is sometimes chosen for people with a strong gag reflex or for other reasons we discuss at the evaluation."
+    },
+    {
+      "q": "Does insurance cover night guards?",
+      "a": "Many plans cover a night guard for bruxism, often at a percentage and sometimes once every few years. Sports guards are less often covered. We check your benefits and give you the cost before the impression."
+    },
+    {
+      "q": "My child grinds at night. Do they need a guard?",
+      "a": "Grinding is common in young children and usually fades as the adult teeth come in; a guard is rarely needed and can interfere with growth. For teenagers with adult teeth and visible wear, a guard makes sense. Either way, mention it and we will look."
+    }
+  ],
+  "related": [
+    "/symptoms/teeth-grinding/",
+    "/restorative-dentistry/tmj-treatment/",
+    "/symptoms/jaw-pain/",
+    "/emergency-dentistry/knocked-out-tooth/",
+    "/general-dentistry/childrens-dentistry/",
+    "/cosmetic-dentistry/porcelain-veneers/"
+  ],
+  "cta": {
+    "heading": "Protect the teeth you have, and the work you have had done.",
+    "body": "A custom guard takes two short visits. Book an evaluation and we will show you the wear and whether a guard is the answer."
+  }
+}

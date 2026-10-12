@@ -1,0 +1,158 @@
+{
+  "slug": "/restorative-dentistry/dental-bridges/",
+  "type": "service",
+  "title": "Dental Bridges",
+  "meta_title": "Dental Bridges in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "A dental bridge replaces a missing tooth by anchoring to the teeth beside it. How it works, when a bridge is chosen over an implant and vice versa.",
+  "eyebrow": "Restore your smile",
+  "h1": "Dental bridges in West Alexandria",
+  "intro": "A bridge is a fixed replacement for a missing tooth. Crowns on the teeth either side of the gap carry a false tooth between them, cemented in place so nothing comes out at night. It has been the standard way to fill a gap for generations, and for the right tooth it still is.",
+  "icon": "bridge",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "Two"
+    },
+    {
+      "label": "Numbing",
+      "value": "Local anesthetic"
+    },
+    {
+      "label": "Removable",
+      "value": "No, cemented"
+    },
+    {
+      "label": "Lifespan",
+      "value": "Ten to fifteen years"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "How a bridge works",
+      "body": [
+        "The teeth on either side of the gap, called abutments, are shaped the way a tooth is shaped for a crown. The laboratory makes a single piece: a crown for each abutment joined to a false tooth, called a pontic, that sits on the gum where the missing tooth was. The piece is cemented onto the abutments and the gap is closed. From the outside it looks like three ordinary teeth.",
+        "Bridges can span more than one missing tooth, within limits. The longer the span, the more load on the abutments, and at some point implants become the stronger answer."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Bridge or implant?",
+      "columns": [
+        "Bridge",
+        "Implant"
+      ],
+      "rows": [
+        [
+          "Neighboring teeth",
+          "Shaped for crowns, even if healthy",
+          "Untouched"
+        ],
+        [
+          "Bone under the gap",
+          "Continues to shrink slowly",
+          "Preserved by the implant"
+        ],
+        [
+          "Surgery",
+          "None",
+          "Minor, under local anesthetic"
+        ],
+        [
+          "Time to finish",
+          "Two to three weeks",
+          "Several months"
+        ],
+        [
+          "Cleaning",
+          "Floss threaded under the false tooth",
+          "Floss like a natural tooth"
+        ],
+        [
+          "Lifespan",
+          "Ten to fifteen years",
+          "Often decades"
+        ],
+        [
+          "Best when",
+          "Neighbors already need crowns; implants not advisable",
+          "Neighbors are sound; bone is adequate"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "When a bridge is the better choice",
+      "style": "check",
+      "items": [
+        "The teeth either side of the gap already have large fillings or need crowns anyway.",
+        "There is not enough bone for an implant and grafting is not wanted.",
+        "A medical condition, medication or smoking makes implant surgery unwise.",
+        "You want the gap closed in weeks rather than months.",
+        "Cost or insurance coverage favors it; many plans cover bridges as a major restoration."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The two visits",
+      "items": [
+        {
+          "title": "Preparation",
+          "body": "The abutment teeth are numbed and shaped, an impression is taken with a shade match, and a temporary bridge is cemented so you leave with the gap filled."
+        },
+        {
+          "title": "Fitting",
+          "body": "Two to three weeks later the permanent bridge is tried in, the fit at the gum and the bite are checked and adjusted, and it is cemented for good. We show you how to clean under it before you leave."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Keeping a bridge healthy",
+      "body": [
+        "The weak points are the edges of the crowns and the space under the false tooth. Decay at a crown margin or gum disease around an abutment is what ends a bridge early, and both are preventable. Floss cannot pass between the joined teeth, so a floss threader, a water flosser or an interdental brush is used to clean under the pontic once a day. Regular check-ups let us watch the margins on the X-ray.",
+        "If you grind at night, a [night guard](/general-dentistry/night-guards/) protects the ceramic and the abutment teeth."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "The honest comparison",
+      "body": "For a single missing tooth with healthy neighbors and good bone, an implant usually serves better over a lifetime, because it spares the neighbors and keeps the bone. We say that plainly. A bridge is the right answer when the neighbors need crowns anyway or implants are not advisable, and we say that just as plainly.",
+      "cta": {
+        "label": "Replacing missing teeth: all the options",
+        "href": "/restorative-dentistry/replacing-missing-teeth/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does getting a bridge hurt?",
+      "a": "The abutment teeth are numbed, and the preparation feels like a crown appointment. The gum may be tender for a day or two. The false tooth sits on the gum without any surgery."
+    },
+    {
+      "q": "Will the bridge look natural?",
+      "a": "Yes. The crowns and the false tooth are made in ceramic matched to your other teeth, and the false tooth is shaped to meet the gum so it does not look as though it is floating."
+    },
+    {
+      "q": "Can a bridge be replaced with implants later?",
+      "a": "Often, yes. If a bridge fails after years of service, implants can be considered at that point, depending on the bone that remains."
+    },
+    {
+      "q": "How long does a bridge last?",
+      "a": "Ten to fifteen years is typical, and longer with careful cleaning under the pontic and regular check-ups. The bridge itself rarely breaks; it is decay or gum disease at the abutments that usually ends it."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/replacing-missing-teeth/",
+    "/dental-implants/single-tooth-implants/",
+    "/dental-implants/implant-supported-bridges/",
+    "/restorative-dentistry/dental-crowns/",
+    "/restorative-dentistry/partial-dentures/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Close the gap, the right way for your mouth.",
+    "body": "Bridge or implant is decided from your teeth, your bone and your health. Book a consultation and we will lay out both with the costs side by side."
+  }
+}

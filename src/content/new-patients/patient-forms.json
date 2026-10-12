@@ -1,0 +1,153 @@
+{
+  "slug": "/new-patients/patient-forms/",
+  "type": "info",
+  "title": "Patient Forms",
+  "meta_title": "Patient Forms Online Before Your Visit | West Alexandria Dental Care",
+  "meta_description": "Patient forms done online before your visit to West Alexandria Dental Care: secure Denticon registration for your history.",
+  "eyebrow": "Before your visit",
+  "h1": "Patient forms, finished before you arrive",
+  "intro": "Registration at West Alexandria Dental Care happens online, on our secure Denticon page, before you reach the waiting room. It asks what a paper form would, your details, medical history, medications and insurance, and lets you photograph your insurance card. Done at home, it means your appointment time goes to you.",
+  "icon": "book",
+  "facts": [
+    {
+      "label": "Where",
+      "value": "Secure Denticon registration page"
+    },
+    {
+      "label": "Device",
+      "value": "Phone, tablet or computer"
+    },
+    {
+      "label": "Insurance card",
+      "value": "Upload a photo"
+    },
+    {
+      "label": "Prefer paper",
+      "value": "Forms at the desk"
+    }
+  ],
+  "sections": [
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Start your registration now",
+      "body": "The button below opens our secure Denticon registration page. It works on a phone, tablet or computer, and goes quickest with your insurance card and medication list within reach. Finish it any time before your appointment.",
+      "cta": {
+        "label": "Complete patient paperwork",
+        "href": "forms"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "What the registration asks for",
+      "intro": "Four parts, none of them long. X-rays and records from a previous dentist are separate; [switching dentists](/new-patients/switching-dentists/) explains how to have them sent.",
+      "items": [
+        {
+          "title": "Personal details",
+          "body": "Your name, date of birth, address, phone and email, plus who to call in an emergency."
+        },
+        {
+          "title": "Medical history",
+          "body": "Diagnosed conditions, surgeries and allergies. The questions that look unrelated to teeth are often the ones that matter most for safe treatment."
+        },
+        {
+          "title": "Medications",
+          "body": "Everything you take regularly, including over-the-counter medicines, supplements and inhalers. If a name escapes you, bring the bottles or a pharmacy printout to the visit."
+        },
+        {
+          "title": "Insurance",
+          "body": "Your plan name, the subscriber's name and date of birth, and the member ID. Upload photos of the front and back of your card, including a [Virginia Medicaid](/new-patients/medicaid/) card; the back usually carries the number our team calls to verify benefits. If your plan is not among the [plans we accept](/new-patients/insurance/), send it anyway and we will check."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What changes when it is done before you arrive",
+      "body": [
+        "Your insurance is checked before the visit instead of during it. With the card image in hand, the team can verify your benefits ahead of time and explain what your plan does for an exam, X-rays and a cleaning before any treatment is planned. Benefits vary by employer and plan, and [understanding dental insurance](/new-patients/understanding-dental-insurance/) explains the wording.",
+        "The dentist reads your history before meeting you. A blood thinner, a heart condition or a recent surgery is already in front of Dr. Atrash or Dr. Alhrashi when the conversation starts, so [your first visit](/new-patients/first-visit/) opens with what brought you in, not with spelling your medications.",
+        "It fits the hours. If your appointment is at 7 AM on a Tuesday or 8 AM on a Sunday, there is no form to fill before the coffee has worked. In Alexandria, where appointments get squeezed between a commute and a school run, that matters more than it sounds."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Health details worth a careful answer",
+      "intro": "The questions people most often skip or guess at, and each one changes how we treat you.",
+      "style": "check",
+      "items": [
+        "Blood thinners, including a daily aspirin. They affect how we plan [extractions](/restorative-dentistry/tooth-extractions/) and gum treatment. Usually that means working around them with your physician, not stopping them.",
+        "Diabetes, and how well controlled it is. It changes healing and how quickly [gum disease](/restorative-dentistry/gum-disease-treatment/) progresses.",
+        "Heart conditions, artificial valves, stents and joint replacements. A few call for an antibiotic before certain procedures; most do not, and we follow current guidance.",
+        "Osteoporosis medicines and some cancer treatments. Certain drugs in this group affect how the jawbone heals after an extraction or a [dental implant](/dental-implants/).",
+        "Pregnancy, or the possibility of it. Routine dental care is safe and recommended during pregnancy; we time elective X-rays and choose medicines with it in mind.",
+        "Allergies, especially to latex or antibiotics, and any reaction to a past dental numbing. Breathing or sleep conditions too, since nitrous oxide and other [sedation options](/sedation-dentistry/sedation-options/) depend on them.",
+        "A bad experience at a previous dentist. Not a medical condition, but one of the most useful things you can tell us; see [nervous about the dentist](/sedation-dentistry/dental-anxiety/)."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Other ways to get the paperwork done",
+      "items": [
+        {
+          "title": "On paper, at the office",
+          "body": "The same forms are at the front desk. Arrive ten or fifteen minutes early and bring your insurance card so we can copy it.",
+          "href": "/contact/"
+        },
+        {
+          "title": "With help, in your language",
+          "body": "If the questions are easier in Arabic, Spanish or Portuguese, say so when you book and we will go through the registration with you at the office.",
+          "href": "/new-patients/languages/"
+        },
+        {
+          "title": "By phone, if the page fights you",
+          "body": "If the page is hard to use with a screen reader, a keyboard or your eyes, call {{phone}} and we collect what we need another way.",
+          "href": "/accessibility/"
+        },
+        {
+          "title": "For your child",
+          "body": "Each family member needs their own registration, and a parent or legal guardian completes it for a child. A few minutes per child the night before beats a stack of forms at the desk.",
+          "href": "/general-dentistry/childrens-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Keep health details out of email and texts",
+      "body": "Email and texts are not a secure way to send a medical history, a medication list or a photo of your insurance card, and we will never ask you to send them that way. Use the registration page, which sends what you type over an encrypted connection to Denticon, or bring the paperwork to the office.",
+      "cta": {
+        "label": "How we handle your information",
+        "href": "/privacy/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does the registration take, and what should I have ready?",
+      "a": "Set aside about fifteen minutes. Have your insurance or Medicaid card and your medication list beside you before you start; those are what send people hunting through drawers halfway through."
+    },
+    {
+      "q": "I am on my spouse's dental plan. Whose information goes where?",
+      "a": "Your spouse is the subscriber, so their name, date of birth and member ID go in the insurance section. You are the patient, so your own details go everywhere else. Upload the card even though it carries their name; that is normal."
+    },
+    {
+      "q": "My medications changed after I submitted the form. What do I do?",
+      "a": "Tell us at the start of your visit, or call before it. We go over your history in the chair anyway, and a new blood thinner or diagnosis is exactly what we want to hear about."
+    },
+    {
+      "q": "I am coming in with a toothache and have never been a patient. Do I still fill this out?",
+      "a": "Yes, if you can. Doing it on your phone before you leave means we get straight to the tooth when you arrive. If the pain makes that impossible, come anyway and we sort out the paperwork at the desk. See [emergency dental care](/emergency-dentistry/)."
+    }
+  ],
+  "related": [
+    "/new-patients/first-visit/",
+    "/new-patients/insurance/",
+    "/new-patients/medicaid/",
+    "/new-patients/switching-dentists/",
+    "/privacy/"
+  ],
+  "cta": {
+    "heading": "Finished before you walk in",
+    "body": "Open the {{forms}} tonight and finish it in one sitting, then pick an early morning, an evening or a weekend time that suits you. If you would rather talk to a person first, call {{phone}} any day we are open, 7 AM to 8 PM on weekdays and 8 AM to 1 PM on weekends, here in West Alexandria."
+  }
+}

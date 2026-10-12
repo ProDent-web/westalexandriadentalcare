@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/fairlington/",
+  "type": "area",
+  "title": "Fairlington",
+  "meta_title": "Dentist Near Fairlington, VA | West Alexandria Dental Care",
+  "meta_description": "A few minutes down Quaker Lane or King Street from Fairlington to West Alexandria Dental Care in the Bradlee Office Building.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Fairlington",
+  "intro": "Fairlington sits on the Arlington and Alexandria line, just off I-395 at the top of Quaker Lane, and our office sits at the bottom of that short drive on W. Braddock Road. For the condo owners, young families and commuters in Fairlington's brick courtyards, it is the closest comprehensive dental office that is open after work and on weekends, with parking that does not involve a garage.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "About five to ten minutes"
+    },
+    {
+      "label": "Route",
+      "value": "Quaker Lane or King Street"
+    },
+    {
+      "label": "After work",
+      "value": "Open until 8 PM"
+    },
+    {
+      "label": "Parking",
+      "value": "Free surface lot"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Fairlington",
+      "body": [
+        "Fairlington is a neighborhood of first homes and long-held ones: couples in the condos, families who stayed for the schools and the pool, and a lot of people who work in the District or the Pentagon and come home on I-395. The dental problem they describe most often is not a tooth; it is a schedule. A cleaning at 7 AM before the drive in, or at 7 PM after it, solves that.",
+        "Weekend mornings cover the rest: a child's check-up on a Saturday, a crown appointment on a Sunday morning before the week starts again. See [evening and weekend appointments](/new-patients/evening-and-weekend-appointments/)."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via Quaker Lane",
+          "body": "South on Quaker Lane from Fairlington to W. Braddock Road, then a short distance to the Bradlee Office Building beside Bradlee Shopping Center."
+        },
+        {
+          "title": "Via King Street",
+          "body": "King Street toward Alexandria, then W. Braddock Road. Both routes are a few minutes depending on traffic."
+        },
+        {
+          "title": "Via I-395",
+          "body": "One exit: King Street, toward Alexandria, then W. Braddock Road."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building, which Fairlington residents used to hunting for a space tend to appreciate."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What Fairlington patients most often come in for",
+      "items": [
+        {
+          "title": "Cleanings around a commute",
+          "body": "Early, late and weekend check-ups that do not cost a day of leave.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Clear aligners for adults",
+          "body": "Discreet straightening with short check-ins before or after work.",
+          "href": "/clear-aligners/for-adults/"
+        },
+        {
+          "title": "A new dental home after moving",
+          "body": "Records transferred, a first visit that starts with a conversation.",
+          "href": "/new-patients/switching-dentists/"
+        },
+        {
+          "title": "Family visits",
+          "body": "Parents and children seen back to back on a weekend morning.",
+          "href": "/general-dentistry/family-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted, including the federal-employee and military-family plans common in Fairlington where they are among those carriers.",
+        "Care in English, Arabic, Spanish and Portuguese.",
+        "Paperwork completed online before you arrive, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Something hurts on a Saturday?",
+      "body": "We are open Saturday and Sunday mornings, a few minutes from Fairlington. Call first and we will plan the visit.",
+      "cta": {
+        "label": "Emergency dental care",
+        "href": "/emergency-dentistry/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is the office from Fairlington?",
+      "a": "Roughly two miles, a five to ten minute drive down Quaker Lane or King Street depending on traffic. Free parking at the building."
+    },
+    {
+      "q": "Can I get an appointment after work?",
+      "a": "Yes. Weekday hours run until 8 PM, so a 6 or 7 PM appointment after the drive home is realistic. Online booking shows what is open."
+    },
+    {
+      "q": "Do you take my federal or military dental plan?",
+      "a": "We accept Aetna, Ameritas, Delta Dental, Humana, Cigna and MetLife, which cover many federal and military-family dental plans, as well as Virginia Medicaid. Send us your card through the online registration and we will confirm your benefits before the visit."
+    },
+    {
+      "q": "Is there anything closer in Shirlington or Arlington?",
+      "a": "There are dentists in many directions. What Fairlington patients tell us they came for is the combination: seven-day hours, free parking, every service in one building and both PPO plans and Medicaid accepted."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/parkfairfax/",
+    "/areas/shirlington/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/contact/",
+    "/clear-aligners/for-adults/"
+  ],
+  "cta": {
+    "heading": "Down Quaker Lane, open after the commute.",
+    "body": "Book online at any hour or call, and keep your dentist a few minutes from home."
+  }
+}

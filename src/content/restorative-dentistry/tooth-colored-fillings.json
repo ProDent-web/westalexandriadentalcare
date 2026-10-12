@@ -1,0 +1,154 @@
+{
+  "slug": "/restorative-dentistry/tooth-colored-fillings/",
+  "type": "service",
+  "title": "Tooth-Colored Fillings",
+  "meta_title": "Tooth-Colored Fillings in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Composite fillings at West Alexandria Dental Care: what a cavity is, how the one-visit repair goes, how composite compares with silver amalgam.",
+  "eyebrow": "Restore your smile",
+  "h1": "Tooth-colored fillings in West Alexandria",
+  "intro": "A filling replaces the part of a tooth lost to decay. Tooth-colored composite is bonded to the tooth in layers and shaped to match, so the repair is invisible and less healthy tooth has to be removed to hold it. One visit, done numb, and you chew on it the same day.",
+  "icon": "tooth",
+  "facts": [
+    {
+      "label": "Visits",
+      "value": "One"
+    },
+    {
+      "label": "Numbing",
+      "value": "Local anesthetic"
+    },
+    {
+      "label": "Takes",
+      "value": "Twenty to forty minutes"
+    },
+    {
+      "label": "Eat on it",
+      "value": "Once the numbness fades"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What a cavity is, and why it does not heal",
+      "body": [
+        "Bacteria in plaque turn sugar into acid, and acid dissolves enamel. At first the damage is a chalky spot that can re-harden with fluoride. Once the surface breaks through, bacteria get inside, the hole grows from the inside out, and no amount of brushing reaches it. That is a cavity, and it only moves in one direction. A filling removes the decayed part and seals the tooth so it stops.",
+        "Caught small, a filling is a short, inexpensive appointment. Left alone, the same spot reaches the nerve and the tooth needs a [root canal](/restorative-dentistry/root-canal-therapy/) and a [crown](/restorative-dentistry/dental-crowns/). The X-ray at a check-up is what finds it at the small stage."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How the visit goes",
+      "items": [
+        {
+          "title": "Numbing",
+          "body": "Topical gel on the gum first, then local anesthetic delivered slowly. Most people feel pressure, not a sting. Nitrous oxide is available if you want it."
+        },
+        {
+          "title": "Removing the decay",
+          "body": "Only the softened, decayed tooth is removed, leaving as much healthy enamel and dentin as possible. This is the part that makes the sound people dislike; it is over in a few minutes."
+        },
+        {
+          "title": "Bonding in layers",
+          "body": "The cavity is conditioned, a bonding agent applied, and composite placed in thin layers, each hardened with a blue light. Layering keeps the filling tight against the tooth."
+        },
+        {
+          "title": "Shaping and bite check",
+          "body": "The filling is carved to the shape of the tooth, the bite checked with marking paper and adjusted, then polished smooth. A high spot is the main cause of pain afterward, so this step is not rushed."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Composite or silver amalgam?",
+      "columns": [
+        "Composite (tooth-colored)",
+        "Amalgam (silver)"
+      ],
+      "rows": [
+        [
+          "Appearance",
+          "Matched to the tooth",
+          "Silver, darkens over time"
+        ],
+        [
+          "Tooth removed",
+          "Only the decay; bonds to what is left",
+          "Extra shape cut for mechanical hold"
+        ],
+        [
+          "Best for",
+          "Front and back teeth, small to medium cavities",
+          "Large back-tooth cavities where moisture control is hard"
+        ],
+        [
+          "Lifespan",
+          "Seven to ten years or more",
+          "Ten to fifteen years or more"
+        ],
+        [
+          "Our usual choice",
+          "Yes",
+          "Rarely"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Should old silver fillings be replaced?",
+      "body": [
+        "Not just for color. A sound amalgam filling with a good seal and no decay around it is doing its job, and replacing it removes more tooth each time. We replace a filling when the X-ray or exam shows decay beneath it, when it has cracked or the edge has opened, or when the tooth around it has fractured. If you would like a silver filling replaced for cosmetic reasons on a visible tooth, that is a reasonable request and we will tell you honestly what it involves."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sensitivity afterward",
+      "body": [
+        "Cold sensitivity for a few days to a few weeks is normal, especially for a deep filling near the nerve. It should ease week by week. Pain when you bite that does not settle usually means the filling is slightly high; call and it is adjusted in a few minutes. Pain that lingers for more than a few seconds after cold, or that starts on its own, means the nerve is inflamed and needs a look. See [tooth pain after a filling](/symptoms/tooth-pain-after-filling/)."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "When a filling is the wrong repair",
+      "body": "Once more than about half the tooth would be filling, or a crack runs through the remaining walls, a filling has nothing solid to hold on to and the tooth tends to break. An onlay or a crown wraps the tooth instead. We will tell you which the tooth needs, with the cost of each, before anything starts.",
+      "cta": {
+        "label": "Inlays and onlays",
+        "href": "/restorative-dentistry/inlays-and-onlays/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does getting a filling hurt?",
+      "a": "The tooth is numbed first, and the numbing is done slowly with topical gel beforehand. Most people describe pressure and vibration rather than pain. The gum can be a little tender afterward where the anesthetic went in."
+    },
+    {
+      "q": "How long will the numbness last?",
+      "a": "Two to four hours, depending on the tooth and the amount used. Avoid chewing on that side and be careful with hot drinks until it wears off, so you do not bite your lip or cheek."
+    },
+    {
+      "q": "How long do composite fillings last?",
+      "a": "Seven to ten years is typical and many last much longer. Size, location, grinding and how well the edges are kept clean all matter. They are checked at every exam and replaced when they wear or the seal opens."
+    },
+    {
+      "q": "Can a filling be done the same day as my cleaning?",
+      "a": "Often, if time allows. Mention it when you book and we schedule a longer slot. Evenings and weekends are available."
+    },
+    {
+      "q": "Are fillings covered by insurance?",
+      "a": "Most plans cover fillings as basic treatment, commonly at 70 to 80 percent after any deductible. Some plans cover composite on back teeth only at the amalgam rate. We verify your benefits and give you the cost before starting."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/dental-crowns/",
+    "/restorative-dentistry/inlays-and-onlays/",
+    "/symptoms/tooth-pain-after-filling/",
+    "/general-dentistry/digital-x-rays/",
+    "/emergency-dentistry/lost-filling-or-crown/",
+    "/general-dentistry/preventive-dentistry/"
+  ],
+  "cta": {
+    "heading": "Small cavity, small fix.",
+    "body": "The sooner a cavity is filled, the smaller the filling. Book an exam, evenings and weekends included, and we will show you the X-ray before anything is decided."
+  }
+}

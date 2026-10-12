@@ -1,0 +1,460 @@
+{
+  "slug": "/dental-dictionary/",
+  "type": "dictionary",
+  "title": "Dental Dictionary",
+  "meta_title": "Dental Dictionary, A to Z | West Alexandria Dental Care",
+  "meta_description": "Plain-English definitions of the words you hear at the dentist, from abscess to zirconia, each linked to the West Alexandria Dental Care page that explains.",
+  "eyebrow": "Patient resources",
+  "h1": "Dental terms, explained in plain English",
+  "intro": "Dentistry has a vocabulary of its own, and a lot of it gets said quickly while you are lying back with your mouth open. This page slows it down: the terms you are most likely to hear at a check-up, read on a treatment plan or find on an insurance statement, each explained in a sentence or three and linked to the page on this site that goes deeper. If a word you heard at our Alexandria office is missing, ask us when you call.",
+  "icon": "book",
+  "terms": [
+    {
+      "term": "Abscess",
+      "definition": "A pocket of pus from a bacterial infection, usually at the tip of a tooth root or in the gum beside it. It often shows up as a throbbing tooth, swelling or a pimple-like bump on the gum, and it does not clear up on its own. Antibiotics can calm it for a while, but the tooth needs a root canal or an extraction to end it.",
+      "href": "/emergency-dentistry/dental-abscess/"
+    },
+    {
+      "term": "Abutment",
+      "definition": "The support a replacement tooth attaches to. On a bridge, the abutments are the natural teeth on either side of the gap that carry the crowns; on an implant, the abutment is the small connector that joins the post in the bone to the crown on top.",
+      "href": "/restorative-dentistry/dental-bridges/"
+    },
+    {
+      "term": "Aligner",
+      "definition": "A thin, clear, removable tray that moves teeth a fraction of a millimeter at a time. You wear each one for about a week or two, 20 to 22 hours a day, then move to the next tray in the series until the teeth are where the plan says they should be.",
+      "href": "/clear-aligners/how-it-works/"
+    },
+    {
+      "term": "Amalgam",
+      "definition": "The silver-colored filling material made from a blend of metals and used for well over a century. It is strong and has a long track record, and we do not recommend removing sound amalgam fillings only because they are old. The fillings we place today are tooth-colored composite.",
+      "href": "/restorative-dentistry/tooth-colored-fillings/"
+    },
+    {
+      "term": "Annual maximum",
+      "definition": "The most a dental insurance plan will pay toward your care in one plan year. Once you reach it, the rest of that year's treatment is yours to pay. When treatment can safely wait, spreading it across two plan years is one way to make the most of the benefit.",
+      "href": "/new-patients/understanding-dental-insurance/"
+    },
+    {
+      "term": "Bite",
+      "definition": "How your upper and lower teeth meet when you close. An even bite spreads chewing force across all the teeth; a bite that is off can wear teeth unevenly, crack fillings and strain the jaw muscles and joints."
+    },
+    {
+      "term": "Bitewing X-ray",
+      "definition": "A small X-ray that shows the crowns of the upper and lower back teeth together, along with the bone level between them. It is the image that catches cavities between teeth before they can be seen or felt, and it is taken every year or two for most adults, more often if you get cavities easily.",
+      "href": "/general-dentistry/digital-x-rays/"
+    },
+    {
+      "term": "Bonding",
+      "definition": "Tooth-colored resin shaped directly onto a tooth to repair a chip, close a small gap or cover a worn spot, then hardened with a light and polished. It is finished in one visit, often without numbing, and it is one of the most conservative ways to change how a tooth looks.",
+      "href": "/cosmetic-dentistry/dental-bonding/"
+    },
+    {
+      "term": "Bone graft",
+      "definition": "Material placed where the jawbone has shrunk, often after a tooth has been missing for a while, so there is enough bone to hold an implant securely. The graft acts as a scaffold that your own bone grows into over a few months.",
+      "href": "/dental-implants/candidates/"
+    },
+    {
+      "term": "Bridge",
+      "definition": "A fixed replacement for one or more missing teeth: crowns on the teeth either side of the gap with a false tooth joined between them. It is cemented in place, so it stays in your mouth and is cleaned like your own teeth, with floss threaded underneath.",
+      "href": "/restorative-dentistry/dental-bridges/"
+    },
+    {
+      "term": "Bruxism",
+      "definition": "Grinding or clenching your teeth, most often during sleep and without knowing it. Over time it flattens chewing surfaces, chips edges, loosens fillings and can leave the jaw tired or sore in the morning. A night guard protects the teeth while the cause is worked out.",
+      "href": "/symptoms/teeth-grinding/"
+    },
+    {
+      "term": "Cavity",
+      "definition": "A hole in a tooth made by acid from plaque bacteria dissolving the enamel and the dentin beneath it. Dentists call the disease process caries. Small cavities are painless, which is why they are found at check-ups rather than noticed at home.",
+      "href": "/restorative-dentistry/tooth-colored-fillings/"
+    },
+    {
+      "term": "Coinsurance",
+      "definition": "Your share of a covered procedure after insurance pays its percentage. A plan that covers a filling at 80 percent, for example, leaves you with 20 percent coinsurance. A copay is similar but is a fixed amount rather than a percentage.",
+      "href": "/new-patients/understanding-dental-insurance/"
+    },
+    {
+      "term": "Composite",
+      "definition": "The tooth-colored resin used for modern fillings and bonding. It goes in soft, is shaped to the tooth, hardened with a blue light and polished. Because it bonds to the tooth, less healthy structure has to be removed than with older materials.",
+      "href": "/restorative-dentistry/tooth-colored-fillings/"
+    },
+    {
+      "term": "Cone-beam CT",
+      "definition": "A three-dimensional X-ray of the jaws, teeth and nearby structures, taken in one rotation around your head. We use it when a flat X-ray cannot answer the question, most often to plan an implant precisely or to see where a wisdom tooth's roots sit in relation to a nerve.",
+      "href": "/about/technology/"
+    },
+    {
+      "term": "Crown",
+      "definition": "A cap that covers the whole visible part of a tooth to hold it together and restore its shape. Teeth that are cracked, heavily filled or have had a root canal usually get one. A crown is also the visible, chewing part of a dental implant.",
+      "href": "/restorative-dentistry/dental-crowns/"
+    },
+    {
+      "term": "Deductible",
+      "definition": "The amount you pay out of pocket each plan year before your insurance begins paying its share. Many dental plans waive it for cleanings and exams, which is one reason a preventive visit is rarely a surprise on the statement.",
+      "href": "/new-patients/understanding-dental-insurance/"
+    },
+    {
+      "term": "Deep cleaning",
+      "definition": "The everyday name for scaling and root planing, a cleaning that goes below the gum line to remove tartar and bacteria from the root surfaces once gum disease has created pockets. The area is numbed, it is usually spread over one or two visits, and it is the first line of treatment for periodontitis.",
+      "href": "/restorative-dentistry/deep-cleaning/"
+    },
+    {
+      "term": "Dental home",
+      "definition": "The one office that knows your history, sees you for routine care and is your first call when something goes wrong. The American Academy of Pediatric Dentistry recommends every child have one by their first birthday, and the idea serves adults just as well.",
+      "href": "/general-dentistry/family-dentistry/"
+    },
+    {
+      "term": "Dentin",
+      "definition": "The softer, yellowish layer beneath the enamel that makes up most of a tooth. Countless microscopic channels run through it to the nerve, which is why cold or sweet things sting when worn enamel or receding gums leave it uncovered.",
+      "href": "/symptoms/tooth-sensitivity/"
+    },
+    {
+      "term": "Denture",
+      "definition": "A removable set of replacement teeth on a gum-colored base. A full denture replaces all the teeth in the upper or lower jaw and rests on the gums; a partial denture replaces some teeth and holds onto the ones that remain.",
+      "href": "/restorative-dentistry/dentures/"
+    },
+    {
+      "term": "Dry mouth",
+      "definition": "Too little saliva, which dentists call xerostomia. Saliva rinses away food and neutralizes acid, so a dry mouth raises your risk of cavities and gum disease quickly. Medications are the most common cause, and there are practical ways to manage it.",
+      "href": "/symptoms/dry-mouth/"
+    },
+    {
+      "term": "Dry socket",
+      "definition": "A painful complication a few days after an extraction, when the blood clot that should protect the socket is lost before the gum has healed over it. It is more common after lower wisdom tooth removal and in smokers. A medicated dressing relieves it, and it settles over several days.",
+      "href": "/restorative-dentistry/tooth-extractions/"
+    },
+    {
+      "term": "Enamel",
+      "definition": "The hard outer shell of a tooth, and the hardest substance in the body. It has no nerves and no living cells, so once it is worn away or dissolved it does not grow back, though early soft spots can re-harden with fluoride before they become cavities.",
+      "href": "/general-dentistry/fluoride-treatment/"
+    },
+    {
+      "term": "Endodontist",
+      "definition": "A dentist with additional residency training in root canal treatment and the inside of the tooth. Root canal therapy is offered here, and we refer to an endodontist when a tooth's anatomy or a previous treatment makes that the better choice.",
+      "href": "/restorative-dentistry/root-canal-therapy/"
+    },
+    {
+      "term": "Erosion",
+      "definition": "Loss of enamel from acid that did not come from plaque: reflux, frequent sipping of soda or sparkling water, citrus, sports drinks. It thins the whole surface rather than making a hole, so teeth look yellower, feel smoother at the edges and become sensitive.",
+      "href": "/symptoms/tooth-sensitivity/"
+    },
+    {
+      "term": "Explanation of benefits",
+      "definition": "The statement your insurer sends after a claim, showing what was billed, what the plan allowed, what it paid and what is left to you. It is not a bill. If the numbers do not match the estimate we gave you, call and we will go through it together.",
+      "href": "/new-patients/understanding-dental-insurance/"
+    },
+    {
+      "term": "Extraction",
+      "definition": "Removing a tooth. A simple extraction loosens and lifts a tooth that is fully visible; a surgical extraction involves a small incision, or dividing the tooth, when it is broken at the gum line or still under bone. Both are done with the area fully numbed.",
+      "href": "/restorative-dentistry/tooth-extractions/"
+    },
+    {
+      "term": "Filling",
+      "definition": "A repair that replaces the part of a tooth lost to decay or a small fracture. The decay is removed, the tooth is cleaned, and the space is filled with composite that is hardened and shaped to match your bite, all in one visit.",
+      "href": "/restorative-dentistry/tooth-colored-fillings/"
+    },
+    {
+      "term": "Flossing",
+      "definition": "Cleaning the sides of the teeth where a brush cannot reach, once a day. String floss, floss picks, interdental brushes and water flossers all help if you use them; the one you will actually pick up every day is the right one.",
+      "href": "/general-dentistry/oral-hygiene/"
+    },
+    {
+      "term": "Fluoride",
+      "definition": "A mineral that hardens enamel and helps early soft spots re-mineralize before they become cavities. It is in most toothpaste and in community water, and we apply a stronger varnish in the office for children and for adults with a high cavity risk or sensitive roots.",
+      "href": "/general-dentistry/fluoride-treatment/"
+    },
+    {
+      "term": "Fracture",
+      "definition": "A crack or break in a tooth. Fractures range from a chipped corner to a crack running toward the root, and treatment depends on how deep it goes: bonding or a filling for a small chip, a crown for a crack through the body of the tooth, and extraction when the crack splits the root.",
+      "href": "/symptoms/cracked-tooth/"
+    },
+    {
+      "term": "General dentist",
+      "definition": "A dentist trained to diagnose and treat the whole mouth, from check-ups and fillings to crowns, root canals, extractions and implants, and to know when a referral is the better option. Both of our dentists are general dentists.",
+      "href": "/dentists/"
+    },
+    {
+      "term": "Gingivitis",
+      "definition": "The earliest stage of gum disease: gums that are red, puffy and bleed when you brush or floss, caused by plaque sitting at the gum line. It is fully reversible with a professional cleaning and better daily habits, and it has not yet damaged the bone.",
+      "href": "/symptoms/bleeding-gums/"
+    },
+    {
+      "term": "Gum graft",
+      "definition": "Surgery that covers an exposed root with tissue taken from the roof of your mouth or from a donor source, to stop recession from progressing and protect the root. It is usually done by a periodontist, and we refer when a graft makes sense.",
+      "href": "/symptoms/gum-recession/"
+    },
+    {
+      "term": "Gum recession",
+      "definition": "The gum pulling back from a tooth so more of the root shows. Brushing too hard, gum disease, grinding and naturally thin gum tissue are the usual causes. Lost gum does not grow back, but the cause can be stopped and the exposed root protected.",
+      "href": "/symptoms/gum-recession/"
+    },
+    {
+      "term": "Halitosis",
+      "definition": "Persistent bad breath. In most people the source is in the mouth: bacteria on the back of the tongue, between the teeth or in gum pockets, or a dry mouth. Mints mask it; cleaning out the source ends it.",
+      "href": "/symptoms/bad-breath/"
+    },
+    {
+      "term": "Hygienist",
+      "definition": "A licensed dental professional who does your cleaning, measures your gums, takes X-rays and coaches you on home care. The dentist then examines you and the two compare notes. In most dental offices the hygienist is the person who sees you most often.",
+      "href": "/general-dentistry/cleanings-and-exams/"
+    },
+    {
+      "term": "Impacted tooth",
+      "definition": "A tooth that cannot come fully into the mouth because bone, gum or another tooth is in the way. Wisdom teeth are the usual ones. An impacted tooth may sit quietly for years or cause pain, infection or damage to the tooth beside it, which is what we watch for on X-rays.",
+      "href": "/restorative-dentistry/wisdom-teeth-removal/"
+    },
+    {
+      "term": "Implant",
+      "definition": "A small post, usually titanium, placed in the jawbone to stand in for a missing tooth's root. Once bone has fused to it, a crown, bridge or denture attaches on top. It is the only replacement that preserves the bone where the tooth used to be.",
+      "href": "/dental-implants/"
+    },
+    {
+      "term": "Impression",
+      "definition": "A record of the exact shape of your teeth, used by the laboratory to make a crown, bridge, denture, night guard or aligner. Traditionally it is a tray of soft material that sets around the teeth for a minute or two before it is lifted off.",
+      "href": "/restorative-dentistry/dental-crowns/"
+    },
+    {
+      "term": "In-network",
+      "definition": "A dentist who has a contract with your insurance plan and has agreed to its fee schedule. Going in-network usually means lower out-of-pocket costs, though many plans still pay a share for out-of-network care. We participate with several plans and will check yours before your first visit.",
+      "href": "/new-patients/insurance/"
+    },
+    {
+      "term": "Incisor",
+      "definition": "The eight flat, chisel-edged front teeth, four upper and four lower, that cut food. They are the teeth people see when you smile, so chips, gaps and staining here are what most cosmetic treatment is about."
+    },
+    {
+      "term": "Inlay",
+      "definition": "A filling made by a dental laboratory and then cemented into a tooth, used when a cavity is too large for a direct filling but the tooth does not need a full crown. An onlay is the same idea extended to cover one or more of the chewing cusps.",
+      "href": "/restorative-dentistry/inlays-and-onlays/"
+    },
+    {
+      "term": "Knocked-out tooth",
+      "definition": "A permanent tooth that has been fully knocked out of its socket, called an avulsed tooth. Hold it by the crown, not the root, put it back in the socket if you can or keep it in milk, and get to a dentist right away, ideally within 30 minutes. Baby teeth are not put back.",
+      "href": "/emergency-dentistry/knocked-out-tooth/"
+    },
+    {
+      "term": "Local anesthetic",
+      "definition": "The numbing medicine placed near a tooth so you feel pressure but not pain during treatment. The gum is usually numbed with a gel first. The numbness lasts a few hours depending on the medicine and where it was placed, and you are fully awake throughout."
+    },
+    {
+      "term": "Malocclusion",
+      "definition": "Teeth or jaws that do not line up the way they should: crowding, gaps, an overbite, underbite, crossbite or open bite. Mild cases are mostly cosmetic; more significant ones make teeth harder to clean, wear them unevenly and can strain the jaw. Clear aligners or braces correct it.",
+      "href": "/clear-aligners/candidates/"
+    },
+    {
+      "term": "Molar",
+      "definition": "The large, flat-topped back teeth that grind food. Adults have twelve, counting the wisdom teeth. The first molars arrive around age six and are the teeth that most often receive sealants and, later in life, fillings.",
+      "href": "/general-dentistry/dental-sealants/"
+    },
+    {
+      "term": "Mouthguard",
+      "definition": "A protective guard worn over the teeth during sports. A custom-fitted one made from a mold of your teeth stays put and lets you breathe and talk, which is why it actually gets worn; a boil-and-bite guard from the store is better than nothing.",
+      "href": "/general-dentistry/night-guards/"
+    },
+    {
+      "term": "Night guard",
+      "definition": "A custom-fitted appliance worn over the teeth during sleep so that grinding and clenching wear the guard instead of your enamel. It also takes some of the load off the jaw muscles and joints. It does not stop the grinding; it stops the damage.",
+      "href": "/general-dentistry/night-guards/"
+    },
+    {
+      "term": "Nitrous oxide",
+      "definition": "A mild sedative gas, often called laughing gas, breathed through a small mask over the nose during treatment. It takes the edge off anxiety within minutes, you stay awake and able to respond, and it clears within minutes once the mask is off, so most people drive themselves home.",
+      "href": "/sedation-dentistry/nitrous-oxide/"
+    },
+    {
+      "term": "Occlusion",
+      "definition": "The clinical word for your bite: how the upper and lower teeth contact when you close and move your jaw. We check it after a filling or crown is placed, because a restoration that sits high makes the tooth sore and can crack the material.",
+      "href": "/restorative-dentistry/tmj-treatment/"
+    },
+    {
+      "term": "Onlay",
+      "definition": "A laboratory-made restoration that covers one or more cusps of a back tooth and the surface between them. It is the middle step between a filling and a crown: stronger than a large filling, but it keeps more of the natural tooth than a crown would.",
+      "href": "/restorative-dentistry/inlays-and-onlays/"
+    },
+    {
+      "term": "Oral cancer screening",
+      "definition": "A quick visual and hands-on check of your lips, tongue, cheeks, palate, throat and neck for anything unusual, done as part of a routine exam. Most spots found are harmless, but catching the ones that are not at an early stage makes a real difference.",
+      "href": "/general-dentistry/oral-cancer-screening/"
+    },
+    {
+      "term": "Oral surgeon",
+      "definition": "A dentist who completed a hospital-based surgical residency and handles the more complex extractions, jaw surgery and procedures under deeper anesthesia. We offer extractions, including wisdom teeth, and refer when a case calls for a surgeon.",
+      "href": "/restorative-dentistry/wisdom-teeth-removal/"
+    },
+    {
+      "term": "Orthodontist",
+      "definition": "A dentist with additional residency training in moving teeth and guiding jaw growth. General dentists treat many alignment cases with clear aligners; more complex bite problems, especially in growing children, are usually referred to an orthodontist.",
+      "href": "/clear-aligners/vs-braces/"
+    },
+    {
+      "term": "Osseointegration",
+      "definition": "The process by which jawbone grows onto the surface of an implant and locks it in place. It takes roughly three to six months, and it is the reason there is a waiting period between placing an implant and attaching the final crown.",
+      "href": "/dental-implants/single-tooth-implants/"
+    },
+    {
+      "term": "Overdenture",
+      "definition": "A denture that snaps onto two or more implants instead of resting on the gums alone. It still comes out for cleaning, but it does not slip when you eat or talk and it needs little or no adhesive.",
+      "href": "/dental-implants/implant-retained-dentures/"
+    },
+    {
+      "term": "Panoramic X-ray",
+      "definition": "A single wide X-ray that shows both jaws, all the teeth, the sinuses and the jaw joints in one image. It is the view used to see wisdom teeth, check bone before implants and spot anything outside the reach of the small X-rays.",
+      "href": "/general-dentistry/digital-x-rays/"
+    },
+    {
+      "term": "Partial denture",
+      "definition": "A removable appliance that replaces some teeth in an arch and holds onto the remaining ones with clasps or precision attachments. It fills the gaps, keeps neighboring teeth from drifting and is often the simplest way to replace several missing teeth at once.",
+      "href": "/restorative-dentistry/partial-dentures/"
+    },
+    {
+      "term": "Periodontal disease",
+      "definition": "Gum disease that has progressed past gingivitis and begun destroying the bone and fibers that hold the teeth, also called periodontitis. It is usually painless until late, which is why the gum measurements at your check-up matter. The damage can be stopped but not reversed.",
+      "href": "/restorative-dentistry/gum-disease-treatment/"
+    },
+    {
+      "term": "Periodontal maintenance",
+      "definition": "The cleaning schedule after gum disease has been treated, usually every three to four months instead of six. The pockets are cleaned below the gum line each time to keep the bacteria from re-establishing, and the gum measurements are rechecked.",
+      "href": "/general-dentistry/periodontal-maintenance/"
+    },
+    {
+      "term": "Periodontist",
+      "definition": "A dentist with additional residency training in the gums and the bone around the teeth, including gum grafts, surgery for advanced pockets and implant placement. We treat gum disease here and refer when surgery is the right next step.",
+      "href": "/restorative-dentistry/gum-disease-treatment/"
+    },
+    {
+      "term": "Plaque",
+      "definition": "The soft, sticky film of bacteria that forms on teeth every day. It is what you remove when you brush and floss. Left in place, its acids cause cavities, its toxins inflame the gums, and within a few days it begins hardening into tartar.",
+      "href": "/general-dentistry/oral-hygiene/"
+    },
+    {
+      "term": "Pocket",
+      "definition": "The space between the gum and the tooth, measured in millimeters with a thin probe at your check-up. Healthy gums measure one to three millimeters; four and above means the gum has detached and tartar is collecting where a brush cannot reach.",
+      "href": "/restorative-dentistry/deep-cleaning/"
+    },
+    {
+      "term": "Pre-authorization",
+      "definition": "A written estimate of what your insurance will pay, sent to the insurer before treatment starts. Also called a predetermination. It is not a promise of payment, but it is the most reliable way to know your share ahead of time for larger treatment such as crowns or implants.",
+      "href": "/new-patients/understanding-dental-insurance/"
+    },
+    {
+      "term": "Primary teeth",
+      "definition": "Baby teeth. There are twenty, they begin arriving around six months, and they are usually all gone by age twelve or thirteen. They hold space for the permanent teeth and matter for chewing and speech, so cavities in them are treated, not waited out.",
+      "href": "/general-dentistry/childrens-dentistry/"
+    },
+    {
+      "term": "Prophylaxis",
+      "definition": "The clinical name for a routine cleaning, which is how it appears on insurance statements. It removes plaque and tartar above the gum line and just below it, followed by polishing. It is for healthy gums or gingivitis; deeper pockets call for a deep cleaning.",
+      "href": "/general-dentistry/cleanings-and-exams/"
+    },
+    {
+      "term": "Pulp",
+      "definition": "The soft center of a tooth that holds the nerve and blood vessels. It fills a chamber inside the crown and runs down narrow canals in each root. When bacteria reach it through a deep cavity or a crack, it becomes inflamed and then infected, and a root canal removes it.",
+      "href": "/restorative-dentistry/root-canal-therapy/"
+    },
+    {
+      "term": "Pulpitis",
+      "definition": "Inflammation of the pulp. Reversible pulpitis causes sharp pain with cold that fades quickly and can settle once the cause is fixed; irreversible pulpitis lingers, aches on its own or wakes you at night, and the tooth will need a root canal or an extraction.",
+      "href": "/emergency-dentistry/toothache/"
+    },
+    {
+      "term": "Reline",
+      "definition": "Refitting the underside of an existing denture to match gums that have changed shape. Gums and bone shrink slowly after teeth are lost, so a denture that fit well a few years ago starts to rock or rub. A reline restores the fit without replacing the teeth.",
+      "href": "/restorative-dentistry/denture-relines/"
+    },
+    {
+      "term": "Retainer",
+      "definition": "The appliance worn after aligners or braces to keep the teeth where they were moved. Teeth drift for the rest of your life without one. Removable retainers are worn at night; a thin wire bonded behind the front teeth is the fixed alternative.",
+      "href": "/clear-aligners/retainers/"
+    },
+    {
+      "term": "Root canal",
+      "definition": "Treatment that removes infected or inflamed pulp from inside a tooth, cleans and shapes the canals, and seals them so the tooth can be kept. The tooth is numbed throughout, and the procedure ends a toothache rather than causing one. Back teeth usually get a crown afterward.",
+      "href": "/restorative-dentistry/root-canal-therapy/"
+    },
+    {
+      "term": "Root planing",
+      "definition": "Smoothing the root surfaces below the gum line after the tartar has been scaled off, so the gum can reattach and bacteria have a harder time clinging on. It is the second half of a deep cleaning.",
+      "href": "/restorative-dentistry/deep-cleaning/"
+    },
+    {
+      "term": "Scaling",
+      "definition": "Removing tartar and plaque from the teeth with fine instruments. Above the gum line it is part of every cleaning; below the gum line, where pockets have formed, it becomes a deep cleaning.",
+      "href": "/restorative-dentistry/deep-cleaning/"
+    },
+    {
+      "term": "Sealant",
+      "definition": "A thin protective coating painted into the deep grooves of back teeth, where a toothbrush bristle cannot reach the bottom. It takes a few minutes per tooth with no drilling or numbing, and it is placed most often on children's permanent molars soon after they come in.",
+      "href": "/general-dentistry/dental-sealants/"
+    },
+    {
+      "term": "Sedation",
+      "definition": "Medication that relaxes you during treatment, separate from the local anesthetic that stops pain. Here it ranges from nitrous oxide, which wears off in minutes, to other options we discuss only after reviewing your health history and the treatment planned. Lighter sedation leaves you awake and calm.",
+      "href": "/sedation-dentistry/"
+    },
+    {
+      "term": "Sensitivity",
+      "definition": "A quick, sharp pain in a tooth from cold, sweet, air or touch that fades as soon as the trigger is gone. It usually means dentin has been exposed by receding gums, worn enamel or a cavity. Pain that lingers or starts on its own points to the nerve instead.",
+      "href": "/symptoms/tooth-sensitivity/"
+    },
+    {
+      "term": "Sleep apnea appliance",
+      "definition": "A custom mouthpiece worn during sleep that holds the lower jaw slightly forward to keep the airway open. It is an option for mild to moderate obstructive sleep apnea, or for people who cannot tolerate a CPAP machine, and it is made only after a physician has diagnosed the condition.",
+      "href": "/restorative-dentistry/sleep-apnea/"
+    },
+    {
+      "term": "Splint",
+      "definition": "A custom appliance, similar to a night guard, that positions the jaw to rest sore joints and muscles in people with TMJ pain. It is worn mostly at night and adjusted as the symptoms change.",
+      "href": "/restorative-dentistry/tmj-treatment/"
+    },
+    {
+      "term": "Tartar",
+      "definition": "Plaque that has hardened onto the teeth and can no longer be brushed off. Also called calculus. It is rough and porous, so more plaque sticks to it, and it collects most behind the lower front teeth and along the gum line of the upper molars.",
+      "href": "/general-dentistry/cleanings-and-exams/"
+    },
+    {
+      "term": "Temporary crown",
+      "definition": "The resin crown cemented over a prepared tooth while the laboratory makes the permanent one, usually for about two weeks. It protects the tooth and holds its place, but it is weaker than the final crown, so keep anything sticky or very hard away from it. If it comes off, keep it and call.",
+      "href": "/restorative-dentistry/dental-crowns/"
+    },
+    {
+      "term": "TMJ",
+      "definition": "The temporomandibular joint, the hinge just in front of each ear where the lower jaw meets the skull. Pain, clicking, locking or tired jaw muscles are grouped under TMD, temporomandibular disorder. Most cases improve with rest, a splint and habit changes rather than surgery.",
+      "href": "/restorative-dentistry/tmj-treatment/"
+    },
+    {
+      "term": "Veneer",
+      "definition": "A thin shell of porcelain bonded to the front of a tooth to change its color, shape or length. A small amount of enamel is usually removed so the veneer sits flush. Veneers are made by a laboratory and placed over two visits.",
+      "href": "/cosmetic-dentistry/porcelain-veneers/"
+    },
+    {
+      "term": "Whitening",
+      "definition": "Lightening the color of teeth with a peroxide gel that breaks down stains inside the enamel. In-office treatment works in about an hour; custom take-home trays do the same more gradually over one to two weeks. Crowns, veneers and fillings do not change color, so we plan around them.",
+      "href": "/cosmetic-dentistry/teeth-whitening/"
+    },
+    {
+      "term": "Wisdom teeth",
+      "definition": "The third molars, the last teeth to come in, usually between ages 17 and 25. Many jaws do not have room for them, so they come in crooked, only partway or not at all. Removal is recommended when they are causing problems or clearly will; healthy, fully erupted wisdom teeth can stay.",
+      "href": "/restorative-dentistry/wisdom-teeth-removal/"
+    },
+    {
+      "term": "X-ray",
+      "definition": "An image that shows what an exam cannot: decay between teeth, bone levels, infection at root tips, and what lies under fillings and gums. Ours are digital, which uses considerably less radiation than film, and the image appears on the screen in seconds so we can go through it with you.",
+      "href": "/general-dentistry/digital-x-rays/"
+    },
+    {
+      "term": "Zirconia",
+      "definition": "A very strong, tooth-colored ceramic used for crowns and bridges, especially on back teeth that take heavy chewing. It contains no metal and can be matched to the shade of the teeth beside it.",
+      "href": "/restorative-dentistry/dental-crowns/"
+    }
+  ],
+  "related": [
+    "/faq/",
+    "/new-patients/first-visit/",
+    "/new-patients/understanding-dental-insurance/",
+    "/symptoms/"
+  ],
+  "cta": {
+    "heading": "Heard a word that is not here?",
+    "body": "Ask. Explaining the diagnosis clearly is the point of every visit at our office in West Alexandria, so if a word on your treatment plan or your insurance statement does not make sense, call 703-560-7200 or {{book}} and we will walk through it with you."
+  }
+}

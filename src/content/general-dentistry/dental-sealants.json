@@ -1,0 +1,155 @@
+{
+  "slug": "/general-dentistry/dental-sealants/",
+  "type": "service",
+  "title": "Dental Sealants",
+  "meta_title": "Dental Sealants for Children & Adults | West Alexandria Dental Care",
+  "meta_description": "Sealants close the deep grooves of back teeth where most childhood cavities start. Who should have them, when (around ages 6 and 12).",
+  "eyebrow": "General dentistry",
+  "h1": "Dental sealants in West Alexandria",
+  "intro": "The chewing surfaces of back teeth are full of narrow grooves, some too fine for a toothbrush bristle to reach the bottom of. Plaque sits in them, and that is where most cavities in children and teenagers begin. A sealant is a thin coating flowed into those grooves and hardened, so there is nowhere for plaque to hide.",
+  "icon": "shield",
+  "facts": [
+    {
+      "label": "Best time",
+      "value": "Ages 6 and 12"
+    },
+    {
+      "label": "Drilling",
+      "value": "None"
+    },
+    {
+      "label": "Numbing",
+      "value": "None"
+    },
+    {
+      "label": "Takes",
+      "value": "Minutes per tooth"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why the grooves matter",
+      "body": [
+        "Fluoride does a good job protecting the smooth sides of teeth. It does much less for the pits and fissures on top of molars, because the bacteria there are sheltered and acid builds up in a space saliva cannot flush. Studies going back decades show sealed molars get far fewer cavities than unsealed ones, which is why sealants are recommended by the American Dental Association and the American Academy of Pediatric Dentistry for children and for adults with deep grooves.",
+        "A sealed tooth is also an easier tooth to clean, because the grooves are now shallow and smooth."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How a sealant is placed",
+      "items": [
+        {
+          "title": "The tooth is cleaned and dried",
+          "body": "The grooves are brushed out and the tooth isolated with cotton rolls or a small shield so it stays dry. Moisture is the main reason sealants fail, so this step is done carefully."
+        },
+        {
+          "title": "The surface is prepared",
+          "body": "A mild conditioning gel sits on the enamel for a few seconds, then is rinsed off. It roughens the surface microscopically so the sealant bonds."
+        },
+        {
+          "title": "The sealant flows in",
+          "body": "A liquid resin is painted into the grooves and set hard with a blue light in about twenty seconds. There is no drilling and nothing to feel."
+        },
+        {
+          "title": "The bite is checked",
+          "body": "Any high spot is smoothed. The child can eat normally straight away."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Who should have them",
+      "style": "check",
+      "items": [
+        "Children as the first permanent molars come in, around age six, and the second molars around age twelve.",
+        "Premolars in children with deep grooves or a history of cavities.",
+        "Teenagers and adults whose molars have deep fissures and no fillings, especially with dry mouth or a sugary diet.",
+        "Baby molars in young children at high cavity risk, in some cases."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Sealant or filling?",
+      "columns": [
+        "Sealant",
+        "Filling"
+      ],
+      "rows": [
+        [
+          "Purpose",
+          "Prevent a cavity",
+          "Repair a cavity"
+        ],
+        [
+          "Drilling",
+          "None",
+          "Yes, to remove decay"
+        ],
+        [
+          "Numbing",
+          "None",
+          "Usually"
+        ],
+        [
+          "Time",
+          "Minutes",
+          "Twenty to forty minutes"
+        ],
+        [
+          "Insurance",
+          "Often covered for children",
+          "Covered as basic treatment"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How long sealants last",
+      "body": [
+        "Several years is typical, and many last much longer. They are checked at every exam and touched up or replaced if a piece has chipped away. A sealant that has worn is not a failure; it did its job during the years the tooth was most vulnerable, which are the first few after it comes in.",
+        "Sealants work alongside [fluoride](/general-dentistry/fluoride-treatment/), not instead of it. Fluoride protects the smooth surfaces and between the teeth; sealants protect the grooves. Together with regular [cleanings](/general-dentistry/cleanings-and-exams/) and sensible snacks, they cover most of the ways a child's tooth can decay."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Insurance and sealants",
+      "body": "Most dental plans, including Virginia Medicaid, cover sealants on children's permanent molars, often up to a certain age. Coverage for adults varies. We check your plan before the visit and tell you what applies.",
+      "cta": {
+        "label": "Insurance we accept",
+        "href": "/new-patients/insurance/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are sealants safe?",
+      "a": "Yes. They have been used for decades and are recommended by the American Dental Association. The amount of material is tiny and it is fully hardened before the child leaves the chair."
+    },
+    {
+      "q": "Can a cavity form under a sealant?",
+      "a": "If a sealant is placed over a groove that already has early decay, the decay is cut off from food and bacteria and usually stops. If a sealant chips and is not repaired, plaque can collect at the edge, which is why they are checked at each visit."
+    },
+    {
+      "q": "Does my child still need to brush the sealed teeth?",
+      "a": "Yes. Sealants protect the grooves. The sides of the teeth and the gum line still need brushing and flossing like every other tooth."
+    },
+    {
+      "q": "Can adults get sealants?",
+      "a": "Yes, on molars with deep grooves that have never been filled. They are a sensible choice for adults with dry mouth or a history of cavities."
+    }
+  ],
+  "related": [
+    "/general-dentistry/childrens-dentistry/",
+    "/general-dentistry/fluoride-treatment/",
+    "/general-dentistry/preventive-dentistry/",
+    "/general-dentistry/cleanings-and-exams/",
+    "/restorative-dentistry/tooth-colored-fillings/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Close the grooves before a cavity opens them.",
+    "body": "Sealants are usually placed at a routine check-up. Book one, and ask us whether your child's molars are ready."
+  }
+}

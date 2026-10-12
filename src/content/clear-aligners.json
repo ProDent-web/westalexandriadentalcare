@@ -1,0 +1,101 @@
+{
+  "slug": "/clear-aligners/",
+  "type": "hub",
+  "title": "Clear Aligners",
+  "meta_title": "Clear Aligners (Invisalign) | West Alexandria Dental Care",
+  "meta_description": "Clear aligner treatment, including Invisalign, for adults and teens at West Alexandria Dental Care. Digital planning you can see before you start.",
+  "eyebrow": "Clear aligners",
+  "h1": "Clear aligners in West Alexandria",
+  "intro": "Clear aligners straighten teeth with a series of nearly invisible, removable trays instead of brackets and wires. You see the planned result on a screen before the first aligner is made, you take them out to eat and brush, and check-ins fit around a working week, including evenings and weekend mornings.",
+  "icon": "aligner",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What aligners do well",
+      "body": [
+        "Crowding, spacing, teeth that have drifted since braces in your teens, and mild to moderate bite problems are all well within reach. Each aligner in the series moves the teeth a fraction of a millimeter, you switch to the next one every week or two, and over months the teeth arrive where the plan said they would.",
+        "Where aligners struggle, we say so. Severely rotated teeth, large bite discrepancies and problems rooted in the jaw rather than the teeth are often better handled with braces or by an orthodontist, and a referral costs you nothing but a conversation. The [candidates page](/clear-aligners/candidates/) goes into the difference."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "From consultation to retainer",
+      "items": [
+        {
+          "title": "Consultation and records",
+          "body": "Photos, X-rays and a record of your teeth. Gums and decay are checked first, because teeth should only be moved when the mouth is healthy."
+        },
+        {
+          "title": "A digital plan you can see",
+          "body": "Software maps each tooth's movement from start to finish. You see the projected result and the number of aligners before committing. This is where [Dr. Sameer Atrash's](/dentists/dr-sameer-atrash/) interest in digital dentistry and clear aligner treatment, including Invisalign, comes in."
+        },
+        {
+          "title": "Wearing the aligners",
+          "body": "Twenty to twenty-two hours a day, out only to eat, drink anything other than water, and brush. Small tooth-colored attachments may be bonded on to give the trays grip. How well treatment works tracks wear time more than anything else."
+        },
+        {
+          "title": "Check-ins and refinements",
+          "body": "Short visits every six to ten weeks to check progress and hand over the next sets. If some teeth lag the plan, a refinement set finishes the job."
+        },
+        {
+          "title": "Retainers",
+          "body": "Teeth drift back without them. A [retainer](/clear-aligners/retainers/) at the end, worn as directed, is what makes the result permanent."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Aligners for your situation",
+      "items": [
+        {
+          "title": "Adults",
+          "body": "Discreet at work, fitted around a commute, and often combined with whitening or restorative work at the end.",
+          "href": "/clear-aligners/for-adults/"
+        },
+        {
+          "title": "Teens",
+          "body": "Once most permanent teeth are in. Compliance indicators, parent involvement and school-friendly appointment times.",
+          "href": "/clear-aligners/for-teens/"
+        },
+        {
+          "title": "Aligners or braces?",
+          "body": "A balanced comparison of appearance, comfort, cleaning, appointments and which cases suit which tool.",
+          "href": "/clear-aligners/vs-braces/"
+        },
+        {
+          "title": "What it costs",
+          "body": "What drives the price, how orthodontic insurance benefits work, and why you get a written estimate at the consultation.",
+          "href": "/clear-aligners/cost/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "The honest part about compliance",
+      "body": "Aligners only work while they are in your mouth. If twenty-plus hours a day sounds unrealistic for your life right now, braces may get you a better result with less frustration. We will tell you that at the consultation rather than discover it six months in."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does clear aligner treatment take?",
+      "a": "Minor crowding or spacing is often finished in six to nine months. More involved cases take twelve to eighteen months or longer. The digital plan gives an estimate before you start, and consistent wear is the biggest factor in meeting it."
+    },
+    {
+      "q": "Do aligners hurt?",
+      "a": "Each new set feels tight for a day or two, which is the teeth beginning to move. It is pressure rather than pain, and over-the-counter pain relief is rarely needed beyond the first few days of a new tray."
+    },
+    {
+      "q": "Can I see what my teeth will look like first?",
+      "a": "Yes. The digital treatment plan shows the projected result tooth by tooth before any aligners are made, and you can ask for changes before approving it."
+    },
+    {
+      "q": "Will I need to see an orthodontist?",
+      "a": "For most crowding, spacing and mild bite cases, no. When a case needs braces, jaw surgery or specialist expertise, we refer you to an orthodontist and say why. Your general dental care stays here either way."
+    }
+  ],
+  "cta": {
+    "heading": "See your result before you decide.",
+    "body": "A consultation gives you a digital preview, a timeline and a written cost. Evenings and weekends are available, so it fits around work and school."
+  }
+}

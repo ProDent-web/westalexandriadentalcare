@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/parkfairfax/",
+  "type": "area",
+  "title": "Parkfairfax",
+  "meta_title": "Dentist Near Parkfairfax, Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Minutes from Parkfairfax along Quaker Lane to West Alexandria Dental Care in the Bradlee Office Building. A new comprehensive family practice with seven-day.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Parkfairfax",
+  "intro": "Parkfairfax's garden condos along Quaker Lane and Martha Custis Drive are about as close to our office as a neighborhood can be without being Seminary Hill. A few minutes south on Quaker Lane brings you to W. Braddock Road and the Bradlee Office Building, with free parking at the door and hours that run from 7 AM to 8 PM on weekdays and through weekend mornings.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "A few minutes"
+    },
+    {
+      "label": "Route",
+      "value": "Quaker Lane"
+    },
+    {
+      "label": "Hours",
+      "value": "Seven days"
+    },
+    {
+      "label": "Parking",
+      "value": "Free surface lot"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Parkfairfax",
+      "body": [
+        "A mix that reflects the neighborhood: first-time buyers who chose Parkfairfax for the price and the trees, long-time residents who have been there for decades, and commuters who use the bus along Quaker Lane or drive to the Pentagon and the District. The long-time residents often arrive with a dentist who retired or moved; the newer ones often arrive with no dentist at all. Both get the same first visit: a conversation, an exam, and a written plan.",
+        "Because the drive is so short, Parkfairfax patients tend to use the early slots: a 7 AM cleaning and still at a desk by 8:30."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via Quaker Lane",
+          "body": "South on Quaker Lane to W. Braddock Road, then a short distance to the Bradlee Office Building beside Bradlee Shopping Center. A few minutes door to door."
+        },
+        {
+          "title": "Via Valley Drive and King Street",
+          "body": "An alternative route through the neighborhood to King Street and then W. Braddock Road."
+        },
+        {
+          "title": "By bus",
+          "body": "Routes along Quaker Lane and King Street stop near Bradlee Shopping Center; check the current schedule."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What Parkfairfax patients most often come in for",
+      "items": [
+        {
+          "title": "Cleanings and exams",
+          "body": "Six-month check-ups at times that fit a commute, including 7 AM starts.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Care for older adults",
+          "body": "Dry mouth, root decay, denture fit and implants for long-time residents.",
+          "href": "/general-dentistry/dental-care-for-seniors/"
+        },
+        {
+          "title": "A new dental home",
+          "body": "Records transferred from a retired or distant dentist, and a fresh start.",
+          "href": "/new-patients/switching-dentists/"
+        },
+        {
+          "title": "Restorative work close to home",
+          "body": "Crowns, root canals and implants done in the building rather than referred across the region.",
+          "href": "/restorative-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted.",
+        "Care in English, Arabic, Spanish and Portuguese.",
+        "Paperwork completed online before you arrive, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Nervous after a long gap?",
+      "body": "Say so when you book. A first visit can be a conversation only, and the exam waits for the second. We plan comfort first.",
+      "cta": {
+        "label": "Nervous about the dentist?",
+        "href": "/sedation-dentistry/dental-anxiety/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How close is the office to Parkfairfax?",
+      "a": "A few minutes south on Quaker Lane. The office is in the Bradlee Office Building on W. Braddock Road, beside Bradlee Shopping Center, with free parking."
+    },
+    {
+      "q": "Can I get in before work?",
+      "a": "Yes. The first appointments start at 7 AM on weekdays, which is one of the most popular slots for Parkfairfax and Fairlington patients."
+    },
+    {
+      "q": "My dentist retired. Can you get my records?",
+      "a": "Yes. You are entitled to your records and X-rays, and we can request them for you from the previous office or whoever took over the practice."
+    },
+    {
+      "q": "Do you see seniors who have trouble getting around?",
+      "a": "Yes. Parking is at the door and the office is in an office building; call ahead and we will help you plan the visit, including a companion in the room."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/fairlington/",
+    "/areas/seminary-hill/",
+    "/general-dentistry/dental-care-for-seniors/",
+    "/new-patients/switching-dentists/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "A few minutes down Quaker Lane.",
+    "body": "Book online at any hour or call, and keep your dentist close to home."
+  }
+}

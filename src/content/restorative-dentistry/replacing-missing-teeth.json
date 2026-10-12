@@ -1,0 +1,225 @@
+{
+  "slug": "/restorative-dentistry/replacing-missing-teeth/",
+  "type": "service",
+  "title": "Replacing Missing Teeth",
+  "meta_title": "Replacing Missing Teeth: Implant, Bridge or Denture? | Alexandria",
+  "meta_description": "A plain decision guide from West Alexandria Dental Care: why a gap matters, every option side by side (implant, bridge, partial, denture.",
+  "eyebrow": "Restore your smile",
+  "h1": "Replacing missing teeth: how to choose",
+  "intro": "There are five sensible ways to replace a missing tooth, and the right one depends on which tooth, how many, the state of the neighbors, the bone, your health and your budget. This page puts them side by side so the conversation at your consultation starts from an informed place.",
+  "icon": "bridge",
+  "facts": [
+    {
+      "label": "Options",
+      "value": "Five"
+    },
+    {
+      "label": "Decided by",
+      "value": "Tooth, bone, neighbors, budget"
+    },
+    {
+      "label": "First step",
+      "value": "Exam and imaging"
+    },
+    {
+      "label": "Estimate",
+      "value": "In writing, before anything"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why a gap is worth closing",
+      "body": [
+        "A missing back tooth rarely shows and rarely hurts, so it is easy to leave. The consequences are slow. The teeth either side tip into the space, the tooth above or below drifts toward it, the bite shifts, and chewing moves to the other side and overloads it. The bone where the root was shrinks because nothing is loading it, which makes replacement harder later. A front tooth has all of that plus the obvious.",
+        "None of this means every gap must be filled tomorrow. It means the decision should be made deliberately rather than by default."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Every option, side by side",
+      "columns": [
+        "Implant",
+        "Bridge",
+        "Partial denture",
+        "Full denture",
+        "Implant-retained denture"
+      ],
+      "rows": [
+        [
+          "Fixed or removable",
+          "Fixed",
+          "Fixed",
+          "Removable",
+          "Removable",
+          "Removable, snaps on"
+        ],
+        [
+          "Neighboring teeth",
+          "Untouched",
+          "Shaped for crowns",
+          "Clasped",
+          "Not applicable",
+          "Not applicable"
+        ],
+        [
+          "Keeps bone",
+          "Yes",
+          "No",
+          "No",
+          "No",
+          "Partly, where implants sit"
+        ],
+        [
+          "Surgery",
+          "Minor",
+          "None",
+          "None",
+          "None",
+          "Minor"
+        ],
+        [
+          "Time to finish",
+          "Months",
+          "Weeks",
+          "Weeks",
+          "Weeks",
+          "Months"
+        ],
+        [
+          "Chewing",
+          "Like a natural tooth",
+          "Very good",
+          "Moderate",
+          "Limited, especially lower",
+          "Good"
+        ],
+        [
+          "Typical lifespan",
+          "Decades",
+          "10–15 years",
+          "5–10 years",
+          "5–10 years",
+          "Implants decades; denture 5–10 years"
+        ],
+        [
+          "Relative cost",
+          "Highest per tooth",
+          "Middle",
+          "Lowest",
+          "Lowest",
+          "Middle to high"
+        ]
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "The options in a little more detail",
+      "items": [
+        {
+          "title": "Single tooth implant",
+          "body": "A titanium post replaces the root, a crown replaces the tooth. Spares the neighbors and keeps the bone. The usual best answer for one missing tooth with good bone.",
+          "href": "/dental-implants/single-tooth-implants/"
+        },
+        {
+          "title": "Bridge",
+          "body": "Crowns on the neighbors carry a false tooth between them. Fixed and quick. The right choice when the neighbors need crowns anyway or implants are unwise.",
+          "href": "/restorative-dentistry/dental-bridges/"
+        },
+        {
+          "title": "Partial denture",
+          "body": "A removable plate that clips to remaining teeth. The most economical way to fill several gaps, with no surgery.",
+          "href": "/restorative-dentistry/partial-dentures/"
+        },
+        {
+          "title": "Full denture",
+          "body": "Replaces an entire arch. Works well in the upper jaw; the lower jaw is harder to stabilize.",
+          "href": "/restorative-dentistry/dentures/"
+        },
+        {
+          "title": "Implant-retained denture",
+          "body": "Two to four implants with snap attachments hold a denture firmly. Transforms a loose lower denture.",
+          "href": "/dental-implants/implant-retained-dentures/"
+        },
+        {
+          "title": "Implant-supported bridge",
+          "body": "Several teeth in a row on two or more implants, with no neighbors touched.",
+          "href": "/dental-implants/implant-supported-bridges/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How the decision gets made",
+      "items": [
+        {
+          "title": "Which tooth and how many",
+          "body": "One back tooth, one front tooth, three in a row and a whole arch each point in different directions."
+        },
+        {
+          "title": "The neighbors",
+          "body": "Healthy, unfilled neighbors argue for an implant. Neighbors with big fillings or crowns make a bridge sensible."
+        },
+        {
+          "title": "The bone",
+          "body": "An exam and imaging, including a 3D scan when implants are being considered, show whether there is enough bone and whether grafting would be needed."
+        },
+        {
+          "title": "Your health and habits",
+          "body": "Uncontrolled diabetes, certain medications, heavy smoking and untreated gum disease affect implants. They are discussed honestly, not glossed over."
+        },
+        {
+          "title": "Time and budget",
+          "body": "Implants take months and cost more up front but tend to last longest. A bridge or partial closes the gap in weeks for less. Staging is possible: a partial now, implants later."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Just lost a tooth, or about to?",
+      "body": "The best time to plan the replacement is before the extraction, not after. Preserving the socket at the time of removal can keep the bone for a future implant, and a temporary tooth can be ready for the day a front tooth comes out. If a tooth has just been knocked out, that is an emergency: read what to do now.",
+      "cta": {
+        "label": "Knocked-out tooth",
+        "href": "/emergency-dentistry/knocked-out-tooth/"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "What you leave the consultation with",
+      "body": [
+        "A clear recommendation, the reasonable alternatives, and a written estimate for each with your insurance benefits checked. We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid, and coverage for replacements varies a lot between plans, so the numbers are specific to you. There is no pressure to decide on the day."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is an implant always the best option?",
+      "a": "For a single missing tooth with sound neighbors and adequate bone, usually yes, because it lasts longest and preserves everything around it. It is not best for everyone: health, bone, budget and timing can all point to a bridge or partial, and we say so."
+    },
+    {
+      "q": "Can I leave the gap?",
+      "a": "You can, and for a back tooth some people do. The costs are slow drifting of the neighbors and gradual bone loss, which make replacement harder later. We would rather you decided knowing that than drifted into it."
+    },
+    {
+      "q": "How soon after an extraction can a tooth be replaced?",
+      "a": "A temporary partial or bridge can be ready the same day. An implant is usually placed after a few months of healing, sometimes at the time of extraction when conditions allow."
+    },
+    {
+      "q": "Do you do all of this in one office?",
+      "a": "Yes. Bridges, partials, dentures, implant placement and the final crowns or attachments are all done here, which keeps the planning joined up."
+    }
+  ],
+  "related": [
+    "/dental-implants/",
+    "/dental-implants/implants-vs-dentures/",
+    "/restorative-dentistry/dental-bridges/",
+    "/restorative-dentistry/partial-dentures/",
+    "/restorative-dentistry/dentures/",
+    "/restorative-dentistry/tooth-extractions/"
+  ],
+  "cta": {
+    "heading": "Five options. One that fits you.",
+    "body": "Book a consultation and we will go through them with your own X-rays on the screen and the costs in writing."
+  }
+}

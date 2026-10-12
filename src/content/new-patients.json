@@ -1,0 +1,103 @@
+{
+  "slug": "/new-patients/",
+  "type": "hub",
+  "title": "New Patients",
+  "meta_title": "New Patients in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Becoming a patient at West Alexandria Dental Care: book online any hour, finish paperwork from your phone, and see what a first visit involves.",
+  "eyebrow": "Start here",
+  "h1": "Your new dental home in West Alexandria",
+  "intro": "A new dental office should not mean a week of phone calls and a clipboard in the waiting room. Here it is three things: a time that fits your life, paperwork done from your phone, and a first visit you can see coming.",
+  "icon": "hand",
+  "facts": [
+    {
+      "label": "Open",
+      "value": "Seven days a week"
+    },
+    {
+      "label": "Booking",
+      "value": "Online, any hour"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Arabic, Spanish, Portuguese"
+    },
+    {
+      "label": "Paperwork",
+      "value": "Online before you arrive"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "What one dental home means in practice",
+      "body": [
+        "Two general dentists, [Dr. Sameer Atrash and Dr. Fadi Alhrashi](/dentists/), see every age, so a West Alexandria family with a kindergartner, a teenager in aligners and a grandparent with a partial denture has one office and one set of records. When a specialist is the better choice, we say so.",
+        "Nothing starts before you have seen the plan and the cost in writing, no one is talked into treatment that can wait, and a long gap since your last visit gets a plan, not a lecture. If you are coming from another office, [switching dentists](/new-patients/switching-dentists/) explains how to bring your records along."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "From first call to first visit",
+      "items": [
+        {
+          "title": "Pick a time",
+          "body": "You can {{book}} at any hour, or call {{phone}} while we are open: 7 AM to 8 PM on weekdays, 8 AM to 1 PM on Saturday and Sunday. A slot before work or on a weekend morning is a normal appointment, not a favor. See [evening and weekend appointments](/new-patients/evening-and-weekend-appointments/)."
+        },
+        {
+          "title": "Finish the paperwork at home",
+          "body": "Registration runs through our secure {{forms}} and works on a phone: your details, medical history, medications and insurance, plus a photo of your insurance card. Paper forms are at the desk too. See [patient forms](/new-patients/patient-forms/)."
+        },
+        {
+          "title": "Gather what to bring",
+          "body": "A photo ID, your insurance or Virginia Medicaid card, a list of your medications, and recent X-rays if your previous office can send them. If not, we take [digital X-rays](/general-dentistry/digital-x-rays/) only where they would change the plan."
+        },
+        {
+          "title": "The visit itself",
+          "body": "Allow 60 to 90 minutes: a conversation first, then a full exam of every tooth, your gums, your bite and an oral cancer screening. Healthy gums usually mean a cleaning the same day; gum disease needs a deeper cleaning planned separately. You leave with a written plan and nothing booked you did not agree to. [Your first visit](/new-patients/first-visit/) walks through it."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Insurance, Medicaid and paying without a plan",
+      "body": [
+        "We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid, which not every family practice in Northern Virginia takes. Benefits vary by employer and plan, so we check yours before the visit; if your plan is not listed, call and we will look. See [insurance we accept](/new-patients/insurance/) and [understanding dental insurance](/new-patients/understanding-dental-insurance/).",
+        "Without insurance you get the same written estimate before anything starts and an honest order of what matters first, so care can be staged; ask about payment options when you call. See [no insurance](/new-patients/no-insurance/) and [Virginia Medicaid](/new-patients/medicaid/)."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Small things that make a first visit easier",
+      "style": "check",
+      "items": [
+        "Free surface parking around the Bradlee Office Building, just off I-395 at the King Street exit.",
+        "Care in English, Arabic, Spanish and Portuguese; mention your preferred language when booking. See [languages we speak](/new-patients/languages/).",
+        "Nervous about the dentist: say so when you book. Nitrous oxide is available, other sedation after a health review, and we explain each step and stop when you signal. See [dental anxiety](/sedation-dentistry/dental-anxiety/)."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "If something hurts before you are even a patient",
+      "body": "New patients are welcome for same-day [emergency dental care](/emergency-dentistry/) for a toothache, broken tooth or swelling during our hours. Call first so we can hold the time.",
+      "cta": {
+        "label": "Call 703-560-7200",
+        "href": "tel"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I book a first visit for an evening or a weekend?",
+      "a": "Yes. Any appointment, including a first visit, can be booked for any hour we are open, online or by phone."
+    },
+    {
+      "q": "I have not seen a dentist in years. Is that a problem?",
+      "a": "No, and you will not get a speech. We look at where things stand today, show you what we see on the screen, and sort it into what needs attention soon and what can wait."
+    }
+  ],
+  "cta": {
+    "heading": "Ready when you are",
+    "body": "Pick an early morning, an evening or a weekend, finish the paperwork from your phone, and come meet us. If you would rather talk to a person first, call 703-560-7200 during our hours."
+  }
+}

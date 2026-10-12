@@ -1,0 +1,125 @@
+{
+  "slug": "/clear-aligners/for-adults/",
+  "type": "service",
+  "title": "Clear Aligners for Adults",
+  "meta_title": "Clear Aligners for Adults in Alexandria | West Alexandria Dental Care",
+  "meta_description": "Clear aligners for adults in West Alexandria: straightening for the first time or after relapse, discreet at work, check-ins around a commute.",
+  "eyebrow": "Clear aligners",
+  "h1": "Clear aligners for adults in West Alexandria",
+  "intro": "Many adults who straighten their teeth are doing it for the first time. Many others had braces as teenagers, lost the retainer, and watched the front teeth drift back over twenty years. Either way, clear aligners let you do it without brackets, at a pace that fits a working life, with check-ins before or after the commute.",
+  "icon": "aligner",
+  "facts": [
+    {
+      "label": "Visibility",
+      "value": "Nearly invisible"
+    },
+    {
+      "label": "Check-ins",
+      "value": "Short, evenings and weekends"
+    },
+    {
+      "label": "Typical time",
+      "value": "Six to eighteen months"
+    },
+    {
+      "label": "Often paired with",
+      "value": "Whitening afterward"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Why adults choose aligners",
+      "style": "check",
+      "items": [
+        "They are hard to see in meetings, on video calls and in photographs.",
+        "They come out for a client lunch, a presentation or a wedding.",
+        "No wires to break, no emergency visits for a loose bracket.",
+        "Eating and cleaning stay normal, because the trays are out for both.",
+        "Appointments are short and can be booked at 7 AM, after 6 PM or on a weekend morning.",
+        "The plan shows the result before you commit, which makes the decision easier."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Straight teeth are easier to keep healthy",
+      "body": [
+        "Alignment is not only about looks. Crowded teeth trap plaque where a brush cannot reach, and that is where decay and gum disease start. Teeth that meet unevenly wear each other down and can crack fillings. A deep bite can wear the front teeth short and strain the jaw. Straightening teeth in your thirties, forties or fifties makes every cleaning more effective and every restoration last longer.",
+        "That is why we sometimes suggest aligners as the first step of a larger plan: moving the teeth into position often means fewer veneers, thinner veneers or none at all. The [smile makeover](/cosmetic-dentistry/smile-makeover/) page explains the sequencing."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Fitting treatment around work",
+      "items": [
+        {
+          "title": "Consultation at a time that suits",
+          "body": "An early-morning or evening slot for the records and the conversation. You see the digital plan at the second visit or by follow-up."
+        },
+        {
+          "title": "Trays delivered in batches",
+          "body": "Several sets at a time, so check-ins are every six to ten weeks rather than monthly."
+        },
+        {
+          "title": "Twenty-minute check-ins",
+          "body": "Progress checked, next trays handed over, attachments inspected. Booked before work, after work or on a Saturday."
+        },
+        {
+          "title": "Travel without disruption",
+          "body": "Take the next sets with you. Treatment continues anywhere you can brush."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Aligners alongside other treatment",
+      "body": [
+        "Adults often have crowns, fillings or implants already. Aligners work around them; an implant will not move, and the plan accounts for that. Whitening is done after treatment, when the attachments are off and the teeth are in their final positions. Chipped or worn edges that straightening reveals are then evened with [bonding](/cosmetic-dentistry/dental-bonding/). Gum health is checked throughout, because teeth should only be moved in a mouth with stable gums."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "The compliance conversation",
+      "body": "Adults are generally very good at wearing aligners, because they chose them. The common slip is the long dinner or the evening out where the trays stay out for hours. Twenty to twenty-two hours a day is the target, and the plan assumes it. If your life makes that hard right now, it is better to wait or to choose braces than to spend a year getting half a result.",
+      "cta": {
+        "label": "Aligners vs. braces",
+        "href": "/clear-aligners/vs-braces/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Am I too old for aligners?",
+      "a": "No. Teeth move at any age as long as the gums and bone around them are healthy. Adults in their sixties and seventies straighten their teeth; the main difference is that movement may be a little slower."
+    },
+    {
+      "q": "I had braces years ago. Can aligners fix the relapse?",
+      "a": "Usually, and often quickly, because the teeth have moved only a little. Relapse cases are among the most satisfying aligner treatments. A retainer at the end, this time kept, prevents a repeat."
+    },
+    {
+      "q": "Will anyone notice?",
+      "a": "Most people will not. The trays are clear and thin, and the attachments are tooth-colored. From a normal conversational distance they are very hard to see."
+    },
+    {
+      "q": "Can I drink coffee with them in?",
+      "a": "Only water should be drunk with the trays in. Hot drinks warp the plastic and coffee stains it. Take them out, drink, rinse, put them back; many people find it reduces the coffee habit."
+    },
+    {
+      "q": "What does it cost?",
+      "a": "It depends on the complexity and length of treatment. You receive a written estimate at the consultation, with your orthodontic insurance benefit checked first. See the cost page for what drives the number."
+    }
+  ],
+  "related": [
+    "/clear-aligners/",
+    "/clear-aligners/how-it-works/",
+    "/clear-aligners/cost/",
+    "/clear-aligners/retainers/",
+    "/cosmetic-dentistry/teeth-whitening/",
+    "/new-patients/evening-and-weekend-appointments/"
+  ],
+  "cta": {
+    "heading": "Straighter teeth, on a working schedule.",
+    "body": "Book a consultation before or after work and see your projected result before deciding."
+  }
+}

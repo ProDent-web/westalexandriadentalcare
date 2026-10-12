@@ -1,0 +1,145 @@
+{
+  "slug": "/symptoms/jaw-pain/",
+  "type": "symptom",
+  "title": "Jaw Pain",
+  "meta_title": "Jaw Pain: Muscle, Joint or Tooth? | West Alexandria Dental Care",
+  "meta_description": "Jaw pain from clenching, the joint, wisdom teeth, sinus or referred pain. What is behind it, what helps at home, and what an evaluation and splint therapy involve at West Alexandria Dental Care.",
+  "eyebrow": "Symptom guide",
+  "h1": "Jaw pain",
+  "intro": "Jaw pain has more possible sources than almost any other symptom in the mouth: the chewing muscles, the joint in front of the ear, a wisdom tooth, an abscessed molar, a sinus, even the heart. Most of it is muscular and settles with simple measures. A small amount needs urgent attention. Here is how to tell which, and what to do tonight.",
+  "icon": "wave",
+  "facts": [
+    {
+      "label": "Most common cause",
+      "value": "Clenching and grinding"
+    },
+    {
+      "label": "Usual treatment",
+      "value": "A splint and habit changes"
+    },
+    {
+      "label": "Locked jaw",
+      "value": "Same-day call"
+    },
+    {
+      "label": "Clicking without pain",
+      "value": "Usually harmless"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Muscle overuse** from clenching by day or grinding at night. Dull ache in the cheeks and temples, worst in the morning, with headaches. See [teeth grinding](/symptoms/teeth-grinding/).",
+        "**The jaw joint itself**, with clicking, popping, grating or locking, and pain in front of the ear. See [TMJ treatment](/restorative-dentistry/tmj-treatment/).",
+        "**A wisdom tooth** erupting, impacted or infected at the back of the jaw. See [wisdom tooth pain](/symptoms/wisdom-tooth-pain/).",
+        "**An abscessed or cracked tooth**, where pain spreads along the jaw and is hard to localize.",
+        "**Sinus infection**, which makes the upper jaw and upper back teeth ache, usually with a cold or congestion.",
+        "**Injury**: a blow, a fall, or a very wide yawn.",
+        "**Arthritis** of the jaw joint, in some older patients and in some with rheumatoid conditions."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Rest the jaw",
+          "body": "Soft food for a few days, small bites, no gum, no nail biting, no wide yawning if you can help it, no resting your chin on your hand."
+        },
+        {
+          "title": "Lips together, teeth apart",
+          "body": "That is the jaw's resting position. Notice when your teeth are touching during the day and separate them. Most people clench far more than they realize."
+        },
+        {
+          "title": "Moist heat for muscles",
+          "body": "A warm damp cloth on the cheeks and temples for fifteen minutes, a few times a day, eases muscle pain. Cold on the joint if it is swollen after an injury."
+        },
+        {
+          "title": "Over-the-counter pain relief",
+          "body": "An anti-inflammatory as labeled, if it is safe for you, helps both muscle and joint pain."
+        },
+        {
+          "title": "Gentle stretching once the acute pain eases",
+          "body": "Slow, controlled opening and closing, and side to side, a few times a day."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We ask when it hurts, what makes it worse, whether you clench, how you sleep and whether there has been an injury. Then we feel the joints as you open and close, press the muscles for tenderness, measure how wide you can open, and look at the teeth for the wear that grinding leaves. Every tooth in the area is checked, because an abscess or crack can masquerade as jaw pain, and a panoramic [X-ray](/general-dentistry/digital-x-rays/) looks at the wisdom teeth and the bony joint. You leave knowing which of the causes it is and with a plan that almost always starts conservatively."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "A custom splint",
+          "body": "For muscle and joint pain from clenching and grinding: a thin acrylic guard worn at night that lets the muscles relax.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "TMJ care",
+          "body": "Habit changes, heat, exercises, short-term medication, and bite adjustment where a high filling is the trigger.",
+          "href": "/restorative-dentistry/tmj-treatment/"
+        },
+        {
+          "title": "Treating the tooth",
+          "body": "Root canal, extraction or crown when a tooth is the real source.",
+          "href": "/emergency-dentistry/toothache/"
+        },
+        {
+          "title": "Wisdom tooth removal",
+          "body": "When an impacted or infected wisdom tooth is behind it.",
+          "href": "/restorative-dentistry/wisdom-teeth-removal/"
+        },
+        {
+          "title": "Referral",
+          "body": "To your physician for sinus or heart concerns, to an oral surgeon for fractures or joint disease, to physical therapy for persistent muscle problems."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Clicking without pain",
+      "body": [
+        "A jaw that clicks but does not hurt or lock is common and usually needs no treatment. The click is the small disc in the joint slipping as you open. It may stay for years without harm. It becomes a reason to come in when it starts to hurt, when the jaw catches or locks, or when opening becomes limited."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is jaw pain the same as TMJ?",
+      "a": "TMJ is the joint; a problem with it is one cause of jaw pain. Muscle pain from clenching is more common than true joint problems, and teeth, sinuses and wisdom teeth account for a good share too. The evaluation sorts them out."
+    },
+    {
+      "q": "Why is it worse in the morning?",
+      "a": "Morning jaw pain and headaches usually mean grinding or clenching during sleep. A night guard is typically the first step, and it often helps within a week or two."
+    },
+    {
+      "q": "Can stress cause jaw pain?",
+      "a": "Very commonly. Stress increases clenching, by day and by night, and the chewing muscles are among the strongest in the body. Awareness, a splint and whatever helps with the stress itself usually settle it."
+    },
+    {
+      "q": "Will I need surgery?",
+      "a": "Almost certainly not. Jaw joint surgery is reserved for a small number of cases that fail every conservative measure. The large majority of jaw pain resolves without it."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/tmj-treatment/",
+    "/symptoms/teeth-grinding/",
+    "/general-dentistry/night-guards/",
+    "/symptoms/wisdom-tooth-pain/",
+    "/emergency-dentistry/toothache/",
+    "/restorative-dentistry/sleep-apnea/"
+  ],
+  "cta": {
+    "heading": "Find out which jaw pain it is.",
+    "body": "Most jaw pain has a simple, conservative fix once the source is known. Book an evaluation at a time that suits you; we are open seven days."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "/symptoms/dry-mouth/",
+  "type": "symptom",
+  "title": "Dry Mouth",
+  "meta_title": "Dry Mouth: Causes, Cavity Risk, What Helps | WA Dental Care",
+  "meta_description": "Dry mouth from medications, age, diabetes or other causes raises cavity risk quickly. What is behind it, what helps at home.",
+  "eyebrow": "Symptom guide",
+  "h1": "Dry mouth",
+  "intro": "Saliva does more than you notice. It washes food away, neutralizes acid, repairs enamel with minerals and keeps bacteria in check. When it drops, from a new medication, age, a medical condition or mouth breathing, decay can start on teeth that were sound for decades, often at the gum line and on several teeth at once. Dry mouth is a dental risk factor first and a nuisance second.",
+  "icon": "drop",
+  "facts": [
+    {
+      "label": "Commonest cause",
+      "value": "Medications"
+    },
+    {
+      "label": "Main risk",
+      "value": "Fast root decay"
+    },
+    {
+      "label": "Key defense",
+      "value": "Fluoride and closer visits"
+    },
+    {
+      "label": "Also see",
+      "value": "Your physician"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Medications.** Hundreds cause dry mouth: antidepressants, antihistamines, blood pressure drugs, bladder medications, pain medications, decongestants and many more. Taking several multiplies the effect.",
+        "**Age**, partly because of medications and partly because glands produce less.",
+        "**Diabetes**, especially when poorly controlled.",
+        "**Mouth breathing**, from a blocked nose, snoring or sleep apnea.",
+        "**Dehydration**, caffeine and alcohol.",
+        "**Sjögren's syndrome** and other autoimmune conditions that attack the salivary glands.",
+        "**Radiation therapy** to the head and neck, and some chemotherapy.",
+        "**Smoking, vaping and cannabis.**",
+        "**Anxiety**, which dries the mouth in the short term."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Sip water through the day",
+          "body": "Small, frequent sips rather than occasional large drinks. Keep a bottle by the bed."
+        },
+        {
+          "title": "Stimulate saliva",
+          "body": "Sugar-free gum or lozenges, especially those containing xylitol, several times a day."
+        },
+        {
+          "title": "Change the mouthwash",
+          "body": "Alcohol-based rinses dry the mouth further. Use an alcohol-free rinse, or one made for dry mouth."
+        },
+        {
+          "title": "Protect the teeth",
+          "body": "Brush twice a day with fluoride toothpaste and spit without rinsing. Keep sugar and acidic drinks to mealtimes; with no saliva to clear them, every sip counts."
+        },
+        {
+          "title": "At night",
+          "body": "A humidifier in the bedroom, water at the bedside, and a saliva substitute gel before sleep if the mouth wakes you."
+        },
+        {
+          "title": "Check your medication list",
+          "body": "Note everything you take and bring it. Do not stop anything on your own; a physician can sometimes adjust a dose or timing."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We look for the signs: dry, sticky tissues, a tongue that looks dry or cracked, decay at the gum line and between teeth, and sometimes a fungal infection at the corners of the mouth or under a denture. We go through your medications and health history. [Digital X-rays](/general-dentistry/digital-x-rays/) check for the decay between teeth that dry mouth causes. Then we set up a defense: fluoride in the office and at home, products that help, a closer check-up interval, and a note to your physician if a medication seems the likely cause."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Prescription-strength fluoride",
+          "body": "A high-fluoride toothpaste used nightly, which is the single most effective protection against dry-mouth decay.",
+          "href": "/general-dentistry/fluoride-treatment/"
+        },
+        {
+          "title": "Fluoride varnish at visits",
+          "body": "Applied at each check-up, every three to four months for high risk.",
+          "href": "/general-dentistry/fluoride-treatment/"
+        },
+        {
+          "title": "Closer check-ups",
+          "body": "Every three to four months so decay is caught as a tiny filling rather than a crown.",
+          "href": "/general-dentistry/preventive-dentistry/"
+        },
+        {
+          "title": "Saliva substitutes and stimulants",
+          "body": "Gels, sprays and lozenges for comfort, and prescription options via your physician for severe cases."
+        },
+        {
+          "title": "Treating what it has caused",
+          "body": "Fillings for decay, denture adjustment or a reline for a plate that rubs a dry mouth, antifungal treatment where needed.",
+          "href": "/restorative-dentistry/tooth-colored-fillings/"
+        },
+        {
+          "title": "Addressing the cause",
+          "body": "A conversation with your physician about medications, diabetes control or a referral for Sjögren's or sleep apnea.",
+          "href": "/symptoms/snoring/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why we take it seriously",
+      "body": [
+        "We see people who had two fillings in sixty years develop six cavities in a year after starting a new medication. The teeth did not change; the saliva did. A prescription toothpaste and a three-month interval cost very little compared with that, which is why dry mouth is something we ask about at every check-up, especially for [older adults](/general-dentistry/dental-care-for-seniors/)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which medications cause dry mouth?",
+      "a": "Too many to list, but the common ones are antidepressants, antihistamines, decongestants, blood pressure medications, bladder control drugs and opioid pain relievers. The effect adds up when several are taken. Bring your list and we will go through it."
+    },
+    {
+      "q": "Can dry mouth be cured?",
+      "a": "If a medication or dehydration is the cause, often it improves when that changes. Dry mouth from Sjögren's, radiation or age is managed rather than cured, and the management works well when it is consistent."
+    },
+    {
+      "q": "Is sugar-free gum really helpful?",
+      "a": "Yes. Chewing stimulates saliva, and xylitol-sweetened gum also reduces decay-causing bacteria. Several pieces a day after meals is a practical habit."
+    },
+    {
+      "q": "Does dry mouth cause bad breath?",
+      "a": "Often. Without saliva to wash them away, bacteria multiply and produce odor. Treating the dryness improves the breath."
+    }
+  ],
+  "related": [
+    "/general-dentistry/fluoride-treatment/",
+    "/general-dentistry/dental-care-for-seniors/",
+    "/symptoms/bad-breath/",
+    "/symptoms/tooth-sensitivity/",
+    "/symptoms/snoring/",
+    "/general-dentistry/preventive-dentistry/"
+  ],
+  "cta": {
+    "heading": "Dry mouth is a reason to come in more often, not less.",
+    "body": "Book a check-up, bring your medication list, and leave with a defense plan that protects your teeth while the cause is sorted out."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "/dentists/dr-sameer-atrash/",
+  "type": "dentist",
+  "title": "Dr. Sameer Atrash",
+  "meta_title": "Dr. Sameer Atrash, DMD | West Alexandria Dental Care",
+  "meta_description": "Meet Dr. Sameer Atrash, DMD, owner and general dentist at West Alexandria Dental Care: Fairfax native, Tufts trained, preventive and conservative first.",
+  "eyebrow": "Meet the dentists",
+  "h1": "Dr. Sameer Atrash, DMD",
+  "intro": "Dr. Sameer Atrash, Dr. Sam to his patients, owns West Alexandria Dental Care and is one of its two general dentists. He grew up in Northern Virginia and practices by a simple rule: prevent what can be prevented, preserve what can be preserved.",
+  "icon": "smile",
+  "facts": [
+    {
+      "label": "Degree",
+      "value": "DMD, Tufts, 2021"
+    },
+    {
+      "label": "Before dental school",
+      "value": "VCU, biology and master's"
+    },
+    {
+      "label": "Hometown",
+      "value": "Fairfax, Virginia"
+    },
+    {
+      "label": "Patients call him",
+      "value": "Dr. Sam"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "About Dr. Sameer Atrash",
+      "body": [
+        "Dr. Sam was born in Washington, D.C. and grew up in Fairfax, Virginia. The interest in dentistry started in high school, through Fairfax County's Dental Careers Program, and it stuck.",
+        "At Virginia Commonwealth University he earned a Bachelor of Science in Biology and then a Master of Product Innovation. That second degree is not the usual route into dentistry, and it shows in how he treats a treatment plan: something to think through, explain clearly and get right.",
+        "He earned his Doctor of Dental Medicine at Tufts in Boston in 2021. West Alexandria Dental Care is his own practice, opening in October 2026 in the Bradlee Office Building off I-395."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Education and training",
+      "style": "check",
+      "items": [
+        "Doctor of Dental Medicine (DMD), Tufts University School of Dental Medicine, 2021",
+        "Master of Product Innovation, Virginia Commonwealth University",
+        "Bachelor of Science in Biology, Virginia Commonwealth University",
+        "Fairfax County Dental Careers Program, during high school"
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "How Dr. Sam works",
+      "body": [
+        "Prevent what can be prevented, preserve what can be preserved. For Dr. Sam that is the order of operations. The first question about any tooth is whether it needs treatment at all. The second is the smallest repair that will last.",
+        "He explains the diagnosis before the treatment. Any [digital X-ray](/general-dentistry/digital-x-rays/) or 3D image goes on the screen beside you, in plain words, until it makes sense to you.",
+        "Then you decide together. He lays out the options, including leaving things alone for now, with what each involves and what it costs, in writing, before anything starts. If something can safely wait, he says so. If it cannot, he says why.",
+        "If you are nervous, say so when you book. He paces the visit, explains each step before it happens, and agrees on a stop signal. Nitrous oxide is available, and other sedation options can be discussed after a health review. More on [how this practice works](/about/our-approach/) and [options for anxious patients](/sedation-dentistry/dental-anxiety/)."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Clinical interests",
+      "items": [
+        {
+          "title": "Dental implants",
+          "body": "From a single missing tooth to an implant-retained denture, planned with 3D imaging so the position is settled before surgery and finished with the crown, bridge or denture on top.",
+          "href": "/dental-implants/"
+        },
+        {
+          "title": "Restorative dentistry",
+          "body": "Fillings, onlays, crowns and bridges, chosen by how much healthy tooth each one saves. A crown only when the tooth needs holding together.",
+          "href": "/restorative-dentistry/"
+        },
+        {
+          "title": "Clear aligners, including Invisalign",
+          "body": "Removable trays for adults and teens, from the planning visit through to the retainer that keeps the result.",
+          "href": "/clear-aligners/"
+        },
+        {
+          "title": "Cosmetic dentistry",
+          "body": "Whitening, bonding and porcelain veneers, starting with the least invasive option that gets the result. Planning starts with what you want changed.",
+          "href": "/cosmetic-dentistry/"
+        },
+        {
+          "title": "Digital dentistry",
+          "body": "3D imaging, digital X-rays and digital records, used when they change the plan or make it safer, not for their own sake.",
+          "href": "/about/technology/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Outside the office",
+      "body": [
+        "Away from the office, Dr. Sam is usually outside: fishing, out with friends, or with his dog. Ask him about the dog."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Seeing Dr. Sam",
+      "body": [
+        "Dr. Sam is accepting new patients. You can {{book}} any time or call {{phone}}, and ask for him when you schedule.",
+        "Hours run 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM Saturday and Sunday, so [before work or on a weekend morning](/new-patients/evening-and-weekend-appointments/) is a normal appointment here.",
+        "Dr. Sam and [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/) share one office and one set of records, so if you need care on a day Dr. Sam is not in, Dr. Fadi can pick up where he left off. Dr. Fadi sees patients in English and Arabic, and the office covers Spanish and Portuguese too. Mention your preferred language when you book.",
+        "Before your first visit, complete the {{forms}} online and upload a photo of your insurance card. The office is in the Bradlee Office Building in Alexandria, just off I-395 at the King Street exit, with free parking."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Dr. Sam see children?",
+      "a": "Yes. This is a family practice, and children come for exams, cleanings, sealants, fluoride and sports mouthguards alongside their parents. If a child ever needs care that belongs with a specialist, we say so and help arrange it. See [children's dentistry](/general-dentistry/childrens-dentistry/)."
+    },
+    {
+      "q": "Which dentist should I book with?",
+      "a": "Either. Both see new patients and handle the everyday work of check-ups, fillings and crowns. If you are thinking about [clear aligners](/clear-aligners/) or cosmetic changes, Dr. Sam is a natural fit. For surgical or complex cases, or the dentist with nearly two decades of training and clinical experience, ask for [Dr. Fadi](/dentists/dr-fadi-alhrashi/). You can switch later."
+    },
+    {
+      "q": "Does Dr. Fadi place implants here?",
+      "a": "Yes. Dr. Fadi completed a Dental Implant Fellowship at Tufts University School of Dental Medicine and is a Diplomate of the American Board of Oral Implantology/Implant Dentistry and a Fellow of the American Academy of Implant Dentistry. Both are general dentists, not specialists. Implant cases are planned here with 3D imaging, and if one belongs with a specialist, you will hear that first."
+    },
+    {
+      "q": "Does Dr. Sam do Invisalign?",
+      "a": "Yes. Clear aligner treatment, including Invisalign, is one of his main clinical interests, for adults and teens. Not every bite suits aligners, and he will say if yours is one for an orthodontist instead. Start with [whether clear aligners are right for you](/clear-aligners/candidates/)."
+    }
+  ],
+  "related": [
+    "/dentists/dr-fadi-alhrashi/",
+    "/dentists/",
+    "/about/our-approach/",
+    "/dental-implants/single-tooth-implants/",
+    "/clear-aligners/how-it-works/"
+  ],
+  "cta": {
+    "heading": "Ready to meet Dr. Sam?",
+    "body": "New patients are welcome, evenings and weekends included. Book online or call 703-560-7200 and ask for Dr. Sam when you schedule."
+  }
+}

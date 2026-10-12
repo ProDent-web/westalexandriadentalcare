@@ -1,0 +1,151 @@
+{
+  "slug": "/clear-aligners/candidates/",
+  "type": "service",
+  "title": "Is Clear Aligner Treatment Right for Me?",
+  "meta_title": "Am I a Candidate for Clear Aligners? | West Alexandria Dental Care",
+  "meta_description": "What clear aligners do well (crowding, spacing, relapse, mild to moderate bite issues) and where braces or an orthodontist are better.",
+  "eyebrow": "Clear aligners",
+  "h1": "Is clear aligner treatment right for you?",
+  "intro": "Aligners are excellent at some things and poor at others, and the honest answer at a consultation is sometimes 'yes, easily', sometimes 'yes, with braces for part of it', and sometimes 'an orthodontist will do this better'. Here is how we decide, so you know what to expect before you come in.",
+  "icon": "aligner",
+  "facts": [
+    {
+      "label": "Great for",
+      "value": "Crowding, spacing, relapse"
+    },
+    {
+      "label": "Possible for",
+      "value": "Mild to moderate bite issues"
+    },
+    {
+      "label": "Better with braces",
+      "value": "Severe bites, big rotations"
+    },
+    {
+      "label": "Must be stable",
+      "value": "Gums and decay"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What aligners handle well",
+      "style": "check",
+      "items": [
+        "Crowded front teeth, upper or lower.",
+        "Gaps between teeth, including a gap between the front two.",
+        "Teeth that have drifted since braces in your teens.",
+        "A mildly deep bite, where the upper teeth cover too much of the lower.",
+        "A mild overjet or underbite, where the front teeth sit a little too far forward or back.",
+        "A mild crossbite on one or two teeth.",
+        "Small corrections before veneers or bonding, so less tooth structure needs changing."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Where braces or an orthodontist usually do better",
+      "style": "warn",
+      "items": [
+        "Severely rotated teeth, especially rounded premolars and canines.",
+        "Large bite discrepancies that come from the jaws rather than the teeth.",
+        "Teeth that need to be moved a long way up or down, or roots that need significant tipping.",
+        "Cases needing extractions and large space closure.",
+        "Children whose jaws are still growing and need growth guidance.",
+        "Anyone who knows they will not manage twenty-plus hours of wear a day."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What the consultation checks",
+      "items": [
+        {
+          "title": "Gums and decay",
+          "body": "Teeth are only moved in a healthy mouth. Active gum disease or untreated cavities are dealt with first; moving teeth through inflamed bone risks losing bone around them."
+        },
+        {
+          "title": "The bite",
+          "body": "How the upper and lower teeth meet from the front, the side and above. This is where the aligner-or-braces question is largely answered."
+        },
+        {
+          "title": "Space",
+          "body": "Whether there is room to straighten crowding, or whether light polishing between teeth, expansion or occasionally an extraction is needed."
+        },
+        {
+          "title": "Existing dental work",
+          "body": "Crowns and fillings are fine. Implants do not move and bridges move as a block; the plan works around them."
+        },
+        {
+          "title": "Your life",
+          "body": "Wear time, travel, work, sport. The best plan is the one you can keep."
+        },
+        {
+          "title": "The digital plan",
+          "body": "If aligners are suitable, the plan shows the projected result and the number of trays before you decide."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Things that do not rule you out",
+      "style": "check",
+      "items": [
+        "Age. Adults in their sixties and seventies straighten their teeth; healthy gums matter, birthdays do not.",
+        "Previous braces. Relapse after braces is one of the easiest aligner cases.",
+        "Crowns, fillings or an implant. The plan works around them.",
+        "A missing tooth. Aligners can close or hold the space for a later implant.",
+        "A busy schedule. Check-ins are short and available early, late and on weekends."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The commitment, plainly",
+      "body": [
+        "Aligners only work while they are in. Twenty to twenty-two hours a day, every day, for the length of treatment, taking them out only to eat, drink anything but water, and brush. A tray worn casually moves teeth slowly, the next tray then does not fit, and treatment stalls. People who manage this well tend to be people who chose aligners for a reason that matters to them. If that is not you, braces get the same result without depending on habit, and we will say so without judgment."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Referral is not a rejection",
+      "body": "If your case is better handled with braces or by an orthodontist, we refer you with your records and say why. Your general dental care, cleanings and the retainer afterward stay here. Many patients do part of their treatment with a specialist and finish with aligners here.",
+      "cta": {
+        "label": "Aligners vs. braces",
+        "href": "/clear-aligners/vs-braces/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can aligners fix an overbite?",
+      "a": "A mild to moderate deep bite or overjet, often yes. A severe one that comes from jaw size or position usually needs braces, sometimes with other appliances, and is better planned by an orthodontist."
+    },
+    {
+      "q": "I have a crown and an implant. Is that a problem?",
+      "a": "No. Crowned teeth move normally. An implant does not move, so the plan treats it as an anchor and works around it. Attachments can usually be placed on crowns."
+    },
+    {
+      "q": "I have receding gums. Can I still have aligners?",
+      "a": "Possibly, once the gums are stable. Recession is checked carefully, because moving teeth in the wrong direction can worsen it. The plan is designed with that in mind, and a periodontist may be consulted."
+    },
+    {
+      "q": "Do I need a referral to see you about aligners?",
+      "a": "No. Book a consultation directly. If you have seen an orthodontist already, bring any records."
+    },
+    {
+      "q": "Is there an age limit?",
+      "a": "No upper limit. The lower limit is having most permanent teeth in, usually early teens."
+    }
+  ],
+  "related": [
+    "/clear-aligners/",
+    "/clear-aligners/how-it-works/",
+    "/clear-aligners/vs-braces/",
+    "/clear-aligners/for-adults/",
+    "/clear-aligners/for-teens/",
+    "/restorative-dentistry/gum-disease-treatment/"
+  ],
+  "cta": {
+    "heading": "An honest answer in one visit.",
+    "body": "Book a consultation. If aligners suit you, you see the plan. If they do not, you leave knowing what will work instead."
+  }
+}

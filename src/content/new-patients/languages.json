@@ -1,0 +1,142 @@
+{
+  "slug": "/new-patients/languages/",
+  "type": "info",
+  "title": "Languages We Speak",
+  "meta_title": "Dentist in Arabic, Spanish & Portuguese | West Alexandria Dental Care",
+  "meta_description": "West Alexandria Dental Care sees patients in English, Arabic, Spanish and Portuguese. Why language matters for pain, consent and costs.",
+  "eyebrow": "In your language",
+  "h1": "Dental care in English, Arabic, Spanish and Portuguese",
+  "intro": "A dental visit is a conversation before it is anything else. At our office in West Alexandria that conversation can happen in English, Arabic, Spanish or Portuguese, and one of our two dentists, Dr. Fadi Alhrashi, speaks Arabic himself. Tell us your preferred language when you book and we plan the visit around it.",
+  "icon": "language",
+  "facts": [
+    {
+      "label": "Spoken here",
+      "value": "English, Arabic, Spanish, Portuguese"
+    },
+    {
+      "label": "Dr. Fadi",
+      "value": "English and Arabic"
+    },
+    {
+      "label": "To arrange it",
+      "value": "Say so when booking"
+    },
+    {
+      "label": "Someone with you",
+      "value": "Always welcome"
+    }
+  ],
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "A short welcome in Arabic, Spanish and Portuguese",
+      "items": [
+        {
+          "title": "العربية · Arabic",
+          "body": "أهلاً وسهلاً، نتكلم العربية. Ahlan wa sahlan, we speak Arabic. Dr. Fadi Alhrashi speaks it, so the whole conversation about a tooth, from the X-ray to the plan, can happen directly with your dentist. Ask for him by name when you book.",
+          "href": "/dentists/dr-fadi-alhrashi/"
+        },
+        {
+          "title": "Español · Spanish",
+          "body": "Bienvenidos. Hablamos español. Welcome, we speak Spanish. Say so when you book and we schedule your visit for a time when a Spanish-speaking member of the team is here, from the front desk to the chair."
+        },
+        {
+          "title": "Português · Portuguese",
+          "body": "Bem-vindos. Falamos português. Welcome, we speak Portuguese. Tell us when you book and we match your appointment to a time when a Portuguese-speaking team member is in."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Where the exact word matters most",
+      "style": "bullet",
+      "items": [
+        "**Describing pain.** Zings for a second or aches for minutes, hurts on biting or on letting go, reacts to cold or wakes you at night: each answer points to a different cause. Those shades are hard enough in a first language and often vanish in a second. See the [symptom guides](/symptoms/).",
+        "**Your medical history.** Blood thinners, diabetes, bone medications, heart conditions, pregnancy and allergies to antibiotics or latex all change what we do. A detail left out because the word would not come is a safety gap.",
+        "**Consent.** Saying yes means you know what we propose, why, what the alternatives are, including waiting, and what each path risks. A signature on a form you could only half follow is not consent to us.",
+        "**Costs and insurance.** Deductibles, annual maximums and what a plan leaves to you are confusing in any language. The estimate comes in writing before anything starts, and we go through it in yours. See [understanding dental insurance](/new-patients/understanding-dental-insurance/).",
+        "**Instructions for home.** After an [extraction](/restorative-dentistry/tooth-extractions/), what to eat, what to avoid and when to call decide whether recovery is easy or needs a second visit. We go through them in your language before you leave."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to arrange a visit in Arabic, Spanish or Portuguese",
+      "items": [
+        {
+          "title": "Say which language you prefer",
+          "body": "Call {{phone}}, 7:00 AM to 8:00 PM on weekdays and 8:00 AM to 1:00 PM on weekends, or {{book}} at any hour. If you booked online and found no place to say so, a one-minute call afterward does it."
+        },
+        {
+          "title": "We match the time to the right person",
+          "body": "Your appointment is set for a time when a team member who speaks your language is here; for Arabic that can be the dentist himself. It may mean a different hour or day than the first opening, and we will say so plainly."
+        },
+        {
+          "title": "Finish the paperwork your way",
+          "body": "Registration runs through the secure {{forms}} before the visit, including a photo of your insurance card. If you would rather go through it with someone in your language, ask when you call. More on [patient forms](/new-patients/patient-forms/)."
+        },
+        {
+          "title": "The visit, and the questions after it",
+          "body": "The exam, the X-rays on the screen beside you and the plan are discussed in the language you chose, and nothing is scheduled until you say yes. If a question comes up at home, call, name your language, and ask for the person you saw. [Your first visit](/new-patients/first-visit/) has the full order."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Arabic, directly with the dentist",
+      "body": [
+        "Dr. Fadi Alhrashi, one of our two general dentists, speaks English and Arabic. For anyone looking for an Arabic-speaking dentist in Alexandria, that means the case for an implant over a bridge, or the reason a tooth should come out, comes from the person doing the work, with no one in between.",
+        "His focus is restorative, surgical and complex care: [dental implants](/dental-implants/), extractions, dentures and rebuilding broken teeth. Those are the decisions where the follow-up question you would skip in a second language matters most. He and [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) share one set of records, so routine care with either dentist is normal.",
+        "For Spanish and Portuguese, a team member who speaks the language is part of your visit, so the dentist's explanation reaches you and your questions reach the dentist."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Families with one language at home and another at school",
+      "body": [
+        "Many households in West Alexandria and the neighborhoods around it speak one language at home and another at work or school. A child fluent in English by second grade may have a parent more at ease in Spanish or Arabic, and it is the parent who has to understand the plan and agree to it. We talk to each in their own language. See [children's dentistry](/general-dentistry/childrens-dentistry/).",
+        "Older adults often return to a first language when tired or in pain, and they carry the longest medication lists. A grandparent answering in Arabic, Spanish or Portuguese gives us a fuller history than one hunting for the English word. See [dental care for seniors](/general-dentistry/dental-care-for-seniors/).",
+        "If dentistry makes you nervous, our step-by-step explanation and stop signal only work in a language you understand. See [nervous about the dentist](/sedation-dentistry/dental-anxiety/)."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "If your language is not one of these four",
+      "body": "You are still welcome. Call, tell us the language you speak, and ask what we can arrange. A family member or friend who can interpret is welcome in the room; mention it when you book so we set aside the time. If something hurts right now, call first in whatever language you can manage.",
+      "cta": {
+        "label": "Call 703-560-7200",
+        "href": "tel"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I book in Spanish or Portuguese?",
+      "a": "Yes. You can {{book}} at any hour or call {{phone}} while we are open. Say that you prefer Spanish or Portuguese and we schedule a time when a team member who speaks it is here. If the online booking has no place to say so, a short call afterward sorts it out."
+    },
+    {
+      "q": "Does Dr. Fadi speak Arabic?",
+      "a": "Yes. Dr. Fadi Alhrashi speaks English and Arabic and sees patients in both; ask for him by name when you book. Dr. Sameer Atrash works from the same records, so a cleaning on a day Dr. Fadi is not in is simple to arrange."
+    },
+    {
+      "q": "Can I bring my own interpreter or a family member?",
+      "a": "Yes. Tell us when you book so we plan the space and a little extra time. For decisions about your own treatment, though, we want you to hear it from us in a language you understand rather than through a child or a neighbor, which is why we ask about language before the visit."
+    },
+    {
+      "q": "What if I have an emergency and cannot explain it in English?",
+      "a": "Call {{phone}} first and say the language you speak. Pain can be pointed to, and a [digital X-ray](/general-dentistry/digital-x-rays/) shows much of the rest; we will see you the same day during our hours and work out the words together. See [emergency dental care](/emergency-dentistry/)."
+    }
+  ],
+  "related": [
+    "/new-patients/first-visit/",
+    "/new-patients/patient-forms/",
+    "/dentists/dr-fadi-alhrashi/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/accessibility/",
+    "/sedation-dentistry/dental-anxiety/"
+  ],
+  "cta": {
+    "heading": "Book in the language you think in",
+    "body": "Call 703-560-7200 or book online at any hour, tell us whether you prefer English, Arabic, Spanish or Portuguese, and we plan the rest of the visit around it, evenings and weekends included."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "/clear-aligners/how-it-works/",
+  "type": "service",
+  "title": "How Clear Aligners Work",
+  "meta_title": "How Clear Aligners Work, Step by Step | West Alexandria Dental Care",
+  "meta_description": "From consultation and digital plan to the final retainer: how clear aligners move teeth, what attachments and interproximal reduction are.",
+  "eyebrow": "Clear aligners",
+  "h1": "How clear aligners work",
+  "intro": "A series of clear plastic trays, each slightly different from the last, each worn for a week or two, each moving the teeth a fraction of a millimeter toward positions planned on a computer before the first tray was made. That is the whole idea. The details, from attachments to refinements, are what make it work well.",
+  "icon": "aligner",
+  "facts": [
+    {
+      "label": "Wear",
+      "value": "20–22 hours a day"
+    },
+    {
+      "label": "Change trays",
+      "value": "Every one to two weeks"
+    },
+    {
+      "label": "Check-ins",
+      "value": "Every six to ten weeks"
+    },
+    {
+      "label": "At the end",
+      "value": "A retainer, for good"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "From first visit to final retainer",
+      "items": [
+        {
+          "title": "Consultation",
+          "body": "We look at your teeth, your bite and your gums, and talk about what you want changed. Decay and gum disease are treated first; teeth are only moved in a healthy mouth. If aligners are not the right tool for your case, we say so here."
+        },
+        {
+          "title": "Records",
+          "body": "Photographs, X-rays and a precise record of your teeth. These are the raw material for the plan."
+        },
+        {
+          "title": "The digital plan",
+          "body": "Software maps every tooth's movement from today to the finished result, in stages. You see the projected outcome and the number of aligners on a screen and approve it, or ask for changes, before anything is made."
+        },
+        {
+          "title": "Aligners made",
+          "body": "The full series, or the first batch, is manufactured to the plan and sent to the office."
+        },
+        {
+          "title": "Fitting and attachments",
+          "body": "The first trays are fitted and checked. Small tooth-colored bumps of composite, called attachments, may be bonded to certain teeth to give the trays a grip for rotations and more complex movements. They come off at the end."
+        },
+        {
+          "title": "Wearing and switching",
+          "body": "Twenty to twenty-two hours a day, out only to eat, drink anything other than water, and brush. You switch to the next tray on schedule at home."
+        },
+        {
+          "title": "Check-ins",
+          "body": "Short visits every six to ten weeks to check that the teeth are tracking the plan and to hand over the next sets. Evening and weekend slots make these easy to keep."
+        },
+        {
+          "title": "Refinements",
+          "body": "Near the end, if some teeth have not quite reached their planned positions, new records are taken and a short refinement series finishes the job. This is normal, not a failure."
+        },
+        {
+          "title": "Retainers",
+          "body": "Attachments are removed, the teeth are polished, and a retainer is made. Teeth move back without one, so this step is permanent. See [retainers](/clear-aligners/retainers/)."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What moves the teeth",
+      "body": [
+        "Each tray is made to a position slightly ahead of where the teeth are. When you put it in, it presses gently on the teeth that need to move. Bone on the pressure side slowly resorbs and bone on the other side builds up, and the tooth shifts. By the time the tray fits passively, after a week or two, the teeth have caught up to it and the next tray takes over. Consistent wear is what keeps that rhythm going; a tray worn twelve hours a day moves teeth far less than one worn twenty-two."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Two terms you may hear",
+      "items": [
+        {
+          "title": "Attachments",
+          "body": "Small composite shapes bonded to the front or side of some teeth, matched to the tooth color. They give the aligner something to push against for rotations and vertical movements. Barely visible, and removed at the end."
+        },
+        {
+          "title": "Interproximal reduction",
+          "body": "Very light polishing between certain teeth, a fraction of a millimeter, to create the room needed to straighten crowding without extractions. Painless, done in minutes, and only where the plan calls for it."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Typical timelines",
+      "columns": [
+        "Minor",
+        "Moderate",
+        "Complex"
+      ],
+      "rows": [
+        [
+          "Example",
+          "Slight crowding or spacing, relapse after braces",
+          "Noticeable crowding, mild bite issues",
+          "Significant bite correction, large rotations"
+        ],
+        [
+          "Aligners",
+          "Ten to twenty",
+          "Twenty to forty",
+          "Forty or more, with refinements"
+        ],
+        [
+          "Time",
+          "Four to nine months",
+          "Nine to fifteen months",
+          "Fifteen months or longer"
+        ],
+        [
+          "Note",
+          "Often finished quickly with good wear",
+          "The most common case",
+          "May be better suited to braces or an orthodontist"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Living with aligners, honestly",
+      "body": "The first few days of each new tray feel tight. You will brush more often, because trays go back in after every meal. You will carry a case. Coffee has to be black or wait until the trays are out. People who do these things get the result on the plan; people who cannot are better off with braces, and we would rather say so at the start.",
+      "cta": {
+        "label": "Is clear aligner treatment right for me?",
+        "href": "/clear-aligners/candidates/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I eat with aligners in?",
+      "a": "No, except water. Food cracks and stains the trays and traps sugar against the teeth. Take them out, eat, brush, put them back. Most people find it simplifies snacking."
+    },
+    {
+      "q": "Do aligners affect speech?",
+      "a": "A slight lisp for the first day or two is common and disappears as the tongue adapts. Reading aloud speeds it up."
+    },
+    {
+      "q": "What if I lose a tray?",
+      "a": "Call. Depending on where you are in the series we may have you move to the next tray early or go back to the previous one, and order a replacement. Keep old trays until the next check-in for exactly this reason."
+    },
+    {
+      "q": "Are the attachments visible?",
+      "a": "They are tooth-colored and small, and most people do not notice them. From a conversational distance the trays and attachments together are far less visible than braces."
+    },
+    {
+      "q": "Who oversees the treatment?",
+      "a": "Dr. Sameer Atrash, who lists clear aligner treatment, including Invisalign, and digital dentistry among his clinical interests, and the office team. Cases needing an orthodontist are referred."
+    }
+  ],
+  "related": [
+    "/clear-aligners/",
+    "/clear-aligners/candidates/",
+    "/clear-aligners/retainers/",
+    "/clear-aligners/vs-braces/",
+    "/clear-aligners/cost/",
+    "/dentists/dr-sameer-atrash/"
+  ],
+  "cta": {
+    "heading": "See the plan before the first tray.",
+    "body": "A consultation gives you a digital preview, a timeline and a written cost. Evenings and weekends are available."
+  }
+}

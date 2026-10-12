@@ -1,0 +1,148 @@
+{
+  "slug": "/dental-implants/candidates/",
+  "type": "service",
+  "title": "Are Implants Right for Me?",
+  "meta_title": "Am I a Candidate for Dental Implants? | West Alexandria Dental Care",
+  "meta_description": "Implant candidacy explained: bone volume, gum health, smoking, diabetes, medications, age and general health; what the consultation and 3D scan evaluate.",
+  "eyebrow": "Dental implants",
+  "h1": "Are dental implants right for you?",
+  "intro": "Most adults missing a tooth can have an implant. The exceptions matter, though, and they are better found at a consultation than after a failed implant. Here is what we weigh, what the 3D scan shows, and what the alternatives are when the honest answer is not yet, or not this way.",
+  "icon": "shield-check",
+  "facts": [
+    {
+      "label": "Decided by",
+      "value": "Bone, gums, health, habits"
+    },
+    {
+      "label": "Key test",
+      "value": "A 3D scan"
+    },
+    {
+      "label": "Age limit",
+      "value": "None, once growth is complete"
+    },
+    {
+      "label": "Gum disease",
+      "value": "Treated first"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What makes a good candidate",
+      "style": "check",
+      "items": [
+        "Enough bone, in height and width, where the implant would go, or bone that can be rebuilt with a graft.",
+        "Healthy gums, or gum disease that has been treated and is stable.",
+        "General health that allows minor surgery and normal healing.",
+        "No smoking, or a willingness to stop around the time of surgery and healing.",
+        "Jaw growth complete, which for most people means late teens or older.",
+        "A commitment to daily cleaning and regular check-ups afterward."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "The factors we look at closely",
+      "items": [
+        {
+          "title": "Bone",
+          "body": "Bone shrinks after a tooth is lost. The cone-beam CT scan measures exactly what is there. Too little usually means a graft first, not a refusal."
+        },
+        {
+          "title": "Gum disease",
+          "body": "The bacteria that loosen teeth will loosen an implant. Active periodontitis is treated and stabilized before any implant is placed.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Smoking",
+          "body": "Smoking roughly doubles the failure rate during healing and raises the risk of gum problems around implants later. We say so plainly and talk about timing."
+        },
+        {
+          "title": "Diabetes",
+          "body": "Well-controlled diabetes is compatible with implants. Poorly controlled diabetes slows healing and raises infection risk, so control comes first, with your physician."
+        },
+        {
+          "title": "Medications",
+          "body": "Bone-strengthening drugs such as bisphosphonates, some cancer treatments, long-term steroids and anticoagulants all change the plan. Bring your full list."
+        },
+        {
+          "title": "Other conditions",
+          "body": "Previous radiation to the jaw, uncontrolled autoimmune disease, heavy grinding and certain heart conditions need discussion and sometimes a conversation with your doctor."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What the consultation involves",
+      "items": [
+        {
+          "title": "History",
+          "body": "Your health, medications, habits and what you want the result to do for you."
+        },
+        {
+          "title": "Examination",
+          "body": "The gap, the neighboring teeth, your bite, your gums, and how much room there is for a crown."
+        },
+        {
+          "title": "3D scan",
+          "body": "A cone-beam CT shows bone volume and density, and the position of the nerve in the lower jaw and the sinus in the upper. This is the step that turns a guess into a plan."
+        },
+        {
+          "title": "A written plan",
+          "body": "Whether an implant is advisable, whether grafting is needed, how many visits, the timeline and the cost, with the alternatives beside it. No pressure to decide on the day."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "When there is not enough bone",
+      "body": [
+        "Bone can often be rebuilt. A small graft at the time of extraction preserves the socket. A graft placed a few months before the implant can widen a thin ridge. In the upper back jaw, where the sinus sits close, a sinus lift adds bone beneath it. Each adds time and cost, and each is explained before you commit. For some people the amount of grafting needed tips the balance toward a bridge or a partial denture instead, and we say so."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "If implants are not the answer",
+      "body": "A bridge, a partial denture or a full denture may serve you better, or serve you now while implants are planned for later. None of these is a consolation prize; each is the right tool for particular mouths. The decision guide sets them side by side.",
+      "cta": {
+        "label": "Replacing missing teeth",
+        "href": "/restorative-dentistry/replacing-missing-teeth/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there an upper age limit?",
+      "a": "No. Implants are placed successfully in people in their eighties and nineties. Bone, health and medications matter; birthdays do not."
+    },
+    {
+      "q": "Can teenagers have implants?",
+      "a": "Not until jaw growth is complete, usually late teens for girls and a little later for boys, because an implant does not move with a growing jaw. A temporary replacement bridges the gap until then."
+    },
+    {
+      "q": "I have had gum disease. Can I still have implants?",
+      "a": "Yes, once it is treated and stable, with a commitment to periodontal maintenance afterward. Untreated gum disease is the single biggest reason implants fail later."
+    },
+    {
+      "q": "I take a blood thinner. Is that a problem?",
+      "a": "Usually not. Most implant placements are done without stopping anticoagulants, using local measures to control bleeding, and we coordinate with your physician. Never stop a blood thinner on your own."
+    },
+    {
+      "q": "What if my tooth has been missing for years?",
+      "a": "An implant is still often possible. The scan shows how much bone remains. If it has shrunk, a graft can usually rebuild it, and the plan accounts for the extra step."
+    }
+  ],
+  "related": [
+    "/dental-implants/",
+    "/dental-implants/single-tooth-implants/",
+    "/dental-implants/cost/",
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/restorative-dentistry/replacing-missing-teeth/",
+    "/general-dentistry/dental-care-for-seniors/"
+  ],
+  "cta": {
+    "heading": "Find out with a scan, not a guess.",
+    "body": "Book an implant consultation. The 3D scan and exam answer the question in one visit, and you leave with a written plan either way."
+  }
+}

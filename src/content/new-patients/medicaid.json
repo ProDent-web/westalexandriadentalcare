@@ -1,0 +1,174 @@
+{
+  "slug": "/new-patients/medicaid/",
+  "type": "info",
+  "title": "Virginia Medicaid Dental",
+  "meta_title": "Virginia Medicaid Dentist in Alexandria | West Alexandria Dental Care",
+  "meta_description": "West Alexandria Dental Care accepts Virginia Medicaid for children and adults. What Smiles For Children covers, what to bring.",
+  "eyebrow": "New patients",
+  "h1": "Virginia Medicaid dental care in West Alexandria",
+  "intro": "We accept Virginia Medicaid for children and adults. Fewer dental offices in Northern Virginia do, and fewer still see the whole family in one place. If you or your child is covered, you see the same two dentists, in the same chairs, during the same seven-day hours as every other patient.",
+  "icon": "card",
+  "facts": [
+    {
+      "label": "Who is covered",
+      "value": "Children and adults"
+    },
+    {
+      "label": "Dental program",
+      "value": "Smiles For Children"
+    },
+    {
+      "label": "Bring",
+      "value": "Your Medicaid ID"
+    },
+    {
+      "label": "Hours",
+      "value": "Same as every patient"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "How dental coverage works inside Virginia Medicaid",
+      "body": [
+        "Virginia groups its Medicaid and FAMIS programs under one name, Cardinal Care. Whichever health plan handles your medical care, the dental benefit runs separately through Smiles For Children, a program currently administered by DentaQuest. That is the name you will see on dental paperwork.",
+        "Children and teens have had dental coverage through Medicaid and FAMIS for many years, from check-ups and sealants to fillings. Since July 2021, adults 21 and older with full Medicaid benefits have a comprehensive dental benefit as well.",
+        "The catch is in the words full benefits. Coverage depends on your eligibility category, a few categories are limited or emergency-only, some services need prior approval, and the rules change. The table below is the general picture, not a promise about your plan, so we confirm your coverage before the visit and tell you what we find."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "What is usually covered, for children and for adults",
+      "columns": [
+        "Children and teens",
+        "Adults 21 and older"
+      ],
+      "rows": [
+        [
+          "Check-ups, cleanings, X-rays",
+          "Covered on a set schedule",
+          "Covered on a set schedule"
+        ],
+        [
+          "Fillings, crowns, root canals",
+          "Covered when needed",
+          "Covered; some need prior approval"
+        ],
+        [
+          "Gum treatment, extractions",
+          "Covered when needed",
+          "Covered when needed"
+        ],
+        [
+          "Dentures and partials",
+          "Covered when needed",
+          "Covered with prior approval, replacement limits"
+        ],
+        [
+          "Braces",
+          "Only when medically necessary",
+          "Generally not covered"
+        ],
+        [
+          "Implants, whitening, veneers",
+          "Generally not covered",
+          "Generally not covered"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Booking with Medicaid, from first call to first visit",
+      "items": [
+        {
+          "title": "Tell us you have Medicaid",
+          "body": "When you {{book}} or call {{phone}}, mention Virginia Medicaid or FAMIS and whose coverage it is. Every open time is available to you, early mornings, evenings and weekends included."
+        },
+        {
+          "title": "Send us your Medicaid ID",
+          "body": "Register through our secure {{forms}} before the visit and upload a photo of your Medicaid card, as you would an insurance card, or bring the card and we copy it at the desk."
+        },
+        {
+          "title": "We confirm your coverage",
+          "body": "Before you arrive we check that your coverage is active, which eligibility category applies and, where the program shows it, when your last cleaning and X-rays were done, so a routine visit is not booked before the program allows it. If anything looks off, we call you first."
+        },
+        {
+          "title": "The visit itself",
+          "body": "A conversation, a full exam, X-rays only where they would change the plan, and usually a cleaning the same day. [Your first visit](/new-patients/first-visit/) has the details."
+        },
+        {
+          "title": "If a treatment needs prior approval",
+          "body": "Crowns and dentures, among other services, need the program's approval before we can schedule them. We send the request with X-rays and notes, tell you roughly how long it tends to take, and you are not asked to pay for a covered service while we wait."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Same dentists, same hours, same waiting room",
+      "body": [
+        "There is no Medicaid schedule here, no Medicaid day, and no second door. You see [Dr. Sameer Atrash or Dr. Fadi Alhrashi](/dentists/) in the same rooms, with the same materials and imaging, as a patient with any other plan.",
+        "Hours matter when a missed shift costs money. We see patients 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM on Saturday and Sunday, so a check-up can happen before work, after work or on a weekend morning, and a child's visit can wait until school is out.",
+        "Care is available in English, Arabic, Spanish and Portuguese; say which you prefer when you book, or see [languages we speak](/new-patients/languages/). The office is in the Bradlee Office Building just off I-395 at the King Street exit, with free parking, an easy reach from across West Alexandria and from Landmark, Lincolnia, Bailey's Crossroads and South Arlington."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What to bring to a Medicaid appointment",
+      "style": "check",
+      "items": [
+        "Your Virginia Medicaid ID card, or the member ID number if the card is missing. Each family member has a separate ID, so bring your child's card for a child's visit.",
+        "A photo ID for the adult attending. A parent or legal guardian should come with a child under 18 to hear the findings and consent to treatment.",
+        "A list of medications and health conditions.",
+        "Recent X-rays from a previous dentist, if they can be sent, since the program limits how often some are covered."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "If your coverage has lapsed or you are not sure it is active",
+      "body": "Medicaid eligibility renews on a schedule, and coverage can pause when a renewal is missed or a form goes astray. If we find yours inactive, we tell you before the visit and you choose: come in as a patient without insurance, with a written estimate first, or finish the renewal through Cover Virginia or your local Department of Social Services and come in after.",
+      "cta": {
+        "label": "Visiting without insurance",
+        "href": "/new-patients/no-insurance/"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "What you will not be billed for",
+      "body": [
+        "For a service the program covers and, where required, approves, the program's payment is the payment. A participating office cannot bill you the difference between its usual fee and what Medicaid pays, and we would not want to. If your category carries a copay, you hear about it before the appointment, not on a statement.",
+        "If you want something the program does not cover, whitening for instance, or an implant where a partial denture is the covered option, we say so plainly, put the self-pay figure in writing, and lay out the covered alternative and the choice of doing nothing for now. [Understanding dental insurance](/new-patients/understanding-dental-insurance/) explains the vocabulary; [insurance we accept](/new-patients/insurance/) lists the other plans."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Virginia Medicaid cover dental care for adults?",
+      "a": "Yes, since July 2021, for adults 21 and older with full Medicaid benefits. In general terms it covers exams, cleanings, X-rays, fillings, crowns, root canals, gum treatment, extractions and dentures, with prior approval for some. A few eligibility categories are limited or emergency-only, which is why we check yours first."
+    },
+    {
+      "q": "Do I need a referral from my doctor to see a dentist?",
+      "a": "No. Routine dental care under Virginia Medicaid does not need a referral from a physician or your health plan; {{book}} directly or call {{phone}}. If you need an oral surgeon or orthodontist later, we make that referral and explain how it works with your coverage."
+    },
+    {
+      "q": "Can my children and I be seen at the same office?",
+      "a": "Yes, and often on the same day. Both dentists see children, teens and adults, so a family with FAMIS for the kids and adult Medicaid for a parent has one office and one set of records. [Children's dentistry](/general-dentistry/childrens-dentistry/) explains how we work with younger patients."
+    },
+    {
+      "q": "Does Medicaid help with getting to the appointment?",
+      "a": "Many Virginia Medicaid health plans include rides to medical and dental appointments as a member benefit. It is arranged through your health plan's member services, not through our office, and often needs a few days' notice, so ask your plan early if you will need one."
+    }
+  ],
+  "related": [
+    "/new-patients/insurance/",
+    "/new-patients/first-visit/",
+    "/new-patients/patient-forms/",
+    "/new-patients/no-insurance/",
+    "/general-dentistry/childrens-dentistry/",
+    "/general-dentistry/family-dentistry/"
+  ],
+  "cta": {
+    "heading": "Covered by Virginia Medicaid and looking for a dentist in Alexandria?",
+    "body": "Book online or call 703-560-7200, mention Medicaid or FAMIS when you book, and we will confirm your coverage before you arrive. Early mornings, evenings and weekend mornings are all open to you."
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "/new-patients/understanding-dental-insurance/",
+  "type": "info",
+  "title": "Understanding Dental Insurance",
+  "meta_title": "Understanding Dental Insurance | West Alexandria Dental Care",
+  "meta_description": "Deductibles, annual maximums, 100/80/50 coverage, waiting periods and frequency limits, explained in plain English by West Alexandria Dental Care.",
+  "eyebrow": "Plain-English guide",
+  "h1": "Dental insurance, explained in plain English",
+  "intro": "Dental insurance is written in a language nobody speaks at home. Here are the terms you will meet, how a typical plan decides what it pays, and how we check your benefits before you sit in the chair at our West Alexandria office.",
+  "icon": "card",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why a dental plan is not like your medical plan",
+      "body": [
+        "Medical insurance mostly protects you from a huge bill. A dental plan does nearly the opposite: it pays a share of routine, predictable care, then stops at a fixed annual maximum. Anything above that line is yours.",
+        "That is why covered does not mean free. Covered means the plan pays its share after any deductible. The rest is yours, and we put it in writing before anything starts."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The words on your benefits summary, decoded",
+      "columns": [
+        "Plain English",
+        "Effect on your bill"
+      ],
+      "rows": [
+        [
+          "Premium",
+          "The monthly cost of the plan, often taken from a paycheck.",
+          "Paid whether or not you visit."
+        ],
+        [
+          "Deductible",
+          "What you pay each plan year before the plan pays anything.",
+          "Many plans waive it for cleanings and exams."
+        ],
+        [
+          "Annual maximum",
+          "The most the plan pays in a plan year, often the calendar year.",
+          "Past it, the rest is yours until the year resets."
+        ],
+        [
+          "Coinsurance or copay",
+          "A percentage split, or a fixed amount per visit on HMO-style plans.",
+          "A plan paying 80 percent leaves you 20 percent of the allowed fee."
+        ],
+        [
+          "In-network",
+          "The dentist has a contract with the insurer and accepts its fees.",
+          "Your share is figured from the contracted fee."
+        ],
+        [
+          "Out-of-network",
+          "No contract between office and plan.",
+          "The plan may pay a share of its own allowed amount. The difference is yours."
+        ],
+        [
+          "Waiting period",
+          "Months enrolled before a category is covered.",
+          "Common for major work on new plans, often waived by employer plans."
+        ],
+        [
+          "Frequency limit",
+          "How often the plan pays for a service.",
+          "Two cleanings a year is typical. X-rays have their own intervals."
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The 100/80/50 pattern, and why yours may not match it",
+      "body": [
+        "Many plans sort care into three tiers. Preventive, meaning exams, cleanings, routine X-rays and often fluoride and sealants for children, is frequently paid in full. Basic work such as fillings is often paid around 80 percent, and major work such as crowns, bridges and dentures around half.",
+        "Treat that as a pattern, not a promise. Some plans pay less at every tier, some call root canals basic while others call them major, and some exclude implants altogether. Percentages also apply to the plan's allowed fee, not a dentist's charge, which is why we read your plan documents before quoting your share."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The fine print that most often causes a surprise",
+      "style": "bullet",
+      "items": [
+        "A limit written as once every six months is stricter than twice a year. A cleaning on June 1 and another on November 20 means the second is denied, so check your last visit date first.",
+        "Bitewing X-rays are often covered once a year, a full set only every few years. Recent [X-rays](/general-dentistry/digital-x-rays/) from another office can be sent to us instead of repeated.",
+        "An alternate benefit, or downgrade, pays for a [tooth-colored filling](/restorative-dentistry/tooth-colored-fillings/) on a back tooth at the rate of a silver one. The difference is yours.",
+        "A missing tooth clause excludes replacing a tooth lost before your coverage began, which matters for bridges, dentures and implants."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How insurance is handled at West Alexandria Dental Care",
+      "items": [
+        {
+          "title": "Before your visit",
+          "body": "Upload a photo of your card through the {{forms}} or give us the plan name by phone. We confirm eligibility, your remaining maximum, and whether our office participates with your specific plan, which varies by employer."
+        },
+        {
+          "title": "After the exam",
+          "body": "You get a written estimate that separates the plan's expected share from yours. If something can reasonably wait, it says so. Nothing is scheduled until you agree."
+        },
+        {
+          "title": "For larger work",
+          "body": "For crowns, implants, dentures or other major work, we can send a pre-treatment estimate so the insurer states in advance what it expects to pay. Not a binding promise, but it removes most of the guesswork."
+        },
+        {
+          "title": "After treatment",
+          "body": "We file the claim. If the insurer pays differently from what it said, we go through the explanation of benefits with you before anything is added."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Before your plan year resets",
+      "body": [
+        "Most annual maximums do not carry over. If your deductible is met and benefits remain, autumn is a sensible time to finish planned work. The same crown in January starts a new deductible and a new maximum.",
+        "When treatment is larger than one year's maximum, splitting it across two plan years, urgent pieces first, often means the plan pays a share of all of it. We will tell you which parts can safely wait.",
+        "We see patients 7 AM to 8 PM weekdays and 8 AM to 1 PM weekends, so a year-end visit need not mean leaving work early. See [evening and weekend appointments](/new-patients/evening-and-weekend-appointments/)."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Plans we accept",
+      "body": "We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Participation and benefits vary by employer and plan, so one insurer can work differently for two neighbors in Alexandria. If yours is not listed, call {{phone}} and we will check.",
+      "cta": {
+        "label": "Insurance we accept",
+        "href": "/new-patients/insurance/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My plan covers cleanings at 100 percent. Why did I get a bill?",
+      "a": "Either the visit fell inside a frequency limit, something done that day, such as fluoride for an adult, sits in a different category, or the plan paid 100 percent of its own allowed fee rather than the full charge, which happens out of network. The explanation of benefits shows which."
+    },
+    {
+      "q": "Does the deductible apply to a check-up?",
+      "a": "On many plans, no. Preventive visits are often paid before the deductible, so a [cleaning and exam](/general-dentistry/cleanings-and-exams/) costs nothing out of pocket. Some plans do apply it, so we check yours rather than assume."
+    },
+    {
+      "q": "Is the estimate you give me final?",
+      "a": "It is our best reading of your plan that day, and usually right. The insurer makes the final decision when it processes the claim. If it pays differently, we show you where and why before anything is added."
+    },
+    {
+      "q": "What happens when I need more than my annual maximum covers?",
+      "a": "The plan stops paying and the rest is yours. We sort treatment into what should happen now and what can wait, and where it is safe we schedule the rest after the maximum resets. [Visiting without insurance](/new-patients/no-insurance/) explains how we stage care."
+    }
+  ],
+  "related": [
+    "/new-patients/insurance/",
+    "/new-patients/no-insurance/",
+    "/new-patients/medicaid/",
+    "/new-patients/patient-forms/",
+    "/new-patients/first-visit/",
+    "/general-dentistry/cleanings-and-exams/"
+  ],
+  "cta": {
+    "heading": "Send us the card and we will do the reading",
+    "body": "Upload a photo of your insurance card through the {{forms}} or call 703-560-7200 with your plan name. We check what it covers, what it limits and what your share would be before you ever sit in the chair."
+  }
+}

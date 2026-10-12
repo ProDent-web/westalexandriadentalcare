@@ -1,0 +1,159 @@
+{
+  "slug": "/restorative-dentistry/sleep-apnea/",
+  "type": "service",
+  "title": "Sleep Apnea Appliances",
+  "meta_title": "Sleep Apnea Oral Appliances | West Alexandria Dental Care",
+  "meta_description": "Custom oral appliances for snoring and mild to moderate obstructive sleep apnea, for people who cannot tolerate CPAP.",
+  "eyebrow": "Restore your smile",
+  "h1": "Sleep apnea oral appliances in West Alexandria",
+  "intro": "Obstructive sleep apnea is a medical condition: the airway collapses repeatedly during sleep, breathing stops for seconds at a time, and the body jolts awake to restart it, often hundreds of times a night. CPAP is the standard treatment. For people who cannot tolerate it, and for simple snoring, a custom oral appliance made by a dentist is a recognized alternative, after a physician has made the diagnosis.",
+  "icon": "moon",
+  "facts": [
+    {
+      "label": "First step",
+      "value": "A sleep study from a"
+    },
+    {
+      "label": "Suits",
+      "value": "Snoring, mild to moderate apnea"
+    },
+    {
+      "label": "Visits",
+      "value": "Three or four"
+    },
+    {
+      "label": "Worn",
+      "value": "Every night"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "How an oral appliance works",
+      "body": [
+        "The most common type is a mandibular advancement device: two thin custom trays, upper and lower, connected so that the lower jaw is held slightly forward during sleep. Moving the jaw forward pulls the tongue and soft tissue at the back of the throat forward too, which keeps the airway open. It is small, silent, travels in a pocket, and needs no electricity.",
+        "For snoring without apnea, the same device reduces or stops the noise. For mild to moderate apnea, it is an accepted treatment on its own. For severe apnea it is generally used only when CPAP has failed, and under a physician's direction."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Diagnosis comes first, and not from us",
+      "body": "Sleep apnea raises the risk of high blood pressure, heart disease, stroke and daytime accidents. It is diagnosed by a physician with a sleep study, at home or in a lab, not by a dentist. If you snore loudly, gasp or stop breathing during sleep, wake unrefreshed or fall asleep during the day, talk to your doctor first. We make the appliance once the diagnosis and the recommendation exist.",
+      "cta": {
+        "label": "Snoring: what to notice",
+        "href": "/symptoms/snoring/"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Getting an appliance",
+      "items": [
+        {
+          "title": "Referral or prescription",
+          "body": "Your physician or sleep specialist diagnoses the condition and recommends oral appliance therapy. Bring the sleep study results."
+        },
+        {
+          "title": "Dental evaluation",
+          "body": "We check that your teeth and gums can support the device, look at your jaw joints and how far your jaw can comfortably move forward, and treat anything that needs attention first."
+        },
+        {
+          "title": "Impressions and bite record",
+          "body": "Precise impressions of both arches and a record of the forward jaw position. The laboratory makes the appliance to those records."
+        },
+        {
+          "title": "Fitting and titration",
+          "body": "The device is fitted and adjusted. Over the following weeks the forward position is advanced in small steps until snoring stops and you wake refreshed, without jaw discomfort."
+        },
+        {
+          "title": "Follow-up with your physician",
+          "body": "A repeat sleep study with the appliance in place confirms it is controlling the apnea. We coordinate with your doctor and see you for periodic checks of fit and bite."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Side effects to know about",
+      "style": "bullet",
+      "items": [
+        "Jaw or tooth soreness in the morning for the first weeks, which usually eases. Morning stretching exercises help.",
+        "Extra saliva, or a dry mouth, early on.",
+        "A bite that feels different for a few minutes after removing the device. Over years, small permanent bite changes can occur, which is why fit and bite are checked regularly.",
+        "Tooth movement in some long-term wearers, monitored at check-ups.",
+        "It is not suitable for people with too few teeth to hold it, active gum disease, or certain jaw joint problems; those are assessed at the evaluation."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Oral appliance or CPAP?",
+      "columns": [
+        "Oral appliance",
+        "CPAP"
+      ],
+      "rows": [
+        [
+          "Best for",
+          "Snoring, mild to moderate apnea, CPAP intolerance",
+          "All severities, especially severe apnea"
+        ],
+        [
+          "Effectiveness",
+          "Good for mild to moderate; less for severe",
+          "Highest when used consistently"
+        ],
+        [
+          "Comfort and compliance",
+          "Small, silent, easy to travel with",
+          "Mask and machine; many people stop using it"
+        ],
+        [
+          "Side effects",
+          "Jaw soreness, bite changes over time",
+          "Dry nose, mask irritation, noise"
+        ],
+        [
+          "Who prescribes",
+          "Physician diagnoses; dentist makes it",
+          "Physician"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Grinding and apnea often travel together",
+      "body": [
+        "Many people who [grind their teeth](/symptoms/teeth-grinding/) at night also have disrupted breathing, because the jaw clenches as the body fights to reopen the airway. If you have been told you grind and you also snore or wake tired, mention both. A night guard protects the teeth but does nothing for breathing; an apnea appliance can address both, once the diagnosis is made."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you test me for sleep apnea?",
+      "a": "No. Diagnosis requires a sleep study ordered and interpreted by a physician. We can tell you whether what we see in your mouth, such as heavy grinding wear or a crowded airway, makes it worth asking your doctor, and we make the appliance once they recommend it."
+    },
+    {
+      "q": "Is an oral appliance as good as CPAP?",
+      "a": "For mild to moderate apnea, studies show similar benefit in practice, largely because people actually wear the appliance every night. For severe apnea CPAP is more effective, and an appliance is used only if CPAP cannot be tolerated."
+    },
+    {
+      "q": "Will insurance cover it?",
+      "a": "Oral appliances for diagnosed sleep apnea are often covered by medical insurance rather than dental, with a physician's prescription and the sleep study on file. Coverage for snoring alone is rare. We help you gather the documentation and tell you the cost up front."
+    },
+    {
+      "q": "How long does an appliance last?",
+      "a": "Typically three to five years with nightly use, depending on grinding and care. It is cleaned daily like a night guard and checked at your dental visits."
+    }
+  ],
+  "related": [
+    "/symptoms/snoring/",
+    "/symptoms/teeth-grinding/",
+    "/general-dentistry/night-guards/",
+    "/restorative-dentistry/tmj-treatment/",
+    "/symptoms/dry-mouth/",
+    "/symptoms/jaw-pain/"
+  ],
+  "cta": {
+    "heading": "Diagnosed and cannot tolerate CPAP?",
+    "body": "Bring your sleep study and physician's recommendation to a consultation. We will check whether an appliance suits your mouth and plan the fitting."
+  }
+}

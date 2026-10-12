@@ -1,0 +1,144 @@
+{
+  "slug": "/symptoms/bad-breath/",
+  "type": "symptom",
+  "title": "Bad Breath",
+  "meta_title": "Bad Breath: Causes and What Actually Fixes It | WA Dental Care",
+  "meta_description": "Persistent bad breath usually starts in the mouth: gum disease, tongue coating, dry mouth, cavities or trapped food.",
+  "eyebrow": "Symptom guide",
+  "h1": "Bad breath",
+  "intro": "Breath that is still bad after brushing is almost always coming from somewhere specific: the back of the tongue, a gum pocket, a cavity, a space under a bridge, or a mouth that has gone dry. Mints and mouthwash hide it for twenty minutes. Finding the source fixes it, and the source is usually easy to find.",
+  "icon": "wave",
+  "facts": [
+    {
+      "label": "Most common cause",
+      "value": "Gums and tongue"
+    },
+    {
+      "label": "Mouthwash",
+      "value": "Masks, does not fix"
+    },
+    {
+      "label": "See us",
+      "value": "If it persists two weeks"
+    },
+    {
+      "label": "Fix",
+      "value": "Depends on the source"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Gum disease.** Bacteria in gum pockets produce sulfur compounds. This is the most common cause of persistent bad breath and often comes with bleeding gums.",
+        "**Tongue coating.** The back of the tongue holds a thick film of bacteria that most people never clean.",
+        "**Dry mouth.** Saliva washes bacteria away; without it, from medications, mouth breathing or dehydration, they multiply.",
+        "**Cavities and failing fillings**, which trap decaying food.",
+        "**Food trapped** under a bridge, around a partly erupted wisdom tooth, or between crowded teeth.",
+        "**Diet and habits**: garlic, onions, coffee, alcohol, smoking, vaping, fasting and low-carbohydrate diets.",
+        "**Beyond the mouth**: tonsil stones, sinus infection and post-nasal drip, acid reflux, and occasionally diabetes, liver or kidney conditions."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Clean your tongue",
+          "body": "Use the brush or a tongue scraper from as far back as you can manage, once or twice a day. For many people this alone makes the biggest difference."
+        },
+        {
+          "title": "Clean between the teeth",
+          "body": "Floss or interdental brushes every day. Smell the floss afterward; a bad smell from one spot points to the problem area."
+        },
+        {
+          "title": "Drink water and chew sugar-free gum",
+          "body": "Both keep saliva flowing. Avoid alcohol-based mouthwash, which dries the mouth and makes things worse after the first hour."
+        },
+        {
+          "title": "Check the obvious",
+          "body": "Dentures cleaned and out at night; food not stuck under a bridge; nose not blocked."
+        },
+        {
+          "title": "Ask someone honest",
+          "body": "Most people cannot smell their own breath. A trusted opinion, or a sniff of the floss, is more reliable than cupping your hands."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We ask about the pattern, your diet, medications and any nose or stomach symptoms, then look for the source. The gums are measured for pockets, the tongue is examined, each tooth and filling is checked for decay and trapped food, and bridges and dentures are inspected. A [digital X-ray](/general-dentistry/digital-x-rays/) finds decay between teeth and infection at a root. If the mouth is healthy and the breath is still a problem, we suggest the right physician to see about sinuses, tonsils or reflux."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "A thorough cleaning",
+          "body": "Tartar removed from above and below the gum line, and tongue cleaning shown.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Gum disease treatment",
+          "body": "A deep cleaning of the pockets where the bacteria live, then maintenance. This is what fixes the most stubborn cases.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Filling cavities",
+          "body": "Removing decay and trapped food removes the smell with it.",
+          "href": "/restorative-dentistry/tooth-colored-fillings/"
+        },
+        {
+          "title": "Treating dry mouth",
+          "body": "Saliva substitutes, fluoride, habits and a look at medications with your physician.",
+          "href": "/symptoms/dry-mouth/"
+        },
+        {
+          "title": "Wisdom tooth care",
+          "body": "Cleaning or removing a partly erupted wisdom tooth that traps food.",
+          "href": "/symptoms/wisdom-tooth-pain/"
+        },
+        {
+          "title": "Denture or bridge adjustment",
+          "body": "Fixing a bridge that traps food, or a denture that is not being cleaned properly.",
+          "href": "/restorative-dentistry/dental-bridges/"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is mouthwash useless?",
+      "a": "It masks the smell for a while and some antibacterial rinses reduce bacteria temporarily. It does not remove the cause. Alcohol-based rinses dry the mouth and can make breath worse later in the day."
+    },
+    {
+      "q": "Why is my breath bad in the morning?",
+      "a": "Saliva drops during sleep, so bacteria multiply overnight. Morning breath is normal and clears with brushing and water. Breath that stays bad through the day is the kind worth investigating."
+    },
+    {
+      "q": "Can bad breath come from my stomach?",
+      "a": "Occasionally, from reflux. Far more often it comes from the mouth or the nose and sinuses. We check the mouth first because it is the usual source and the easiest to fix."
+    },
+    {
+      "q": "My child has bad breath. Is that normal?",
+      "a": "Common causes in children are tongue coating, mouth breathing, blocked noses, cavities and something stuck up the nose. A check-up finds most of them."
+    }
+  ],
+  "related": [
+    "/symptoms/bleeding-gums/",
+    "/symptoms/dry-mouth/",
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/general-dentistry/oral-hygiene/",
+    "/general-dentistry/cleanings-and-exams/",
+    "/symptoms/wisdom-tooth-pain/"
+  ],
+  "cta": {
+    "heading": "Find the source instead of covering it.",
+    "body": "Book a cleaning and exam, evenings and weekends included, and we will tell you where the smell is coming from and what will end it."
+  }
+}

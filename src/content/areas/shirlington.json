@@ -1,0 +1,139 @@
+{
+  "slug": "/areas/shirlington/",
+  "type": "area",
+  "title": "Shirlington",
+  "meta_title": "Dentist Near Shirlington, Arlington, VA | West Alexandria Dental Care",
+  "meta_description": "About ten minutes from Shirlington via I-395 or Quaker Lane to West Alexandria Dental Care, with free parking at the door, evening and weekend hours.",
+  "eyebrow": "Areas we serve",
+  "h1": "Your dentist near Shirlington",
+  "intro": "Shirlington's apartments and condos put a lot of people within a ten-minute drive of our office who do not have a dentist nearby, or who have one that closes at five. From the Village at Shirlington it is one exit down I-395 or a straight run along Quaker Lane to the Bradlee Office Building, where parking is free and the hours run to 8 PM on weekdays and through weekend mornings.",
+  "icon": "map",
+  "facts": [
+    {
+      "label": "Drive",
+      "value": "About ten minutes"
+    },
+    {
+      "label": "Route",
+      "value": "I-395 or Quaker Lane"
+    },
+    {
+      "label": "Parking",
+      "value": "Free, no garage"
+    },
+    {
+      "label": "Hours",
+      "value": "Seven days"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Who we see from Shirlington",
+      "body": [
+        "Renters and condo owners in their twenties and thirties who moved for the restaurants and the commute, often without a local dentist yet. Dog walkers from the trail. People who work in the District and want an appointment that does not mean leaving the office early. And a fair number who have simply not been to a dentist since they moved to the area and want somewhere to start without a lecture. See [switching dentists](/new-patients/switching-dentists/).",
+        "The pattern we see from Shirlington is the evening booking: a 7 PM cleaning on the way home, or a Saturday morning before the farmers' market."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Getting to the office",
+      "items": [
+        {
+          "title": "Via I-395",
+          "body": "South one exit to King Street, toward Alexandria, then W. Braddock Road. The Bradlee Office Building is beside Bradlee Shopping Center."
+        },
+        {
+          "title": "Via Quaker Lane",
+          "body": "South on Quaker Lane past Fairlington to W. Braddock Road. About ten minutes, depending on traffic."
+        },
+        {
+          "title": "Via Shirlington Road and King Street",
+          "body": "An alternative when I-395 is slow."
+        },
+        {
+          "title": "Parking",
+          "body": "Free surface parking around the building. No garage, no validation."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What Shirlington patients most often come in for",
+      "items": [
+        {
+          "title": "A first check-up in years",
+          "body": "No judgment about the gap. An exam, a cleaning if the gums allow, and a written plan.",
+          "href": "/new-patients/first-visit/"
+        },
+        {
+          "title": "Whitening and cosmetic work",
+          "body": "Whitening, bonding and aligners planned conservatively, health first.",
+          "href": "/cosmetic-dentistry/"
+        },
+        {
+          "title": "Wisdom teeth",
+          "body": "Evaluation and removal in the twenties, when it is easiest.",
+          "href": "/restorative-dentistry/wisdom-teeth-removal/"
+        },
+        {
+          "title": "Emergency care",
+          "body": "A chipped tooth or a lost crown seen the same day, including Saturday and Sunday mornings.",
+          "href": "/emergency-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Practical things worth knowing",
+      "style": "check",
+      "items": [
+        "Open 7 AM to 8 PM Monday to Friday and 8 AM to 1 PM on Saturday and Sunday.",
+        "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid accepted.",
+        "Care in English, Arabic, Spanish and Portuguese.",
+        "Paperwork completed online in a few minutes, through the {{forms}}.",
+        "Booking online around the clock, or by phone at {{phone}}."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "New job, new insurance?",
+      "body": "Send a photo of your new card through the online registration and we will verify what it covers before you book. If your plan is not on our list, contact us and we will check.",
+      "cta": {
+        "label": "Insurance we accept",
+        "href": "/new-patients/insurance/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it faster to take I-395 or Quaker Lane?",
+      "a": "Either is about ten minutes outside rush hour. Quaker Lane is often the steadier choice when I-395 is backed up."
+    },
+    {
+      "q": "Do I need to be an Alexandria resident?",
+      "a": "No. Patients come from Shirlington, South Arlington and across Northern Virginia. Where you live makes no difference to the welcome."
+    },
+    {
+      "q": "Can I book online for an evening slot?",
+      "a": "Yes. Online booking shows real availability including weekday evenings until 8 PM and weekend mornings."
+    },
+    {
+      "q": "I have not seen a dentist since college. Where do I start?",
+      "a": "With a cleaning and exam. Say when you book that it has been a while, and we allow extra time, go gently, and start from where things are. No lecture."
+    }
+  ],
+  "related": [
+    "/areas/",
+    "/areas/fairlington/",
+    "/areas/parkfairfax/",
+    "/new-patients/switching-dentists/",
+    "/new-patients/evening-and-weekend-appointments/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "One exit down, open when you get home.",
+    "body": "Book online at any hour or call, and park at the door."
+  }
+}

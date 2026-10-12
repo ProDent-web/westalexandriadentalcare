@@ -1,0 +1,145 @@
+{
+  "slug": "/symptoms/wisdom-tooth-pain/",
+  "type": "symptom",
+  "title": "Wisdom Tooth Pain",
+  "meta_title": "Wisdom Tooth Pain: Causes and What to Do | West Alexandria Dental Care",
+  "meta_description": "Pain at the back of the jaw in your late teens or twenties: eruption, impaction, an infected gum flap, decay or crowding pressure.",
+  "eyebrow": "Symptom guide",
+  "h1": "Wisdom tooth pain",
+  "intro": "A dull ache or sharp soreness at the very back of the jaw, often on one side, often in your late teens or twenties, sometimes with swelling of the gum and difficulty opening wide. Wisdom teeth are the last to arrive and the most likely to arrive badly. The pain usually comes from the gum around a tooth that is only partly through, and it is treatable, often the same day.",
+  "icon": "root",
+  "facts": [
+    {
+      "label": "Usual age",
+      "value": "Late teens to mid-twenties"
+    },
+    {
+      "label": "Commonest cause",
+      "value": "Infected gum flap"
+    },
+    {
+      "label": "Imaging",
+      "value": "Panoramic X-ray"
+    },
+    {
+      "label": "Urgent if",
+      "value": "Swelling, fever, trouble opening"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Eruption.** The tooth is pushing through the gum, which aches the way teething does.",
+        "**Pericoronitis.** The tooth is partly through, a flap of gum covers part of it, and food and bacteria collect underneath. The flap swells, hurts, tastes bad and can make opening difficult. The most common cause of wisdom tooth pain.",
+        "**Impaction.** The tooth is stuck against the tooth in front or in the bone and presses as it tries to erupt.",
+        "**Decay.** A wisdom tooth at the back is hard to clean and often decays, sometimes along with the second molar in front of it.",
+        "**A cyst** around an unerupted tooth, usually painless until it is large.",
+        "**Crowding pressure**, often blamed, though wisdom teeth rarely move the front teeth as much as people think."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Rinse with warm salt water",
+          "body": "Several times a day, swishing it toward the back. It is the most useful thing for an inflamed gum flap."
+        },
+        {
+          "title": "Keep the area clean",
+          "body": "Brush gently as far back as you can reach. A small interdental brush or a water flosser aimed under the flap clears trapped food."
+        },
+        {
+          "title": "Soft food, other side",
+          "body": "Chewing on the sore side pushes food under the flap and presses the swollen gum against the tooth above."
+        },
+        {
+          "title": "Pain relief as labeled",
+          "body": "An over-the-counter anti-inflammatory if it is safe for you. A cold compress on the cheek for swelling."
+        },
+        {
+          "title": "Book promptly",
+          "body": "A visit within days for pain that is settling with the steps above; today if there is swelling, fever, or you cannot open your mouth normally."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We look at the tooth and the gum around it, check how far it has erupted, whether it meets the tooth above, and whether there is infection under the flap. A panoramic [X-ray](/general-dentistry/digital-x-rays/) shows all four wisdom teeth, their position, the roots, and the nerve that runs through the lower jaw; a 3D scan is used when a lower tooth sits close to that nerve. Then we treat the immediate problem, usually by cleaning under the flap and sometimes with antibiotics if the infection has spread, and discuss whether the tooth should be removed or watched."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Cleaning the gum flap",
+          "body": "Irrigating under the flap and removing debris settles most pericoronitis within days.",
+          "href": "/restorative-dentistry/wisdom-teeth-removal/"
+        },
+        {
+          "title": "Antibiotics when needed",
+          "body": "For infection that has spread into the cheek or jaw, alongside cleaning, not instead of it.",
+          "href": "/emergency-dentistry/dental-abscess/"
+        },
+        {
+          "title": "Removal",
+          "body": "For a tooth that is impacted, repeatedly infected, decaying or damaging its neighbor. Done here under local anesthetic with comfort options, or referred to an oral surgeon for difficult cases.",
+          "href": "/restorative-dentistry/wisdom-teeth-removal/"
+        },
+        {
+          "title": "Monitoring",
+          "body": "A tooth that has come through properly and can be cleaned is kept and checked at routine visits.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Filling or extraction for decay",
+          "body": "A decayed wisdom tooth is sometimes filled, but often removed, because it is hard to keep clean.",
+          "href": "/restorative-dentistry/tooth-extractions/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Remove it or leave it?",
+      "body": [
+        "A wisdom tooth that has fully erupted, meets its partner and can be brushed is a tooth like any other. One that is partly through, impacted, or has caused infection more than once is usually better removed, and removal is easier in the twenties than later, when roots are longer and bone denser. We show you the X-ray and say which yours is. Students often time removal for a school break; our weekend and evening hours help with that."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why does wisdom tooth pain come and go?",
+      "a": "Because the gum flap over a partly erupted tooth gets infected, settles, and gets infected again. Each episode is pericoronitis. Two or three episodes are usually the point at which removal makes more sense than repeated cleaning."
+    },
+    {
+      "q": "Can a wisdom tooth push my front teeth out of line?",
+      "a": "The evidence is weak. Lower front teeth crowd with age whether or not wisdom teeth are present, and removing wisdom teeth does not prevent it. A retainer does."
+    },
+    {
+      "q": "Do all four need to come out?",
+      "a": "No. Each tooth is judged on its own. Many people keep upper wisdom teeth that erupted well and lose lower ones that did not."
+    },
+    {
+      "q": "I am over forty and my wisdom tooth hurts. Is it too late to remove it?",
+      "a": "No. Removal is somewhat more involved with age because roots are fully formed and bone is denser, but it is done routinely. The X-ray guides the plan, and difficult cases are referred to an oral surgeon."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/wisdom-teeth-removal/",
+    "/symptoms/jaw-pain/",
+    "/symptoms/swollen-gums/",
+    "/emergency-dentistry/dental-abscess/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/clear-aligners/for-teens/"
+  ],
+  "cta": {
+    "heading": "Sore at the back? Let us look at what the tooth is doing.",
+    "body": "A panoramic X-ray answers it in one visit. Book promptly, or call today if there is swelling or you cannot open normally."
+  }
+}

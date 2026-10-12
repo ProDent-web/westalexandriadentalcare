@@ -1,0 +1,137 @@
+{
+  "slug": "/symptoms/bleeding-gums/",
+  "type": "symptom",
+  "title": "Bleeding Gums",
+  "meta_title": "Bleeding Gums: Why, and What to Do | West Alexandria Dental Care",
+  "meta_description": "Bleeding when you brush or floss is inflammation, not injury, and it is a reason to clean more carefully rather than less.",
+  "eyebrow": "Symptom guide",
+  "h1": "Bleeding gums",
+  "intro": "Pink in the sink when you brush is the earliest, most common sign of gum disease, and the most ignored. Healthy gums do not bleed from brushing or flossing. Bleeding means they are inflamed by plaque, and the instinct to brush more gently or skip flossing is exactly backwards. Caught at this stage it is completely reversible.",
+  "icon": "gum",
+  "facts": [
+    {
+      "label": "Means",
+      "value": "Inflammation, not injury"
+    },
+    {
+      "label": "Do",
+      "value": "Keep cleaning, gently"
+    },
+    {
+      "label": "Usually settles",
+      "value": "Within two weeks"
+    },
+    {
+      "label": "If not",
+      "value": "Book a periodontal exam"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Gingivitis.** Plaque along the gum line inflames the gum, which swells and bleeds at a touch. Reversible with cleaning.",
+        "**Periodontitis.** Gingivitis that has progressed into pockets and bone loss. Bleeding plus recession, bad breath or loose teeth.",
+        "**New flossing.** Gums that have not been flossed bleed for the first week or two, then stop as they heal.",
+        "**Brushing too hard**, or a hard-bristled brush, which damages the gum edge.",
+        "**Pregnancy**, where hormones make gums react more strongly to plaque.",
+        "**Medications**, especially blood thinners, which make bleeding easier to start, and some drugs that cause gum overgrowth.",
+        "**Smoking and vaping**, which paradoxically can hide bleeding by narrowing blood vessels while gum disease advances.",
+        "**Rarely**, a bleeding disorder, vitamin deficiency or other medical condition, especially if gums bleed on their own."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Keep brushing, change the technique",
+          "body": "A soft brush, held like a pen, angled into the gum line in small circles. Gentle pressure. The goal is to remove plaque from the edge of the gum, not to scrub the gum itself."
+        },
+        {
+          "title": "Floss every day, even though it bleeds",
+          "body": "Curve the floss around each tooth and slide it just under the gum. Bleeding at first is expected. It should reduce noticeably within a week and stop within two."
+        },
+        {
+          "title": "Try interdental brushes",
+          "body": "Small bristle brushes between the teeth clean the gum edge better than floss for many people and are easier to use."
+        },
+        {
+          "title": "Give it two weeks",
+          "body": "If the bleeding has stopped, you have reversed gingivitis. If it has not, book a visit; there is probably tartar below the gum that only instruments can remove."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "A small probe measures the depth of the pocket between gum and tooth at six points around each tooth, and notes where it bleeds. Shallow pockets that bleed mean gingivitis; deeper pockets with bleeding mean periodontitis. [Digital X-rays](/general-dentistry/digital-x-rays/) show whether bone has been lost. We also look at your technique on your own teeth and show you exactly where plaque is being missed, which is usually two or three specific places rather than everywhere."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Cleaning and coaching",
+          "body": "For gingivitis: tartar removed, technique adjusted, and a recheck. Bleeding stops within a couple of weeks.",
+          "href": "/general-dentistry/cleanings-and-exams/"
+        },
+        {
+          "title": "Deep cleaning",
+          "body": "For periodontitis: scaling and root planing under local anesthetic to clean the pockets where bacteria live.",
+          "href": "/restorative-dentistry/deep-cleaning/"
+        },
+        {
+          "title": "Periodontal maintenance",
+          "body": "Every three to four months after treatment, to keep the disease controlled for good.",
+          "href": "/general-dentistry/periodontal-maintenance/"
+        },
+        {
+          "title": "Medication review",
+          "body": "If a drug is causing overgrowth or the bleeding is unusual, we coordinate with your physician."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why it matters beyond the gums",
+      "body": [
+        "Bleeding gums mean an open wound the size of your palm, if all the pocket surfaces were laid flat, through which bacteria enter the bloodstream every time you chew. Gum disease is linked with diabetes control, heart disease and pregnancy complications. Treating it is good for more than your teeth. More on the stages and the treatment ladder on the [gum disease page](/restorative-dentistry/gum-disease-treatment/)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I stop flossing if my gums bleed?",
+      "a": "No. Bleeding is the sign that the gum needs cleaning. Gentle daily flossing makes it stop within about two weeks. Stopping lets the plaque sit and the bleeding gets worse."
+    },
+    {
+      "q": "Is bleeding during pregnancy normal?",
+      "a": "It is common, because pregnancy hormones make gums react more strongly to plaque. It is still worth treating: a cleaning during pregnancy is safe and recommended, and gum disease is associated with pregnancy complications."
+    },
+    {
+      "q": "Can bleeding gums be cured?",
+      "a": "Gingivitis, yes, completely. Periodontitis can be stopped and kept stable for life with treatment and maintenance, though lost bone does not regrow, which is the reason to act at the bleeding stage."
+    },
+    {
+      "q": "My gums bleed but do not hurt. Is it serious?",
+      "a": "Gum disease rarely hurts until it is advanced. Painless bleeding is exactly how it presents early, and early is when it is easiest to fix."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/restorative-dentistry/deep-cleaning/",
+    "/general-dentistry/periodontal-maintenance/",
+    "/symptoms/gum-recession/",
+    "/symptoms/swollen-gums/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Pink in the sink is a reason to come in.",
+    "body": "Book a periodontal exam. We measure, show you the numbers, and start at the stage you are actually at. No lecture."
+  }
+}

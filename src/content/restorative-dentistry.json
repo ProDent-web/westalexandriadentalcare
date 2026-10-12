@@ -1,0 +1,101 @@
+{
+  "slug": "/restorative-dentistry/",
+  "type": "hub",
+  "title": "Restore Your Smile",
+  "meta_title": "Restorative Dentistry in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Fillings, crowns, bridges, dentures, root canals, extractions and gum treatment at West Alexandria Dental Care.",
+  "eyebrow": "Restore your smile",
+  "h1": "Restorative dentistry in West Alexandria",
+  "intro": "Restorative dentistry is the repair work: a filling for a cavity, a crown for a cracked tooth, a root canal for an infected one, a bridge or denture where teeth are already gone. Most of it happens in this building, with the same two dentists, so a crown or an implant does not mean a referral across town.",
+  "icon": "repair",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Preserve what can be preserved",
+      "body": [
+        "The order of preference here is simple. Keep the tooth if it can reasonably be kept. Repair it with the smallest restoration that will actually last. Replace it only when repair would be throwing good money after bad. That is why a small cavity gets a [tooth-colored filling](/restorative-dentistry/tooth-colored-fillings/) rather than a crown, and why an [onlay](/restorative-dentistry/inlays-and-onlays/) is sometimes offered where another office might go straight to a crown.",
+        "It is also why we will say plainly when a tooth is not worth saving. A cracked root or a tooth with almost nothing left above the gum is better [replaced](/restorative-dentistry/replacing-missing-teeth/) than patched every eighteen months. You get that opinion in writing, with the alternatives beside it, and you decide."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How a restorative visit is planned",
+      "items": [
+        {
+          "title": "Find the actual problem",
+          "body": "An exam and a [digital X-ray](/general-dentistry/digital-x-rays/), shown on the screen beside you. A tooth that hurts on biting and a tooth that aches at night usually need different repairs, and the image settles it."
+        },
+        {
+          "title": "Lay out the options",
+          "body": "Usually two or three: the ideal repair, a reasonable alternative, and what happens if you wait. Each with the cost, the number of visits and how long it tends to last."
+        },
+        {
+          "title": "Check your benefits first",
+          "body": "We verify what your plan covers before treatment starts, so the written estimate is the real number. Virginia Medicaid and the PPO plans we accept are listed on the [insurance page](/new-patients/insurance/)."
+        },
+        {
+          "title": "Do the work comfortably",
+          "body": "Local anesthetic done slowly, nitrous oxide if you want it, breaks when you ask, and an agreed signal to pause. Nervous patients can read about [comfort options](/sedation-dentistry/) before they book."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Repair, replace, or treat the gums",
+      "intro": "The pages in this section fall into three groups.",
+      "items": [
+        {
+          "title": "Repairing a tooth",
+          "body": "Fillings, inlays and onlays, crowns, and root canal therapy for a tooth whose nerve is inflamed or infected.",
+          "href": "/restorative-dentistry/dental-crowns/"
+        },
+        {
+          "title": "Replacing teeth",
+          "body": "Bridges, full and partial dentures, relines, and the decision guide for choosing between them and implants.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        },
+        {
+          "title": "Treating the gums and jaw",
+          "body": "Gum disease treatment and deep cleaning, TMJ splints, and oral appliances for sleep apnea after a physician's diagnosis.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "A tooth broke, or a crown came off?",
+      "body": "Keep any pieces, keep the area clean, and call. Our hours run to 8 PM on weekdays and we see patients on weekend mornings, so a broken tooth on a Friday evening does not have to wait until Monday.",
+      "cta": {
+        "label": "Emergency dental care",
+        "href": "/emergency-dentistry/"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Who does the work",
+      "body": [
+        "Both dentists do restorative dentistry every day. [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) has a particular interest in restorative and digital dentistry. [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/) completed an Advanced General Dentistry residency and a dental implant fellowship, which is why surgical and complex restorative cases, including extractions and implant-supported replacements, stay in this office rather than being sent out.",
+        "If you would like a second opinion on treatment another practice has quoted, bring the plan with you. We will tell you honestly whether we would do the same thing, something less, or something different, and why."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will you tell me if I can wait?",
+      "a": "Yes. A small cavity that has not reached the dentin, a hairline crack with no symptoms, or a worn filling that is still sealed can often be watched and checked again in six months. We say so, and we write it down, so the decision is yours and not driven by the calendar."
+    },
+    {
+      "q": "Can everything be done in one place?",
+      "a": "Nearly all of it. Fillings, crowns, bridges, dentures, root canals, extractions, gum treatment and implants are done here. We refer when a specialist would clearly do better for you, for example a complex root canal with unusual anatomy or advanced gum surgery, and we tell you why."
+    },
+    {
+      "q": "Do you take insurance for restorative work?",
+      "a": "We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Most plans cover a share of fillings, crowns and dentures, with the amount depending on the plan and its annual maximum. We check your benefits and give you a written estimate before anything starts."
+    }
+  ],
+  "cta": {
+    "heading": "Not sure what the tooth needs?",
+    "body": "An exam and an X-ray answer that in one visit. Book online, evenings and weekends included, and we will show you what we see and walk through the options before anything is decided."
+  }
+}

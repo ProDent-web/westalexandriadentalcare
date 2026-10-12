@@ -1,0 +1,89 @@
+{
+  "slug": "/dental-implants/",
+  "type": "hub",
+  "title": "Dental Implants",
+  "meta_title": "Dental Implants in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Dental implants in West Alexandria: single teeth, implant bridges and implant-retained dentures, planned with 3D imaging by a dentist with a Tufts implant.",
+  "eyebrow": "Dental implants",
+  "h1": "Dental implants in West Alexandria",
+  "intro": "An implant is a small titanium post placed where a tooth root used to be. Bone grows onto it over a few months, and a crown goes on top. Nothing is ground down on the neighboring teeth, and nothing comes out at night. It is the only tooth replacement that loads the jaw the way a root did, which is why the bone around it stays.",
+  "icon": "implant",
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why a gap is worth filling",
+      "body": [
+        "A missing back tooth rarely shows, so it is easy to live with. What happens next is quieter. The teeth on either side tip toward the space, the tooth above or below it drifts, chewing shifts to the other side, and the bone where the root was begins to shrink because nothing is loading it. Years later, replacing the tooth is harder than it would have been at the start.",
+        "That is the case for replacing teeth generally. The case for an implant specifically is that it keeps the bone and spares the neighbors. The [decision guide](/restorative-dentistry/replacing-missing-teeth/) sets implants beside bridges and dentures so you can see the trade-offs."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How implant treatment goes here",
+      "items": [
+        {
+          "title": "Planning with 3D imaging",
+          "body": "A cone-beam CT scan shows the bone in three dimensions, along with the nerve and sinus. We see whether there is enough bone, exactly where the implant should sit, and whether grafting needs to be discussed before anything is placed."
+        },
+        {
+          "title": "Placement",
+          "body": "The post goes in under local anesthetic, with nitrous oxide or other sedation options if you want them. Most people describe the day after as similar to having a tooth pulled, managed with ordinary pain relief."
+        },
+        {
+          "title": "Healing",
+          "body": "Several months while bone fuses to the post. If the gap shows when you smile, ask about a temporary tooth for the meantime."
+        },
+        {
+          "title": "The tooth",
+          "body": "An abutment and a crown, matched to the teeth around it, or a bridge or denture attachment when more than one tooth is being replaced."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "One tooth, several, or a whole arch",
+      "body": [
+        "Implants do not have to be one for one. A [single tooth implant](/dental-implants/single-tooth-implants/) replaces one tooth without touching the neighbors. Two or more implants can carry an [implant-supported bridge](/dental-implants/implant-supported-bridges/) across a longer gap. A small number can anchor an [implant-retained denture](/dental-implants/implant-retained-dentures/) so it clips in and stops moving, which for someone who has spent years managing a loose lower denture is usually the change that matters most."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Implant training that stays in the building",
+      "body": "Dr. Fadi Alhrashi completed a Dental Implant Fellowship at Tufts University School of Dental Medicine after an Advanced General Dentistry residency at the Eastman Institute for Oral Health. He is a Diplomate of the American Board of Oral Implantology/Implant Dentistry and a Fellow of the American Academy of Implant Dentistry. Implant planning, placement and the final tooth are handled here, as part of complete general care rather than as a separate specialty visit.",
+      "cta": {
+        "label": "Meet Dr. Fadi",
+        "href": "/dentists/dr-fadi-alhrashi/"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "When an implant is not the answer",
+      "body": [
+        "Untreated gum disease has to be dealt with first, because the same process that loosens teeth will loosen an implant. Heavy smoking lowers the success rate, and we will say so. Some medications and health conditions change the plan. And some people are simply better served by a bridge or a well-made partial denture. We would rather tell you that than sell you the more expensive option. The [candidates page](/dental-implants/candidates/) goes through what is weighed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does getting an implant hurt?",
+      "a": "Placement is done fully numb, and most people are surprised by how uneventful it is. Soreness for a few days afterward is normal and is usually managed with over-the-counter pain relief. Nitrous oxide and other sedation options are available after an individual review if the idea of the surgery itself is the hard part."
+    },
+    {
+      "q": "How long does the whole process take?",
+      "a": "Months rather than weeks, because bone healing sets the pace. A straightforward single implant is often finished in four to six months from placement to final crown. Grafting or a healing extraction adds time, and we map the timeline out at the planning visit."
+    },
+    {
+      "q": "How long do implants last?",
+      "a": "Decades, in many cases. The implant itself does not decay, but the gum and bone around it still need daily cleaning and regular check-ups, and gum disease left untreated will affect an implant just as it affects a tooth. Our [aftercare page](/dental-implants/aftercare/) explains what keeps them healthy."
+    },
+    {
+      "q": "Does insurance cover implants?",
+      "a": "It varies widely. Some plans cover part of the crown, some part of the implant, and some neither. We check your benefits and give you a written estimate before anything starts. The [cost page](/dental-implants/cost/) explains what goes into the number."
+    }
+  ],
+  "cta": {
+    "heading": "Wondering whether you have the bone for it?",
+    "body": "That is the first question, and it is answered with a consultation and a 3D scan rather than over the phone. Book a visit and we will show you exactly what the options are."
+  }
+}

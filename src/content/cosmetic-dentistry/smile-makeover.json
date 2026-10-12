@@ -1,0 +1,151 @@
+{
+  "slug": "/cosmetic-dentistry/smile-makeover/",
+  "type": "service",
+  "title": "Smile Makeover",
+  "meta_title": "Smile Makeover Planning in Alexandria | West Alexandria Dental Care",
+  "meta_description": "A smile makeover is a coordinated plan, not a single procedure. What the consultation involves, how whitening, bonding, veneers, aligners.",
+  "eyebrow": "Cosmetic dentistry",
+  "h1": "Smile makeover planning in West Alexandria",
+  "intro": "A smile makeover is not one treatment. It is a plan that combines whatever your teeth actually need, in the right order, to reach the result you have in mind. For one person that is whitening and two bonded edges. For another it is aligners, then whitening, then four veneers and a crown. The planning is what makes the difference, and it starts with photographs and a conversation.",
+  "icon": "smile",
+  "facts": [
+    {
+      "label": "Starts with",
+      "value": "Photos and a consultation"
+    },
+    {
+      "label": "Combines",
+      "value": "Whatever your teeth need"
+    },
+    {
+      "label": "Order",
+      "value": "Health, alignment, color, shape"
+    },
+    {
+      "label": "Staged",
+      "value": "Over months if you prefer"
+    }
+  ],
+  "sections": [
+    {
+      "type": "steps",
+      "heading": "What the consultation involves",
+      "items": [
+        {
+          "title": "What you see",
+          "body": "Bring a photo of a smile you like, or one of your own from years ago, and tell us what bothers you. The specific thing matters more than any textbook ideal."
+        },
+        {
+          "title": "What we see",
+          "body": "A full exam, gum measurements, X-rays, and photographs of your face, lips and teeth from several angles. Color, shape, proportion, gum line, how much tooth shows when you talk and smile, and how the teeth meet."
+        },
+        {
+          "title": "The options, in writing",
+          "body": "Usually a simpler plan and a fuller one, each with the steps, the number of visits, the timeline and the cost. Nothing is decided on the day."
+        },
+        {
+          "title": "A preview where it helps",
+          "body": "For shape changes, a mock-up on your own teeth or a wax model lets you see the proposed result before anything irreversible is done."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "The building blocks",
+      "items": [
+        {
+          "title": "Health first",
+          "body": "Gum treatment, fillings, a night guard. Cosmetic work on an unhealthy foundation fails early.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Alignment",
+          "body": "Clear aligners move crowded or spaced teeth into position, often reducing how much other work is needed.",
+          "href": "/clear-aligners/"
+        },
+        {
+          "title": "Whitening",
+          "body": "Lightens natural enamel. Done before any bonding, veneers or crowns are matched.",
+          "href": "/cosmetic-dentistry/teeth-whitening/"
+        },
+        {
+          "title": "Bonding",
+          "body": "Chips, small gaps and worn edges, conservatively and in one visit.",
+          "href": "/cosmetic-dentistry/dental-bonding/"
+        },
+        {
+          "title": "Veneers and crowns",
+          "body": "For teeth whose color, shape or damage need more than bonding can give.",
+          "href": "/cosmetic-dentistry/porcelain-veneers/"
+        },
+        {
+          "title": "Replacing missing teeth",
+          "body": "An implant or bridge where a gap is part of the problem.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why the order matters",
+      "body": [
+        "Health comes first because everything else depends on it. Alignment comes next because moving teeth into position often means fewer veneers, thinner veneers or no veneers at all. Whitening comes before any restorations so they can be matched to the final shade. Shape changes, whether bonding, veneers or crowns, come last, matched to the straightened, whitened teeth around them. Doing it in a different order means redoing work, and we would rather plan once."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Staging to fit your life and budget",
+      "body": [
+        "A makeover does not have to happen in a month. Aligners can run for a year while you save for the veneers. Whitening and bonding can give you a result you are happy with for a few years before anything more permanent. We lay the plan out in phases with the cost of each, so you can decide how far to go and when. Insurance rarely covers purely cosmetic steps, but it often covers the health steps and any restorations on damaged teeth, and we check which is which."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "Realistic expectations",
+      "body": "A makeover can change a great deal, and it cannot change everything. Lip shape, face shape and gum line set limits that we discuss honestly at the start. The aim is a smile that looks like yours at its best, suits your face and age, and holds up for years, not a set of identical white rectangles."
+    },
+    {
+      "type": "list",
+      "heading": "Keeping the result",
+      "style": "check",
+      "items": [
+        "Retainers after any alignment, for good.",
+        "A night guard if you grind, to protect bonding, veneers and crowns.",
+        "Regular cleanings and exams so edges and gum lines are checked.",
+        "Whitening touch-ups with your custom trays as needed.",
+        "Sensible habits: no biting nails, ice or packaging with the front teeth."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does a smile makeover take?",
+      "a": "Anywhere from two visits to over a year, depending on what is included. Whitening and bonding can be done within a month. Aligners add months. Veneers take two to three weeks once started. The plan gives you a timeline before you begin."
+    },
+    {
+      "q": "Can I do it in stages?",
+      "a": "Yes, and many people do. The plan is designed so each stage stands on its own and leads naturally to the next."
+    },
+    {
+      "q": "Will I see what it looks like first?",
+      "a": "For shape changes, yes: a mock-up on your own teeth or a model shows the proposed result. For alignment, the digital aligner plan shows the projected tooth positions."
+    },
+    {
+      "q": "Who does the work?",
+      "a": "Both dentists here plan and carry out cosmetic treatment as part of complete care. Dr. Sameer Atrash lists cosmetic and digital dentistry among his clinical interests. If a case needs an orthodontist or a specialist, we say so and coordinate."
+    }
+  ],
+  "related": [
+    "/cosmetic-dentistry/",
+    "/cosmetic-dentistry/teeth-whitening/",
+    "/cosmetic-dentistry/porcelain-veneers/",
+    "/clear-aligners/",
+    "/dentists/dr-sameer-atrash/",
+    "/general-dentistry/night-guards/"
+  ],
+  "cta": {
+    "heading": "Start with photographs, not procedures.",
+    "body": "A cosmetic consultation costs nothing in enamel. Book one, tell us what you would change, and leave with a sequenced plan and the numbers."
+  }
+}

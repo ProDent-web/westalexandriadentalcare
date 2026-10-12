@@ -1,0 +1,168 @@
+{
+  "slug": "/clear-aligners/for-teens/",
+  "type": "service",
+  "title": "Clear Aligners for Teens",
+  "meta_title": "Clear Aligners for Teens in Alexandria | West Alexandria Dental Care",
+  "meta_description": "Clear aligners for teenagers in West Alexandria: when they are ready, compliance indicators and parent involvement, sports and music, lost aligners.",
+  "eyebrow": "Clear aligners",
+  "h1": "Clear aligners for teens in West Alexandria",
+  "intro": "Teenagers can straighten their teeth with aligners once most of the permanent teeth are in, and many prefer it: no brackets in photographs, no food restrictions, no wire emergencies. The question for parents is whether their teenager will actually wear them. Here is how we judge that, and how treatment is set up to make it likely.",
+  "icon": "child",
+  "facts": [
+    {
+      "label": "Ready when",
+      "value": "Most permanent teeth are in"
+    },
+    {
+      "label": "Wear",
+      "value": "20–22 hours a day"
+    },
+    {
+      "label": "Appointments",
+      "value": "After school and weekends"
+    },
+    {
+      "label": "Sports and music",
+      "value": "Fine, trays in or out"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "When a teenager is ready",
+      "body": [
+        "Aligners need the permanent teeth to be in, or nearly in, so that the plan can move them to their final positions. For most teenagers that is around twelve to fourteen. Aligners designed for teens can accommodate second molars that are still erupting. A panoramic X-ray at the consultation shows which teeth are still on the way and whether the wisdom teeth will need attention later.",
+        "Some bite problems are better corrected while the jaw is still growing, and some of those need braces or an orthodontist rather than aligners. We tell you which at the consultation and refer when that is the right call."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Will they wear them? What we look for",
+      "style": "bullet",
+      "items": [
+        "Whose idea it is. A teenager who asked for straighter teeth usually wears the trays; one who was brought along may not.",
+        "How they manage other routines: homework, a retainer from earlier treatment, a sports schedule.",
+        "Honest discussion of the twenty-to-twenty-two-hour rule with the teenager, not just the parent.",
+        "Built-in checks: teen aligners often include small indicators that fade with wear, so both you and we can see whether they are being worn.",
+        "A trial of the first trays with a frank review at the first check-in. If it is not working, switching to braces early is better than a year of half-results."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Everyday life with aligners",
+      "items": [
+        {
+          "title": "School",
+          "body": "Trays stay in through classes. Out for lunch, teeth brushed or at least rinsed, trays back in. A case in the backpack is essential; most lost aligners were wrapped in a napkin."
+        },
+        {
+          "title": "Sports",
+          "body": "For contact sports, trays can stay in under a mouthguard or come out and the mouthguard goes in. Either is fine; the hours still count toward the day."
+        },
+        {
+          "title": "Music",
+          "body": "Wind and brass players usually adapt within a week. Some prefer to take the trays out to practise and make up the hours."
+        },
+        {
+          "title": "Eating",
+          "body": "No restrictions, because the trays are out. Snacking tends to drop, because of the brushing afterward."
+        },
+        {
+          "title": "Lost or broken trays",
+          "body": "Call. Replacements are ordered and the previous or next tray used meanwhile. Keep old trays until the next visit."
+        },
+        {
+          "title": "Appointments",
+          "body": "Short check-ins every six to ten weeks, after school, early evening or on weekend mornings so classes are not missed."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Aligners or braces for a teenager?",
+      "columns": [
+        "Clear aligners",
+        "Braces"
+      ],
+      "rows": [
+        [
+          "Depends on",
+          "The teenager wearing them",
+          "Nothing; they are fixed"
+        ],
+        [
+          "Appearance",
+          "Nearly invisible",
+          "Visible, with color choices"
+        ],
+        [
+          "Food",
+          "No restrictions",
+          "No sticky, hard or crunchy foods"
+        ],
+        [
+          "Cleaning",
+          "Normal brushing and flossing",
+          "Harder; white spots are common"
+        ],
+        [
+          "Emergencies",
+          "Lost tray",
+          "Broken bracket or poking wire"
+        ],
+        [
+          "Best for",
+          "Mild to moderate cases, motivated teens",
+          "Complex bites, anyone unlikely to wear trays"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Cost and insurance",
+      "body": [
+        "Many dental plans include an orthodontic benefit for children under eighteen or nineteen, usually a lifetime maximum paid over the course of treatment, and it typically applies to aligners as well as braces. We verify the benefit and give you a written estimate at the consultation. The [cost page](/clear-aligners/cost/) explains what drives the price. Virginia Medicaid covers orthodontic treatment for children only in limited circumstances, which we check for you."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Retainers are not optional",
+      "body": "Teenagers' teeth move back readily. The retainer at the end of treatment, worn as directed, is what makes the result last into adulthood. We say this at the first visit and again at the last.",
+      "cta": {
+        "label": "About retainers",
+        "href": "/clear-aligners/retainers/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How young can a child start aligners?",
+      "a": "Once most of the permanent teeth are in, typically twelve to fourteen. Younger children with specific bite problems are sometimes treated earlier with other appliances, usually by an orthodontist, and we refer when that is appropriate."
+    },
+    {
+      "q": "How long does teen treatment take?",
+      "a": "Usually twelve to eighteen months, depending on the case and on wear. Consistent wear is the biggest factor, and the indicators on the trays let everyone see how it is going."
+    },
+    {
+      "q": "What if my teenager loses interest halfway?",
+      "a": "It happens. The first check-in is where we assess honestly, and if wear is poor we can switch to braces rather than waste the investment. Starting with a teenager who wants it is the best prevention."
+    },
+    {
+      "q": "Can parents attend appointments?",
+      "a": "Yes, always. The plan review in particular is worth seeing together."
+    }
+  ],
+  "related": [
+    "/clear-aligners/",
+    "/clear-aligners/how-it-works/",
+    "/clear-aligners/vs-braces/",
+    "/clear-aligners/retainers/",
+    "/general-dentistry/childrens-dentistry/",
+    "/restorative-dentistry/wisdom-teeth-removal/"
+  ],
+  "cta": {
+    "heading": "Straight teeth before graduation, without the brackets.",
+    "body": "Book a consultation after school or on a weekend. We assess readiness, show the plan, and tell you honestly whether aligners are the right tool."
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "/general-dentistry/periodontal-maintenance/",
+  "type": "service",
+  "title": "Periodontal Maintenance",
+  "meta_title": "Periodontal Maintenance in Alexandria | West Alexandria Dental Care",
+  "meta_description": "After gum disease treatment, periodontal maintenance every three to four months is what keeps it from coming back.",
+  "eyebrow": "General dentistry",
+  "h1": "Periodontal maintenance in West Alexandria",
+  "intro": "Gum disease is controlled, not cured. After a deep cleaning has cleared the pockets, the bacteria begin to re-establish within about three months. Periodontal maintenance is the visit that interrupts them before they do damage again. It is different from a routine cleaning, and the difference matters.",
+  "icon": "gum",
+  "facts": [
+    {
+      "label": "Interval",
+      "value": "Every three to four months"
+    },
+    {
+      "label": "Allow",
+      "value": "About an hour"
+    },
+    {
+      "label": "Numbing",
+      "value": "Sometimes, for tender areas"
+    },
+    {
+      "label": "Goal",
+      "value": "Stable pockets, no bleeding"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why three months and not six",
+      "body": [
+        "After scaling and root planing, the pockets around the teeth are clean and the gums tighten. But the bacteria that cause periodontitis live below the gum line, where a toothbrush cannot reach, and research shows they return to disease-causing numbers roughly ninety days after being disrupted. A six-month interval leaves them three months of free rein each cycle, and the bone loss resumes.",
+        "Three to four months keeps the pockets cleaned out before that happens. For patients with well-controlled disease and excellent home care, the interval sometimes stretches; for those with deep pockets, diabetes or smoking, it does not."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What happens at a maintenance visit",
+      "items": [
+        {
+          "title": "Pockets measured again",
+          "body": "Every tooth, six points each, compared with the last visit. Stable or shallower is the goal. A pocket that has deepened or started bleeding is flagged and treated on the spot."
+        },
+        {
+          "title": "Cleaning below the gum line",
+          "body": "Tartar and bacterial film are removed from the root surfaces inside the pockets with fine instruments and an ultrasonic scaler. This is the part a routine cleaning does not do."
+        },
+        {
+          "title": "Attention to the trouble spots",
+          "body": "Areas that were deep at the last visit, furcations where roots divide, and anywhere that bleeds get extra time. Local anesthetic is used if an area is tender."
+        },
+        {
+          "title": "Polish and home-care check",
+          "body": "Stain removed, and a look at how well cleaning between the teeth is going. Technique is adjusted where plaque is being missed."
+        },
+        {
+          "title": "X-rays on a schedule",
+          "body": "Bone levels are checked on an interval, usually yearly, to confirm the disease is not progressing."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Maintenance versus a routine cleaning",
+      "columns": [
+        "Periodontal maintenance",
+        "Routine cleaning"
+      ],
+      "rows": [
+        [
+          "For whom",
+          "Patients treated for gum disease",
+          "Patients with healthy gums"
+        ],
+        [
+          "Depth",
+          "Below the gum line, into the pockets",
+          "At and just below the gum line"
+        ],
+        [
+          "Interval",
+          "Every three to four months",
+          "Every six months"
+        ],
+        [
+          "Measurement",
+          "Full charting compared with previous",
+          "Screening measurement"
+        ],
+        [
+          "Insurance code",
+          "Periodontal maintenance",
+          "Prophylaxis"
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The insurance wrinkle, in plain terms",
+      "body": [
+        "Dental plans treat a routine cleaning and periodontal maintenance as different procedures. Most cover two routine cleanings a year in full. Maintenance is often covered as a periodontal service, sometimes at a lower percentage and sometimes with a limit on how many visits a year. Some plans allow maintenance and routine cleanings to alternate.",
+        "We verify exactly what your plan does before you start, and tell you what each visit will cost. Going back to a routine cleaning to save money is a false economy; the bone that is lost does not come back."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What makes maintenance work",
+      "style": "check",
+      "items": [
+        "Keeping the interval. A visit three weeks late is three weeks of regrowth.",
+        "Cleaning between the teeth every day, with interdental brushes where gaps have opened.",
+        "Brushing at the gum line with a soft brush, angled under the edge.",
+        "Controlling diabetes, which worsens gum disease and is worsened by it.",
+        "Stopping smoking, which roughly doubles the chance of treatment failing.",
+        "Telling us about new medications; some cause gum overgrowth or dry mouth."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Have not had a deep cleaning yet?",
+      "body": "Maintenance follows treatment; it does not replace it. If your gums bleed, feel tender, or you have been told you have deep pockets, the first step is an evaluation and scaling and root planing.",
+      "cta": {
+        "label": "About deep cleaning",
+        "href": "/restorative-dentistry/deep-cleaning/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I always need maintenance?",
+      "a": "Usually, yes. Periodontitis can be controlled for life with regular maintenance and good home care, and the interval can lengthen if things stay stable. Stopping altogether lets the disease resume."
+    },
+    {
+      "q": "Does it hurt?",
+      "a": "Cleaning inside pockets can be tender, especially where the gums are still inflamed. Local anesthetic is available for sensitive areas, and most patients find visits become more comfortable as the gums heal."
+    },
+    {
+      "q": "Can I alternate between maintenance here and cleanings elsewhere?",
+      "a": "You can, but it is not ideal. The value of maintenance is in comparing measurements visit to visit and treating the same trouble spots consistently. Keeping it in one place gives better results."
+    },
+    {
+      "q": "What if a pocket gets deeper again?",
+      "a": "It is treated that day with targeted scaling, sometimes with an antibiotic placed in the pocket, and rechecked at the next visit. Persistent deep pockets that do not respond may be referred to a periodontist for surgical treatment."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/deep-cleaning/",
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/symptoms/bleeding-gums/",
+    "/symptoms/gum-recession/",
+    "/general-dentistry/cleanings-and-exams/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Keep the ground you have gained.",
+    "body": "Maintenance visits are available early, late and on weekends, so a three-month interval is realistic. Book the next one before you leave the last."
+  }
+}

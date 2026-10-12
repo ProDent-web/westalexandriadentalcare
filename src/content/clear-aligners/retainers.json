@@ -1,0 +1,163 @@
+{
+  "slug": "/clear-aligners/retainers/",
+  "type": "service",
+  "title": "Retainers",
+  "meta_title": "Retainers After Braces or Aligners | West Alexandria Dental Care",
+  "meta_description": "Why teeth move back, the types of retainer (clear removable and fixed bonded wire), the wear schedule, care and replacement.",
+  "eyebrow": "Clear aligners",
+  "h1": "Retainers: keeping teeth where you put them",
+  "intro": "Teeth have a memory. The fibers in the gum and bone that held them in their old positions take years to adapt, and without a retainer they pull the teeth back, fastest in the first months and slowly for life. A retainer is not the end of treatment; it is what makes the treatment permanent.",
+  "icon": "aligner",
+  "facts": [
+    {
+      "label": "Types",
+      "value": "Clear removable, fixed wire"
+    },
+    {
+      "label": "At first",
+      "value": "Full time for months"
+    },
+    {
+      "label": "Then",
+      "value": "Every night, indefinitely"
+    },
+    {
+      "label": "Replace",
+      "value": "Every few years, or when"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why teeth move back",
+      "body": [
+        "Moving a tooth stretches and compresses the ligament fibers around its root and reshapes the bone. The bone settles within months; the fibers take much longer, and some never fully let go. On top of that, teeth drift naturally throughout life: lower front teeth crowd with age, and the bite changes as teeth wear. A retainer holds the position while the tissues adapt, then keeps holding it against the slow drift. Stop wearing it and relapse follows, usually within a year or two, sometimes within weeks."
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Clear removable or fixed wire?",
+      "columns": [
+        "Clear removable retainer",
+        "Fixed (bonded) retainer"
+      ],
+      "rows": [
+        [
+          "What it is",
+          "A thin clear tray like an aligner, made to your final tooth positions",
+          "A thin wire bonded behind the front teeth"
+        ],
+        [
+          "Wear",
+          "Full time at first, then nights",
+          "Permanent; nothing to remember"
+        ],
+        [
+          "Visibility",
+          "Nearly invisible when in; out during the day eventually",
+          "Invisible from the front"
+        ],
+        [
+          "Cleaning",
+          "Removed and brushed",
+          "Flossed around with a threader"
+        ],
+        [
+          "Risks",
+          "Lost, cracked, forgotten",
+          "Can come unstuck unnoticed; plaque collects"
+        ],
+        [
+          "Best for",
+          "Most patients; full-arch retention",
+          "Lower front teeth prone to crowding; anyone who will not wear a removable"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "The wear schedule",
+      "items": [
+        {
+          "title": "First three to six months",
+          "body": "Full time, out only to eat and brush, exactly as the aligners were. This is when relapse is fastest."
+        },
+        {
+          "title": "After that",
+          "body": "Every night, for as long as you want the teeth to stay straight. Most people find it becomes a habit like brushing."
+        },
+        {
+          "title": "If you miss nights",
+          "body": "Put it back in. If it feels tight, the teeth have drifted slightly and the retainer is bringing them back; wear it full time for a few days. If it will not seat, call before forcing it."
+        },
+        {
+          "title": "Fixed retainers",
+          "body": "Nothing to remember, but they need checking at each exam and flossing with a threader daily."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Caring for a removable retainer",
+      "style": "check",
+      "items": [
+        "Brush it with a soft brush and cool water or mild soap, not toothpaste, which scratches it.",
+        "Never hot water; it warps the plastic.",
+        "Keep it in its case when it is out. Napkins, pockets and dogs are the usual ways retainers are lost.",
+        "Bring it to check-ups so the fit and wear can be checked.",
+        "Expect to replace it every few years as it wears, clouds or cracks."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Lost or cracked retainer?",
+      "body": "Call promptly. Teeth begin to drift within days without retention, and a replacement made from your final records or a new impression usually takes a week or two. Wearing your last aligner tray in the meantime can hold the position if you still have it.",
+      "cta": {
+        "label": "Call 703-560-7200",
+        "href": "tel"
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Had braces years ago and lost the retainer?",
+      "body": [
+        "This is one of the most common reasons adults come in. If the teeth have drifted only a little, a new retainer may hold them where they are, or a short course of [clear aligners](/clear-aligners/for-adults/) can bring them back before a new retainer is made. If a fixed retainer from years ago has come unstuck or is collecting plaque, it can be removed and replaced or swapped for a removable one."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to wear a retainer?",
+      "a": "Indefinitely, at night. Teeth drift throughout life, and the retainer is what prevents it. The full-time phase is only the first few months."
+    },
+    {
+      "q": "Is a fixed retainer better?",
+      "a": "It is better for people who will not wear a removable one, and it is particularly useful on lower front teeth that crowd easily. It needs careful flossing and regular checks, and it does not hold the back teeth. Many people have a fixed wire on the lower front teeth and a clear removable retainer for everything else."
+    },
+    {
+      "q": "My retainer feels tight after a few nights off. Is that bad?",
+      "a": "It means the teeth drifted slightly and the retainer is correcting them, which is exactly its job. Wear it full time for a few days until it feels passive again. If it will not go in, call."
+    },
+    {
+      "q": "Are retainers included in aligner treatment?",
+      "a": "The written estimate at your consultation states what is included. Retainers are essential, so we make sure their cost, and the cost of replacements over the years, is clear from the start."
+    },
+    {
+      "q": "Can I get a retainer without having had treatment here?",
+      "a": "Yes. We make retainers for people who had braces or aligners elsewhere, after checking that the teeth and gums are healthy and the bite is stable."
+    }
+  ],
+  "related": [
+    "/clear-aligners/",
+    "/clear-aligners/how-it-works/",
+    "/clear-aligners/for-adults/",
+    "/clear-aligners/for-teens/",
+    "/general-dentistry/night-guards/",
+    "/general-dentistry/oral-hygiene/"
+  ],
+  "cta": {
+    "heading": "Keep the result.",
+    "body": "Whether you finished treatment last month or lost a retainer a decade ago, book a visit and we will make one that fits."
+  }
+}

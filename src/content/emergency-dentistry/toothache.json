@@ -1,0 +1,162 @@
+{
+  "slug": "/emergency-dentistry/toothache/",
+  "type": "symptom",
+  "title": "Toothache",
+  "meta_title": "Toothache: Causes and What to Do Now | West Alexandria Dental Care",
+  "meta_description": "What a toothache pattern tells you, what to do right now, when it is urgent today, what the visit involves, and the likely treatment by cause.",
+  "eyebrow": "Emergency care",
+  "h1": "Toothache",
+  "intro": "A toothache is the tooth telling you something has reached the nerve, or is about to. The pattern of the pain, sharp or dull, triggered or spontaneous, brief or lingering, says a lot about the cause. Here is how to read it, what helps tonight, and when it should not wait.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Sharp and brief",
+      "value": "Often sensitivity or a crack"
+    },
+    {
+      "label": "Lingering or throbbing",
+      "value": "Often the nerve"
+    },
+    {
+      "label": "With swelling",
+      "value": "Be seen today"
+    },
+    {
+      "label": "We are open",
+      "value": "Seven days"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**A cavity** that has reached the dentin or the nerve. Often starts as sensitivity to sweet things, then cold, then an ache.",
+        "**An inflamed or dying nerve**, from deep decay, a deep filling or a knock. Pain lingers after cold, throbs on its own and is worse lying down.",
+        "**An abscess**, infection at the root tip or in the gum. Throbbing, pressure, swelling, a bad taste, sometimes fever. See [dental abscess](/emergency-dentistry/dental-abscess/).",
+        "**A cracked tooth.** Sharp pain on biting and releasing, often hard to pinpoint. See [cracked tooth](/symptoms/cracked-tooth/).",
+        "**A lost or leaking filling or crown.** The exposed tooth reacts to cold and chewing.",
+        "**Gum disease or food trapped** between teeth, which aches around the tooth rather than in it.",
+        "**A wisdom tooth** erupting or infected at the back of the jaw. See [wisdom tooth pain](/symptoms/wisdom-tooth-pain/).",
+        "**Sinus pressure**, which can make several upper back teeth ache at once, especially with a cold.",
+        "**Grinding**, which leaves teeth and jaw muscles sore in the morning."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Rinse and floss",
+          "body": "Warm salt water, then gentle flossing around the sore tooth in case food is wedged against the gum. Trapped food is a surprisingly common cause of sudden pain."
+        },
+        {
+          "title": "Pain relief, as labeled",
+          "body": "An over-the-counter pain reliever taken exactly as the label directs, if it is safe for you given your health and other medications. Do not place aspirin or any tablet against the gum; it burns the tissue."
+        },
+        {
+          "title": "Cold outside, not heat",
+          "body": "A cold compress on the cheek for swelling or after an injury. Avoid heat, which can make an infection worse."
+        },
+        {
+          "title": "Avoid the triggers",
+          "body": "Very hot, cold or sweet food and drink, and chewing on that side. Sleep with your head raised if it throbs at night."
+        },
+        {
+          "title": "Note the pattern",
+          "body": "What sets it off, how long it lasts, whether biting hurts, whether anything is swollen. Those answers shorten the visit."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We ask about the pattern, then test: a cold stimulus, tapping, pressing on the gum, biting on a small stick to find a crack. A [digital X-ray](/general-dentistry/digital-x-rays/) of the tooth comes up on the screen beside you and usually confirms the cause. The first job is comfort: numbing, draining an abscess, smoothing an edge, placing a temporary filling. Then we explain the lasting fix, the cost, and whether it can be done the same day or is better scheduled once the tooth settles. New patients are welcome, and you can fill in forms on your phone on the way in."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated, by cause",
+      "items": [
+        {
+          "title": "Cavity",
+          "body": "A tooth-colored filling, or an onlay or crown if the cavity is large.",
+          "href": "/restorative-dentistry/tooth-colored-fillings/"
+        },
+        {
+          "title": "Inflamed or infected nerve",
+          "body": "Root canal therapy ends the pain and keeps the tooth, followed by a crown on back teeth.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        },
+        {
+          "title": "Abscess",
+          "body": "Drainage and root canal or extraction. Antibiotics alone do not cure it.",
+          "href": "/emergency-dentistry/dental-abscess/"
+        },
+        {
+          "title": "Cracked tooth",
+          "body": "A crown to hold it together, a root canal if the crack reaches the nerve, extraction if it splits.",
+          "href": "/symptoms/cracked-tooth/"
+        },
+        {
+          "title": "Lost filling or crown",
+          "body": "Re-cementing or replacing the restoration.",
+          "href": "/emergency-dentistry/lost-filling-or-crown/"
+        },
+        {
+          "title": "Gum problem",
+          "body": "Cleaning out the pocket, a deep cleaning if gum disease is behind it.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Tooth that cannot be saved",
+          "body": "An extraction, with the replacement planned at the same time.",
+          "href": "/restorative-dentistry/tooth-extractions/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "If the pain stops on its own",
+      "body": [
+        "A toothache that was severe and then suddenly fades is not good news. It often means the nerve has died, and the infection is now spreading quietly into the bone. The tooth will flare again, usually with swelling. Keep the appointment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a toothache go away by itself?",
+      "a": "Pain from trapped food or a mild gum flare can. Pain from decay or an inflamed nerve does not, because the cause is still there. A severe ache that suddenly stops usually means the nerve has died, and the tooth still needs treatment."
+    },
+    {
+      "q": "Will antibiotics fix it?",
+      "a": "Only temporarily, and only for infection. Antibiotics cannot reach bacteria inside a tooth, so an abscess returns once they stop. They are sometimes used to settle swelling before treatment, never instead of it."
+    },
+    {
+      "q": "Which pain reliever is best?",
+      "a": "That depends on your health and medications, so follow the label and ask a pharmacist or physician if unsure. Anti-inflammatory pain relievers are often effective for dental pain in people who can take them safely."
+    },
+    {
+      "q": "Can I be seen today?",
+      "a": "Usually, if you call during our hours, which run 7 AM to 8 PM on weekdays and 8 AM to 1 PM on weekends. We keep time for urgent problems. Call rather than booking online so we can plan the visit."
+    },
+    {
+      "q": "What if it hurts at night when you are closed?",
+      "a": "Use the home steps above, take pain relief as labeled, keep your head raised, and book the first available slot online or call at 7 AM. See our after-hours page for what to do overnight."
+    }
+  ],
+  "related": [
+    "/emergency-dentistry/",
+    "/emergency-dentistry/dental-abscess/",
+    "/symptoms/cracked-tooth/",
+    "/symptoms/tooth-sensitivity/",
+    "/restorative-dentistry/root-canal-therapy/",
+    "/emergency-dentistry/after-hours/"
+  ],
+  "cta": {
+    "heading": "A toothache is a reason to call, not to wait.",
+    "body": "Describe what you feel and whoever answers will tell you how soon you can be seen and what to do in the meantime."
+  }
+}

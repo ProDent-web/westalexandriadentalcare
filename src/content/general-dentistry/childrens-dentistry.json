@@ -1,0 +1,155 @@
+{
+  "slug": "/general-dentistry/childrens-dentistry/",
+  "type": "service",
+  "title": "Children's Dentistry",
+  "meta_title": "Children's Dentist in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "Children's dentistry in West Alexandria: first visits by age one, sealants, fluoride, cavity prevention, mouthguards and calm, no-pressure visits.",
+  "eyebrow": "General dentistry",
+  "h1": "Children's dentistry in West Alexandria",
+  "intro": "We would rather meet a child early, for a count of the teeth and a ride in the chair, than meet them for the first time when something hurts. A good first experience sets the tone for decades of easy visits, so the early ones are short, friendly and entirely on the child's terms.",
+  "icon": "child",
+  "facts": [
+    {
+      "label": "First visit",
+      "value": "By age one"
+    },
+    {
+      "label": "Then",
+      "value": "Every six months"
+    },
+    {
+      "label": "Parents",
+      "value": "Welcome in the room"
+    },
+    {
+      "label": "Insurance",
+      "value": "PPO plans and Virginia Medicaid"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "When to bring a child the first time",
+      "body": [
+        "The American Academy of Pediatric Dentistry recommends a first visit by the first birthday or within six months of the first tooth. That sounds early, and it is meant to be. Decay can start as soon as teeth arrive, especially with bottles at night, and the first visit is mostly about prevention: how to clean a baby's teeth, what to do about pacifiers and thumbs, and what to expect as more teeth come in.",
+        "If your child is older and has never seen a dentist, that is fine too. Start now. Nothing is said about the gap."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What a child's visit looks like",
+      "items": [
+        {
+          "title": "Getting comfortable",
+          "body": "A look around the room, a ride up and down in the chair, a chance to hold the mirror. For a nervous child, that can be the whole first visit, and that is a success."
+        },
+        {
+          "title": "Counting the teeth",
+          "body": "The dentist looks at each tooth, the gums and the bite. For a small child, this often happens knee to knee with a parent, with the child's head in the dentist's lap."
+        },
+        {
+          "title": "Cleaning and fluoride",
+          "body": "A gentle polish, and [fluoride varnish](/general-dentistry/fluoride-treatment/) painted on in under a minute. It strengthens enamel and can reverse the earliest stage of decay."
+        },
+        {
+          "title": "X-rays when they are useful",
+          "body": "Not at every visit. Small bitewing images are taken when the back teeth touch and cannot be checked by eye, on a schedule set by the child's cavity risk."
+        },
+        {
+          "title": "A plan for home",
+          "body": "Brushing with the right amount of fluoride toothpaste, when to start flossing, what to do about snacks and drinks, and whether sealants are due. Parents leave with specifics, not slogans."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Prevention that does most of the work",
+      "items": [
+        {
+          "title": "Sealants",
+          "body": "A thin coating painted into the grooves of the first and second adult molars, around ages six and twelve. Painless, no drilling, and it closes the places where most childhood cavities start.",
+          "href": "/general-dentistry/dental-sealants/"
+        },
+        {
+          "title": "Fluoride varnish",
+          "body": "Applied at check-ups for children at any meaningful cavity risk. It hardens enamel and buys time for early spots to heal.",
+          "href": "/general-dentistry/fluoride-treatment/"
+        },
+        {
+          "title": "Mouthguards",
+          "body": "A custom sports mouthguard for soccer, basketball, lacrosse and hockey costs far less than a knocked-out front tooth.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Brushing coaching",
+          "body": "Children need help brushing until about age seven or eight. We show the technique on the child's own teeth and give parents a realistic routine.",
+          "href": "/general-dentistry/oral-hygiene/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "When a child needs a filling",
+      "body": [
+        "Baby teeth matter. They hold space for the adult teeth, and an untreated cavity in a baby tooth can become an abscess that affects the permanent tooth forming underneath. Small cavities get small [tooth-colored fillings](/restorative-dentistry/tooth-colored-fillings/), done with topical gel before the numbing and with explanation pitched to the child's age.",
+        "For a child who finds treatment hard, [nitrous oxide](/sedation-dentistry/nitrous-oxide/) is often enough to take the edge off, after a quick review of their health. If a child needs more than is sensible in a general office, we refer to a pediatric specialist and say why."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Habits worth talking about early",
+      "style": "bullet",
+      "items": [
+        "Bottles or sippy cups with milk or juice at bedtime, which bathe the front teeth in sugar overnight.",
+        "Thumb sucking or pacifiers past about age three, which can change the shape of the bite.",
+        "Frequent snacking and sticky snacks. It is how often sugar arrives, not just how much.",
+        "Sharing spoons and cleaning pacifiers in a parent's mouth, which passes on cavity-causing bacteria.",
+        "Sports without a mouthguard, and teeth-grinding at night, both of which we can help with."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Virginia Medicaid for children",
+      "body": "We accept Virginia Medicaid, which covers dental care for children, as well as Aetna, Ameritas, Delta Dental, Humana, Cigna and MetLife. Bring the child's Medicaid or insurance card, or upload it through the online registration, and we confirm coverage before the visit.",
+      "cta": {
+        "label": "About Virginia Medicaid",
+        "href": "/new-patients/medicaid/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I stay with my child during the visit?",
+      "a": "Yes. Parents are welcome in the room. For toddlers we often do the exam with the child on your lap. Some older children do better with a parent just outside, and we follow the child's lead."
+    },
+    {
+      "q": "What if my child cries or refuses?",
+      "a": "Then we stop and try again, sometimes at a later visit. A short visit that ends well is worth more than a complete one that ends in tears. Most children who are nervous the first time are fine by the second."
+    },
+    {
+      "q": "When should my child start flossing?",
+      "a": "As soon as two teeth touch, which for the back baby teeth is often around age two to three. Floss picks make it easier for parents, and children usually cannot floss well on their own until about age ten."
+    },
+    {
+      "q": "Do baby teeth with cavities really need fillings?",
+      "a": "Usually, yes. A baby molar may be in the mouth until age twelve, and decay spreads faster in baby teeth than adult teeth. Very small spots can sometimes be watched and treated with fluoride, and we tell you which is which."
+    },
+    {
+      "q": "Can we book siblings together?",
+      "a": "Yes. Back-to-back appointments for siblings, or with a parent's own check-up, are the usual way families use the office. Evenings and weekend mornings are available."
+    }
+  ],
+  "related": [
+    "/general-dentistry/family-dentistry/",
+    "/general-dentistry/dental-sealants/",
+    "/general-dentistry/fluoride-treatment/",
+    "/clear-aligners/for-teens/",
+    "/sedation-dentistry/nitrous-oxide/",
+    "/new-patients/medicaid/"
+  ],
+  "cta": {
+    "heading": "Book a first visit that ends with a smile.",
+    "body": "Short, calm and on the child's terms. Choose an early morning, after-school or weekend slot online, or call and we will find one."
+  }
+}

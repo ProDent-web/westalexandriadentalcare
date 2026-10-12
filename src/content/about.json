@@ -1,0 +1,187 @@
+{
+  "slug": "/about/",
+  "type": "info",
+  "title": "About the Practice",
+  "meta_title": "About West Alexandria Dental Care | Family Dentist in Alexandria, VA",
+  "meta_description": "A new family dental office in the Bradlee Office Building off I-395 in West Alexandria: two general dentists, seven-day hours, four languages.",
+  "eyebrow": "About the practice",
+  "h1": "About West Alexandria Dental Care",
+  "intro": "We are a new family dental office in the Bradlee Office Building, just off I-395, opening in October 2026. Two general dentists under one roof, open seven days a week from early morning. This page is the plain version of who we are, why the office is set up this way, and what happens when you come in.",
+  "icon": "family",
+  "facts": [
+    {
+      "label": "Opening",
+      "value": "October 2026"
+    },
+    {
+      "label": "Dentists",
+      "value": "Two general dentists"
+    },
+    {
+      "label": "Open",
+      "value": "Seven days a week"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Arabic, Spanish, Portuguese"
+    }
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Why we opened here",
+      "body": [
+        "Dr. Sameer Atrash grew up in Fairfax, and his interest in dentistry began in high school through Fairfax County's Dental Careers Program. After a biology degree and a Master of Product Innovation at Virginia Commonwealth University, he earned his dental degree at Tufts in 2021. This office is the practice he wanted to build, close to home and set up around how families actually live.",
+        "The idea is in the tagline. Complete care, one dental home. Many families have one dentist for cleanings, another office for an implant, and a third for straightening teeth, each with its own forms and its own partial history. We would rather one team knew your mouth, and sent you to a specialist only when that is genuinely the better choice.",
+        "He opened the practice with Dr. Fadi Alhrashi, who brings nearly two decades of advanced training and clinical experience in restorative, surgical and implant care. Between them, nearly everything a family needs can be done in this building."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What no assembly-line dentistry means in practice",
+      "intro": "From the chair, it looks like this. The long version is on [our approach](/about/our-approach/).",
+      "style": "check",
+      "items": [
+        "Appointments are long enough to talk. Nothing is numbed until you understand what is being done and why.",
+        "You see what we see. X-rays and images come up on the screen beside you, and we point to the problem.",
+        "Costs come in writing before treatment starts, with your insurance estimate applied, so there are no surprise bills.",
+        "Watching is a real option. If a tooth can reasonably be monitored rather than treated, we say so.",
+        "No pressure and no selling up. When a simpler repair will do, that is what we recommend. Nervous patients get a comfort plan, not a lecture."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How a visit works",
+      "intro": "A first appointment usually takes 60 to 90 minutes. The full walkthrough is on [your first visit](/new-patients/first-visit/).",
+      "items": [
+        {
+          "title": "Booking",
+          "body": "You can {{book}} 24/7, or call {{phone}} during our hours. Early, late and weekend slots are real options. Tell us your preferred language."
+        },
+        {
+          "title": "Paperwork before you arrive",
+          "body": "Registration is online through our {{forms}}, and you can upload a photo of your insurance card there."
+        },
+        {
+          "title": "The conversation",
+          "body": "Before anyone looks in your mouth, we ask what brought you in and what you want from a dentist. Pain goes to the front of the line."
+        },
+        {
+          "title": "The exam",
+          "body": "Every tooth, your gums measured, your bite, and an oral cancer screening. [Digital X-rays](/general-dentistry/digital-x-rays/) are taken only when they will change what we do."
+        },
+        {
+          "title": "The plan, in writing",
+          "body": "Healthy gums usually mean a cleaning the same day. Anything else comes as a written plan with costs and what can wait. You decide, at home if you prefer."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What we treat",
+      "items": [
+        {
+          "title": "General and preventive care",
+          "body": "Cleanings and exams, children's and family dentistry, care for seniors, sealants, fluoride, oral cancer screening, night guards and mouthguards.",
+          "href": "/general-dentistry/"
+        },
+        {
+          "title": "Restoring damaged teeth",
+          "body": "Tooth-colored fillings, inlays and onlays, crowns, bridges, root canals, extractions including wisdom teeth, dentures, gum disease treatment, TMJ splints and sleep apnea appliances.",
+          "href": "/restorative-dentistry/"
+        },
+        {
+          "title": "Dental implants",
+          "body": "Single teeth, implant-supported bridges and implant-retained dentures, planned with 3D imaging.",
+          "href": "/dental-implants/"
+        },
+        {
+          "title": "Clear aligners",
+          "body": "Treatment including Invisalign for adults and teens, and retainers to hold the result.",
+          "href": "/clear-aligners/"
+        },
+        {
+          "title": "Cosmetic dentistry",
+          "body": "Whitening, bonding, porcelain veneers and smile makeover planning, most conservative option first.",
+          "href": "/cosmetic-dentistry/"
+        },
+        {
+          "title": "Emergency care",
+          "body": "Same-day evaluation during our hours for toothaches, broken teeth, lost crowns and swelling. Call first.",
+          "href": "/emergency-dentistry/"
+        },
+        {
+          "title": "Comfort and sedation",
+          "body": "Nitrous oxide, other sedation options after a health review, and pacing, a stop signal and breaks for anyone who is nervous.",
+          "href": "/sedation-dentistry/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "The office: Bradlee Office Building, off I-395",
+      "body": [
+        "We are at 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302, in the Bradlee Office Building, a few steps from Bradlee Shopping Center. From I-395, take the King Street exit. Free surface parking surrounds the building, so there is no circling and no meter to feed.",
+        "That puts us a short drive from Seminary Hill, Fairlington, Shirlington, Parkfairfax, Del Ray, Landmark and Van Dorn, Lincolnia, Bailey's Crossroads and South Arlington. Directions from each neighborhood are on our [areas we serve](/areas/) pages, and a map is on the [contact page](/contact/).",
+        "Hours are 7:00 AM to 8:00 PM Monday through Friday and 8:00 AM to 1:00 PM on Saturday and Sunday. The technology inside is a short list used when it meaningfully improves care: 3D cone-beam imaging, magnification, digital X-rays and digital records. More on [our technology](/about/technology/)."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Who you will meet",
+      "items": [
+        {
+          "title": "Dr. Sameer Atrash, DMD",
+          "body": "Owner and general dentist, Dr. Sam to most people. Born in Washington, D.C., raised in Fairfax, Tufts class of 2021. Preventive and conservative first, with particular interest in implants, clear aligners and digital dentistry.",
+          "href": "/dentists/dr-sameer-atrash/"
+        },
+        {
+          "title": "Dr. Fadi Alhrashi, DDS",
+          "body": "General dentist, Dr. Fadi in the office. Advanced General Dentistry residency at the Eastman Institute for Oral Health, Dental Implant Fellowship at Tufts, Diplomate of the American Board of Oral Implantology/Implant Dentistry and Fellow of the American Academy of Implant Dentistry. Calm, thorough, and the one to see for surgical and complex cases. Speaks English and Arabic.",
+          "href": "/dentists/dr-fadi-alhrashi/"
+        },
+        {
+          "title": "Care in four languages",
+          "body": "English, Arabic, Spanish and Portuguese. Pain, consent and costs all go better in the language you think in, so mention yours when you book.",
+          "href": "/new-patients/languages/"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "heading": "Opening October 2026, scheduling now",
+      "body": "We are booking first visits now for a new dental home in West Alexandria, including the early, evening and weekend slots that are hardest to fit around work and school. Book online any time, or call 703-560-7200.",
+      "cta": {
+        "label": "Book online",
+        "href": "book"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which insurance plans do you take?",
+      "a": "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Benefits vary by employer and plan, so we check yours before the visit. If your plan is not listed, call and we will check. See [insurance we accept](/new-patients/insurance/)."
+    },
+    {
+      "q": "Do I need a specialist for an implant or a root canal?",
+      "a": "Often not. Both of our dentists are general dentists, and much implant, root canal and surgical work is done here. When an orthodontist, periodontist, endodontist or oral surgeon is the better choice, we say so and refer you."
+    },
+    {
+      "q": "Can I choose which dentist I see?",
+      "a": "Yes. Say so when you book and we schedule you with Dr. Sam or Dr. Fadi. If you have no preference, you get the first opening that fits. Adults, children and seniors are all seen here, so a family can keep its care in one place."
+    }
+  ],
+  "related": [
+    "/dentists/",
+    "/about/our-approach/",
+    "/about/technology/",
+    "/areas/",
+    "/new-patients/first-visit/",
+    "/contact/"
+  ],
+  "cta": {
+    "heading": "Ready for one dental home?",
+    "body": "Book a first visit at an hour that fits, early, late or on a weekend, and bring your questions. We go through your history, your mouth and your options, and nothing is decided until you have the plan in writing."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "/emergency-dentistry/dental-abscess/",
+  "type": "symptom",
+  "title": "Dental Abscess",
+  "meta_title": "Dental Abscess: Signs and Treatment | West Alexandria Dental Care",
+  "meta_description": "A dental abscess never resolves on its own, even if it drains. The signs, why antibiotics alone are not the treatment, what to do now, and how it is treated with drainage, root canal or extraction.",
+  "eyebrow": "Emergency care",
+  "h1": "Dental abscess",
+  "intro": "An abscess is a pocket of pus from a bacterial infection, either at the tip of a tooth's root or in the gum beside it. It throbs, it swells, and it does not go away by itself, even when it bursts and drains and the pain eases for a while. It needs treatment, and some abscesses need it today.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Feels like",
+      "value": "Throbbing, pressure, swelling"
+    },
+    {
+      "label": "Resolves alone",
+      "value": "Never"
+    },
+    {
+      "label": "Antibiotics alone",
+      "value": "Not a cure"
+    },
+    {
+      "label": "Treatment",
+      "value": "Drain, then root canal or"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**A tooth abscess.** Deep decay or a crack lets bacteria into the nerve; the nerve dies and infection spreads out of the root tip into the bone.",
+        "**A gum abscess.** Infection in a deep gum pocket, or around a piece of food or debris trapped under the gum.",
+        "**An infected wisdom tooth**, partly erupted with a flap of gum over it.",
+        "**A failed root canal**, where infection has returned around a treated root.",
+        "**A cracked root**, which lets bacteria in along the fracture."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Signs of an abscess",
+      "style": "warn",
+      "items": [
+        "Throbbing pain that may spread to the jaw, ear or neck, often worse lying down.",
+        "Swelling of the gum, the face or the jaw, sometimes with a tender lump under the jaw.",
+        "A pimple-like bump on the gum that may drain, with a bad taste or smell.",
+        "A tooth that is tender to touch or bite, or feels raised.",
+        "Fever, feeling generally unwell.",
+        "Sudden relief of severe pain as the abscess bursts, which is not a cure."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Call us",
+          "body": "An abscess is a same-day call during our hours. Describe the swelling and whether you have fever."
+        },
+        {
+          "title": "Rinse with warm salt water",
+          "body": "Several times a day. It eases discomfort and encourages a gum abscess to drain. Do not try to pop or squeeze it."
+        },
+        {
+          "title": "Pain relief as labeled",
+          "body": "An over-the-counter pain reliever, if safe for you. Do not put aspirin on the gum."
+        },
+        {
+          "title": "Cold, not heat",
+          "body": "A cold compress on the cheek for swelling. Heat can spread infection."
+        },
+        {
+          "title": "Keep your head up",
+          "body": "Sleep propped up; lying flat increases pressure and throbbing."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We examine the tooth and gum, test which tooth is responsible, and take a [digital X-ray](/general-dentistry/digital-x-rays/), which usually shows a dark area at the root tip where bone has been dissolved. The first step is to get the pus out, which relieves the pressure and most of the pain: by opening the tooth, by a small incision in the gum, or by cleaning out a gum pocket. The area is numbed first, and an abscessed tooth can be harder to numb, so we take our time. Antibiotics are prescribed when the infection has spread beyond the tooth or there is fever, as a supplement to drainage, not instead of it. Then the lasting treatment is planned."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Root canal therapy",
+          "body": "For a tooth abscess on a tooth worth keeping: the infected nerve is removed and the canals cleaned and sealed. Followed by a crown on back teeth.",
+          "href": "/restorative-dentistry/root-canal-therapy/"
+        },
+        {
+          "title": "Extraction",
+          "body": "When the tooth cannot be saved, removing it removes the source of infection. The replacement is planned at the same time.",
+          "href": "/restorative-dentistry/tooth-extractions/"
+        },
+        {
+          "title": "Gum treatment",
+          "body": "For a gum abscess: cleaning the pocket, removing any trapped debris, and treating the underlying gum disease.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Wisdom tooth care",
+          "body": "Cleaning under the gum flap, antibiotics if needed, and usually removal of the tooth once the infection settles.",
+          "href": "/restorative-dentistry/wisdom-teeth-removal/"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Why antibiotics alone do not work",
+      "body": [
+        "Antibiotics travel in the blood, and the inside of a dead tooth has no blood supply. The bacteria there are untouched, so once the course ends the infection rebuilds, often within weeks, and each round of antibiotics makes the next one less effective. Antibiotics have a real role in controlling spread before definitive treatment, but the treatment is removing the source: the dead nerve or the tooth."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "The abscess burst and the pain is gone. Do I still need to come in?",
+      "a": "Yes. Draining relieves pressure, but the infection is still there and will refill. A draining abscess also keeps dissolving bone around the tooth. Treat it while it is calm; it is easier than treating the next flare."
+    },
+    {
+      "q": "Can a dental abscess be dangerous?",
+      "a": "It can spread beyond the tooth if it is left alone, which is why an abscess is treated promptly rather than waited out. Call us the same day, describe the swelling, and we will get you in."
+    },
+    {
+      "q": "Will I need the tooth pulled?",
+      "a": "Not necessarily. Many abscessed teeth are saved with root canal therapy. The X-ray and the state of the tooth decide, and we tell you honestly which it is."
+    },
+    {
+      "q": "How quickly can I be seen?",
+      "a": "An abscess is a priority during our hours, 7 AM to 8 PM weekdays and 8 AM to 1 PM weekends. Call rather than booking online. Outside those hours, use the home steps and book the first available slot online."
+    }
+  ],
+  "related": [
+    "/emergency-dentistry/",
+    "/emergency-dentistry/toothache/",
+    "/restorative-dentistry/root-canal-therapy/",
+    "/restorative-dentistry/tooth-extractions/",
+    "/symptoms/swollen-gums/",
+    "/emergency-dentistry/after-hours/"
+  ],
+  "cta": {
+    "heading": "Throbbing and swelling are a same-day call.",
+    "body": "Call during our seven-day hours. We drain it, end the pain, and plan the treatment that keeps it from coming back."
+  }
+}

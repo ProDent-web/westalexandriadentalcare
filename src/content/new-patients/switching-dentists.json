@@ -1,0 +1,154 @@
+{
+  "slug": "/new-patients/switching-dentists/",
+  "type": "info",
+  "title": "Switching Dentists",
+  "meta_title": "Switching Dentists in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "How to move your dental records and X-rays to a new dentist in Alexandria, get a second opinion on quoted treatment, and start again after years away.",
+  "eyebrow": "Changing dentists",
+  "h1": "Switching to a new dentist in West Alexandria",
+  "intro": "People change dentists for ordinary reasons: a move, hours that stopped fitting, a visit that felt like an assembly line, or years of putting it off. Whatever brought you here, your records can follow you, the gap needs no explaining, and the first visit begins with a conversation.",
+  "icon": "book",
+  "facts": [
+    {
+      "label": "Your records",
+      "value": "Yours to request"
+    },
+    {
+      "label": "Long gap",
+      "value": "No lecture"
+    },
+    {
+      "label": "Second opinions",
+      "value": "Welcome"
+    },
+    {
+      "label": "First visit",
+      "value": "60 to 90 minutes"
+    }
+  ],
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "The usual reasons people leave a dentist, and what is different here",
+      "items": [
+        {
+          "title": "Hours that never fit",
+          "body": "An office that keeps the same hours as your job is the classic problem. We see patients 7 AM to 8 PM on weekdays and 8 AM to 1 PM on Saturday and Sunday, so a cleaning before work is an ordinary appointment.",
+          "href": "/new-patients/evening-and-weekend-appointments/"
+        },
+        {
+          "title": "Feeling rushed",
+          "body": "If your last dentist was gone before you could ask a question: a first visit here is booked for 60 to 90 minutes and starts with you talking and us listening.",
+          "href": "/new-patients/first-visit/"
+        },
+        {
+          "title": "Bills that were not in the plan",
+          "body": "A balance you did not see coming drives many people away for good. Here your benefits are checked and the cost written down before treatment starts, and anything unexpected mid-treatment is agreed with you before we continue.",
+          "href": "/new-patients/insurance/"
+        },
+        {
+          "title": "Care in a language you did not choose",
+          "body": "Describing a toothache or reading an estimate is hard enough in your first language. We provide care in English, Arabic, Spanish and Portuguese; say which you prefer when you book.",
+          "href": "/new-patients/languages/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to get your records and X-rays moved",
+      "intro": "You do not need permission to leave or owe anyone an explanation. You do need a few things from the chart.",
+      "items": [
+        {
+          "title": "Ask for the right things",
+          "body": "Request your X-rays as digital image files, not a printout or a photo of a screen, which lose the detail that shows a cavity between teeth. Ask also for your latest gum measurements, treatment notes and any plan you were given."
+        },
+        {
+          "title": "Put it in writing",
+          "body": "A short email or a signed release is enough. The information in your chart is yours to have under federal privacy rules, and an office must answer a written request, generally within 30 days."
+        },
+        {
+          "title": "Have them sent to us directly",
+          "body": "Ask the office to send the files straight to us. Ordinary email is not a secure way to move health records, so please do not forward them yourself. If you would rather not make the call, tell us when you book."
+        },
+        {
+          "title": "Do not let missing records stop you",
+          "body": "If your old office is slow, closed or hard to reach, come anyway. We can examine you without them and take only the [digital X-rays](/general-dentistry/digital-x-rays/) that would change the plan; anything that arrives later goes into your chart."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "If it has been years since you last sat in a dental chair",
+      "body": [
+        "A long gap is the thing new patients apologize for most, and there is nothing to apologize for. What matters to us is the state of your mouth now, not the calendar.",
+        "A return visit usually needs a fresh baseline, so expect a full set of X-rays and careful gum measurements. Years of tartar may call for a [deep cleaning](/restorative-dentistry/deep-cleaning/) rather than a routine one, and an old filling or two may have worn out. All of it is ordinary and fixable.",
+        "You will not leave with twenty things to do this month. Findings are sorted into soon, later and watch, with the reason for each; [how we approach care](/about/our-approach/) explains the sorting."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Getting a second opinion on treatment you were quoted",
+      "body": [
+        "If another dentist quoted several crowns, a root canal or an implant and something did not sit right, bring the written plan and the X-rays behind it. Second opinions are a normal part of dentistry, and asking does not make you a difficult patient.",
+        "We look at the same images with you and say whether we see the same problems, whether we agree on how urgent they are, and whether a simpler option would do. Sometimes we agree entirely. Sometimes we would watch a spot the other office wanted to fill; dentists reasonably differ on when a small cavity becomes a filling.",
+        "The answer is yours to use as you like, including taking it back to your current dentist. We will not criticize another office by name or press you to stay."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What your first visit here covers",
+      "body": [
+        "Switching does not shorten the first visit. We still want the full picture: health history and medications, what you want from a dentist, every tooth and every piece of existing work, gum measurements, your bite and an [oral cancer screening](/general-dentistry/oral-cancer-screening/).",
+        "The difference is the starting point. If recent X-rays arrived, we read them first and repeat only what is out of date. Healthy gums usually mean a cleaning the same day. You leave with a written plan, and the next appointment is yours to book or not. [Your first visit](/new-patients/first-visit/) has the step by step, and the {{forms}} lets you register from your phone beforehand."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Seeing the same dentist once you are here",
+      "body": [
+        "Never seeing the same face twice is one reason people drift between offices. Here there are two general dentists, [Dr. Sameer Atrash](/dentists/dr-sameer-atrash/) and [Dr. Fadi Alhrashi](/dentists/dr-fadi-alhrashi/). Choose one when you book, and that dentist follows your care from then on; both work from one record, so nothing is repeated if you ever see the other.",
+        "Because [fillings](/restorative-dentistry/tooth-colored-fillings/), [crowns](/restorative-dentistry/dental-crowns/), [root canals](/restorative-dentistry/root-canal-therapy/), [implants](/dental-implants/) and [clear aligners](/clear-aligners/) are all handled here, most treatment stays with the dentist who knows your history. When an orthodontist, periodontist, endodontist or oral surgeon would serve you better, we say so and help with the referral."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "heading": "New to the area?",
+      "body": "The office is in the Bradlee Office Building, 3543 W. Braddock Road, Suite E1, just off I-395 at the King Street exit, with free parking around the building. If a move to Alexandria came with a new dental plan, upload a photo of the card through the {{forms}} and we will check your benefits before you arrive. We accept Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid; if yours is not listed, call {{phone}} and we will look.",
+      "cta": {
+        "label": "Directions and parking",
+        "href": "/contact/"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to tell my old dentist why I am leaving?",
+      "a": "No. You can request your records without giving a reason. An office may charge a modest fee for copies, but it cannot hold your records back over an unpaid balance for treatment."
+    },
+    {
+      "q": "Will you repeat my X-rays?",
+      "a": "Only with a reason. Check-up X-rays from the last year or so, sent as clear digital files, are usually enough. If they are older, missing or too blurry to read between the teeth, we take new ones and show you on the screen."
+    },
+    {
+      "q": "Can my whole family switch at the same time?",
+      "a": "Yes. Each person completes their own registration, and we can often book a family back to back on an evening or weekend morning. Children, teens and grandparents are all seen here; see [family dentistry](/general-dentistry/family-dentistry/)."
+    },
+    {
+      "q": "What if I am in the middle of treatment somewhere else?",
+      "a": "Tell us when you book. A temporary crown, unfinished root canal or set of aligners can often be picked up here once we have the records. If a lab piece is already underway, finishing that step with the original office may be simpler, and we will say so."
+    }
+  ],
+  "related": [
+    "/new-patients/first-visit/",
+    "/new-patients/patient-forms/",
+    "/new-patients/insurance/",
+    "/about/our-approach/",
+    "/general-dentistry/digital-x-rays/",
+    "/new-patients/evening-and-weekend-appointments/"
+  ],
+  "cta": {
+    "heading": "Changing dentists does not have to be a project",
+    "body": "Book a first visit for whatever hour suits you, ask your previous office to send your X-rays to us, and let the rest happen in the chair. Questions before you commit are welcome at 703-560-7200."
+  }
+}

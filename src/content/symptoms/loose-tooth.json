@@ -1,0 +1,150 @@
+{
+  "slug": "/symptoms/loose-tooth/",
+  "type": "symptom",
+  "title": "Loose Tooth",
+  "meta_title": "Loose Adult Tooth: Causes and What to Do | West Alexandria Dental Care",
+  "meta_description": "An adult tooth should not be loose. Gum disease, grinding, injury, an abscess: what is behind it, what to do now (do not wiggle it), what the exam checks.",
+  "eyebrow": "Symptom guide",
+  "h1": "Loose tooth",
+  "intro": "A loose baby tooth in a child is a milestone. A loose adult tooth is a warning, and the usual reason is gum disease that has quietly taken the bone from around the root. Other causes are a knock, grinding, or an abscess pushing the tooth up. Some loose teeth can be stabilized and kept; the sooner they are seen, the more often that is true.",
+  "icon": "emergency",
+  "facts": [
+    {
+      "label": "Commonest cause",
+      "value": "Gum disease"
+    },
+    {
+      "label": "Do not",
+      "value": "Wiggle it"
+    },
+    {
+      "label": "After an injury",
+      "value": "Same-day call"
+    },
+    {
+      "label": "Can be saved",
+      "value": "Often, if seen early"
+    }
+  ],
+  "sections": [
+    {
+      "type": "list",
+      "heading": "What is usually behind it",
+      "style": "bullet",
+      "items": [
+        "**Advanced gum disease.** Bone around the root has been lost, so the tooth has less to hold it. Usually with bleeding, recession, bad breath, and often more than one tooth.",
+        "**Injury.** A blow or fall that has stretched or torn the ligament, or fractured the root or the bone.",
+        "**Grinding and clenching**, which overload teeth and can loosen them, particularly if bone is already reduced.",
+        "**An abscess**, where pus at the root tip lifts the tooth and makes it feel high and loose.",
+        "**A bite problem**, where one tooth takes more than its share of force, for example after a filling left high.",
+        "**Pregnancy**, where hormones can slightly loosen teeth temporarily.",
+        "**Rarely**, a cyst or tumor in the jaw, or certain bone conditions."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What to do right now",
+      "items": [
+        {
+          "title": "Do not wiggle it",
+          "body": "Testing it with your tongue or finger stretches the ligament further. Leave it alone."
+        },
+        {
+          "title": "Eat soft food on the other side",
+          "body": "Avoid biting on the tooth at all until it is seen."
+        },
+        {
+          "title": "Keep it clean, gently",
+          "body": "A soft brush and careful cleaning around it. Plaque makes gum disease worse; do not stop cleaning because it feels fragile."
+        },
+        {
+          "title": "After an injury",
+          "body": "If the tooth has been pushed out of position, do not try to push it back yourself. Bite gently on a clean cloth to keep it still and call today. If it has come out completely, see the knocked-out tooth page now."
+        },
+        {
+          "title": "Call",
+          "body": "A loose adult tooth is a reason for a prompt appointment, and a same-day one after an injury or with pain or swelling."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "What happens at the visit",
+      "body": [
+        "We check how much the tooth moves and in which directions, measure the gum pockets around it, test the bite to see whether it is taking too much force, and check for an abscess. A [digital X-ray](/general-dentistry/digital-x-rays/) shows how much bone remains around the root and whether the root is fractured. The combination tells us whether the tooth can be stabilized and kept, and for how long, and we show you the image and say so honestly."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "How it is treated",
+      "items": [
+        {
+          "title": "Gum disease treatment",
+          "body": "Deep cleaning and maintenance stop further bone loss, and mildly loose teeth often firm up as the gum heals.",
+          "href": "/restorative-dentistry/gum-disease-treatment/"
+        },
+        {
+          "title": "Splinting",
+          "body": "After an injury, or for teeth loosened by bone loss, the tooth is bonded to its neighbors with a thin wire so the ligament can heal and chewing is shared.",
+          "href": "/emergency-dentistry/knocked-out-tooth/"
+        },
+        {
+          "title": "Bite adjustment and a night guard",
+          "body": "If one tooth is taking too much force, reshaping a high spot and protecting against grinding takes the load off.",
+          "href": "/general-dentistry/night-guards/"
+        },
+        {
+          "title": "Treating an abscess",
+          "body": "Root canal or extraction removes the infection; a tooth lifted by an abscess often tightens once it is treated.",
+          "href": "/emergency-dentistry/dental-abscess/"
+        },
+        {
+          "title": "Extraction and replacement",
+          "body": "When too much bone is gone for the tooth to be kept, it is removed and replaced, with the plan made before it comes out.",
+          "href": "/restorative-dentistry/replacing-missing-teeth/"
+        },
+        {
+          "title": "Referral",
+          "body": "To a periodontist for advanced bone loss where regeneration or surgery may help."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Children's loose teeth",
+      "body": [
+        "A baby tooth loosening from about age six is normal, as the adult tooth beneath dissolves its root. It can be wiggled and will come out on its own. A baby tooth loosened by a fall, or one that is loose long before the others, is worth a look, and a loose tooth with swelling in a child is treated as an abscess until proven otherwise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a loose adult tooth tighten up again?",
+      "a": "Often, yes, if the cause is treated early. A tooth loosened by inflamed gums firms up as the gum heals after a deep cleaning. A tooth loosened by injury heals in a splint. A tooth that has lost most of its bone usually cannot be made firm again."
+    },
+    {
+      "q": "Should I just let it fall out?",
+      "a": "No. A loose tooth from gum disease means the disease is active on the teeth around it too. Treating the cause protects the rest, and planning a replacement before extraction gives better options than a gap that has been left."
+    },
+    {
+      "q": "I grind my teeth. Could that be why?",
+      "a": "Grinding alone rarely loosens a healthy tooth, but it can loosen one whose bone support is already reduced, and it makes any loose tooth worse. A night guard is usually part of the plan."
+    },
+    {
+      "q": "Is a loose tooth an emergency?",
+      "a": "After an injury, yes: splinting works best within hours. Otherwise it is a prompt appointment, within days, sooner if there is pain or swelling."
+    }
+  ],
+  "related": [
+    "/restorative-dentistry/gum-disease-treatment/",
+    "/emergency-dentistry/knocked-out-tooth/",
+    "/emergency-dentistry/dental-abscess/",
+    "/symptoms/bleeding-gums/",
+    "/general-dentistry/night-guards/",
+    "/restorative-dentistry/replacing-missing-teeth/"
+  ],
+  "cta": {
+    "heading": "A loose tooth is a tooth asking for help.",
+    "body": "Call today after an injury, or book within days otherwise. We find the cause, tell you honestly whether the tooth can be kept, and plan from there."
+  }
+}
