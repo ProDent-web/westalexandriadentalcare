@@ -8,6 +8,7 @@ Every page on this site must agree with this sheet. Nothing here may be contradi
 - **Tagline:** Complete care. One dental home.
 - **Type:** Comprehensive family, restorative and cosmetic general dental office. Two general dentists. New office, planned opening October 2026, now accepting new patients.
 - **Phone:** 703-263-8719 (write it exactly like this)
+- **Email:** info@westalexandriadentalcare.com (office inbox; the contact form on /contact/ sends here)
 - **Address:** Bradlee Office Building, 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302
 - **Location notes:** In the Bradlee Office Building, steps from Bradlee Shopping Center, just off I-395 at the King Street exit. Free surface parking around the building.
 - **Hours (patients seen):** Monday–Friday 7:00 AM–8:00 PM. Saturday and Sunday 8:00 AM–1:00 PM. Open seven days a week.

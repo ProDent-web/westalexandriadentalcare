@@ -47,7 +47,7 @@ Both commands use only what ships with macOS (Python 3) and Node. Nothing to ins
 
 These came from the client's existing site or were inferred; none are invented, but each is worth a yes from the office.
 
-1. **Contact-form inbox.** The form on `/contact/` prepares an email to `info@merrifielddentist.com` (the address the client's current site used). Change `"email"` in `site.json` if a different inbox should receive inquiries, or connect a form service (Netlify Forms, Formspree) and the form will post there instead.
+1. **Contact-form inbox.** The form on `/contact/` prepares an email to `info@westalexandriadentalcare.com` (confirmed by the office, October 2026). Change `"email"` in `site.json` if a different inbox should receive inquiries, or connect a form service (Netlify Forms, Formspree) and the form will post there instead.
 2. **Domain.** `site.json` assumes `www.westalexandriadentalcare.com`. Update before launch.
 3. **Invisalign®.** The clear-aligner pages say "clear aligners, including Invisalign". Dr. Atrash lists Invisalign among his interests; confirm the office will offer that brand or change the wording to "clear aligners".
 4. **3D imaging (cone-beam CT) and magnification** are described as used "when they meaningfully improve care", as on the client's existing site. Confirm the equipment is on site.
