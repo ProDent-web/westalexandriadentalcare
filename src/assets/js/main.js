@@ -143,7 +143,7 @@
         window.location.href = 'mailto:' + to + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
       } else {
         const note = $('[data-form-note]', form);
-        if (note) note.textContent = 'Thanks. For the fastest reply, call 703-560-7200 or use Book online; this form will be connected to the office inbox before launch.';
+        if (note) note.textContent = 'Thanks. For the fastest reply, call 703-263-8719 or use Book online; this form will be connected to the office inbox before launch.';
       }
     });
   }

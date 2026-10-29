@@ -35,7 +35,7 @@ FORBIDDEN_FACTS = [
     (r"\b(pain-free guarantee|guaranteed results|guarantee)\b", "guarantee"),
     (r"\b(best dentist|#1 dentist|number one dentist)\b", "superlative claim"),
 ]
-PHONE_OK = "703-560-7200"
+PHONE_OK = "703-263-8719"
 WORD_TARGETS = {"service": (650, 1000), "symptom": (550, 950), "info": (600, 1000), "area": (450, 700), "hub": (400, 650), "article": (700, 1400), "dentist": (500, 900)}
 
 link_re = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")

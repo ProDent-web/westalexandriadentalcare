@@ -7,11 +7,11 @@ Every page on this site must agree with this sheet. Nothing here may be contradi
 - **Legal entity:** Virginia Family Dental Group PLLC
 - **Tagline:** Complete care. One dental home.
 - **Type:** Comprehensive family, restorative and cosmetic general dental office. Two general dentists. New office, planned opening October 2026, now accepting new patients.
-- **Phone:** 703-560-7200 (write it exactly like this)
+- **Phone:** 703-263-8719 (write it exactly like this)
 - **Address:** Bradlee Office Building, 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302
 - **Location notes:** In the Bradlee Office Building, steps from Bradlee Shopping Center, just off I-395 at the King Street exit. Free surface parking around the building.
 - **Hours (patients seen):** Monday–Friday 7:00 AM–8:00 PM. Saturday and Sunday 8:00 AM–1:00 PM. Open seven days a week.
-- **Booking:** Online booking is available 24/7 (link text "Book online"; the build inserts the real URL). Phone 703-560-7200.
+- **Booking:** Online booking is available 24/7 (link text "Book online"; the build inserts the real URL). Phone 703-263-8719.
 - **Patient forms:** Secure online registration through Denticon before the visit (link text "Complete patient paperwork"; the build inserts the URL). Insurance-card images can be uploaded there.
 - **Insurance accepted:** Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife, Virginia Medicaid. Participation and benefits vary by employer and specific plan. If a plan is not listed, contact the office and the team will check.
 - **Languages:** English, Arabic, Spanish, Portuguese. Mention your preferred language when booking.

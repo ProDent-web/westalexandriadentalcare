@@ -525,7 +525,7 @@ def render_dictionary(c):
 # --------------------------------------------------------------------------- custom pages
 
 HOME_FAQ = [
-    {"q": "Are you accepting new patients?", "a": "Yes. West Alexandria Dental Care is welcoming new patients for our October 2026 opening. Book online at any hour, or call 703-560-7200 and the team will find a time that fits, including evenings and weekends."},
+    {"q": "Are you accepting new patients?", "a": "Yes. West Alexandria Dental Care is welcoming new patients for our October 2026 opening. Book online at any hour, or call 703-263-8719 and the team will find a time that fits, including evenings and weekends."},
     {"q": "Do you see both adults and children?", "a": "Yes. This is a comprehensive family office for every stage of life, from a child's first visit to implants and dentures for grandparents, with records in one place so care stays joined up."},
     {"q": "Which insurance plans do you accept?", "a": "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Participation and benefits vary by employer and plan, so send us your card through the registration page or bring it along and we will check your benefits before anything starts."},
     {"q": "What if I feel anxious about dental care?", "a": "Tell us when you book. We plan a slower, step-by-step visit, agree a signal to pause, and offer nitrous oxide and other sedation options after an individual health review. A first visit can be just a conversation."},
@@ -740,7 +740,7 @@ def render_contact():
             f'<div style="margin-top:24px" class="reveal">{btn("Areas we serve", "/areas/", "ghost", "arrow-right")}</div></div></section>' +
             cta_band({"heading": "Prefer to talk?", "body": "We are happy to start with a phone call. For an urgent dental concern, please call rather than using the form so we can help direct your next step."}))
     ld = [jsonld_crumbs([("Home", "/"), ("Contact & Directions", "/contact/")])]
-    return layout("/contact/", "Contact & Directions | West Alexandria Dental Care, Alexandria, VA", "Call 703-560-7200, book online 24/7, or visit West Alexandria Dental Care in the Bradlee Office Building, 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302. Free parking.", body, ld)
+    return layout("/contact/", "Contact & Directions | West Alexandria Dental Care, Alexandria, VA", "Call 703-263-8719, book online 24/7, or visit West Alexandria Dental Care in the Bradlee Office Building, 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302. Free parking.", body, ld)
 
 def render_book():
     c = {"slug": "/book-online/", "eyebrow": "Book online", "h1": "Choose a time that fits. Any hour, any day.", "intro": "Online scheduling shows real availability, including 7 AM starts, evenings until 8 PM and weekend mornings. Pick a time, tell us what brings you in, and the office confirms the details. New patients are welcome.", "icon": "calendar"}

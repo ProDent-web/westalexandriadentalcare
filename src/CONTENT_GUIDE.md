@@ -42,7 +42,7 @@ Link generously but naturally with inline Markdown links to other pages of this 
     {"type": "list", "heading": "Signs you may need one", "intro": "optional", "style": "check", "items": ["...", "..."]},
     {"type": "cards", "heading": "Your options", "items": [{"title": "Crown", "body": "...", "href": "/optional/"}]},
     {"type": "compare", "heading": "Crown or filling?", "columns": ["Crown", "Filling"], "rows": [["Best for", "Large breakdown", "Small to medium cavities"], ["Visits", "Two", "One"]]},
-    {"type": "callout", "tone": "urgent", "heading": "Call today if", "body": "...", "cta": {"label": "Call 703-560-7200", "href": "tel"}}
+    {"type": "callout", "tone": "urgent", "heading": "Call today if", "body": "...", "cta": {"label": "Call 703-263-8719", "href": "tel"}}
   ],
   "faqs": [{"q": "Does it hurt?", "a": "2–4 sentences."}],
   "related": ["/restorative-dentistry/tooth-colored-fillings/", "/restorative-dentistry/root-canal-therapy/"],

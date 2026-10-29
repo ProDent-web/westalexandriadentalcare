@@ -118,7 +118,7 @@
       "heading": "Your plan is not on the list",
       "body": "Call {{phone}} with the plan name and member ID, or upload the card through the {{forms}} and note that it is not listed. We will check how it works here and tell you what we find. If your benefits would go further at another office, we say so rather than let a bill deliver the news.",
       "cta": {
-        "label": "Call 703-560-7200",
+        "label": "Call 703-263-8719",
         "href": "tel"
       }
     },
@@ -164,6 +164,6 @@
   ],
   "cta": {
     "heading": "Want your benefits checked before you book?",
-    "body": "Upload your card through the registration page or call 703-560-7200 with the plan name any day we are open, 7 AM to 8 PM on weekdays and 8 AM to 1 PM on weekends. We will tell you what your plan does at our Alexandria office before you commit to a time."
+    "body": "Upload your card through the registration page or call 703-263-8719 with the plan name any day we are open, 7 AM to 8 PM on weekdays and 8 AM to 1 PM on weekends. We will tell you what your plan does at our Alexandria office before you commit to a time."
   }
 }

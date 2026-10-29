@@ -87,7 +87,7 @@ def main():
     dr.text((430, 258), "Dental Care", font=serif, fill=NAVY)
     dr.line([(430, 352), (1080, 352)], fill=GOLD, width=2)
     dr.text((430, 372), "Complete care. One dental home.", font=sans, fill=(43, 125, 156))
-    dr.text((430, 420), "Mon–Fri 7 AM–8 PM  ·  Sat–Sun 8 AM–1 PM  ·  703-560-7200", font=sans_b, fill=(86, 106, 113))
+    dr.text((430, 420), "Mon–Fri 7 AM–8 PM  ·  Sat–Sun 8 AM–1 PM  ·  703-263-8719", font=sans_b, fill=(86, 106, 113))
     dr.text((430, 456), "3543 W. Braddock Road, Suite E1, Alexandria, VA 22302", font=sans_b, fill=(86, 106, 113))
     og.save(os.path.join(IMG, "og.jpg"), quality=88)
     print("wrote favicon.svg, logo-mark.svg, icon-512.png, icon-192.png, apple-touch-icon.png, favicon-32.png, og.jpg")
