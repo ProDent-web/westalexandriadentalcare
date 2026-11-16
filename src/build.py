@@ -7,7 +7,7 @@
 Everything about the practice (name, phone, hours, nav, page registry) lives in site.json.
 Every content page lives in content/<slug>.json. This script renders them with one shared layout.
 """
-import json, os, re, sys, shutil, glob, html, datetime
+import json, os, re, sys, shutil, glob, html, datetime, hashlib
 from collections import OrderedDict
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -28,6 +28,13 @@ DENTIST_PHOTOS = {"/dentists/dr-sameer-atrash/": "dr-sameer-atrash.jpg", "/denti
 HUB_ICONS = {"/general-dentistry/": "tooth", "/restorative-dentistry/": "repair", "/cosmetic-dentistry/": "sparkle", "/dental-implants/": "implant", "/clear-aligners/": "aligner", "/emergency-dentistry/": "emergency", "/sedation-dentistry/": "moon", "/symptoms/": "pulse", "/new-patients/": "calendar", "/areas/": "map"}
 HUB_ORDER = ["/general-dentistry/", "/restorative-dentistry/", "/cosmetic-dentistry/", "/dental-implants/", "/clear-aligners/", "/emergency-dentistry/", "/sedation-dentistry/"]
 BROKEN = []
+
+def asset_v(rel):
+    """Short hash of an asset's contents, added to its URL as ?v=. Assets are cached for 30 days
+    (see the .htaccess rules below), so a changed stylesheet or script needs a new URL to be picked up."""
+    with open(os.path.join(ROOT, "assets", rel), "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()[:8]
+CSS_V = asset_v("css/main.css"); JS_V = asset_v("js/main.js")
 
 # --------------------------------------------------------------------------- photos
 # photos.json maps a named slot to a file in assets/img/photos/. Swap the file to replace a placeholder.
@@ -296,7 +303,7 @@ def layout(slug, title, description, body, jsonld=None, og_image=None, og_type="
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap">
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css?v={CSS_V}">
 <script>window.WADC={{hours:{hours_js}}};</script>
 {ld_html}
 </head>
@@ -309,7 +316,7 @@ def layout(slug, title, description, body, jsonld=None, og_image=None, og_type="
 </main>
 {footer_html()}
 {sticky_cta()}
-<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/main.js?v={JS_V}" defer></script>
 </body>
 </html>
 """
