@@ -316,6 +316,10 @@
           "/dental-implants/"
         ],
         [
+          "All-on-X full-arch implants",
+          "/all-on-x/"
+        ],
+        [
           "Clear aligners",
           "/clear-aligners/"
         ],
@@ -824,6 +828,13 @@
       "title": "Implant-Retained Dentures",
       "parent": "/dental-implants/",
       "hint": "For a loose lower denture especially: snap-in overdentures on a small number of implants, removable vs fixed options, eating and confidence, the process, converting an existing denture, maintenance (replacing attachments), who is a candidate."
+    },
+    {
+      "slug": "/all-on-x/",
+      "type": "landing",
+      "title": "All-on-X Full-Arch Implants",
+      "parent": "/dental-implants/",
+      "hint": "LANDING PAGE (campaign page, short top-level URL) for full-arch fixed implant bridges on four to six implants per arch, also known as All-on-4 / All-on-6: who it is for, what the X means, denture vs snap-in vs fixed comparison, the process from consultation to final bridge, Dr. Fadi Alhrashi's implant credentials, the honest downsides, comfort, cost in general terms (NO dollar figures), FAQs and a consultation request form. Same-day temporary teeth are 'in many cases', never promised. No implant brands, no named sedation drugs."
     },
     {
       "slug": "/dental-implants/implants-vs-dentures/",

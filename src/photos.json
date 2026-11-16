@@ -208,6 +208,28 @@
     "height": 1067,
     "width_sm": 900
   },
+  "allonx-hero": {
+    "file": "cat-seniors.jpg",
+    "file_sm": "cat-seniors-sm.jpg",
+    "alt": "Older couple laughing together on a sofa in front of sheer white curtains",
+    "position": "50% 35%",
+    "source": null,
+    "credit": "Same placeholder file as cat-seniors",
+    "width": 1600,
+    "height": 1078,
+    "width_sm": 900
+  },
+  "allonx-detail": {
+    "file": "cat-implants.jpg",
+    "file_sm": "cat-implants-sm.jpg",
+    "alt": "Hands holding a dental implant model showing the post beside natural teeth",
+    "position": "62% 50%",
+    "source": null,
+    "credit": "Same placeholder file as cat-implants",
+    "width": 1600,
+    "height": 1066,
+    "width_sm": 900
+  },
   "contact-exterior": {
     "file": "contact-exterior.jpg",
     "file_sm": "contact-exterior-sm.jpg",

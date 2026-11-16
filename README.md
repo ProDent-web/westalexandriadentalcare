@@ -41,6 +41,8 @@ Both commands use only what ships with macOS (Python 3) and Node. Nothing to ins
 
 **Add a blog post** → `src/content/blog/<slug>.json` with `type: "article"`, plus a registry entry. The blog index and home page pick the newest three by date.
 
+**Edit the All-on-X landing page** → `src/content/all-on-x.json` (live at `/all-on-x/`). Headline, hero stats, every section, the FAQs and the consultation form options are all in that one file. To build another landing page for a different treatment, copy it, register the new slug in `site.json` with `"type": "landing"`, and see "Landing pages" in `src/CONTENT_GUIDE.md`.
+
 **Change the domain** → `"domain"` in `site.json` (used for canonical URLs, sitemap and structured data).
 
 ## Things to confirm with the client before launch
@@ -55,6 +57,7 @@ These came from the client's existing site or were inferred; none are invented, 
 6. **Sedation.** Pages say "nitrous oxide, and other sedation options after an individual review", matching the client's wording. No specific sedation method is promised.
 7. **Photos.** The hero uses the office render from the client's current site, and the dentist photos are the ones they supplied. Higher-resolution portraits and real office photography will lift the site further; drop them into `src/assets/img/` with the same filenames.
 8. **Google Business Profile.** Once the office has reviews, a reviews section can be added; the site intentionally has no testimonials now because none exist yet.
+9. **All-on-X landing page (`/all-on-x/`).** Written from general full-arch implant practice, so the office should confirm: (a) which dentist leads these cases (the page presents Dr. Fadi's implant credentials, with Dr. Sam sharing planning and restorative work); (b) that a fixed temporary bridge on or near the day of surgery is offered "in many cases", as the page says; (c) the usual implant count (page says four to six per arch) and healing time (three to six months); (d) which sedation is available for full-arch surgery (page names only nitrous oxide and "other sedation options after review"); (e) whether the consultation is free, which the page does not claim; (f) that the consultation-request emails should go to the main office inbox. "All-on-4" appears twice as the common name for the approach; it is a Nobel Biocare trademark, so keep it descriptive or remove it if the office prefers.
 
 ## Replacing the placeholder photos
 
@@ -73,6 +76,10 @@ The photos are stock placeholders from Unsplash. Every photo on the site is load
 | `cat-symptoms` | Symptom guide index and all 13 guides | A calm, natural smile |
 | `cat-areas` | Areas index and the 8 neighborhood pages | An Alexandria street scene |
 | `cat-blog` | Blog index, dictionary, remaining articles | A quiet clinic detail |
+| `allonx-hero` | All-on-X landing page hero (arched frame) | A real full-arch patient smiling (with consent), or an older couple |
+| `allonx-detail` | All-on-X landing page, "What the X stands for" | A full-arch bridge or implant model, or the 3D scan on screen |
+
+The two `allonx-` slots currently point at the `cat-seniors` and `cat-implants` files. To give the landing page its own pictures, add new files to the photos folder and change that slot's `"file"` and `"file_sm"`.
 
 **To replace one:** export the real photo as a JPEG about 1600 px wide (2400 px for `hero-office`), name it exactly as the slot's `"file"` in `src/photos.json` (for example `cat-general.jpg`), and a half-size copy named as `"file_sm"` (`cat-general-sm.jpg`). Drop both into `src/assets/img/photos/`, update the `"alt"` text to describe the real picture, adjust `"position"` if the subject needs to sit higher or lower in the crop, then run `python3 src/build.py`. The `width`/`height` fields are refreshed by `python3 src/photos_fetch.py` (which also re-downloads any placeholder still missing a file). Delete `CREDITS.md` from the photos folder once no Unsplash images remain.
 
@@ -97,4 +104,4 @@ If the repository is ever made private, use the SSH address instead (`git@github
 
 ## Pages
 
-116 pages: home, all-services index, contact, book online, 2 dentist profiles + index, about, approach, technology, new-patient section (10), general dentistry (13), restorative (16), cosmetic (5), implants (8), clear aligners (8), emergency (8), sedation (4), symptom guides (14), areas served (9), FAQ, dental dictionary, blog (6 posts + index), privacy, accessibility, 404. See `site/sitemap.xml` for the full list.
+117 pages: home, all-services index, contact, book online, 2 dentist profiles + index, about, approach, technology, new-patient section (10), general dentistry (13), restorative (16), cosmetic (5), implants (8), the All-on-X landing page, clear aligners (8), emergency (8), sedation (4), symptom guides (14), areas served (9), FAQ, dental dictionary, blog (6 posts + index), privacy, accessibility, 404. See `site/sitemap.xml` for the full list.

@@ -11,9 +11,12 @@ import json, re, sys, os, glob
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SITE = json.load(open(os.path.join(ROOT, "site.json")))
 SLUGS = {p["slug"] for p in SITE["pages"]}
-TYPES = {"service", "symptom", "hub", "info", "area", "article", "faq", "dictionary", "dentist", "custom"}
+TYPES = {"service", "symptom", "hub", "info", "area", "article", "faq", "dictionary", "dentist", "landing", "custom"}
 ICONS = set("tooth shield sparkle clock pin phone calendar implant aligner crown drop moon alert child senior xray heart smile gum star check family language card wallet book map chat sun hand pulse wave gear leaf braces bridge denture root shield-check repair emergency".split())
 BLOCKS = {"prose", "steps", "list", "cards", "compare", "callout"}
+LANDING_BLOCKS = {"cards", "split", "compare", "steps", "doctor", "list"}
+LANDING_BANDS = {"paper", "cream", "cream2", "navy"}
+PHOTO_SLOTS = set(json.load(open(os.path.join(ROOT, "photos.json"), encoding="utf-8")))
 TONES = {"urgent", "info", "note"}
 
 BANNED = [
@@ -36,7 +39,7 @@ FORBIDDEN_FACTS = [
     (r"\b(best dentist|#1 dentist|number one dentist)\b", "superlative claim"),
 ]
 PHONE_OK = "703-263-8719"
-WORD_TARGETS = {"service": (650, 1000), "symptom": (550, 950), "info": (600, 1000), "area": (450, 700), "hub": (400, 650), "article": (700, 1400), "dentist": (500, 900)}
+WORD_TARGETS = {"service": (650, 1000), "symptom": (550, 950), "info": (600, 1000), "area": (450, 700), "hub": (400, 650), "article": (700, 1400), "dentist": (500, 900), "landing": (900, 1800)}
 
 link_re = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 html_re = re.compile(r"<[^>]+>")
@@ -62,7 +65,7 @@ def body_text(d):
     parts = [d.get("intro", "")]
     for s in d.get("sections", []):
         for p, v in walk_strings(s):
-            if not p.endswith(".type") and not p.endswith(".heading") and not p.endswith(".href") and not p.endswith(".tone") and not p.endswith(".label"):
+            if not p.endswith((".type", ".heading", ".href", ".tone", ".label", ".band", ".photo", ".icon", ".style", ".link")):
                 parts.append(v)
     for f in d.get("faqs", []):
         parts += [f.get("q", ""), f.get("a", "")]
@@ -126,11 +129,34 @@ def validate(path):
             W("no steps/list section")
         if t in {"service", "symptom"} and not (5 <= len(secs) <= 9):
             W(f"{len(secs)} sections (want 5–9)")
+        allowed = LANDING_BLOCKS if t == "landing" else BLOCKS
         for i, s in enumerate(secs):
             k = s.get("type")
-            if k not in BLOCKS:
+            if k not in allowed:
                 E(f"section[{i}] type {k!r} invalid")
                 continue
+            if t == "landing":
+                if s.get("band") and s["band"] not in LANDING_BANDS:
+                    E(f"section[{i}] band {s['band']!r} invalid")
+                if k == "split":
+                    if not isinstance(s.get("body"), list) or not s.get("body"):
+                        E(f"section[{i}] split body must be a list of paragraphs")
+                    if s.get("photo") not in PHOTO_SLOTS:
+                        E(f"section[{i}] split photo {s.get('photo')!r} is not a slot in photos.json")
+                if k == "doctor":
+                    if not isinstance(s.get("body"), list) or not s.get("body"):
+                        E(f"section[{i}] doctor body must be a list of paragraphs")
+                    if not s.get("photo") or not os.path.exists(os.path.join(ROOT, "assets", "img", s["photo"])):
+                        E(f"section[{i}] doctor photo {s.get('photo')!r} not found in assets/img")
+                    if not s.get("name") or not s.get("credentials"):
+                        E(f"section[{i}] doctor needs name and credentials")
+                    c = s.get("cta")
+                    if c and c.get("href") not in SLUGS:
+                        E(f"section[{i}] doctor cta href {c.get('href')!r} not in registry")
+                if k == "cards":
+                    for j, it in enumerate(s.get("items", [])):
+                        if it.get("icon") and it["icon"] not in ICONS:
+                            E(f"section[{i}] item[{j}] icon {it['icon']!r} not in icon set")
             if not s.get("heading"):
                 E(f"section[{i}] ({k}) missing heading")
             if k == "prose" and not isinstance(s.get("body"), list):
@@ -166,8 +192,19 @@ def validate(path):
             if "right now" not in heads and "do now" not in heads and "at home" not in heads:
                 W("symptom page should have a 'What to do right now' section")
 
+    if t == "landing":
+        hero = d.get("hero") or {}
+        if hero.get("photo") not in PHOTO_SLOTS:
+            E(f"landing hero photo {hero.get('photo')!r} is not a slot in photos.json")
+        hp = hero.get("primary") or {}
+        if not hp.get("label") or not (hp.get("href") in SLUGS or hp.get("href") in {"tel", "book", "forms"}):
+            E("landing hero needs a primary button with label and href (slug, tel, book or forms)")
+        form = (d.get("consult") or {}).get("form")
+        if d.get("consult") and not (d["consult"].get("heading") and form and form.get("reasons")):
+            E("landing consult needs a heading and a form with reasons")
+
     faqs = d.get("faqs", [])
-    if t in {"service", "symptom", "info", "area", "article"} and len(faqs) < 3:
+    if t in {"service", "symptom", "info", "area", "article", "landing"} and len(faqs) < 3:
         W(f"only {len(faqs)} faqs (want 3+)")
     for f in faqs:
         if not f.get("q") or not f.get("a"):

@@ -42,7 +42,8 @@ Every page on this site must agree with this sheet. Nothing here may be contradi
 General/preventive: exams, cleanings, family and children's dentistry, care for seniors, digital X-rays, oral cancer screening, sealants, fluoride, hygiene coaching, periodontal maintenance, night guards and sports mouthguards.
 Restorative: tooth-colored fillings, inlays/onlays, crowns, bridges, full and partial dentures, denture relines, root canal therapy, extractions including wisdom teeth, gum disease treatment and deep cleaning, TMJ care (splints), sleep apnea oral appliances (after a physician's diagnosis).
 Cosmetic: whitening, bonding, porcelain veneers, smile makeover planning.
-Dental implants: single tooth, implant-supported bridges, implant-retained dentures; planning with 3D imaging.
+Dental implants: single tooth, implant-supported bridges, implant-retained dentures, All-on-X full-arch fixed bridges (four to six implants per arch; landing page at /all-on-x/, added November 2026 at the client's request); planning with 3D imaging.
+All-on-X wording rules: "All-on-4" and "All-on-6" may be named only as the common terms for the approach, never as a product we sell. Same-day temporary teeth are "in many cases", never promised. Healing is "about three to six months". No implant brand, no bridge material brand, no named sedation method beyond the Comfort line above, no prices, no before-and-after claims.
 Clear aligners (including Invisalign): adults and teens; retainers.
 Emergency care: same-day evaluation during our hours; call first.
 Sedation: nitrous oxide; other sedation options after review.

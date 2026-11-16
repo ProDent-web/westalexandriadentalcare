@@ -522,6 +522,134 @@ def render_dictionary(c):
             f'<section class="section section--tight section--paper"><div class="container"><div class="layout"><div class="main">{az}{out}</div><aside class="aside">{book_card()}</aside></div></div></section>' + cta_band(c.get("cta"), slug))
     return layout(slug, c["meta_title"], c["meta_description"], body, [jsonld_crumbs([("Home", "/"), (c["title"], slug)])])
 
+# --------------------------------------------------------------------------- landing pages
+# type "landing": a campaign page for one treatment (see content/all-on-x.json). Full-width bands instead of
+# the article-and-sidebar layout, a consultation form, and the same header, footer and facts as every other page.
+
+LP_BANDS = {"paper": "section--paper", "cream": "", "cream2": "section--cream2", "navy": "section--navy"}
+LP_DEFAULT_BAND = {"cards": "cream", "split": "paper", "compare": "cream2", "steps": "cream", "doctor": "paper", "list": "navy"}
+
+def lp_eyebrow(b):
+    return f'<span class="eyebrow">{esc(b["eyebrow"])}</span>' if b.get("eyebrow") else ""
+
+def lp_head(b, center=False):
+    mid = ' style="margin-inline:auto"' if center else ""
+    lede = f'<p class="lede"{mid}>{inline(b["intro"])}</p>' if b.get("intro") else ""
+    return (f'<div class="section__head{" section__head--center" if center else ""} reveal">{lp_eyebrow(b)}'
+            f'<h2 id="{slugify(b.get("heading", ""))}">{inline(b.get("heading", ""))}</h2>{lede}</div>')
+
+def lp_buttons(primary, dark=False, center=False):
+    a = btn(primary["label"], primary["href"], "gold" if dark else "primary", "calendar")
+    b = btn("Call " + PHONE, "tel", "outline-light" if dark else "ghost", "phone")
+    return f'<div class="btn-row{" lp-actions" if center else ""}">{a}{b}</div>'
+
+def render_landing_block(b, primary):
+    t = b.get("type"); band = b.get("band") or LP_DEFAULT_BAND.get(t, "cream"); dark = band == "navy"
+    items = b.get("items", [])
+    if t == "cards":
+        cards = []
+        for i in items:
+            ic = f'<span class="card__icon">{icon(i["icon"])}</span>' if i.get("icon") else ""
+            inner = f'{ic}<h3>{inline(i["title"])}</h3><p>{inline(i["body"])}</p>'
+            href = i.get("href")
+            if href:
+                if href.startswith("/") and href not in PAGES: BROKEN.append(href)
+                cards.append(f'<a class="card card--link" href="{esc(href_for(href))}">{inner}<span class="card__arrow">{esc(i.get("link", "Learn more"))} {icon("arrow-right")}</span></a>')
+            else:
+                cards.append(f'<div class="card">{inner}</div>')
+        cols = 4 if len(cards) % 4 == 0 else (3 if len(cards) % 3 == 0 else 2)
+        body = lp_head(b, center=True) + f'<div class="grid grid--{cols} reveal-stagger">{"".join(cards)}</div>'
+    elif t == "split":
+        paras = "".join(f"<p>{inline(p)}</p>" for p in b.get("body", []))
+        lis = "".join(f'<li>{icon("check")}<span>{inline(i)}</span></li>' for i in items)
+        lst = f'<ul class="list list--check">{lis}</ul>' if lis else ""
+        media = f'<div class="lp-split__media reveal"><div class="frame">{photo_img(b.get("photo"))}</div></div>'
+        body = (f'<div class="lp-split{" lp-split--flip" if b.get("flip") else ""}">{media}<div class="lp-split__copy reveal">{lp_eyebrow(b)}'
+                f'<h2 id="{slugify(b.get("heading", ""))}">{inline(b.get("heading", ""))}</h2>{paras}{lst}</div></div>')
+    elif t == "compare":
+        cols = b.get("columns", []); rows = b.get("rows", [])
+        thead = "<tr><th></th>" + "".join(f"<th>{inline(c)}</th>" for c in cols) + "</tr>"
+        tbody = "".join('<tr><th scope="row">' + inline(r[0]) + "</th>" + "".join(f"<td>{inline(c)}</td>" for c in r[1:]) + "</tr>" for r in rows)
+        body = lp_head(b) + f'<div class="table-wrap reveal"><table class="compare compare--feature"><thead>{thead}</thead><tbody>{tbody}</tbody></table></div><p class="table-hint">Swipe sideways to see every column.</p>'
+    elif t == "steps":
+        lis = "".join(f'<li class="lp-step"><h3>{inline(i["title"])}</h3><p>{inline(i["body"])}</p></li>' for i in items)
+        body = lp_head(b, center=True) + f'<ol class="lp-steps reveal-stagger">{lis}</ol>'
+    elif t == "doctor":
+        cta = b.get("cta") or {}
+        if cta.get("href", "").startswith("/") and cta["href"] not in PAGES: BROKEN.append(cta["href"])
+        tag = f'<div class="portrait__tag"><strong>{esc(b.get("name", ""))}</strong><span>{esc(b.get("role", ""))}</span></div>'
+        img = f'<img src="/assets/img/{esc(b.get("photo", ""))}" alt="{esc(b.get("name", ""))}" loading="lazy">'
+        pic = (f'<a class="portrait lp-doctor__photo reveal" href="{esc(cta["href"])}">{img}{tag}</a>' if cta.get("href")
+               else f'<div class="portrait lp-doctor__photo reveal">{img}{tag}</div>')
+        paras = "".join(f"<p>{inline(p)}</p>" for p in b.get("body", []))
+        creds = "".join(f'<li>{icon("shield-check")}<span>{inline(x)}</span></li>' for x in b.get("credentials", []))
+        link = f'<a class="link-arrow" href="{esc(cta["href"])}">{esc(cta.get("label", "Read more"))} {icon("arrow-right")}</a>' if cta.get("href") else ""
+        body = (f'<div class="lp-doctor">{pic}<div class="reveal">{lp_eyebrow(b)}<h2 id="{slugify(b.get("heading", ""))}">{inline(b.get("heading", ""))}</h2>'
+                f'{paras}<ul class="cred-list">{creds}</ul>{link}</div></div>')
+    elif t == "list":
+        lis = "".join(f'<li><span class="lp-truths__num">{n + 1:02d}</span><p>{inline(i)}</p></li>' for n, i in enumerate(items))
+        lede = f'<p class="lede">{inline(b["intro"])}</p>' if b.get("intro") else ""
+        body = (f'<div class="lp-truths"><div class="reveal">{lp_eyebrow(b)}<h2 id="{slugify(b.get("heading", ""))}">{inline(b.get("heading", ""))}</h2>{lede}'
+                f'{lp_buttons(primary, dark)}</div><ol class="lp-truths__list reveal-stagger">{lis}</ol></div>')
+    else:
+        return ""
+    if b.get("buttons"): body += lp_buttons(primary, dark, center=True)
+    cls = LP_BANDS.get(band, "")
+    return f'<section class="section{(" " + cls) if cls else ""}"><div class="container">{body}</div></section>'
+
+def lp_form(f):
+    opts = lambda xs: "".join(f"<option>{esc(x)}</option>" for x in xs)
+    email = esc(SITE.get("email", ""))
+    time = (f'<div class="field"><label for="lp-time">Best time to call</label><select id="lp-time" name="time">{opts(f["times"])}</select></div>' if f.get("times") else "")
+    return f"""
+<form class="form lp-form reveal" data-inquiry-form data-subject="{esc(f.get('subject', 'Consultation request'))}" data-to="{email}" action="mailto:{email}" method="post" enctype="text/plain">
+  <div><h3>{esc(f.get('heading', 'Request a consultation'))}</h3><p class="small muted" style="margin-top:6px">{inline(f.get('intro', ''))}</p></div>
+  <div class="form__row"><div class="field"><label for="lp-name">Full name</label><input id="lp-name" name="name" required autocomplete="name"></div><div class="field"><label for="lp-phone">Phone number</label><input id="lp-phone" name="phone" type="tel" required autocomplete="tel"></div></div>
+  <div class="form__row"><div class="field"><label for="lp-email">Email address</label><input id="lp-email" name="email" type="email" autocomplete="email"></div>{time}</div>
+  <div class="field"><label for="lp-reason">{esc(f.get('reason_label', 'Reason for contacting us'))}</label><select id="lp-reason" name="reason">{opts(f.get('reasons', []))}</select></div>
+  <div class="field"><label for="lp-msg">Anything you would like us to know (optional)</label><textarea id="lp-msg" name="message"></textarea></div>
+  <button type="submit" class="btn btn--primary btn--block">{icon("mail")}<span>{esc(f.get('button', 'Prepare request'))}</span></button>
+  <p class="form__note" data-form-note>Please do not include private health information. This form prepares an email to the office in your mail app. To choose a time yourself, use Book online, or call {PHONE}.</p>
+</form>"""
+
+def render_landing(c):
+    slug = c["slug"]; h = c.get("hero") or {}; co = c.get("consult")
+    primary = h.get("primary") or {"label": "Book online", "href": "book"}
+    accent = f' <em>{inline(c["h1_accent"])}</em>' if c.get("h1_accent") else ""
+    points = "".join(f'<li>{icon("check")}<span>{esc(p)}</span></li>' for p in h.get("points", []))
+    stats = "".join(f'<li><strong>{esc(s["value"])}</strong><span>{esc(s["label"])}</span></li>' for s in h.get("stats", []))
+    bd = h.get("badge")
+    badge = (f'<div class="lp-hero__badge"><img src="/assets/img/{esc(bd["photo"])}" alt="" width="52" height="52"><span><strong>{esc(bd["title"])}</strong>{esc(bd["body"])}</span></div>' if bd else "")
+    media = (f'<div class="lp-hero__media hero__media"><div class="arch arch--photo arch--ring">{photo_img(h.get("photo"), loading="eager")}</div>{badge}</div>' if photo(h.get("photo")) else "")
+    stats_html = f'<ul class="lp-stats">{stats}</ul>' if stats else ""
+    alt = '<p class="lp-hero__alt">Prefer that we call you? <a href="#consultation">Request a consultation</a></p>' if co else ""
+    hero = (f'<section class="lp-hero"><div class="container"><div class="lp-hero__grid{"" if media else " lp-hero__grid--single"}"><div class="lp-hero__copy hero-in">'
+            f'<span class="eyebrow eyebrow--light">{esc(c.get("eyebrow", ""))}</span><h1>{inline(c["h1"])}{accent}</h1><p class="lede">{inline(c["intro"])}</p>'
+            f'<div class="btn-row">{btn(primary["label"], primary["href"], "gold", "calendar", "btn--lg")}{btn("Call " + PHONE, "tel", "outline-light", "phone", "btn--lg")}</div>'
+            f'{alt}<ul class="lp-hero__points">{points}</ul></div>{media}</div>'
+            f'{stats_html}</div></section>')
+    blocks = "".join(render_landing_block(b, primary) for b in c.get("sections", []))
+    faq = ""
+    if c.get("faqs"):
+        items = "".join(f'<details class="faq__item"><summary class="faq__q"><span>{inline(f["q"])}</span><span class="plus">{icon("plus")}</span></summary><div class="faq__a"><p>{inline(f["a"])}</p></div></details>' for f in c["faqs"])
+        faq = (f'<section class="section section--paper"><div class="container"><div class="lp-faq"><div class="reveal"><span class="eyebrow">Questions</span><h2 id="questions">{esc(c.get("faq_heading", "Straight answers"))}</h2>'
+               f'<p class="lede" style="margin-top:14px">Something we have not covered? Call <a href="tel:{TEL}">{PHONE}</a> and ask. Nobody will push you to book.</p></div><div class="faq reveal">{items}</div></div></div></section>')
+    consult = ""
+    if co:
+        lis = "".join(f'<li>{icon("check")}<span>{inline(i)}</span></li>' for i in co.get("items", []))
+        bring = f'<p class="small muted">{inline(co["bring"])}</p>' if co.get("bring") else ""
+        contact = (f'<div class="lp-consult__contact"><div>{icon("phone")}<span><a href="tel:{TEL}">{PHONE}</a> · {status_pill()}</span></div>'
+                   f'<div>{icon("calendar")}<a href="{esc(BOOK)}" target="_blank" rel="noopener">Book online, any hour</a></div>'
+                   f'<div>{icon("clock")}<span>Mon–Fri 7 AM–8 PM · Sat–Sun 8 AM–1 PM</span></div>'
+                   f'<div>{icon("pin")}<span>{esc(ADDR["building"])}, {esc(ADDR["street"])}, {esc(ADDR["city"])}, {esc(ADDR["state"])} {esc(ADDR["zip"])}. Free parking.</span></div></div>')
+        consult = (f'<section class="section section--cream2" id="consultation"><div class="container"><div class="lp-consult"><div class="reveal">{lp_eyebrow(co)}<h2>{inline(co["heading"])}</h2>'
+                   f'<p class="lede">{inline(co.get("body", ""))}</p><ul class="list list--check">{lis}</ul>{bring}{contact}</div>{lp_form(co["form"]) if co.get("form") else ""}</div></div></section>')
+    body = hero + blocks + faq + consult + related_cards(c.get("related", []), "More on implants and dentures") + cta_band(c.get("cta"), slug)
+    ld = [jsonld_crumbs([("Home", "/")] + trail_for(slug)),
+          {"@context": "https://schema.org", "@type": "Service", "name": c["title"], "serviceType": c["title"], "description": c["meta_description"], "url": DOMAIN + slug, "provider": {"@id": DOMAIN + "/#dentist"}, "areaServed": SITE["neighborhoods"]}]
+    if c.get("faqs"): ld.append(jsonld_faq(c["faqs"]))
+    return layout(slug, c["meta_title"], c["meta_description"], body, ld)
+
 # --------------------------------------------------------------------------- custom pages
 
 HOME_FAQ = [
@@ -530,7 +658,7 @@ HOME_FAQ = [
     {"q": "Which insurance plans do you accept?", "a": "Aetna, Ameritas, Delta Dental, Humana, Cigna, MetLife and Virginia Medicaid. Participation and benefits vary by employer and plan, so send us your card through the registration page or bring it along and we will check your benefits before anything starts."},
     {"q": "What if I feel anxious about dental care?", "a": "Tell us when you book. We plan a slower, step-by-step visit, agree a signal to pause, and offer nitrous oxide and other sedation options after an individual health review. A first visit can be just a conversation."},
     {"q": "What languages does your team speak?", "a": "English, Arabic, Spanish and Portuguese. Mention your preferred language when you request an appointment so we can schedule the right team member for you."},
-    {"q": "Do you place dental implants?", "a": "Yes. We plan complete tooth replacement here, including bridges, dentures and implant-supported options when they are the right fit. Dr. Fadi Alhrashi completed a dental implant fellowship at Tufts and is a Diplomate of the American Board of Oral Implantology."},
+    {"q": "Do you place dental implants?", "a": "Yes. We plan complete tooth replacement here, from a single implant to a full arch of fixed teeth (All-on-X), alongside bridges and dentures when they are the better fit. Dr. Fadi Alhrashi completed a dental implant fellowship at Tufts and is a Diplomate of the American Board of Oral Implantology."},
     {"q": "Where is the office and is there parking?", "a": "We are in the Bradlee Office Building at 3543 W. Braddock Road, Suite E1, Alexandria, VA 22302, steps from Bradlee Shopping Center and just off I-395 at the King Street exit. Free surface parking surrounds the building."},
 ]
 
@@ -806,6 +934,7 @@ def main():
         elif t == "article": h = render_article(c)
         elif t == "faq": h = render_faq_page(c)
         elif t == "dictionary": h = render_dictionary(c)
+        elif t == "landing": h = render_landing(c)
         else: h = render_standard(c)
         write(slug, h); built.append(slug)
     write("/404.html", render_404())

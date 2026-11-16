@@ -137,8 +137,8 @@
       e.preventDefault();
       const f = new FormData(form);
       const to = form.getAttribute('data-to') || '';
-      const subject = 'Website inquiry: ' + (f.get('reason') || 'General question');
-      const body = ['Name: ' + (f.get('name') || ''), 'Phone: ' + (f.get('phone') || ''), 'Email: ' + (f.get('email') || ''), 'Reason: ' + (f.get('reason') || ''), '', (f.get('message') || '')].join('\n');
+      const subject = (form.getAttribute('data-subject') || 'Website inquiry') + ': ' + (f.get('reason') || 'General question');
+      const body = ['Name: ' + (f.get('name') || ''), 'Phone: ' + (f.get('phone') || ''), 'Email: ' + (f.get('email') || ''), 'Reason: ' + (f.get('reason') || '')].concat(f.get('time') ? ['Best time to call: ' + f.get('time')] : [], ['', (f.get('message') || '')]).join('\n');
       if (to) {
         window.location.href = 'mailto:' + to + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
       } else {

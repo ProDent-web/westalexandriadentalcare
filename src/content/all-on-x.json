@@ -1,0 +1,337 @@
+{
+  "slug": "/all-on-x/",
+  "type": "landing",
+  "title": "All-on-X Full-Arch Implants",
+  "meta_title": "All-on-X Implants in Alexandria, VA | West Alexandria Dental Care",
+  "meta_description": "A full arch of fixed teeth on four to six implants. All-on-X in Alexandria, VA, planned with 3D imaging by a dentist with a Tufts implant fellowship.",
+  "eyebrow": "All-on-X full-arch dental implants",
+  "h1": "A full arch of fixed teeth.",
+  "h1_accent": "On as few as four implants.",
+  "intro": "All-on-X replaces every tooth in the upper or lower jaw with one fixed bridge anchored to four to six dental implants. It stays in when you eat, talk and sleep, and it needs no adhesive. Planning, surgery and the final teeth all happen at our West Alexandria office.",
+  "icon": "implant",
+  "hero": {
+    "photo": "allonx-hero",
+    "primary": {
+      "label": "Book a consultation",
+      "href": "book"
+    },
+    "points": [
+      "Evening and weekend consultations",
+      "Free parking at the door",
+      "English, Arabic, Spanish and Portuguese"
+    ],
+    "badge": {
+      "photo": "dr-fadi-alhrashi.webp",
+      "title": "Dr. Fadi Alhrashi, DDS",
+      "body": "Implant fellowship, Tufts. ABOI/ID Diplomate."
+    },
+    "stats": [
+      {
+        "value": "4 to 6",
+        "label": "Implants per arch"
+      },
+      {
+        "value": "Fixed",
+        "label": "Stays in, day and night"
+      },
+      {
+        "value": "3D",
+        "label": "Planned on a CT scan"
+      },
+      {
+        "value": "7 days",
+        "label": "Open for consultations"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Is this you",
+      "heading": "Four situations that bring people in",
+      "intro": "All-on-X is for people who are missing most or all of the teeth in a jaw, or are about to be. These are the conversations we have most often.",
+      "items": [
+        {
+          "icon": "denture",
+          "title": "Your denture will not stay put",
+          "body": "It lifts when you talk, floats when you chew and depends on adhesive to get through a meal."
+        },
+        {
+          "icon": "tooth",
+          "title": "Most of your teeth are failing",
+          "body": "Advanced gum disease, repeated breakage or decay under old work has left few teeth worth building on."
+        },
+        {
+          "icon": "repair",
+          "title": "You are tired of patching",
+          "body": "Every year brings another root canal, crown or extraction, and the list never seems to get shorter."
+        },
+        {
+          "icon": "xray",
+          "title": "You were told you lack bone",
+          "body": "Angling the back implants often makes use of the bone you still have. A 3D scan answers the question properly."
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "eyebrow": "How it works",
+      "heading": "What the X stands for",
+      "photo": "allonx-detail",
+      "body": [
+        "The X is the number of implants. You may have seen the same idea advertised as All-on-4 or All-on-6. The count changes, the principle does not: a small number of implants carries a full arch of ten to fourteen teeth.",
+        "The implants at the back are usually placed at an angle. That reaches the denser bone toward the front of the jaw and steers clear of the sinus above and the nerve below, which is why many people who expected bone grafting turn out not to need it.",
+        "The bridge is screwed to the implants, so it is fixed for you and removable for us. We take it off at maintenance visits to clean and check underneath. How many implants you need depends on your bone, your bite and which jaw is being treated, and we decide that from your scan."
+      ],
+      "items": [
+        "Nothing to take out at night. No clasps and no adhesive.",
+        "No plate across the roof of the mouth, so food tastes like food.",
+        "Implants load the jawbone, which slows the shrinkage that follows tooth loss."
+      ]
+    },
+    {
+      "type": "compare",
+      "eyebrow": "Your options, side by side",
+      "heading": "Fixed bridge, snap-in denture or denture",
+      "intro": "None of these is the wrong answer. A well-made [denture](/restorative-dentistry/dentures/) or a [snap-in denture](/dental-implants/implant-retained-dentures/) suits plenty of people, and we lay all three out at your consultation.",
+      "columns": [
+        "All-on-X fixed bridge",
+        "Snap-in denture",
+        "Conventional denture"
+      ],
+      "rows": [
+        [
+          "Held by",
+          "Four to six implants, screwed in place",
+          "Two to four implants with snap attachments",
+          "Suction and adhesive"
+        ],
+        [
+          "Comes out",
+          "Only at the dentist",
+          "Every night, by you",
+          "Every night"
+        ],
+        [
+          "Chewing",
+          "Closest to natural teeth",
+          "Much steadier",
+          "Limited, especially on the lower jaw"
+        ],
+        [
+          "Roof of the mouth",
+          "Left open",
+          "Often partly open",
+          "Covered by an upper denture"
+        ],
+        [
+          "Jawbone",
+          "Held where the implants are",
+          "Held where the implants are",
+          "Keeps shrinking, so relines follow"
+        ],
+        [
+          "Surgery",
+          "More involved, usually one day per arch",
+          "Minor",
+          "None beyond any extractions"
+        ],
+        [
+          "Cost",
+          "Highest",
+          "Middle",
+          "Lowest"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "The process",
+      "heading": "From first visit to final teeth",
+      "intro": "Most cases run four to eight months from consultation to final bridge. You have teeth throughout.",
+      "buttons": true,
+      "items": [
+        {
+          "title": "Consultation and 3D scan",
+          "body": "We talk first: what bothers you now, what you want to be able to eat, what you have been told elsewhere. Then an exam and a cone-beam CT scan that shows your bone in three dimensions."
+        },
+        {
+          "title": "A plan you can read",
+          "body": "You see the scan on the screen, the options side by side and the full cost in writing before you agree to anything. We check your insurance benefits for you."
+        },
+        {
+          "title": "Surgery day",
+          "body": "Any remaining teeth in that jaw are removed and the implants are placed in the same visit, with the area fully numb and the comfort options we agreed on beforehand. Plan to rest for the remainder of the day."
+        },
+        {
+          "title": "Temporary teeth while you heal",
+          "body": "In many cases a fixed temporary bridge is attached to the implants on the day of surgery or shortly after. When the implants need to heal undisturbed first, you wear a denture in the meantime. Either way, expect soft food for a few months."
+        },
+        {
+          "title": "Your final bridge",
+          "body": "After roughly three to six months, once bone has fused to the implants, we take new records and make the final bridge, shaped and shaded to suit your face. You try it in and approve it before it is fixed."
+        },
+        {
+          "title": "Keeping it healthy",
+          "body": "Daily cleaning under the bridge at home, and maintenance visits here where we check the implants, the gums and the screws."
+        }
+      ]
+    },
+    {
+      "type": "doctor",
+      "eyebrow": "Who does the work",
+      "heading": "Planned and placed by a dentist with fellowship training in implants",
+      "photo": "dr-fadi-alhrashi.webp",
+      "name": "Dr. Fadi Alhrashi, DDS",
+      "role": "General dentist",
+      "body": [
+        "Dr. Fadi Alhrashi brings nearly two decades of advanced training and clinical experience in restorative, surgical and implant dentistry to full-arch cases. He speaks English and Arabic.",
+        "Dr. Sameer Atrash, who owns the practice, shares the planning and the restorative work, with a particular interest in implants and digital dentistry. Both are general dentists. The surgery, the temporary teeth and the final bridge all happen in this building, so you are not passed between offices from one stage to the next."
+      ],
+      "credentials": [
+        "Dental Implant Fellowship, Tufts University School of Dental Medicine",
+        "Diplomate, American Board of Oral Implantology/Implant Dentistry (ABOI/ID)",
+        "Fellow, American Academy of Implant Dentistry (AAID)",
+        "Advanced General Dentistry residency, Eastman Institute for Oral Health"
+      ],
+      "cta": {
+        "label": "Meet Dr. Fadi",
+        "href": "/dentists/dr-fadi-alhrashi/"
+      }
+    },
+    {
+      "type": "list",
+      "band": "navy",
+      "eyebrow": "The honest part",
+      "heading": "What we tell you before you decide",
+      "intro": "Full-arch implants are a big decision. You should hear the difficult parts from us, before you commit, and in plain words.",
+      "items": [
+        "**It is surgery.** Expect swelling and soreness for several days, and plan a few quiet days at home afterward.",
+        "**Healing sets the pace.** Bone takes months to fuse to the implants. You have teeth during that time, but you eat soft food and the final bridge waits.",
+        "**It needs looking after.** Implants do not decay, but the gum around them can become inflamed. Cleaning under the bridge every day and coming in for maintenance visits are part of the commitment.",
+        "**It is not right for everyone.** Heavy smoking, uncontrolled diabetes and some medications raise the chance of an implant failing, and we will say so plainly.",
+        "**Sometimes the better plan keeps your teeth.** If teeth can reasonably be saved, or a smaller treatment would serve you well, that is what we recommend."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Good to know",
+      "heading": "Comfort, cost and second opinions",
+      "items": [
+        {
+          "icon": "moon",
+          "title": "Comfort on the day",
+          "body": "Surgery is done with thorough local anesthetic. Nitrous oxide is available, and other sedation options can be planned after an individual review of your health and medications. If you are anxious, tell us at the consultation. It changes how we plan the day.",
+          "href": "/sedation-dentistry/sedation-options/",
+          "link": "Sedation options"
+        },
+        {
+          "icon": "wallet",
+          "title": "The cost, in writing",
+          "body": "The fee depends on the number of implants, whether teeth need removing, the temporary teeth and the material of the final bridge. You get the whole figure in writing at the planning visit. We check what your insurance contributes, and you can ask about payment options when you call.",
+          "href": "/dental-implants/cost/",
+          "link": "What goes into implant cost"
+        },
+        {
+          "icon": "chat",
+          "title": "Second opinions welcome",
+          "body": "If another office has already quoted you for full-arch implants, bring the plan and any scans you were given. We will tell you what we see, including the parts we agree with.",
+          "href": "/new-patients/switching-dentists/",
+          "link": "Bringing records from another office"
+        }
+      ]
+    }
+  ],
+  "faq_heading": "Straight answers about All-on-X",
+  "faqs": [
+    {
+      "q": "Is All-on-X the same as All-on-4?",
+      "a": "All-on-4 is the best-known version of the same idea, using four implants per arch. All-on-X is the general term, because some jaws are better served by five or six. We choose the number from your scan and your bite."
+    },
+    {
+      "q": "Will I leave with teeth on the day of surgery?",
+      "a": "Often, yes. When the implants are firm enough on the day, a fixed temporary bridge can be attached then or within a few days. If the bone is softer, a removable denture protects the implants while they heal. Either way you do not go without teeth, and we tell you which path is likely before the day."
+    },
+    {
+      "q": "Does it hurt?",
+      "a": "The surgery is done fully numb, and comfort options are planned with you in advance. Afterward, expect swelling and soreness that peak in the first two or three days and are usually managed with the pain relief we recommend. Many people find it easier than they expected."
+    },
+    {
+      "q": "How long does the whole process take?",
+      "a": "Surgery is usually one day per arch. Healing takes about three to six months, and the final bridge is made after that. From consultation to final teeth, most cases run somewhere between four and eight months."
+    },
+    {
+      "q": "I was told I do not have enough bone. Is that the end of it?",
+      "a": "Not necessarily. The approach was developed with bone loss in mind: angled implants use the denser bone toward the front of the jaw and often avoid grafting. A cone-beam CT scan shows what is there, and if grafting or a different treatment is the better route, we explain why."
+    },
+    {
+      "q": "What can I eat?",
+      "a": "Soft food while the implants heal: eggs, fish, pasta, cooked vegetables. Once the final bridge is in place, most people return to a normal, varied diet, including foods they gave up with dentures. Very hard things such as ice are best avoided, as they are with natural teeth."
+    },
+    {
+      "q": "How do I clean it?",
+      "a": "Brush twice a day, and clean underneath the bridge daily with a water flosser or the floss and small brushes we show you. At maintenance visits we check the gums, the implants and the bridge. Our [implant aftercare page](/dental-implants/aftercare/) covers the routine."
+    },
+    {
+      "q": "How long does it last?",
+      "a": "The implants can last for decades when the gums around them are kept healthy. The bridge is a working part and wears like any dental work. Teeth on it may need repair, or the bridge may need replacing after years of use, depending on the material and how hard you bite."
+    },
+    {
+      "q": "Am I too old for this?",
+      "a": "Age by itself is rarely the limit. General health, medications and healing matter more, and we review those with you and, where it helps, with your physician. Many people who choose a fixed bridge are in their sixties, seventies and beyond."
+    },
+    {
+      "q": "Do I have to treat both jaws?",
+      "a": "No. Some people need one arch, others both. Each jaw is planned separately, and when both are needed they can be done together or in stages."
+    },
+    {
+      "q": "Does insurance cover All-on-X?",
+      "a": "Coverage varies widely. Some plans contribute to extractions, implants or the bridge, and most have an annual maximum that covers only part of it. We check your benefits and give you a written estimate before anything is scheduled."
+    }
+  ],
+  "consult": {
+    "eyebrow": "Start here",
+    "heading": "Start with a conversation and a scan",
+    "body": "A consultation is the only way to know whether All-on-X fits you. It takes about an hour and commits you to nothing.",
+    "items": [
+      "We listen first: what is wrong now, and what you want to be able to do.",
+      "An exam and, when it is useful, a cone-beam CT scan of your jaws.",
+      "Your options side by side, including dentures, snap-in dentures and keeping teeth where that is sensible.",
+      "A written plan and estimate to take home. No decision is expected on the day."
+    ],
+    "bring": "Good to bring: a list of your medications, your current denture if you wear one, and any recent X-rays or treatment plans from another office.",
+    "form": {
+      "heading": "Request a consultation",
+      "intro": "Tell us a little about your situation and the office will call you to set a time.",
+      "subject": "All-on-X consultation request",
+      "reason_label": "Which best describes you",
+      "reasons": [
+        "I wear a denture that will not stay put",
+        "I am missing most of my teeth",
+        "I have been told my teeth cannot be saved",
+        "I would like a second opinion on a full-arch plan",
+        "Something else"
+      ],
+      "times": [
+        "Any time",
+        "Weekday mornings",
+        "Weekday afternoons",
+        "Weekday evenings",
+        "Weekend mornings"
+      ],
+      "button": "Prepare consultation request"
+    }
+  },
+  "related": [
+    "/dental-implants/implant-retained-dentures/",
+    "/dental-implants/implants-vs-dentures/",
+    "/dental-implants/candidates/",
+    "/dental-implants/cost/",
+    "/restorative-dentistry/dentures/",
+    "/dental-implants/aftercare/"
+  ],
+  "cta": {
+    "heading": "Find out whether All-on-X fits you.",
+    "body": "Book a consultation online at any hour, or call and say you are asking about full-arch implants. Evening and weekend visits are available at our Alexandria office, with free parking at the door."
+  }
+}

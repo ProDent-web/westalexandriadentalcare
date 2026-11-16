@@ -51,7 +51,7 @@ Link generously but naturally with inline Markdown links to other pages of this 
 ```
 
 ### Field rules
-- `type`: one of service, symptom, hub, info, area, article, faq, dictionary, dentist.
+- `type`: one of service, symptom, hub, info, area, article, faq, dictionary, dentist, landing.
 - `facts`: 3–4 chips for service/symptom pages. Values are short (1–4 words). Omit for info/area/hub pages if nothing sensible fits.
 - `icon`: one of: tooth, shield, sparkle, clock, pin, phone, calendar, implant, aligner, crown, drop, moon, alert, child, senior, xray, heart, smile, gum, star, check, family, language, card, wallet, book, map, chat, sun, hand, pulse, wave, gear, leaf, braces, bridge, denture, root, shield-check, repair.
 - `sections`: 5–9 sections for service/symptom pages, 4–7 for info/area pages, 3–5 for hubs. Mix the types. Every page has at least one `steps` or `list` section. Section headings are specific ("What a deep cleaning feels like afterward"), never generic ("Overview", "Benefits").
@@ -81,6 +81,25 @@ Top-level `"terms": [{"term": "Abscess", "definition": "1–3 sentences.", "href
 
 ### Info pages (`type: info`)
 Same shape as service. `facts` optional.
+
+### Landing pages (`type: landing`)
+A campaign page for one treatment, with a short top-level URL (`/all-on-x/` is the model; copy `content/all-on-x.json` to start another). Same voice and the same FACTS rules as every other page: no prices, no reviews, no promises. It renders as full-width bands instead of the article-and-sidebar layout.
+
+Top-level fields beyond the usual `title`, `meta_*`, `eyebrow`, `h1`, `intro`, `icon`, `faqs`, `related`, `cta`:
+- `h1_accent`: optional second line of the H1, set in gold italic.
+- `hero`: `photo` (a slot name from `photos.json`), `primary` (`{"label", "href"}`, the main button used across the page), `points` (three short reassurances), `badge` (`photo` file in `assets/img/`, `title`, `body`), `stats` (four `{"value", "label"}` pairs).
+- `faq_heading`: heading for the FAQ band.
+- `consult`: `eyebrow`, `heading`, `body`, `items` (what the consultation covers), `bring`, and `form` (`heading`, `intro`, `subject` for the email, `reason_label`, `reasons`, `times`, `button`). The form prepares an email to the office inbox, like the contact page.
+
+`sections` use these block types, each with `heading` and optional `eyebrow`, `intro`, `band` (`paper`, `cream`, `cream2`, `navy`) and `buttons: true` (adds the book and call buttons under the block):
+- `cards`: `items` of `{"icon", "title", "body"}`, plus optional `href` and `link` (the link text). Use three or four.
+- `split`: photo beside text. `photo` (slot name), `body` (paragraphs), optional `items` (check list), `flip: true` to put the photo on the right.
+- `compare`: `columns` and `rows` as on service pages. The first column is highlighted and is the one visible on a phone before swiping, so put the page's own treatment there.
+- `steps`: `items` of `{"title", "body"}`, shown as numbered cards. Six reads well.
+- `doctor`: `photo` (file in `assets/img/`), `name`, `role`, `body` (paragraphs), `credentials` (list, exactly as in FACTS.md), `cta` (`{"label", "href"}`).
+- `list`: numbered statements on a dark band. Start each with a short `**bold**` claim. Use it for the honest downsides.
+
+Word count target 900–1800. Register the page in `site.json` with `"type": "landing"` and a `parent` hub so it appears in that hub's menu column and child cards.
 
 ## Quality bar
 Each page must be able to stand alone as the best page on the internet for that topic for a patient in Alexandria: concrete, honest, well-sequenced, with no filler sentence that could be deleted without loss. No two pages may share a paragraph. Do not pad. Do not repeat the intro in the first section.
